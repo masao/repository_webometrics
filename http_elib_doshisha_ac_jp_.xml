@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="1510"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
+        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse Japan (ROAR)</Title>
+        <Url>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</Url>
+        <ClickUrl>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ranking Web of World Repositories: Directory of Repositories</Title>
+        <Url>http://repositories.webometrics.info/directory_rep.asp?offset=100</Url>
+        <ClickUrl>http://repositories.webometrics.info/directory_rep.asp?offset=100</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ranking Web de Repositorios Mundiales: Directorio de Repositorios</Title>
+        <Url>http://repositories.webometrics.info/directory_rep_es.asp?offset=100</Url>
+        <ClickUrl>http://repositories.webometrics.info/directory_rep_es.asp?offset=100</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registry of Open Access Repositories (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=rawliststatus%3Ddead&amp;prev=Prev&amp;page=38</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=rawliststatus%3Ddead&amp;prev=Prev&amp;page=38</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Doshisha University Academic Repository</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Doshisha+University+Academic+Repository&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Doshisha+University+Academic+Repository&amp;title=SUPPRESS</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>苦笑 [苦笑] 特集 ニッセン World</Title>
+        <Url>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/%E8%8B%A6%E7%AC%91/8a657b.html</Url>
+        <ClickUrl>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/%E8%8B%A6%E7%AC%91/8a657b.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国民年金 [国民年金] 特集 ¦ 失業.jp</Title>
+        <Url>http://www.lexapro-order.com/%E7%89%B9%E9%9B%86/%E5%9B%BD%E6%B0%91%E5%B9%B4%E9%87%91/6e764e.html</Url>
+        <ClickUrl>http://www.lexapro-order.com/%E7%89%B9%E9%9B%86/%E5%9B%BD%E6%B0%91%E5%B9%B4%E9%87%91/6e764e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ITパスポート試験 [ITパスポート試験] 特集 ニッセン World</Title>
+        <Url>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/IT%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E8%A9%A6%E9%A8%93/f1adea.html</Url>
+        <ClickUrl>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/IT%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E8%A9%A6%E9%A8%93/f1adea.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/other/other.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/other/other.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ナチス体制確立期までのグスタフ・ラートブルフによる法哲学上の&lt;wbr&gt;重要作品選(1)</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010113</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010113</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Development of Capillary Electrophoresis Equipped ...</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010098</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010098</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 満州事変以降の半島兵站基地化期における朝鮮総督府の宗教政策―&lt;wbr&gt;非西欧系宗教と西欧系宗教の比較を通して―</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010352</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010352</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 石橋湛山の日蓮論</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010387</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010387</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ネットワークプリンタ [ネットワークプリンタ] 特集 フォン.com</Title>
+        <Url>http://www.keropee.com/%E3%83%95%E3%82%A9%E3%83%B3/%E7%89%B9%E9%9B%86/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/d62ac8.html</Url>
+        <ClickUrl>http://www.keropee.com/%E3%83%95%E3%82%A9%E3%83%B3/%E7%89%B9%E9%9B%86/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF/d62ac8.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>投稿規定 / 同志社大学アメリカ研究所</Title>
+        <Url>http://www.america-kenkyusho.jp/rule/</Url>
+        <ClickUrl>http://www.america-kenkyusho.jp/rule/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ハビーブ財閥の形成と発展に関する一考察―ダーウッド・ハビーブ&lt;wbr&gt;・グループの所有と経営の問題を中心として―</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010524</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010524</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 最大幾何マージン最小分類誤り学習法を目指して</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010521</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010521</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 翻刻 『武烈天皇艤』(下)</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010051</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010051</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Robert James Maddox, ed. (with an introduction ...</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00009431</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00009431</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 井上靖「姨捨」論 : 〈棄老譚〉からの飛躍</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010080</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010080</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | アメリカ研究科報</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010146</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010146</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 明治初年における我国鉄道政策の動揺とその推移</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010453</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010453</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 1954年内国歳入法改正によるアメリカ減価償却制度 (1)</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00000569</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00000569</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 遅延干渉計の安定化による光パルス間位相の制御と光クロック逓倍&lt;wbr&gt;回路</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010248</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010248</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ランドマーク商品と欲望</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010365</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010365</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 保健医療分野における社会福祉実習教育の課題―日本社会福祉教育&lt;wbr&gt;学校連盟・社会福祉教育セミナーでの議論から―</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010542</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010542</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 分社経営における労使関係の現状と課題―民鉄A社の事例から―</Title>
+        <Url>http://jairo.nii.ac.jp/0027/00010541</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0027/00010541</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:35:54 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:35:54 PST 2010 -->

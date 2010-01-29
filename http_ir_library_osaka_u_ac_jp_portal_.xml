@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="2540"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>リンク集 デジタル奈良絵本</Title>
+        <Url>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</Url>
+        <ClickUrl>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>卒業論文、修士論文の公開について。指導教員と相談してね&lt;wbr&gt;! - 発声練習</Title>
+        <Url>http://d.hatena.ne.jp/next49/20080809/p1</Url>
+        <ClickUrl>http://d.hatena.ne.jp/next49/20080809/p1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
+        <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - ncnrのブックマーク</Title>
+        <Url>http://b.hatena.ne.jp/ncnr/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/ncnr/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Osaka University</Title>
+        <Url>http://www.opendoar.org/find.php?search=Osaka+University&amp;title=Osaka+University</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=Osaka+University&amp;title=Osaka+University</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Osaka University Repository</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Osaka+University+Repository&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Osaka+University+Repository&amp;title=SUPPRESS</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都大学学術情報リポジトリの愛称募集</Title>
+        <Url>http://repository.kulib.kyoto-u.ac.jp/koubo/</Url>
+        <ClickUrl>http://repository.kulib.kyoto-u.ac.jp/koubo/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - はなもく Wikipedia</Title>
+        <Url>http://www.hanamoku.jp/wikipedia/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://www.hanamoku.jp/wikipedia/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>土木のデータ</Title>
+        <Url>http://homepage2.nifty.com/uyan/sub-index/data.html</Url>
+        <ClickUrl>http://homepage2.nifty.com/uyan/sub-index/data.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 平成18年度組登場</Title>
+        <Url>http://www.openaccessjapan.com/archives/2007/02/18_1.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2007/02/18_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_81.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_81.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IESR Full Record</Title>
+        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310593-5547</Url>
+        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310593-5547</ClickUrl>
+    </Result>
+    <Result>
+        <Title>機関リポジトリ参考リンク集</Title>
+        <Url>http://www.lib.tottori-u.ac.jp/irp_link.htm</Url>
+        <ClickUrl>http://www.lib.tottori-u.ac.jp/irp_link.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - 韓国辞書、ウィキペディア</Title>
+        <Url>http://wiki.wowkorea.jp/?word=Portal%3A%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://wiki.wowkorea.jp/?word=Portal%3A%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | CT Detected Radiation Damage of the Liver and Pancreas</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00010639</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00010639</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 六朝士大夫の精神</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00004530</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00004530</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Keynesian Multiplier Effect Reconsidered</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00010653</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00010653</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Do Bequests Increase or Decrease Wealth Inequalities?</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00010652</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00010652</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - omni:bus::bookmark - 06 ORGANIZATION</Title>
+        <Url>http://b.hatena.ne.jp/satoschi/06%20ORGANIZATION/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/satoschi/06%20ORGANIZATION/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>achievements</Title>
+        <Url>http://www.h7.dion.ne.jp/~qo-sez/achievements.html</Url>
+        <ClickUrl>http://www.h7.dion.ne.jp/~qo-sez/achievements.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - ITpedia</Title>
+        <Url>http://itpedia.sfilar.com/it/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://itpedia.sfilar.com/it/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - ITpedia</Title>
+        <Url>http://itpedia.sfilar.com/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://itpedia.sfilar.com/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - omni:bus::bookmark - 060 o 大阪大学</Title>
+        <Url>http://b.hatena.ne.jp/satoschi/060%20o%20%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/satoschi/060%20o%20%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - omni:bus::bookmark - 000 リポジトリ</Title>
+        <Url>http://b.hatena.ne.jp/satoschi/000%20%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/satoschi/000%20%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電子ジャーナル情報</Title>
+        <Url>http://www.dab.hi-ho.ne.jp/cirrus/Sites/Repositories.htm</Url>
+        <ClickUrl>http://www.dab.hi-ho.ne.jp/cirrus/Sites/Repositories.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=1</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>yj/at_kenji さんのブックマーク - Buzzurl [バザール] / ソーシャルブックマーク</Title>
+        <Url>http://buzzurl.jp/user/yj/at_kenji/all</Url>
+        <ClickUrl>http://buzzurl.jp/user/yj/at_kenji/all</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Yahoo!カテゴリ - 地域情報</Title>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20060728/Regional/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20060728/Regional/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Yahoo!カテゴリ - 全リスト</Title>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20060728/complete_listing/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20060728/complete_listing/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>探し物:リポジトリ</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/repository.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/repository.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 機関リポジトリ Archive</Title>
+        <Url>http://www.openaccessjapan.com/cat6/</Url>
+        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2006-07-22 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
+        <Url>http://d.hatena.ne.jp/arg/20060722</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20060722</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Optimal Structure of Monetary Policy Committees ...</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00015157</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00015157</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Studies on physical properties of polyolefin gels and ...</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00006927</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00006927</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Kinetic Basis for Artificially Designing Enzymes</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00006844</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00006844</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Effects of Insert-metals on Diffusion Welding of ...</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00013327</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00013327</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | A New Test Specimen for Self-Restraint Solidification ...</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00013501</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00013501</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 大阪大学附属図書館蔵 和古書目録 第一稿</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00014569</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00014569</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Local Home Environment Externality is a Source of ...</Title>
+        <Url>http://jairo.nii.ac.jp/0030/00010592</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0030/00010592</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:02 PST 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:02 PST 2010 -->

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="931"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>DSpaceInstances - DSpace Wiki</Title>
+        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
+        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日々記―へっぽこライブラリアンの日常―: 第9回図書館総合展 : フォーラム聴講記</Title>
+        <Url>http://hibiki.cocolog-nifty.com/blogger/2007/11/9_1da1.html</Url>
+        <ClickUrl>http://hibiki.cocolog-nifty.com/blogger/2007/11/9_1da1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Shinshu University</Title>
+        <Url>http://www.opendoar.org/find.php?search=Shinshu+University&amp;title=Shinshu+University</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=Shinshu+University&amp;title=Shinshu+University</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse Japan (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Shinshu University Institutional Repository</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Shinshu+University+Institutional+Repository&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Shinshu+University+Institutional+Repository&amp;title=SUPPRESS</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立情報学研究所オープンハウス2007 - かたつむりは電子図書館の夢をみるか</Title>
+        <Url>http://d.hatena.ne.jp/min2-fly/20070609/1181345885</Url>
+        <ClickUrl>http://d.hatena.ne.jp/min2-fly/20070609/1181345885</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=28</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=28</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;page=3&amp;next=Next</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;page=3&amp;next=Next</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 豚の消化管内揮発性脂肪酸,乳酸,グルコースと揮発性脂肪酸の動&lt;wbr&gt;静脈差</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001753/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001753/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IESR Full Record</Title>
+        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310653-8224</Url>
+        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310653-8224</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Simulation Study of Elastic Micropropulsion Mechanism ...</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001106</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001106</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 小型X線透視検査装置の研究開発(&amp;lt;特集&amp;gt;第13回MAGDAコ&lt;wbr&gt;ンファレンス)</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001129</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001129</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Cgl1281-encoding putative transporter of the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002404</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002404</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 感性製品のための物理計測と心理評価(&amp;lt;特集&amp;gt;感性工学&lt;wbr&gt;)</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001157</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001157</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2007-09-09 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
+        <Url>http://d.hatena.ne.jp/arg/20070909</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20070909</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2007-08-12 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
+        <Url>http://d.hatena.ne.jp/arg/20070812</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20070812</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Research Project on Edible Wild Plants of Bhutan ...</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002353</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002353</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Structural Transition of Charged Polymer</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001159</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001159</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 長野県上高地地区におけるチョウ類群集を用いた治水工法の評価の&lt;wbr&gt;試み</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002942</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002942</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 通院治療室利用患者における化学療法中断例の実態調査</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002925</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002925</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | A Pilot Study of Human Interferon beta Gene Therapy ...</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002504</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002504</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 長野県,高野層ポーリングコア(TKN-2004)に挟在する広&lt;wbr&gt;域テフラ層の層序と編年</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002964</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002964</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | クワの冬芽および下胚軸培養における不定芽形成</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001432</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001432</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 明治期における金属本位制の運営</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001010</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001010</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 諏訪湖定期調査(2002~2006)の結果</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001226</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001226</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | チョウ類群集の構造解析による環境評価に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002940</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002940</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | コンピュータ支援脊椎手術</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00003035</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00003035</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 新規シナプス後部タンパク質の同定と機能の解明 : 特にLRP4研究の進展について</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002926</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002926</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 信州大学人文学部国際交流委員長記録 日韓言語文化研修2005を終えて</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002450</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002450</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Development of continuous flow type hydrothermal ...</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002635</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002635</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | H1カルポニン遺伝子欠損マウスにおける運動性ならびに摂食・飲&lt;wbr&gt;水行動の増加(短報)(生理学)</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001150</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001150</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 米国の臨床医学教育から学ぶべきこと: 魅力ある教育環境の建設</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002923</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002923</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 失念株に対する株式分割と不当利得</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002681</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002681</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Combination Chemotherapy with Low-dose 5-FU ...</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00003036</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00003036</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 交流の経緯と経過</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002413</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002413</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Fine-grained Recording and Streaming Lectures</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002779</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002779</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Recombinant variant fibrinogens substituted at ...</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002636</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002636</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | GMRセンサを用いた衝撃センサの検討(&amp;lt;特集&amp;gt;第17回「電磁&lt;wbr&gt;力関連のダイナミクス」シンポジウム)</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001128</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001128</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 年少者日本語教育に関する研究実習報告</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00002548</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00002548</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 若手医師に対するクリッピングのトレーニングについて&lt;wbr&gt;(&amp;lt;特集&amp;gt;脳動脈瘤の治療)</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001169</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001169</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 先行する肺血栓塞栓症後に肺癌が発見された1例</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001149</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001149</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 国語科教育における映像メディアの教育内容 : メディア・リテラシーの視点から</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001182</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001182</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 予測不可能事象 : 授業コミュニケーション研究における社会システム論の導入</Title>
+        <Url>http://jairo.nii.ac.jp/0028/00001183</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0028/00001183</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:29:11 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:29:11 PST 2010 -->

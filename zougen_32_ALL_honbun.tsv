@@ -1,0 +1,70 @@
+機関コード	12613
+機関名称（日）	一橋大学
+機関名称（英）	Hitotsubashi University
+設置種別	国立大学
+機関規模	C
+
+［リポジトリ 1］
+機関リポジトリ名称（日）	HERMES-IR(一橋大学機関リポジトリ) : Research & Education Resources
+機関リポジトリ名称（英）	HERMES-IR (Hitotsubashi University Repository): Research & Education Resources
+機関リポジトリトップページ画像	http://irdb.nii.ac.jp/analysis/file/image/capture/32.gif
+機関リポジトリへのリンク（日）	http://hermes-ir.lib.hit-u.ac.jp/rs/
+機関リポジトリへのリンク（英）	http://hermes-ir.lib.hit-u.ac.jp/rs/
+機関リポジトリロゴマーク	http://irdb.nii.ac.jp/analysis/file/image/logo/32.jpg
+郵便番号	186-8602
+住所	東京都国立市中2-1
+使用ソフトウェア	DSpace
+試験公開日	
+本公開日	2007/05/01
+備考（日）	一橋大学の研究成果(雑誌論文・学位論文・紀要等)を収録するリポジトリ<BR><BR>CiNii連携対象
+備考（英）	It includes journal articles, theses, dissertations, department bulletin papers and other academic materials.<BR><BR>This IR cooperates with CiNii
+
+［リポジトリ 2］
+機関リポジトリ名称（日）	HERMES-IR(一橋大学機関リポジトリ) : Special Collections
+機関リポジトリ名称（英）	HERMES-IR(Hitotsubashi University Repository):Special Collections
+機関リポジトリトップページ画像	http://irdb.nii.ac.jp/analysis/file/image/capture/32-2.gif
+機関リポジトリへのリンク（日）	http://hermes-ir.lib.hit-u.ac.jp/da/
+機関リポジトリへのリンク（英）	http://hermes-ir.lib.hit-u.ac.jp/da/
+機関リポジトリロゴマーク	http://irdb.nii.ac.jp/analysis/file/image/logo/32-2.jpg
+郵便番号	186-8602
+住所	東京都国立市中2-1
+使用ソフトウェア	DSpace
+試験公開日	
+本公開日	2007/05/01
+備考（日）	一橋大学附属図書館等の所蔵コレクションを収録するアーカイブス
+備考（英）	It includes rare books, manuscripts,... etc. held by the library.
+
+	Journal Article（学術雑誌論文）	Thesis or Dissertation（学位論文）	Departmental Bulletin Paper（紀要論文）	Conference Paper（会議発表論文）	Presentation（会議発表用資料）	Book（図書）	Technical Report（テクニカルレポート）	Research Paper（研究報告書）	Article（一般雑誌記事）	Preprint（プレプリント）	Learning Material（教材）	Data or Dataset（データ・データベース）	Software（ソフトウェア）	Others（その他）	合計
+2009/12	554	52	7400	9	38	299	1775	135	71	0	0	0	0	5060	15393
+2009/11	515	52	7000	9	37	294	1747	135	61	0	0	0	0	5060	14910
+2009/10	486	47	6900	9	37	276	1716	134	56	0	0	0	0	5060	14721
+2009/09	456	45	6880	8	37	260	1709	134	43	0	0	0	0	5060	14632
+2009/08	440	45	6533	8	37	259	1674	134	43	0	0	0	0	5057	14230
+2009/07	440	41	6209	8	36	259	1661	134	43	0	0	0	0	5057	13888
+2009/06	440	41	6030	8	36	258	1650	134	43	0	0	0	0	5057	13697
+2009/05	423	38	5973	8	36	217	1634	134	43	0	0	0	0	5054	13560
+2009/04	423	38	5911	8	35	189	1588	134	40	0	0	0	0	5054	13420
+2009/03	420	38	5827	8	28	181	1539	34	38	0	0	0	0	5070	13183
+2009/02	376	29	5695	8	28	181	1382	31	36	0	0	0	0	5058	12824
+2009/01	218	29	5573	7	28	162	1370	28	16	0	0	0	0	5058	12489
+2008/12	223	29	5545	7	27	162	1358	28	1	0	0	0	0	5058	12438
+2008/11	191	27	5472	7	13	161	1335	25	0	0	0	0	0	5058	12289
+2008/10	173	27	5465	7	12	161	1306	23	0	0	0	0	0	5058	12232
+2008/09	6	0	0	1	0	5	0	1	0	0	0	0	0	0	13
+2008/08	6	0	0	1	0	5	0	1	0	0	0	0	0	0	13
+2008/07	6	0	0	1	0	3	0	1	0	0	0	0	0	0	11
+2008/06	6	0	0	1	0	3	0	1	0	0	0	0	0	0	11
+2008/05	6	0	0	1	0	3	0	1	0	0	0	0	0	0	11
+2008/04	6	0	0	1	0	3	0	1	0	0	0	0	0	0	11
+2008/03	6	0	0	1	0	3	0	1	0	0	0	0	0	0	11
+2008/02	6	0	0	0	0	3	0	1	0	0	0	0	0	0	10
+2008/01	6	0	0	0	0	3	0	1	0	0	0	0	0	0	10
+2007/12	6	0	0	0	0	3	0	1	0	0	0	0	0	0	10
+2007/11	6	0	0	0	0	3	0	1	0	0	0	0	0	0	10
+2007/10	3	0	0	0	0	3	0	1	0	0	0	0	0	0	7
+2007/09	1	0	0	0	0	3	0	0	0	0	0	0	0	0	4
+2007/08	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+2007/07	0	0	0	0	0	3	0	0	0	0	0	0	0	0	3
+2007/06	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2007/05	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2007/04	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
