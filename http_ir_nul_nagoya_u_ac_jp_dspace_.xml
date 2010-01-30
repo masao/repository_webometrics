@@ -3,13 +3,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="20527"
+    totalResultsAvailable="20640"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>DSpaceInstances - DSpace Wiki</Title>
         <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
         <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - Library of Koriyama Women&apos;s University.</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>確率割り当ての不確定性とE-admissibility : NAGOYA Repository</Title>
@@ -251,11 +256,6 @@
         <Url>http://hdl.handle.net/2237/6860</Url>
         <ClickUrl>http://hdl.handle.net/2237/6860</ClickUrl>
     </Result>
-    <Result>
-        <Title>地球の内部構造 : 内核・外核・マントル・地殻・不連続面 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6801</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6801</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:01 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:01 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:33 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:33 PST 2010 -->

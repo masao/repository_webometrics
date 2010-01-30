@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="4068"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>島根大学附属図書館</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/index.asp?id=71</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/index.asp?id=71</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学研究紀要論文全文データベース</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/0/kiyo/</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/0/kiyo/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>press - DRF wiki</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?press</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=15</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=15</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館</Title>
+        <Url>http://lisa.shimane-u.ac.jp/index.asp?id=23</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/index.asp?id=23</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 島根大学 - 知的情報データベース</Title>
+        <Url>http://www.shimane-u.ac.jp/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=89</Url>
+        <ClickUrl>http://www.shimane-u.ac.jp/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=89</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ブログ-島根大学附属図書館</Title>
+        <Url>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=all</Url>
+        <ClickUrl>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=all</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学研究紀要論文全文データベース</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/0/kiyo/index.asp?mode=nv&amp;id=355</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/0/kiyo/index.asp?mode=nv&amp;id=355</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館</Title>
+        <Url>http://lisa.shimane-u.ac.jp/menu2008/</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/menu2008/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館</Title>
+        <Url>http://lisa.shimane-u.ac.jp/index.asp?id=390</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/index.asp?id=390</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館 サイトマップ</Title>
+        <Url>http://lisa.shimane-u.ac.jp/menu.asp?mode=sm</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/menu.asp?mode=sm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館 サイドバー</Title>
+        <Url>http://lisa.shimane-u.ac.jp/menu.asp?mode=l&amp;id=1004&amp;rid=0</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/menu.asp?mode=l&amp;id=1004&amp;rid=0</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館 サイドバー</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/menu.asp?mode=l&amp;id=1004&amp;rid=390</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/menu.asp?mode=l&amp;id=1004&amp;rid=390</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 島根大学 - 知的情報データベース</Title>
+        <Url>http://www.shimane-u.ac.jp/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=139</Url>
+        <ClickUrl>http://www.shimane-u.ac.jp/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=139</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 解雇法理の新段階(1)</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004446</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004446</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 最近のイギリス障害者差別判例の展開とその影響</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004445</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004445</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 水稲穎花数における遺伝的・環境的変異の成立機構に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004310</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004310</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 島根大学ミュージアム年報 平成20年度</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004428</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004428</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 島根県内の看護師のキャリア・ニーズと修士課程看護学専攻に対す&lt;wbr&gt;る認識</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004414</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004414</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 日本の裁判員制度 : 英米の陪審制度から学べること</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004321</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004321</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 島根大学汽水域研究センター活動報告</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004389</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004389</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ロシアの地域における就業構造 : 2001〜2006年のボロネジ州の場合</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004320</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004320</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 生物資源科学部研究セミナー</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004340</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004340</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中海湖心部における湖底の水中映像(その3) : 貧酸素環境におけるバクテリアマットの回復状況</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00004388</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00004388</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=15</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=15</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館518</Title>
+        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=518</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=518</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館472</Title>
+        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=472</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=472</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館494</Title>
+        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=494</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=494</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館489</Title>
+        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=489</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=489</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館503</Title>
+        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=503</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=503</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館386</Title>
+        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=386</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=386</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館 サイト統計</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/menu2008/menu.asp?mode=t</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/menu2008/menu.asp?mode=t</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/menu2008/index.asp?id=23</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/menu2008/index.asp?id=23</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館558</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=558</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=558</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館606</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=606</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=606</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館355</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=355</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=355</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館373</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=373</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=373</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館469</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=469</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=469</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館266</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=266</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=266</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館264</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=264</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=264</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/menu2008/index.asp?id=390</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/menu2008/index.asp?id=390</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ島根大学附属図書館365</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=365</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=365</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[島根大学附属図書館] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
+        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C5%E7%BA%AC%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C5%E7%BA%AC%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ブログ-島根大学附属図書館 評価情報・リポジトリ合同入力説明会</Title>
+        <Url>http://lisa.shimane-u.ac.jp/blog/blog.asp?disp=ID87&amp;ttl=%95]%89%BF%8F%EE%95%F1%81E%83%8A%83|%83W%83g%83%8A%8D%87%93%AF%93%FC%97%CD%90%E0%96%BE%89%EF</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/blog/blog.asp?disp=ID87&amp;ttl=%95]%89%BF%8F%EE%95%F1%81E%83%8A%83|%83W%83g%83%8A%8D%87%93%AF%93%FC%97%CD%90%E0%96%BE%89%EF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ブログ-島根大学附属図書館 隧穂セ。諠・ ア繝サ繝ェ繝昴ず繝医Μ蜷亥酔蜈・蜉幄ェャ譏惹シ</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/blog/blog.asp?disp=ID87&amp;ttl=%E8%A9%95%E4%BE%A1%E6%83%85%E5%A0%B1%E3%83%BB%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E5%90%88%E5%90%8C%E5%85%A5%E5%8A%9B%E8%AA%AC%E6%98%8E%E4%BC%9A</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/blog/blog.asp?disp=ID87&amp;ttl=%E8%A9%95%E4%BE%A1%E6%83%85%E5%A0%B1%E3%83%BB%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E5%90%88%E5%90%8C%E5%85%A5%E5%8A%9B%E8%AA%AC%E6%98%8E%E4%BC%9A</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 振動ふるい上の粒子の運動の位相範囲と網下率との関係についての&lt;wbr&gt;一考察</Title>
+        <Url>http://jairo.nii.ac.jp/0015/00001394/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0015/00001394/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Article 694 at 07/04/02 14:42:32 From: fukuyama @ lib.shimane ...</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drf-ml/600/694.html</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf-ml/600/694.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ブログ-島根大学附属図書館</Title>
+        <Url>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=2007/06</Url>
+        <ClickUrl>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=2007/06</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学研究紀要論文全文データベース</Title>
+        <Url>http://lisa.shimane-u.ac.jp/0/kiyo/index.asp?mode=nv&amp;id=264</Url>
+        <ClickUrl>http://lisa.shimane-u.ac.jp/0/kiyo/index.asp?mode=nv&amp;id=264</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe02.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:14 PST 2010 -->
+<!-- ws01.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:14 PST 2010 -->

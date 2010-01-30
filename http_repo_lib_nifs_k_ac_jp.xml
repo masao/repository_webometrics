@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="42"
+    firstResultPosition="1"
+    totalResultsReturned="42">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>鹿屋体育大学附属図書館</Title>
+        <Url>http://www.lib.nifs-k.ac.jp/HPBU/</Url>
+        <ClickUrl>http://www.lib.nifs-k.ac.jp/HPBU/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電子ジャーナル(和雑誌)</Title>
+        <Url>http://www.tsc.u-tokai.ac.jp/ctosho/lib/link/ej-j.htm</Url>
+        <ClickUrl>http://www.tsc.u-tokai.ac.jp/ctosho/lib/link/ej-j.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/contribute_rule.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/contribute_rule.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - nifs-k repository: 鹿屋体育大学学術情報リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=263</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=263</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 佐賀IHの女子4x100mリレーで2位になった高校で思うこと</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000470</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000470</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | バレーボールにおける連続する技術の修正能力に関する研究&lt;wbr&gt;(2) -トスからスパイクまでに着目して-</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000484</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000484</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 村田直樹客員教授を迎えて-濱田初幸ゼミナール研究会報告&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000469</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000469</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 超音波式骨年齢測定装置(BonAge)を用いた日本人・小児の&lt;wbr&gt;骨年齢測定における注意点</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000459</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000459</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 除神経筋におけるμ- and m-カルパイン活性の経時的変化</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000460</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000460</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 大学図書館の学外者に対する貸出サービスの一事例</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000483</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000483</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 世界における生涯スポーツの最新動向 - 第14回国際トリム・フィットネス生涯スポーツ会議に出席して -</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000238</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000238</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/store.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/store.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/aboutus.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/aboutus.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/back_1-1.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/back_1-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/back_2-1.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/back_2-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/bknumbers.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/bknumbers.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/committee_rule.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/committee_rule.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=88</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=88</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=6</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=7&amp;page=3</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=7&amp;page=3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Dnavi - 書誌情報</Title>
+        <Url>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000018052&amp;KEYWD=000000018052&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</Url>
+        <ClickUrl>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000018052&amp;KEYWD=000000018052&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言</Title>
+        <Url>http://liblog.seesaa.net/archives/200811-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/archives/200811-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言</Title>
+        <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言: 鹿屋体育大学学術情報リポジトリ</Title>
+        <Url>http://liblog.seesaa.net/article/109919150.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/article/109919150.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
+        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言</Title>
+        <Url>http://liblog.seesaa.net/archives/20081116-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/archives/20081116-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=4</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=1&amp;page=2</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=1&amp;page=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3&amp;page=1</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3&amp;page=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=2&amp;page=4</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=2&amp;page=4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=0&amp;page=2</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=0&amp;page=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | バレーボールにおけるスパイクのボール速度とメディシンボールに&lt;wbr&gt;よる遠投距離との関係</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000493</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000493</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | クラスター分析を用いた各種データの解析</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000278</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000278</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 平成20年度重点プロジェクト事業(海外派遣研究員等旅費&lt;wbr&gt;)報告 World Congress of ...</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000494</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000494</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | &apos;94ワールドカップサッカーにおける攻撃戦術の検討 - 選手のパフォーマンスとボールの移動軌跡との関係から -</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000253</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000253</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 真実の戦うキリスト教徒としての純粋詩人ジョン・キーツ&lt;wbr&gt;(Ⅲ)</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000074</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000074</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「演技乱れ打ち」:ジュランカン連作,詩の乱れ舞い11番と批評&lt;wbr&gt;的解説</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000153</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000153</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:34 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:34 PST 2010 -->

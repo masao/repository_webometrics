@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="16889"
+    totalResultsAvailable="17068"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -20,6 +20,11 @@
         <Title>Portal:歴史学 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/34659</Title>
+        <Url>http://hdl.handle.net/10097/34659</Url>
+        <ClickUrl>http://hdl.handle.net/10097/34659</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/40080</Title>
@@ -72,6 +77,11 @@
         <ClickUrl>http://hdl.handle.net/10097/39877</ClickUrl>
     </Result>
     <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35550</Title>
+        <Url>http://hdl.handle.net/10097/35550</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35550</ClickUrl>
+    </Result>
+    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/30750</Title>
         <Url>http://hdl.handle.net/10097/30750</Url>
         <ClickUrl>http://hdl.handle.net/10097/30750</ClickUrl>
@@ -85,6 +95,11 @@
         <Title>TOUR(TOhoku University Repository): Item 10097/35041</Title>
         <Url>http://hdl.handle.net/10097/35041</Url>
         <ClickUrl>http://hdl.handle.net/10097/35041</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東北大学研究者紹介</Title>
+        <Url>http://db.tohoku.ac.jp/whois/</Url>
+        <ClickUrl>http://db.tohoku.ac.jp/whois/</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/34942</Title>
@@ -241,21 +256,6 @@
         <Url>http://hdl.handle.net/10097/30788</Url>
         <ClickUrl>http://hdl.handle.net/10097/30788</ClickUrl>
     </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/30787</Title>
-        <Url>http://hdl.handle.net/10097/30787</Url>
-        <ClickUrl>http://hdl.handle.net/10097/30787</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/39599</Title>
-        <Url>http://hdl.handle.net/10097/39599</Url>
-        <ClickUrl>http://hdl.handle.net/10097/39599</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/39675</Title>
-        <Url>http://hdl.handle.net/10097/39675</Url>
-        <ClickUrl>http://hdl.handle.net/10097/39675</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:27:57 PST 2010 -->
-<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:27:57 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:29 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:29 PST 2010 -->

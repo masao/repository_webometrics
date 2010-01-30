@@ -3,13 +3,23 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="30130"
+    totalResultsAvailable="52795"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>九州大学附属図書館</Title>
+        <Url>http://www.lib.kyushu-u.ac.jp/</Url>
+        <ClickUrl>http://www.lib.kyushu-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学位論文</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kyushu University Library</Title>
+        <Url>http://www.lib.kyushu-u.ac.jp/english/</Url>
+        <ClickUrl>http://www.lib.kyushu-u.ac.jp/english/</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -40,6 +50,11 @@
         <Title>川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kyushu University Library</Title>
+        <Url>http://www.lib.kyushu-u.ac.jp/english/index.html</Url>
+        <ClickUrl>http://www.lib.kyushu-u.ac.jp/english/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
@@ -217,6 +232,11 @@
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
+        <Title>WOLFGANG MICHEL-ZAITSU: PORTAL PAGE</Title>
+        <Url>http://www.flc.kyushu-u.ac.jp/~michel/index.html</Url>
+        <ClickUrl>http://www.flc.kyushu-u.ac.jp/~michel/index.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>クント管内での噴水の形成 : Kyushu University Institutional Repository (QIR)</Title>
         <Url>http://hdl.handle.net/2324/3561</Url>
         <ClickUrl>http://hdl.handle.net/2324/3561</ClickUrl>
@@ -236,26 +256,6 @@
         <Url>http://hdl.handle.net/2324/8735</Url>
         <ClickUrl>http://hdl.handle.net/2324/8735</ClickUrl>
     </Result>
-    <Result>
-        <Title>【判例研究】民法五六四条にいう「事実ヲ知リタル時」の意義 : Kyushu University ...</Title>
-        <Url>http://hdl.handle.net/2324/2282</Url>
-        <ClickUrl>http://hdl.handle.net/2324/2282</ClickUrl>
-    </Result>
-    <Result>
-        <Title>破産手続における動産売買先取特権の取扱い : Kyushu University Institutional ...</Title>
-        <Url>http://hdl.handle.net/2324/8288</Url>
-        <ClickUrl>http://hdl.handle.net/2324/8288</ClickUrl>
-    </Result>
-    <Result>
-        <Title>地方ケーブルテレビの現状とコミュニティチャンネル : 大分県佐伯市の事例研究 : Kyushu University ...</Title>
-        <Url>http://hdl.handle.net/2324/8685</Url>
-        <ClickUrl>http://hdl.handle.net/2324/8685</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Ein Ostindianisches Sendschreiben : Andreas Cleyers Brief an ...</Title>
-        <Url>http://hdl.handle.net/2324/2856</Url>
-        <ClickUrl>http://hdl.handle.net/2324/2856</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:20:58 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:20:58 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:19 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:19 PST 2010 -->

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="207"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/e_argo.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/e_argo.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=126</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=126</ClickUrl>
+    </Result>
+    <Result>
+        <Title>サイトマップ 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/h_map/h_1_sitemap.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/h_map/h_1_sitemap.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>FOBUL 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/f_fobul/f_1_fobul.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/f_fobul/f_1_fobul.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>資料検索 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/b_siryou/b_siryou.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/b_siryou/b_siryou.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ご利用規約・環境 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/g_other/g_1_kiy/g_1_kiy.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/g_other/g_1_kiy/g_1_kiy.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ホットスポットのご案内 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_3_hot/a_3_hot.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_3_hot/a_3_hot.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アクセスマップ 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_5_map/a_5_map.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_5_map/a_5_map.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>リンク集 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/b_siryou/b_3_link/b_3_link.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/b_siryou/b_3_link/b_3_link.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_1_riyou/a_1_riyou.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_1_riyou/a_1_riyou.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>寄贈文庫コレクション 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_4_kizou/a_4_kizou.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_4_kizou/a_4_kizou.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>レファレンスのご案内 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_2_reference/a_2_reference.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_2_reference/a_2_reference.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>購入希望図書申込 別府大学附属図書館</Title>
+        <Url>https://info.co-creates.co.jp/SSL/beppu-u/lib/c_kounyu/c_1_kounyu.html</Url>
+        <ClickUrl>https://info.co-creates.co.jp/SSL/beppu-u/lib/c_kounyu/c_1_kounyu.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>購入希望図書入荷状況 別府大学附属図書館</Title>
+        <Url>https://info.co-creates.co.jp/SSL/beppu-u/lib/c_kounyu/c_2_henji/c_2_henji.html</Url>
+        <ClickUrl>https://info.co-creates.co.jp/SSL/beppu-u/lib/c_kounyu/c_2_henji/c_2_henji.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ようこそ!ヨッちゃんの生活辞典</Title>
+        <Url>http://homepage2.nifty.com/yoshimi3/</Url>
+        <ClickUrl>http://homepage2.nifty.com/yoshimi3/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Links - XooNIps研究会</Title>
+        <Url>http://nijc.brain.riken.jp/xoonips/index.php?Links</Url>
+        <ClickUrl>http://nijc.brain.riken.jp/xoonips/index.php?Links</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=126</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=126</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 若山牧水日記にみる読書記録(三)</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001536/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001536/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | フランス料理研修旅行報告</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000779/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000779/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>年間開館スケジュール 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/i_kaikan/i_kaikan.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/i_kaikan/i_kaikan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/e_backnumber.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/e_backnumber.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>修士論文一覧 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/b_siryou/b_1_tosyokan/shuuron.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/b_siryou/b_1_tosyokan/shuuron.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 屎葛の歌 : 万葉巻十六の歌をよむ</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001766</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001766</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 『辞格考抄本』解題及び『大分県立図書館蔵 辞格考抄本』影印</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001781</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001781</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「程度副詞」における程度性の変遷について : 「あまり」と「あまた」を中心に</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001782</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001782</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 民法716条立法趣旨と参照英判例</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001524</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001524</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 元和元年一国一城令の影響 : 筑前国の場合</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000209</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000209</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | フランス料理研修旅行報告</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000779</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000779</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 相撲界に「新しい期待」を</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001537</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001537</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2006spring.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2006spring.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「古今集」に見る大和</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001595/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001595/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2004summer.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2004summer.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2005winter.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2005winter.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2007spring.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2007spring.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2006summer.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2006summer.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2004spring.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2004spring.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2006spring.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2006spring.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005autumn.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005autumn.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/china/e_argo2005autumn.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/china/e_argo2005autumn.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005summer.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005summer.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005spring.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005spring.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言: 図書館</Title>
+        <Url>http://liblog.seesaa.net/category/578396-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/category/578396-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Learning English as a Foreign Language : finding the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000056/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000056/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 新朝の成立 : 王莽の登極過程</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001302/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001302/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Victorian Images of Meiji Japan : Isabella Bird and ...</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000946/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000946/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 可能表現の変遷 : 大分郡挾間町の3世代</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001443/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001443/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>XooNIps もしくは データベース - XooNIps for IBR</Title>
+        <Url>http://icecoffee.hobby-site.com/query/XooNIps/</Url>
+        <ClickUrl>http://icecoffee.hobby-site.com/query/XooNIps/</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe04.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:06 PST 2010 -->
+<!-- ws02.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:06 PST 2010 -->

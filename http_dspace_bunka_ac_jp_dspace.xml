@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="53"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学校法人 文化学園 EDUCATIONAL FOUNDATION BUNKA GAKUEN</Title>
+        <Url>http://www.bunka.ac.jp/</Url>
+        <ClickUrl>http://www.bunka.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園文化女子大学図書館</Title>
+        <Url>http://www.bunka.ac.jp/lib/toshokan.html</Url>
+        <ClickUrl>http://www.bunka.ac.jp/lib/toshokan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | 新着記事</Title>
+        <Url>http://maruta.be/culture</Url>
+        <ClickUrl>http://maruta.be/culture</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化女子大学 文化ファッション研究機構 服飾文化共同研究拠点</Title>
+        <Url>http://www.bfri-bunka.jp/</Url>
+        <ClickUrl>http://www.bfri-bunka.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Joint Research Center for Fashion and Clothing Culture</Title>
+        <Url>http://www.bfri.bunka.ac.jp/en/index.php</Url>
+        <ClickUrl>http://www.bfri.bunka.ac.jp/en/index.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:ホームページ</Title>
+        <Url>http://bunkalib.mega-heart.net/index.php?cp1=0&amp;cp2=1</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/index.php?cp1=0&amp;cp2=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:学内紀要</Title>
+        <Url>http://bunkalib.mega-heart.net/info/kiyo.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/kiyo.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:関連サイト集</Title>
+        <Url>http://bunkalib.mega-heart.net/info/links.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/links.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:テーマ別調べ方案内</Title>
+        <Url>http://bunkalib.mega-heart.net/info/theme.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/theme.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:継続受入中の雑誌新聞</Title>
+        <Url>http://bunkalib.mega-heart.net/info/ukeire.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/ukeire.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:アクセス(小平)</Title>
+        <Url>http://bunkalib.mega-heart.net/access/kodaira.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/access/kodaira.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:外部DB(学内専用)</Title>
+        <Url>http://bunkalib.mega-heart.net/info/externaldb.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/externaldb.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:アクセス(新都心)</Title>
+        <Url>http://bunkalib.mega-heart.net/access/shintoshin.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/access/shintoshin.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:利用案内 学内の方(小平)</Title>
+        <Url>http://bunkalib.mega-heart.net/riyo_annai/kodaira01.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/kodaira01.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:利用案内 学内の方(新都心)</Title>
+        <Url>http://bunkalib.mega-heart.net/riyo_annai/shintoshin01.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/shintoshin01.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | 新着記事</Title>
+        <Url>http://maruta.be/culture+p1</Url>
+        <ClickUrl>http://maruta.be/culture+p1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php?p=4</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php?p=4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php?p=2</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php?p=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php?p=3</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php?p=3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 染色テキスタイルの視覚印象評価に及ぼす糸密度の影響&lt;wbr&gt;(Ⅱ) : 下地肌色に平織物を重ねた場合について</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000085</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000085</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 現代社会における衣服着用率の季節変化 : 第一報 定点観測法の試み</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000105</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000105</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 文化女子大学生の運動行動の実態と関連要因</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000022</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000022</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 盤珪禅における不生の仏心について</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000069</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000069</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 染色テキスタイルの視覚印象評価に及ぼす糸密度の影響&lt;wbr&gt;(1)</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000084</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000084</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 仏教から見たソローと山頭火 : 色から音そして声へ</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000082</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000082</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 原爆投下決定における「公式解釈」の形成とヘンリー・スティムソ&lt;wbr&gt;ン</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000081</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000081</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:継続受入中の雑誌新聞 和雑誌・アジアの雑誌</Title>
+        <Url>http://bunkalib.mega-heart.net/info/ukeire1.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/ukeire1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:継続受入中の雑誌新聞 洋雑誌</Title>
+        <Url>http://bunkalib.mega-heart.net/info/ukeire2.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/ukeire2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:継続受入中の雑誌新聞 新聞</Title>
+        <Url>http://bunkalib.mega-heart.net/info/ukeire3.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/ukeire3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=94</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=94</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:利用案内 卒業生・学外の方(小平)</Title>
+        <Url>http://bunkalib.mega-heart.net/riyo_annai/kodaira02.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/kodaira02.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:利用案内 卒業生の方(新都心)</Title>
+        <Url>http://bunkalib.mega-heart.net/riyo_annai/shintoshin02.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/shintoshin02.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:利用案内 学外の方(新都心)</Title>
+        <Url>http://bunkalib.mega-heart.net/riyo_annai/shintoshin04.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/shintoshin04.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php?p=1</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php?p=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | 2009年5月</Title>
+        <Url>http://maruta.be/culture/archive/200905</Url>
+        <ClickUrl>http://maruta.be/culture/archive/200905</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:</Title>
+        <Url>http://maruta.be/culture/road</Url>
+        <ClickUrl>http://maruta.be/culture/road</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:新規ページ</Title>
+        <Url>http://maruta.be/culture/home</Url>
+        <ClickUrl>http://maruta.be/culture/home</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:</Title>
+        <Url>http://maruta.be/culture/kanto</Url>
+        <ClickUrl>http://maruta.be/culture/kanto</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:</Title>
+        <Url>http://maruta.be/culture/kinki</Url>
+        <ClickUrl>http://maruta.be/culture/kinki</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:</Title>
+        <Url>http://maruta.be/culture/chubu</Url>
+        <ClickUrl>http://maruta.be/culture/chubu</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:</Title>
+        <Url>http://maruta.be/culture/tohoku</Url>
+        <ClickUrl>http://maruta.be/culture/tohoku</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:</Title>
+        <Url>http://maruta.be/culture/music_e</Url>
+        <ClickUrl>http://maruta.be/culture/music_e</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:</Title>
+        <Url>http://maruta.be/culture/cyugoku</Url>
+        <ClickUrl>http://maruta.be/culture/cyugoku</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | マイカテゴリ:</Title>
+        <Url>http://maruta.be/culture/hokkaido</Url>
+        <ClickUrl>http://maruta.be/culture/hokkaido</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | 投稿者:鼓クン</Title>
+        <Url>http://maruta.be/culture/user/cho_san</Url>
+        <ClickUrl>http://maruta.be/culture/user/cho_san</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | 記事カテゴリ:地域</Title>
+        <Url>http://maruta.be/culture/article_category/012</Url>
+        <ClickUrl>http://maruta.be/culture/article_category/012</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:42 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:42 PST 2010 -->

@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="25"
+    firstResultPosition="1"
+    totalResultsReturned="25">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=131</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=131</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 目次</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011507</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011507</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Butの「対照」の意味とその動機付け : dialoguality(対話形式)とdialogicity ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011452</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011452</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | On Some Bilateral Exchange Method And Its Dynamics</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011469</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011469</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Flight-to-Liquidity and Flight-to-Quality : A Lesson ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011455</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011455</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中国の株式市場</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011470</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011470</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 目次</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011493</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011493</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=131</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=131</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Butの「対照」の意味とその動機付け : dialoguality(対話形式)とdialogicity ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011452/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011452/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Contests with Cross-Shareholdings</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011459/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011459/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 第6回青山学院「会計サミット」を終えて</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011514</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011514</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 会計操作をもたらす諸問題 : わが国の会計・監査制度を巡る課題を中心に</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011516</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011516</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 目次</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011517</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011517</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大阪府立大学 経済学部図書室 WEB or PRINT 法律・判例雑誌編</Title>
+        <Url>http://www.lib.osakafu-u.ac.jp/gakubu/eco/lawjo.html</Url>
+        <ClickUrl>http://www.lib.osakafu-u.ac.jp/gakubu/eco/lawjo.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言</Title>
+        <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
+        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | TF26モバイルラーニング研究部会『モバイルツール利用の英語&lt;wbr&gt;教育III』の刊行にあたって (「モバイル ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011498</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011498</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ワーク・ライフ・バランスの概念とその展開 : ワーク・ライフ・バランス施策を中心として</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011466/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011466/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Road to Creating Multi-Skill Classrooms Using ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011509</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011509</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Contests with Cross-Shareholdings</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011459</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011459</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 目次</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011458</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011458</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中国の株式市場</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011470/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011470/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Livetube.cc : 峠 : えりかちゃんヾ(*&apos;`*)ノ</Title>
+        <Url>http://livetube.cc/%E5%B3%A0/%E3%81%88%E3%82%8A%E3%81%8B%E3%81%A1%E3%82%83%E3%82%93%E3%83%BE(*%C2%B4%E2%8A%A5%EF%BD%80*)%E3%83%8E</Url>
+        <ClickUrl>http://livetube.cc/%E5%B3%A0/%E3%81%88%E3%82%8A%E3%81%8B%E3%81%A1%E3%82%83%E3%82%93%E3%83%BE(*%C2%B4%E2%8A%A5%EF%BD%80*)%E3%83%8E</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:10 PST 2010 -->
+<!-- ws02.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:10 PST 2010 -->

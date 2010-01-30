@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="23"
+    firstResultPosition="1"
+    totalResultsReturned="23">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奈良大学図書館</Title>
+        <Url>http://library.nara-u.ac.jp/</Url>
+        <ClickUrl>http://library.nara-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=125</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=125</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 表紙・目次</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000046</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000046</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 日吉社をめぐる断章二、三</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000085</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000085</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 家屋の「はし」考</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000086</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000086</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 暈繝彩色の研究</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000099</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000099</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 裏表紙・目次</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000100</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000100</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ウォーカー・ハミルトンのADragon&apos;sLife</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000013</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000013</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Links - XooNIps研究会</Title>
+        <Url>http://nijc.brain.riken.jp/xoonips/index.php?Links</Url>
+        <ClickUrl>http://nijc.brain.riken.jp/xoonips/index.php?Links</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=125</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=125</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言</Title>
+        <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
+        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>COVEtのRSSリーダー/受信箱</Title>
+        <Url>http://r.hatena.ne.jp/COVEt/rss</Url>
+        <ClickUrl>http://r.hatena.ne.jp/COVEt/rss</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 裏表紙・目次</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000087</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000087</ClickUrl>
+    </Result>
+    <Result>
+        <Title>xooopsのRSSリーダー - xoops</Title>
+        <Url>http://r.hatena.ne.jp/xooops/xoops/?of=60</Url>
+        <ClickUrl>http://r.hatena.ne.jp/xooops/xoops/?of=60</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 浄土寺藏「弘法大師絵伝」考</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000044</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000044</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「奈良大学」に関するSEO調査結果 - SEO Knowledge - 無料で使えるSEO対策ツール -</Title>
+        <Url>http://seo.kndb.jp/keyword/%E5%A5%88%E8%89%AF%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://seo.kndb.jp/keyword/%E5%A5%88%E8%89%AF%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 奈良大学</Title>
+        <Url>http://search.livedoor.com/search/?c=ld_weather_sl_2&amp;q=%C6%E0%CE%C9%C2%E7%B3%D8&amp;start=10</Url>
+        <ClickUrl>http://search.livedoor.com/search/?c=ld_weather_sl_2&amp;q=%C6%E0%CE%C9%C2%E7%B3%D8&amp;start=10</ClickUrl>
+    </Result>
+    <Result>
+        <Title>dora55のRSSリーダー 2009年11月18日の番組表</Title>
+        <Url>http://r.hatena.ne.jp/dora55/%E5%8F%97%E4%BF%A1%E7%AE%B1/?mode=feedtable</Url>
+        <ClickUrl>http://r.hatena.ne.jp/dora55/%E5%8F%97%E4%BF%A1%E7%AE%B1/?mode=feedtable</ClickUrl>
+    </Result>
+    <Result>
+        <Title>mshr419のRSSリーダー - 受信箱</Title>
+        <Url>http://r.hatena.ne.jp/mshr419/%E5%8F%97%E4%BF%A1%E7%AE%B1/keyword/xoops?of=60</Url>
+        <ClickUrl>http://r.hatena.ne.jp/mshr419/%E5%8F%97%E4%BF%A1%E7%AE%B1/keyword/xoops?of=60</ClickUrl>
+    </Result>
+    <Result>
+        <Title>xoopserのRSSリーダー - xoops情報 - はてなブックマーク - キーワード - XOOPS</Title>
+        <Url>http://r.hatena.ne.jp/xoopser/xoops%E6%83%85%E5%A0%B1/http://b.hatena.ne.jp/keyword/XOOPS?mode=rss&amp;sort=eid&amp;threshold=3</Url>
+        <ClickUrl>http://r.hatena.ne.jp/xoopser/xoops%E6%83%85%E5%A0%B1/http://b.hatena.ne.jp/keyword/XOOPS?mode=rss&amp;sort=eid&amp;threshold=3</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe04.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:05 PST 2010 -->
+<!-- ws14.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:05 PST 2010 -->

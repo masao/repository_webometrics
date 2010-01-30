@@ -3,10 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2521"
+    totalResultsAvailable="3128"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>慶應義塾図書館</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
@@ -27,6 +32,21 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>慶應義塾大学メディアセンター</Title>
+        <Url>http://www.lib.keio.ac.jp/</Url>
+        <ClickUrl>http://www.lib.keio.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾大学日吉メディアセンター</Title>
+        <Url>http://www.hc.lib.keio.ac.jp/</Url>
+        <ClickUrl>http://www.hc.lib.keio.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Keio University Media Center</Title>
+        <Url>http://www.lib.keio.ac.jp/en/</Url>
+        <ClickUrl>http://www.lib.keio.ac.jp/en/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
         <Url>http://repositories.webometrics.info/top400_rep.asp?offset=-1</Url>
         <ClickUrl>http://repositories.webometrics.info/top400_rep.asp?offset=-1</ClickUrl>
@@ -37,14 +57,39 @@
         <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
+        <Title>社会貢献:[慶應義塾]</Title>
+        <Url>http://www.keio.ac.jp/ja/society/index.html</Url>
+        <ClickUrl>http://www.keio.ac.jp/ja/society/index.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
     </Result>
     <Result>
+        <Title>慶應義塾図書館 &amp;lt;慶應義塾・福澤諭吉関連FAQ &amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/archives/fukuzawa</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/archives/fukuzawa</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;ニュース&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/news/</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/news/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;慶應アーカイブ&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/archives/</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/archives/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;開館カレンダー&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/services/calendar/</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/services/calendar/</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -57,6 +102,11 @@
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
+        <Title>慶應義塾図書館 &amp;lt;EU情報センター&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/guide/eu</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/guide/eu</ClickUrl>
+    </Result>
+    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
@@ -67,9 +117,24 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>慶應義塾大学日吉メディアセンター 協生館図書室</Title>
+        <Url>http://www.hc.lib.keio.ac.jp/kyoseikan/</Url>
+        <ClickUrl>http://www.hc.lib.keio.ac.jp/kyoseikan/</ClickUrl>
+    </Result>
+    <Result>
         <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
         <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
         <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;帳合之法&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/archives/rarebook/abstracts/rare094</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/archives/rarebook/abstracts/rare094</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;図書館概要&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/guide/about/</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/guide/about/</ClickUrl>
     </Result>
     <Result>
         <Title>綱島温泉・綱島ラジウム温泉東京園入湯記(横浜市)</Title>
@@ -82,9 +147,29 @@
         <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
     </Result>
     <Result>
+        <Title>ガジェット/フィード ‐慶應義塾大学湘南藤沢メディアセンター</Title>
+        <Url>http://www.sfc.lib.keio.ac.jp/gadget/</Url>
+        <ClickUrl>http://www.sfc.lib.keio.ac.jp/gadget/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;遠山音楽文庫&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/guide/toyama</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/guide/toyama</ClickUrl>
+    </Result>
+    <Result>
         <Title>Journal</Title>
         <Url>http://home.hiroshima-u.ac.jp/er/journal.html</Url>
         <ClickUrl>http://home.hiroshima-u.ac.jp/er/journal.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;ヴァーチャルツアー&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/guide/virtual_tour/</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/guide/virtual_tour/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;情報リテラシー支援&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/find-search/literacy</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/find-search/literacy</ClickUrl>
     </Result>
     <Result>
         <Title>2008-03-24(Mon): RSSを提供している機関リポジトリ一覧 - ACADEMIC RESOURCE ...</Title>
@@ -92,14 +177,59 @@
         <ClickUrl>http://d.hatena.ne.jp/arg/20080325/1206374304</ClickUrl>
     </Result>
     <Result>
+        <Title>慶應義塾図書館 &amp;lt;早稲田大学図書館の利用&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/services/agreement/waseda</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/services/agreement/waseda</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;慶應義塾図書館貴重書展示会&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/archives/exhibit/annual_exhibition</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/archives/exhibit/annual_exhibition</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
+        <Title>慶應義塾図書館 &amp;lt;大饗記 &amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/archives/rarebook/abstracts/rare084</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/archives/rarebook/abstracts/rare084</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾大学日吉メディアセンター | スタディ・スキルズ</Title>
+        <Url>http://www.hc.lib.keio.ac.jp/ilp/index.html</Url>
+        <ClickUrl>http://www.hc.lib.keio.ac.jp/ilp/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;南館図書室&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/guide/minami/</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/guide/minami/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;展示情報&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/archives/exhibit/</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/archives/exhibit/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[koara-a]</Title>
+        <Url>http://koara-a.lib.keio.ac.jp/xoonips/modules/news/</Url>
+        <ClickUrl>http://koara-a.lib.keio.ac.jp/xoonips/modules/news/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;各種文庫&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/find-search/collections/index</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/find-search/collections/index</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;correspondence.html&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/service/guide/correspondence.html</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/service/guide/correspondence.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>慶應義塾図書館 &amp;lt;石城日記&amp;gt;</Title>
+        <Url>http://www.mita.lib.keio.ac.jp/archives/rarebook/abstracts/rare099</Url>
+        <ClickUrl>http://www.mita.lib.keio.ac.jp/archives/rarebook/abstracts/rare099</ClickUrl>
     </Result>
     <Result>
         <Title>Browse Japan (ROAR)</Title>
@@ -122,140 +252,10 @@
         <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=&amp;order=recordcount&amp;submit=Filter&amp;prev=Prev&amp;page=9</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=49</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=49</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_es.asp?offset=-1</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_es.asp?offset=-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Conditions</Title>
-        <Url>http://jairo.nii.ac.jp/0050/00019049/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0050/00019049/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Special Feature: Developments in Neuroinformatics Support ...</Title>
-        <Url>http://www.brain.riken.jp/bsi-news/en/no39/feature.html</Url>
-        <ClickUrl>http://www.brain.riken.jp/bsi-news/en/no39/feature.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>&quot;まぁ、ここだけ切り取ると中二病の変な人という印象ですが [プログラミング言語] 特集 フォン.com</Title>
-        <Url>http://www.keropee.com/%E3%83%95%E3%82%A9%E3%83%B3/%E7%89%B9%E9%9B%86/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/881067.html</Url>
-        <ClickUrl>http://www.keropee.com/%E3%83%95%E3%82%A9%E3%83%B3/%E7%89%B9%E9%9B%86/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E/881067.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IESR Full Record</Title>
-        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310519-2190</Url>
-        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310519-2190</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | URBAN UNEMPLOYMENT, ECONOMIES OF SCALE AND THE THEORY ...</Title>
-        <Url>http://jairo.nii.ac.jp/0050/00019051/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0050/00019051/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | BUSINESS CYCLE ASYMMETRY AND THE STOCK MARKET IN JAPAN</Title>
-        <Url>http://jairo.nii.ac.jp/0050/00018870/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0050/00018870/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Cover ; Contents</Title>
-        <Url>http://jairo.nii.ac.jp/0050/00019048/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0050/00019048/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Conditions</Title>
-        <Url>http://jairo.nii.ac.jp/0050/00018862/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0050/00018862/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/type/other.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/type/other.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
-        <Url>http://roar.eprints.org/view/software/other/other.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/software/other/other.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
+        <Title>調べる: 慶應義塾関係</Title>
+        <Url>http://www.sfc.lib.keio.ac.jp/db/keio.html</Url>
+        <ClickUrl>http://www.sfc.lib.keio.ac.jp/db/keio.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:06 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:06 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:55 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:55 PST 2010 -->

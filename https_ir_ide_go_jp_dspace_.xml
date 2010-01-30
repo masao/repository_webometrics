@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="271"
+    totalResultsAvailable="278"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -35,6 +35,11 @@
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術研究リポジトリ - ジェトロ・アジア経済研究所</Title>
+        <Url>http://www.ide.go.jp/Japanese/Library/Ir/</Url>
+        <ClickUrl>http://www.ide.go.jp/Japanese/Library/Ir/</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
@@ -112,9 +117,19 @@
         <ClickUrl>http://www.vifa-recht.de/volltexte/index.php?st=1&amp;op=latter&amp;letter=A</ClickUrl>
     </Result>
     <Result>
+        <Title>図書館 - 地域別に探す - 途上国一般・その他</Title>
+        <Url>http://opac.ide.go.jp/region/japanese/intl/index.html</Url>
+        <ClickUrl>http://opac.ide.go.jp/region/japanese/intl/index.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/archives/2006/01/post_81.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_81.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館 - 地域別に探す - ラテンアメリカ</Title>
+        <Url>http://opac.ide.go.jp/region/japanese/latin_america/index.html</Url>
+        <ClickUrl>http://opac.ide.go.jp/region/japanese/latin_america/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
@@ -182,6 +197,11 @@
         <ClickUrl>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000014499&amp;KEYWD=000000014499&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</ClickUrl>
     </Result>
     <Result>
+        <Title>図書館 - 地域別に探す - 東南アジア</Title>
+        <Url>http://opac.ide.go.jp/region/japanese/southeast_asia/index.html</Url>
+        <ClickUrl>http://opac.ide.go.jp/region/japanese/southeast_asia/index.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>ARRIDE研修</Title>
         <Url>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.doc</Url>
         <ClickUrl>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.doc</ClickUrl>
@@ -236,26 +256,6 @@
         <Url>http://current.ndl.go.jp/ca1626?quicktabs_2=1</Url>
         <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_2=1</ClickUrl>
     </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_3=3</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_3=3</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | [書評] Scott Straus, The Order of Genocide: Race, Power ...</Title>
-        <Url>http://jairo.nii.ac.jp/0046/00000657</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0046/00000657</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Market Access and Intermediate Goods Trade</Title>
-        <Url>http://jairo.nii.ac.jp/0046/00000682</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0046/00000682</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Who Uses FTAs?</Title>
-        <Url>http://jairo.nii.ac.jp/0046/00000681</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0046/00000681</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:04 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:04 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:51 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:51 PST 2010 -->

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="20413"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>東京工業大学</Title>
+        <Url>http://www.titech.ac.jp/</Url>
+        <ClickUrl>http://www.titech.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TITECH Library</Title>
+        <Url>http://www.libra.titech.ac.jp/welcome_e.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/welcome_e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>GSIC Web</Title>
+        <Url>http://www.gsic.titech.ac.jp/</Url>
+        <ClickUrl>http://www.gsic.titech.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tokyo Institute of Technology Library / 東京工業大学附属図書館</Title>
+        <Url>http://www.libra.titech.ac.jp/</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>GSIC Web</Title>
+        <Url>http://www.gsic.titech.ac.jp/index.html.en</Url>
+        <ClickUrl>http://www.gsic.titech.ac.jp/index.html.en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
+        <Url>http://roar.eprints.org/?action=search&amp;query=dspace+at+mit&amp;sa=Search</Url>
+        <ClickUrl>http://roar.eprints.org/?action=search&amp;query=dspace+at+mit&amp;sa=Search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tokyo Institute of Technology Library / 東京工業大学附属図書館</Title>
+        <Url>http://www.libra.titech.ac.jp/bunkan/</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/bunkan/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
+        <Url>http://roar.eprints.org/?action=rss</Url>
+        <ClickUrl>http://roar.eprints.org/?action=rss</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 教職員向け情報</Title>
+        <Url>http://www.titech.ac.jp/staff/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/staff/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
+        <Url>http://roar.eprints.org/?prev=Prev</Url>
+        <ClickUrl>http://roar.eprints.org/?prev=Prev</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
+        <Url>http://roar.eprints.org/?action=search&amp;query=m%C3%A4lardalens&amp;submit=Search</Url>
+        <ClickUrl>http://roar.eprints.org/?action=search&amp;query=m%C3%A4lardalens&amp;submit=Search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Publications of Yokota Laboratory</Title>
+        <Url>http://yokota-www.cs.titech.ac.jp/t2r2/publicationlist.cgi?style=en_grouping1&amp;order=Desc</Url>
+        <ClickUrl>http://yokota-www.cs.titech.ac.jp/t2r2/publicationlist.cgi?style=en_grouping1&amp;order=Desc</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 受験生・高校生の方へ</Title>
+        <Url>http://www.titech.ac.jp/prospect/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/prospect/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 学生生活</Title>
+        <Url>http://www.titech.ac.jp/campuslife/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/campuslife/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>レファレンスWeb</Title>
+        <Url>http://www.libra.titech.ac.jp/refweb/</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/refweb/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 一般・社会人の方へ</Title>
+        <Url>http://www.titech.ac.jp/public/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/public/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 学部・大学院</Title>
+        <Url>http://www.titech.ac.jp/academics/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/academics/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 入学案内</Title>
+        <Url>http://www.titech.ac.jp/admission/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/admission/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 研究所・図書館等</Title>
+        <Url>http://www.titech.ac.jp/laboratory/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/laboratory/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 教務課</Title>
+        <Url>http://www.gakumu.titech.ac.jp/kyoumu/index.html</Url>
+        <ClickUrl>http://www.gakumu.titech.ac.jp/kyoumu/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 企業・研究者の方へ</Title>
+        <Url>http://www.titech.ac.jp/company/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/company/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 在学生の方へ</Title>
+        <Url>http://www.titech.ac.jp/enrolled/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/enrolled/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>GSIC Web</Title>
+        <Url>http://www.gsic.titech.ac.jp/index.html.ja</Url>
+        <ClickUrl>http://www.gsic.titech.ac.jp/index.html.ja</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 卒業生の方へ</Title>
+        <Url>http://www.titech.ac.jp/alumni/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/alumni/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 国際交流</Title>
+        <Url>http://www.titech.ac.jp/international/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/international/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 大学案内</Title>
+        <Url>http://www.titech.ac.jp/about/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/about/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 研究・産学連携</Title>
+        <Url>http://www.titech.ac.jp/research/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/research/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術コミュニケーションの新たな地平</Title>
+        <Url>http://www.nii.ac.jp/irp/archive/report/pdf/csi_ir_h17-19_report.pdf</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/archive/report/pdf/csi_ir_h17-19_report.pdf</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
+        <Url>http://roar.eprints.org/?action=home&amp;country=cn</Url>
+        <ClickUrl>http://roar.eprints.org/?action=home&amp;country=cn</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Google Earth version of the data</Title>
+        <Url>http://maps.repository66.org/repository66dotorg-maps.kml</Url>
+        <ClickUrl>http://maps.repository66.org/repository66dotorg-maps.kml</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
+        <Url>http://roar.eprints.org/?prev=Prev&amp;type=institutional&amp;page=7</Url>
+        <ClickUrl>http://roar.eprints.org/?prev=Prev&amp;type=institutional&amp;page=7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
+        <Url>http://roar.eprints.org/?prev=Prev&amp;type=institutional&amp;page=40</Url>
+        <ClickUrl>http://roar.eprints.org/?prev=Prev&amp;type=institutional&amp;page=40</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse Japan (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registry of Open Access Repositories (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=&amp;order=recordcount&amp;submit=Filter&amp;prev=Prev&amp;page=5</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=&amp;order=recordcount&amp;submit=Filter&amp;prev=Prev&amp;page=5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registry of Open Access Repositories (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=&amp;order=recordcount&amp;submit=Filter%3E&amp;prev=Prev&amp;page=5</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=&amp;order=recordcount&amp;submit=Filter%3E&amp;prev=Prev&amp;page=5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tokyo Institute of Technology Library / 東京工業大学附属図書館</Title>
+        <Url>http://www.libra.titech.ac.jp/welcome_e.php</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/welcome_e.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京工業大学 | 国際室</Title>
+        <Url>http://www.titech.ac.jp/ipo/index.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/ipo/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>十字路からの発言</Title>
+        <Url>http://www.fitweb.or.jp/~taka/talker13.html</Url>
+        <ClickUrl>http://www.fitweb.or.jp/~taka/talker13.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Takashi Kobayashi, Ph.D.</Title>
+        <Url>http://www.agusa.i.is.nagoya-u.ac.jp/~tkobaya/index.html.ja</Url>
+        <ClickUrl>http://www.agusa.i.is.nagoya-u.ac.jp/~tkobaya/index.html.ja</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東工大 応用セラミックス研究所</Title>
+        <Url>http://www.msl.titech.ac.jp/eng/menu_titech-e.html</Url>
+        <ClickUrl>http://www.msl.titech.ac.jp/eng/menu_titech-e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>土木のデータ</Title>
+        <Url>http://homepage2.nifty.com/uyan/sub-index/data.html</Url>
+        <ClickUrl>http://homepage2.nifty.com/uyan/sub-index/data.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Selected Publication List of GSIC Members</Title>
+        <Url>http://www.gsic.titech.ac.jp/cgi-bin/publicationlist_en.cgi</Url>
+        <ClickUrl>http://www.gsic.titech.ac.jp/cgi-bin/publicationlist_en.cgi</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Selected Publication List of GSIC Members</Title>
+        <Url>http://www.gsic.titech.ac.jp/cgi-bin/publicationlist_en.cgi?year=2003</Url>
+        <ClickUrl>http://www.gsic.titech.ac.jp/cgi-bin/publicationlist_en.cgi?year=2003</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:27 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:27 PST 2010 -->

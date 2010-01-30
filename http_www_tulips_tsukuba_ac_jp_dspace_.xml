@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8719"
+    totalResultsAvailable="8689"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -95,6 +95,11 @@
         <Title>JAIRO | Jet fragmentation and gauge/string duality</Title>
         <Url>http://jairo.nii.ac.jp/0025/00020038</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020038</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | &amp;lt;Originals&amp;gt;Bilateral Facilitation of Hand-motor ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00020049</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00020049</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Reduction in charged defects associated with oxygen ...</Title>
@@ -251,11 +256,6 @@
         <Url>http://jairo.nii.ac.jp/0025/00021183</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021183</ClickUrl>
     </Result>
-    <Result>
-        <Title>JAIRO | 学術資源共有基盤WEKOの開発</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021307</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021307</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:01 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:01 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:27 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:27 PST 2010 -->

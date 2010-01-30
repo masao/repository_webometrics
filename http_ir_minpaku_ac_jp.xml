@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="4"
+    firstResultPosition="1"
+    totalResultsReturned="4">
+        <Result>
+        <Title>植物 [植物] 特集 ~ コミュニティのすすめ</Title>
+        <Url>http://www.dubok.net/%E7%89%B9%E9%9B%86/%E6%A4%8D%E7%89%A9/27c0ab.html</Url>
+        <ClickUrl>http://www.dubok.net/%E7%89%B9%E9%9B%86/%E6%A4%8D%E7%89%A9/27c0ab.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>特集 ~ コミュニティ情報サイト</Title>
+        <Url>http://www.x-video-poker.com/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/%E7%89%B9%E9%9B%86/641365.html</Url>
+        <ClickUrl>http://www.x-video-poker.com/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%83%86%E3%82%A3/%E7%89%B9%E9%9B%86/641365.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=134</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=134</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Cultural Revitalization and Ethnic Identity of the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0135/00001493</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0135/00001493</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe02.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:12 PST 2010 -->
+<!-- ws03.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:12 PST 2010 -->

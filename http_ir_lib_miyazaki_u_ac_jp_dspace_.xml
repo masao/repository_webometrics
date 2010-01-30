@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="2100"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>News — University of Miyazaki Library</Title>
+        <Url>http://www.lib.miyazaki-u.ac.jp/</Url>
+        <ClickUrl>http://www.lib.miyazaki-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>医学分館の「お知らせ」 — University of Miyazaki Library</Title>
+        <Url>http://www.lib.miyazaki-u.ac.jp/igaku/</Url>
+        <ClickUrl>http://www.lib.miyazaki-u.ac.jp/igaku/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 聴覚障害児が医療の場で受ける困難に関する文献検討</Title>
+        <Url>http://hdl.handle.net/10458/1969</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1969</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : The Mechanical Behaviour and Wood Structure ...</Title>
+        <Url>http://hdl.handle.net/10458/1891</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1891</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 八重山諸島石垣島の陸水域魚類相</Title>
+        <Url>http://hdl.handle.net/10458/1888</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1888</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : うっ滞性乳腺炎動物モデルの作成</Title>
+        <Url>http://hdl.handle.net/10458/1894</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1894</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : Lipid Peroxidation-derived Toxic Aldehyde, 4 ...</Title>
+        <Url>http://hdl.handle.net/10458/1895</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1895</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 日向夏栽培における課題と経営改善のための定量的考察</Title>
+        <Url>http://hdl.handle.net/10458/1893</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1893</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : Effect of Fermented Apple Solution on the ...</Title>
+        <Url>http://hdl.handle.net/10458/1899</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1899</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 圃場における窒素固定エンドファイト接種サトウキビの固定窒素量&lt;wbr&gt;の推定</Title>
+        <Url>http://hdl.handle.net/10458/1898</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1898</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 延岡市熊野江川河口干潟に出現する貝類と甲殻類</Title>
+        <Url>http://hdl.handle.net/10458/1890</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1890</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : アルファルファタコゾウムシの導入天敵ヨーロッパトビチビアメバ&lt;wbr&gt;チの宮崎県における放飼とその ...</Title>
+        <Url>http://hdl.handle.net/10458/1887</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1887</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : タイにおける看護教育事情 : プリンス・オブ・ソンクラ大学看護学部を訪問して</Title>
+        <Url>http://hdl.handle.net/10458/1971</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1971</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 第2子以降の出産を迎える家族のニーズ</Title>
+        <Url>http://hdl.handle.net/10458/1968</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1968</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : メタン発酵消化液のブロッコリー栽培における施用効果について</Title>
+        <Url>http://hdl.handle.net/10458/1892</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1892</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : A県看護師の就業継続の意思とキャリアアップに関する調査</Title>
+        <Url>http://hdl.handle.net/10458/1967</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1967</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 「教育的カリキュラム資料」序説 : アメリカにおける研究の背景</Title>
+        <Url>http://hdl.handle.net/10458/1990</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1990</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : Lipid Oxidation of Bread Containing α-Tocopherol</Title>
+        <Url>http://hdl.handle.net/10458/1896</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1896</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 宮崎県南部の2河川におけるエビ類の分布</Title>
+        <Url>http://hdl.handle.net/10458/1889</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1889</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 先端医療看護の授業案の構築</Title>
+        <Url>http://hdl.handle.net/10458/1970</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1970</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 「看護実践における認知行動療法」ワークショップセミナー報告</Title>
+        <Url>http://hdl.handle.net/10458/1972</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1972</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : アフリカにおける地方自治体の国際協力の展開と課題 : ブルキナファソの事例から</Title>
+        <Url>http://hdl.handle.net/10458/1983</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1983</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 暖地向けダイズ品種における子実中の無機成分含有量について</Title>
+        <Url>http://hdl.handle.net/10458/1897</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1897</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : Characteristics and clustering of human ...</Title>
+        <Url>http://hdl.handle.net/10458/1811</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1811</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : &quot;食育&quot;と「家庭科教育」 : リアリティーと具体性を伴った学びのための栄養教諭との連携</Title>
+        <Url>http://hdl.handle.net/10458/677</Url>
+        <ClickUrl>http://hdl.handle.net/10458/677</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 御伽草子『七夕』覚書</Title>
+        <Url>http://hdl.handle.net/10458/1656</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1656</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : VT信管考</Title>
+        <Url>http://hdl.handle.net/10458/1995</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1995</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 『サカラメンタ提要』が語るもの : ザビエルが伝え、残したもの</Title>
+        <Url>http://hdl.handle.net/10458/2013</Url>
+        <ClickUrl>http://hdl.handle.net/10458/2013</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : What the Manuale ad Sacramenta (Sakaramenta ...</Title>
+        <Url>http://hdl.handle.net/10458/2014</Url>
+        <ClickUrl>http://hdl.handle.net/10458/2014</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>本館の「お知らせ」 — University of Miyazaki Library</Title>
+        <Url>http://www.lib.miyazaki-u.ac.jp/honkan/</Url>
+        <ClickUrl>http://www.lib.miyazaki-u.ac.jp/honkan/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>研究紹介</Title>
+        <Url>http://www.miyazaki-u.ac.jp/~kawasue/webpage/resin-j/resin.htm</Url>
+        <ClickUrl>http://www.miyazaki-u.ac.jp/~kawasue/webpage/resin-j/resin.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: University of Miyazaki</Title>
+        <Url>http://www.opendoar.org/find.php?search=University+of+Miyazaki&amp;title=University+of+Miyazaki</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=University+of+Miyazaki&amp;title=University+of+Miyazaki</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - University of Miyazaki DSpace</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=University+of+Miyazaki+DSpace&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=University+of+Miyazaki+DSpace&amp;title=SUPPRESS</ClickUrl>
+    </Result>
+    <Result>
+        <Title>University of Miyazaki Library</Title>
+        <Url>http://www.lib.miyazaki-u.ac.jp/search/</Url>
+        <ClickUrl>http://www.lib.miyazaki-u.ac.jp/search/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>University of Miyazaki Library</Title>
+        <Url>http://www.lib.miyazaki-u.ac.jp/search_form</Url>
+        <ClickUrl>http://www.lib.miyazaki-u.ac.jp/search_form</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - はなもく Wikipedia</Title>
+        <Url>http://www.hanamoku.jp/wikipedia/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://www.hanamoku.jp/wikipedia/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 宮崎大学学術情報リポジトリ公開</Title>
+        <Url>http://www.openaccessjapan.com/2007/08/post-101.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2007/08/post-101.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:39 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:39 PST 2010 -->

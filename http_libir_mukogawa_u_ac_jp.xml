@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="9"
+    firstResultPosition="1"
+    totalResultsReturned="9">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学[Mukogawa Women&apos;s University]</Title>
+        <Url>http://www.mukogawa-u.ac.jp/~library/</Url>
+        <ClickUrl>http://www.mukogawa-u.ac.jp/~library/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=132</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=132</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 百人一首古説</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000413</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000413</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=132</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=132</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 百人一首講義録</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000412</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000412</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 担子菌の発酵能による機能性大豆食品の開発</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000352</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000352</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 新規乳酸菌を用いたおから・豆乳発酵食品の成分特性</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000306</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000306</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:11 PST 2010 -->
+<!-- ws14.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:11 PST 2010 -->

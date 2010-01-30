@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="17482"
+    totalResultsAvailable="17778"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -162,6 +162,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
     </Result>
     <Result>
+        <Title>千葉大学研究者情報データベース Chiba University Researcher Tracker</Title>
+        <Url>http://curt.ll.chiba-u.jp/</Url>
+        <ClickUrl>http://curt.ll.chiba-u.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
@@ -222,6 +227,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</ClickUrl>
     </Result>
     <Result>
+        <Title>三笠宮寛仁さま「エッセー」報道についての所感: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_c20a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_c20a.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>南部共和党議員は外資系企業の利益を代弁しているのではない&lt;wbr&gt;(1): 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/post-1808.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/post-1808.html</ClickUrl>
@@ -246,16 +256,6 @@
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>容疑者に同情する: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_914a.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_914a.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>女帝即位絶対反対論(皇室典範見直し問題)第9回: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/09/post_8992.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/09/post_8992.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:12 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:12 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:23 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:23 PST 2010 -->

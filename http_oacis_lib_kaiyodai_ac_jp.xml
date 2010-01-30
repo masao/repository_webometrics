@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="162"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京海洋大学附属図書館ホームページ</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tokyo University of Marine Science and Technology Library</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/index_E.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/index_E.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京海洋大学学術機関リポジトリ(TUMSAT-OACIS&lt;wbr&gt;)準備ページ</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/library/OACIS/IR.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/OACIS/IR.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=83</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=83</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館からのお知らせ(本館・分館共通)</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/library/oshirase_kyotsu2008.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/oshirase_kyotsu2008.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Dissertation</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 画像レーダによる船舶の監視に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000476</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000476</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 奥付</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000487</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000487</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 戦時急造艦の松型(丁型)駆逐艦に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000477</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000477</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 表紙・目次</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000486</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000486</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | LED漁灯の測光と対象種の光感覚に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000550</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000550</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=83</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=83</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館からのお知らせ(本館・分館共通)</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/library/oshirase_kyotsu2007.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/oshirase_kyotsu2007.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文の扱い - DRF wiki</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87%E3%81%AE%E6%89%B1%E3%81%84</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87%E3%81%AE%E6%89%B1%E3%81%84</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[東京海洋大学附属図書館] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
+        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C5%EC%B5%FE%B3%A4%CD%CE%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C5%EC%B5%FE%B3%A4%CD%CE%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Dnavi - 書誌情報</Title>
+        <Url>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000017126&amp;KEYWD=000000017126&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</Url>
+        <ClickUrl>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000017126&amp;KEYWD=000000017126&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>海洋大図書館メールマガジン</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/library/mailmag/pc/mm_s51.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/mailmag/pc/mm_s51.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ネイティブジェランのゲル化機構に関する基礎研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000562</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000562</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Studies on peptidoglycan induced immune-related genes ...</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000561</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000561</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project ...</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>海洋大図書館メールマガジン(越中島)</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e50.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e50.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>海洋大図書館メールマガジン(越中島)</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e64.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e64.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>海洋大図書館メールマガジン(越中島)</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e51.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e51.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>海洋大図書館メールマガジン(越中島)</Title>
+        <Url>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e45.html</Url>
+        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e45.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : related:https://ir.u-gakugei&lt;wbr&gt;.ac.jp ...</Title>
+        <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttps%3A%2F%2Fir.u-gakugei.ac.jp%2Fhandle%2F2309%2F63447&amp;theme=</Url>
+        <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttps%3A%2F%2Fir.u-gakugei.ac.jp%2Fhandle%2F2309%2F63447&amp;theme=</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[drf:454] 東京海洋大学学術機関リポジトリ「 OACIS」の試験公開について</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drfml/msg00448.html</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drfml/msg00448.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京海洋大学 もしくは 東京海洋大学 - Wikipedia</Title>
+        <Url>http://icecoffee.thruhere.net/query/%E6%9D%B1%E4%BA%AC%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://icecoffee.thruhere.net/query/%E6%9D%B1%E4%BA%AC%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 目次</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000384/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000384/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 目次</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000367/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000367/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : related:http://lib.s.kaiyodai&lt;wbr&gt;.ac.jp/</Title>
+        <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Flib.s.kaiyodai.ac.jp%2F&amp;theme=</Url>
+        <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Flib.s.kaiyodai.ac.jp%2F&amp;theme=</ClickUrl>
+    </Result>
+    <Result>
+        <Title>海洋大:書けるサーチ</Title>
+        <Url>http://ksearch.enq-g.info/result-8AC-97m-91-E5.htm</Url>
+        <ClickUrl>http://ksearch.enq-g.info/result-8AC-97m-91-E5.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 耐塩性酵母Pichia farinosa 産生キラートキシン(SMKT)の機能に関する生物物理学的研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000280</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000280</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | GPS・魚群探知機を用いた簡易海底地形計測の試み</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000557</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000557</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ノニルフェノール分解微生物</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000152</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000152</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | コンテナヤードにおける空コンテナの耐風性について</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000105</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000105</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Rachel Carson and Nature Writing</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000196</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000196</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 両側回遊型カジカ仔稚魚の遊泳・摂餌機能の発達に基づく発育段階</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000157</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000157</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Distribution of Marine Filamentous Fungi Associated ...</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000155</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000155</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 第一部 海鷹丸航海調査報告 平成13年度 第4次航海報告</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000383</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000383</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 動揺環境下における船上作業効率の減退と人体の挙動に対する影響&lt;wbr&gt;について</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000002</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000002</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 想像の海辺で : ヘルツマノフスキー : オルランドにおける&amp;lt;チャンドス体験&amp;gt;</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000139</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000139</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 近接離島の生活航路における運航サービスの改善策に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000003</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000003</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 誘導加熱用高周波ソフトスイッチングインバータ電源の研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000030</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000030</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 低グラスホフ数域における垂直加熱平板の自然対流場に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000007</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000007</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:28 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:28 PST 2010 -->
