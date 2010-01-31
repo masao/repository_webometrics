@@ -2,6 +2,8 @@
 # -*- coding: euc-jp -*-
 # $Id$
 
+# ./irdb.rb --format wiki zougen_*_ALL_honbun.tsv | sort -t"	" -k3 -rn | cat -n > ~/public_html/etc/webometrics_rep_jp.hikidoc
+
 require "kconv"
 require "date"
 require "uri"
@@ -37,9 +39,9 @@ def get_inlinkdata_total( url )
    end
    if not url.path.empty?
       url.path = ""
-      inlinks_subdomain = get_inlinkdata_total( url ) / 10.0
+      inlinks_subdomain = get_inlinkdata_total( url )
       #p [ url.to_s,  inlinks_subdomain ]
-      inlinks += inlinks_subdomain
+      inlinks += inlinks_subdomain / 10
    end
    inlinks
 end
@@ -71,7 +73,7 @@ if $0 == __FILE__
       url.sub!( /\/index\.(?:jsp|html?)(?:\?[\w\=]*)?$/, "/" )
       #url.sub!( /\/repo_index\.html?$/, "/" )
       #url.sub!( /\/Index\.e$/, "/" )
-      url.sub!( /portal$/, "/" )
+      url.sub!( /\/portal$/, "/" )
       #puts url
       inlinks = get_inlinkdata_total( url )
       #p inlinks
@@ -106,7 +108,8 @@ if $0 == __FILE__
                 growth_rate1,
                 growth_rate2,
                 growth_rate3,
-                Math.log( inlinks ) ]
+                Math.log( inlinks )
+              ]
       names << [ name, url ]
    end
    #puts data
