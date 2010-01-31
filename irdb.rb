@@ -49,7 +49,9 @@ ARGV.each do |f|
    #STDERR.puts f
    io = open( f )
    lines = io.readlines.map{|e| e.chomp.split( /\t/ ) }
-   name = lines.assoc("機関リポジトリ名称（日）".tosjis)
+   name1 = lines.assoc( "機関名称（日）".tosjis )
+   name2 = lines.assoc( "機関リポジトリ名称（日）".tosjis )
+   name = name1
    if name.nil?
       STDERR.puts "name not found: skipping #{ f }"
       next
