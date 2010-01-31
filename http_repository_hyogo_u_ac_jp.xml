@@ -3,13 +3,178 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="514"
+    totalResultsAvailable="1124"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>兵庫教育大学</Title>
+        <Url>http://www.hyogo-u.ac.jp/</Url>
+        <ClickUrl>http://www.hyogo-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学位論文</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hyogo University of Teacher Education Library Home Page</Title>
+        <Url>http://www.lib.hyogo-u.ac.jp/</Url>
+        <ClickUrl>http://www.lib.hyogo-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>井伏鱒二 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E4%BA%95%E4%BC%8F%E9%B1%92%E4%BA%8C</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E4%BA%95%E4%BC%8F%E9%B1%92%E4%BA%8C</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hyokyo Repository: Item 10132/2489</Title>
+        <Url>http://hdl.handle.net/10132/2489</Url>
+        <ClickUrl>http://hdl.handle.net/10132/2489</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hyokyo Repository: Item 10132/2490</Title>
+        <Url>http://hdl.handle.net/10132/2490</Url>
+        <ClickUrl>http://hdl.handle.net/10132/2490</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hyokyo Repository: Item 10132/2101</Title>
+        <Url>http://hdl.handle.net/10132/2101</Url>
+        <ClickUrl>http://hdl.handle.net/10132/2101</ClickUrl>
+    </Result>
+    <Result>
+        <Title>マザーグースと絵本で子育て</Title>
+        <Url>http://blog.livedoor.jp/a_a__chan/</Url>
+        <ClickUrl>http://blog.livedoor.jp/a_a__chan/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Home: 教育系サブジェクトリポジトリポータル</Title>
+        <Url>http://ir.u-gakugei.ac.jp/edu-rp/</Url>
+        <ClickUrl>http://ir.u-gakugei.ac.jp/edu-rp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - 紫音のブックマーク</Title>
+        <Url>http://b.hatena.ne.jp/sionsuzukaze/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/sionsuzukaze/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hyokyo Repository: Item 10132/191</Title>
+        <Url>http://hdl.handle.net/10132/191</Url>
+        <ClickUrl>http://hdl.handle.net/10132/191</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hyokyo Repository: Item 10132/1693</Title>
+        <Url>http://hdl.handle.net/10132/1693</Url>
+        <ClickUrl>http://hdl.handle.net/10132/1693</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - tari-G のブックマーク</Title>
+        <Url>http://b.hatena.ne.jp/tari-G/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/tari-G/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Dokdo-or-Takeshima?: The 21st column &quot;Seeking Truth Based ...</Title>
+        <Url>http://dokdo-or-takeshima.blogspot.com/2009/08/21th-column-seeking-truth-based-solely.html</Url>
+        <ClickUrl>http://dokdo-or-takeshima.blogspot.com/2009/08/21th-column-seeking-truth-based-solely.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教育系サブジェクトリポジトリについて</Title>
+        <Url>https://library.u-gakugei.ac.jp/edu-rp/</Url>
+        <ClickUrl>https://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教育系サブジェクトリポジトリについて</Title>
+        <Url>http://library.u-gakugei.ac.jp/edu-rp/</Url>
+        <ClickUrl>http://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>震災発 | 組織の震災記録リンク集</Title>
+        <Url>http://kobe117.ciao.jp/link/record.html</Url>
+        <ClickUrl>http://kobe117.ciao.jp/link/record.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>震災発 | 建築 - 被災家屋/マンション/仮設住宅-工学系リンク集</Title>
+        <Url>http://kobe117.ciao.jp/link/kenchiku.html</Url>
+        <ClickUrl>http://kobe117.ciao.jp/link/kenchiku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>兵庫教育大学サイトマップ</Title>
+        <Url>http://www.office.hyogo-u.ac.jp/office/map1.html</Url>
+        <ClickUrl>http://www.office.hyogo-u.ac.jp/office/map1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>akemi yanagihara - 夢人</Title>
+        <Url>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</Url>
+        <ClickUrl>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帝京科学大学附属図書館 - 電子ジャーナル</Title>
+        <Url>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ha.html</Url>
+        <ClickUrl>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ha.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帝京科学大学附属図書館 - 電子ジャーナル</Title>
+        <Url>http://www.lib.ntu.ac.jp:8080/oj/ojwa1sa.html</Url>
+        <ClickUrl>http://www.lib.ntu.ac.jp:8080/oj/ojwa1sa.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帝京科学大学附属図書館 - 電子ジャーナル</Title>
+        <Url>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ta.html</Url>
+        <ClickUrl>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ta.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帝京科学大学附属図書館 - 電子ジャーナル</Title>
+        <Url>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ka.html</Url>
+        <ClickUrl>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ka.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>volano mine eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/volano-mine-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/volano-mine-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Paul Austere eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/Paul-Austere-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/Paul-Austere-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WikiBibliography of English Language Studies - tan</Title>
+        <Url>http://www13.atwiki.jp/englishlanguage/pages/12.html</Url>
+        <ClickUrl>http://www13.atwiki.jp/englishlanguage/pages/12.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -17,245 +182,80 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=51</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Polymerized phase and amorphous diamond synthesized ...</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001031</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001031</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Energy transfer in porous-silicon/laser-dye composite ...</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001026</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001026</ClickUrl>
+        <Title>児の飴食いたる事 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E5%85%90%E3%81%AE%E9%A3%B4%E9%A3%9F%E3%81%84%E3%81%9F%E3%82%8B%E4%BA%8B&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E5%85%90%E3%81%AE%E9%A3%B4%E9%A3%9F%E3%81%84%E3%81%9F%E3%82%8B%E4%BA%8B&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>Dissertation</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</ClickUrl>
+        <Title>道場法師伝 都良香 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E9%81%93%E5%A0%B4%E6%B3%95%E5%B8%AB%E4%BC%9D+%E3%80%80%E9%83%BD%E8%89%AF%E9%A6%99%E3%80%80&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%81%93%E5%A0%B4%E6%B3%95%E5%B8%AB%E4%BC%9D+%E3%80%80%E9%83%BD%E8%89%AF%E9%A6%99%E3%80%80&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>2008-03-23 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080323/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080323/</ClickUrl>
+        <Title>イースI~失われし古代王国~ bt - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=%E3%82%A4%E3%83%BC%E3%82%B9I%EF%BD%9E%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%97%E5%8F%A4%E4%BB%A3%E7%8E%8B%E5%9B%BD%EF%BD%9E+bt&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E3%82%A4%E3%83%BC%E3%82%B9I%EF%BD%9E%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%97%E5%8F%A4%E4%BB%A3%E7%8E%8B%E5%9B%BD%EF%BD%9E+bt&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Different behavior of photoluminescence anisotropy in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001025</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001025</ClickUrl>
+        <Title>Miyoshi Tatsuji 三好達治 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php?title=Miyoshi_Tatsuji_%E4%B8%89%E5%A5%BD%E9%81%94%E6%B2%BB&amp;printable=yes</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php?title=Miyoshi_Tatsuji_%E4%B8%89%E5%A5%BD%E9%81%94%E6%B2%BB&amp;printable=yes</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 娘離れをテーマとする母親との時間制限カウンセリング事例</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001095</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001095</ClickUrl>
+        <Title>Kitahara Hakushu 北原白秋 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php?title=Kitahara_Hakushu_%E5%8C%97%E5%8E%9F%E7%99%BD%E7%A7%8B&amp;printable=yes</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php?title=Kitahara_Hakushu_%E5%8C%97%E5%8E%9F%E7%99%BD%E7%A7%8B&amp;printable=yes</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 非行と小児期逆境体験及び不適切養育との関連についての検討 : 少年院におけるACE質問紙を使用した実証的調査</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001518</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001518</ClickUrl>
+        <Title>Kaneko Mitsuharu 金子光晴 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php?title=Kaneko_Mitsuharu_%E9%87%91%E5%AD%90%E5%85%89%E6%99%B4&amp;printable=yes</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php?title=Kaneko_Mitsuharu_%E9%87%91%E5%AD%90%E5%85%89%E6%99%B4&amp;printable=yes</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | シドニーの職業階層と所得階層の変化 : バウムによる「都市の分極化仮説」検証以降</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001560</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001560</ClickUrl>
+        <Title>Kikuchi Kan 菊池寛 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php/Kikuchi_Kan_%E8%8F%8A%E6%B1%A0%E5%AF%9B</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php/Kikuchi_Kan_%E8%8F%8A%E6%B1%A0%E5%AF%9B</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 幾何における問題解決に際しての予想の発生と役割-コンピュータ&lt;wbr&gt;による場合と紙と鉛筆による場合-</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001625</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001625</ClickUrl>
+        <Title>Nakajima Atsushi 中島敦 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php/Nakajima_Atsushi_%E4%B8%AD%E5%B3%B6%E6%95%A6</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php/Nakajima_Atsushi_%E4%B8%AD%E5%B3%B6%E6%95%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | プレスリリース : 黒鉛からアモルファスダイヤモンドの生成に成功 -中性子線照射と衝撃圧縮超急冷法を組合せて-</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001485</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001485</ClickUrl>
+        <Title>Ibuse Masuji 井伏鱒二 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php/Ibuse_Masuji_%E4%BA%95%E4%BC%8F%E9%B1%92%E4%BA%8C</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php/Ibuse_Masuji_%E4%BA%95%E4%BC%8F%E9%B1%92%E4%BA%8C</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Listen : 兵庫教育大学附属図書館広報誌, Vol.3</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001487</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001487</ClickUrl>
+        <Title>Kajii Motojiro 梶井基次郎 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php/Kajii_Motojiro_%E6%A2%B6%E4%BA%95%E5%9F%BA%E6%AC%A1%E9%83%8E</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php/Kajii_Motojiro_%E6%A2%B6%E4%BA%95%E5%9F%BA%E6%AC%A1%E9%83%8E</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 地域におけるイヌを介した子どもと大人のコミュニケーションに関&lt;wbr&gt;する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001470</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001470</ClickUrl>
+        <Title>SCS eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/SCS-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/SCS-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 汪兆銘の対日政策の変遷について -1930年代を中心にして-</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001469</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001469</ClickUrl>
+        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Formation of dislocation dipoles in irradiated graphite</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001030</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001030</ClickUrl>
+        <Title>tungsten eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/tungsten-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/tungsten-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Listen増刊2009.5.26</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001490</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001490</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 教育子午線 : 兵庫教育大学広報誌,Vol.19</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001489</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001489</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 事象を価値づけ、わかりを高め合う社会科学習~合理的意志決定力&lt;wbr&gt;を育てる~</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001017</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001017</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 活動から学びをつくる英語学習</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001016</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001016</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 外国語学習における模倣と繰り返しの重要性について</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001212</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001212</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 教育子午線 : 兵庫教育大学広報誌, Vol.17</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001002</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001002</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 野外自然体験学習の推進を図る学校教育と教員の在り方に関する実&lt;wbr&gt;践研究 -学習評価と学習支援の新たな方法の提言-</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001483</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001483</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 子どもの自然体験活動の指導に求められる学校教員の資質能力形成&lt;wbr&gt;に関する研究 : 研究報告書(第二年次)</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001201</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001201</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 教育子午線 : 兵庫教育大学広報誌, Vol.16</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001001</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001001</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | わかるできる生かせる算数学習 : 一人一人を伸ばす指導と評価の一体化</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001041</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001041</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 教育子午線 : 兵庫教育大学広報誌,Vol.18</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001488</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001488</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 複式生き生き生き川上っ子 : 少人数を生かした複式指導 : (授業の個別化と集団化) : 研究紀要</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001040</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001040</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 自然体験活動において学校教育教員に求められる指導資質能力に関&lt;wbr&gt;する研究 : 研究報告書</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001200</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001200</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 物理における環境教育を視野に入れた教材化に関する実践的研究</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001484</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001484</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Pathway for the Transformation from Highly Oriented ...</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001486</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001486</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=51</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=51</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[兵庫教育大学附属図書館] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%CA%BC%B8%CB%B6%B5%B0%E9%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%CA%BC%B8%CB%B6%B5%B0%E9%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : related:http://library.naist&lt;wbr&gt;.jp/dspace ...</Title>
-        <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Flibrary.naist.jp%2Fdspace%2Fhandle%2F10061%2F1930&amp;theme=</Url>
-        <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Flibrary.naist.jp%2Fdspace%2Fhandle%2F10061%2F1930&amp;theme=</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Listen : 兵庫教育大学附属図書館広報誌, Vol.3</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001487/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001487/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>PR - About HEART</Title>
-        <Url>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?PR</Url>
-        <ClickUrl>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?PR</ClickUrl>
-    </Result>
-    <Result>
-        <Title>News - About HEART</Title>
-        <Url>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?News</Url>
-        <ClickUrl>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?News</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Policy - About HEART</Title>
-        <Url>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?Policy</Url>
-        <ClickUrl>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?Policy</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registration - About HEART</Title>
-        <Url>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?Registration</Url>
-        <ClickUrl>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?Registration</ClickUrl>
-    </Result>
-    <Result>
-        <Title>RecentChanges - About HEART</Title>
-        <Url>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?RecentChanges</Url>
-        <ClickUrl>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?RecentChanges</ClickUrl>
-    </Result>
-    <Result>
-        <Title>To teachers - About HEART</Title>
-        <Url>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?To+teachers</Url>
-        <ClickUrl>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?To+teachers</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 古代の数学について : エジプトとバビロニアを中心に</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001826</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001826</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 生徒一人一人を大切にする学級経営の研究 : シュタイナーの精神に基づいて</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001858</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001858</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 高校生を対象とした柔軟な対人情報処理を促すための授業の実践</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001859</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001859</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 小学校英語教育に対する児童および保護者の態度に関する調査研究&lt;wbr&gt;(Ⅰ) : 児童の態度に関する調査から</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001619</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001619</ClickUrl>
-    </Result>
-    <Result>
-        <Title>兵庫教育大学 もしくは 兵庫教育大学 - Wikipedia</Title>
-        <Url>http://icecoffee.thruhere.net/query/%E5%85%B5%E5%BA%AB%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%A6</Url>
-        <ClickUrl>http://icecoffee.thruhere.net/query/%E5%85%B5%E5%BA%AB%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 加古川とその周辺海域の水質調査</Title>
-        <Url>http://jairo.nii.ac.jp/0052/00001766/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0052/00001766/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>MenuBar - About HEART</Title>
-        <Url>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?MenuBar</Url>
-        <ClickUrl>http://www.lib.hyogo-u.ac.jp/protect_wiki/pukiwiki/?MenuBar</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[drf:429] RE: IR紹介:HEART</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drfml/msg00424.html</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drfml/msg00424.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[drf:428] IR紹介:HEART</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drfml/msg00423.html</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drfml/msg00423.html</ClickUrl>
+        <Title>piaget, j eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/piaget--j-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/piaget--j-pdf.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:59 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:59 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:55 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:55 PST 2010 -->

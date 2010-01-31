@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="4437"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Yamanashi University</Title>
+        <Url>http://www.yamanashi.ac.jp/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WWW Servers in Japan (Libraries-aiueo)</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_Japan.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Jump to Library in Japan</Title>
+        <Url>http://ss.cc.affrc.go.jp/ric/opac/opac.html</Url>
+        <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opac.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries_Japan</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_Japan_e.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan_e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japan OPAC list (2009.7.16)</Title>
+        <Url>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</Url>
+        <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館リンク集: 日本の図書館 Libraries in Japan</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/other/japan.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学図書館</Title>
+        <Url>http://www.jla.or.jp/link/univ.html</Url>
+        <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>投稿規程集 - 【SUNMEDIA】サンメディア学術情報サービス</Title>
+        <Url>http://www.sunmedia.co.jp/kitei.html</Url>
+        <ClickUrl>http://www.sunmedia.co.jp/kitei.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Universities in Japan (A)</Title>
+        <Url>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</Url>
+        <ClickUrl>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波大学附属図書館 図書館情報学図書館 (全国の大学図書館報)</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</ClickUrl>
+    </Result>
+    <Result>
+        <Title>正座 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%AD%A3%E5%BA%A7</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%AD%A3%E5%BA%A7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学図書館</Title>
+        <Url>http://wwwsoc.nii.ac.jp/jla/link/univ.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/jla/link/univ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Web Resources for Spinozists</Title>
+        <Url>http://www1.odn.ne.jp/gakuju/kyokai/spkLinks-e.html</Url>
+        <ClickUrl>http://www1.odn.ne.jp/gakuju/kyokai/spkLinks-e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国内大学個人文庫</Title>
+        <Url>http://www.fitweb.or.jp/~taka/pcollect.html</Url>
+        <ClickUrl>http://www.fitweb.or.jp/~taka/pcollect.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WWW Servers in Japan (Libraries)</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_list.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_list.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>コンピュータ・メディア工学科</Title>
+        <Url>http://www.cs.yamanashi.ac.jp/</Url>
+        <ClickUrl>http://www.cs.yamanashi.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries in the World</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/other/all.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/all.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - アクセスマップ</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/footer_menu/index.php?content_id=5</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/footer_menu/index.php?content_id=5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>メラトニン</Title>
+        <Url>http://wellcommunity.jp/</Url>
+        <ClickUrl>http://wellcommunity.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Home (nabelab)</Title>
+        <Url>http://nabelab.org/</Url>
+        <ClickUrl>http://nabelab.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化の情報_山梨県甲府市</Title>
+        <Url>http://www3.ocn.ne.jp/~ictkofu/index_info.htm</Url>
+        <ClickUrl>http://www3.ocn.ne.jp/~ictkofu/index_info.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 入試情報</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/admission_top/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/admission_top/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - Application Guideline for Specially-Appointed ...</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/employ_info/index.php?page=article&amp;storyid=93</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/employ_info/index.php?page=article&amp;storyid=93</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - Application Guideline for Specially-Appointed ...</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/employ_info/index.php?page=article&amp;storyid=114</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/employ_info/index.php?page=article&amp;storyid=114</ClickUrl>
+    </Result>
+    <Result>
+        <Title>こどもの本の日 - 今日のことあれこれと・・・</Title>
+        <Url>http://blog.goo.ne.jp/yousan02/e/b3510daf28d10f6b59416f031380a510</Url>
+        <ClickUrl>http://blog.goo.ne.jp/yousan02/e/b3510daf28d10f6b59416f031380a510</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Directory - World: Japanese: 健康: 医学: 資料: 図書館</Title>
+        <Url>http://www.dmoz.org/World/Japanese/%E5%81%A5%E5%BA%B7/%E5%8C%BB%E5%AD%A6/%E8%B3%87%E6%96%99/%E5%9B%B3%E6%9B%B8%E9%A4%A8/</Url>
+        <ClickUrl>http://www.dmoz.org/World/Japanese/%E5%81%A5%E5%BA%B7/%E5%8C%BB%E5%AD%A6/%E8%B3%87%E6%96%99/%E5%9B%B3%E6%9B%B8%E9%A4%A8/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries_Japan</Title>
+        <Url>http://www.libra.titech.ac.jp/chiku_Japan.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/chiku_Japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 受験生の方へ</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/prospect_top/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/prospect_top/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 社会貢献・産学連携</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/cooperation_top/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/cooperation_top/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>医学図書館 - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Health/Medicine/Libraries/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Health/Medicine/Libraries/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 平成21年度連続市民講座 受講生募集!</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/information/index.php?page=article&amp;storyid=202</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/information/index.php?page=article&amp;storyid=202</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Yahoo!カテゴリ - 全リスト</Title>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20011214/complete_listing/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20011214/complete_listing/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>みんなちがくて、みんな良し! - livedoor Blog(ブログ)</Title>
+        <Url>http://blog.livedoor.jp/hokutonoda/</Url>
+        <ClickUrl>http://blog.livedoor.jp/hokutonoda/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>山梨県の図書館</Title>
+        <Url>http://www.reference-net.jp/lib_dir/19.html</Url>
+        <ClickUrl>http://www.reference-net.jp/lib_dir/19.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 梨大倶楽部</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/nashidai_club/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/nashidai_club/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>独立行政法人国立病院機構甲府病院 -診療科案内・整形外科・リハビリテーション科-</Title>
+        <Url>http://www.kofu-hospital.jp/shinryou/seikeigeka.html</Url>
+        <ClickUrl>http://www.kofu-hospital.jp/shinryou/seikeigeka.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>リンク集(分野別情報源)</Title>
+        <Url>http://www3.lib.pref.yamanashi.jp/refjirei/link_3.html</Url>
+        <ClickUrl>http://www3.lib.pref.yamanashi.jp/refjirei/link_3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - キャンパスマップ</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/footer_menu/index.php?content_id=6</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/footer_menu/index.php?content_id=6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 医学部附属病院 言語聴覚士 募集(随時)</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/employ_info/index.php?page=article&amp;storyid=24</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/employ_info/index.php?page=article&amp;storyid=24</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[知識人という言葉] 「知識人」という単語の由来を教えてください。 いつから存在してるのか、誰が考案したのか等を ...</Title>
+        <Url>http://q.hatena.ne.jp/1229348610</Url>
+        <ClickUrl>http://q.hatena.ne.jp/1229348610</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HOME PAGE KITAMURA</Title>
+        <Url>http://www.js.yamanashi.ac.jp/~skita/</Url>
+        <ClickUrl>http://www.js.yamanashi.ac.jp/~skita/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 教育研究採択プロジェクトグローバルCOE等</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/gcoe/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/gcoe/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - Photo Gallery</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/myalbum/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/myalbum/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 在学生の方へ</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/students_top/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/students_top/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 地域の方へ</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/community_top/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/community_top/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>山梨県の図書館情報 - 山梨の情報サイト@Yamanashi</Title>
+        <Url>http://search.yamanashi-i.com/special/library.html</Url>
+        <ClickUrl>http://search.yamanashi-i.com/special/library.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 山梨大学 - 学部・大学院・附属施設</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/institution_top/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/institution_top/</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:49 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:49 PST 2010 -->

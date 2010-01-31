@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="3396"
+    totalResultsAvailable="1146"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
     </Result>
     <Result>
         <Title>学位論文</Title>
@@ -25,6 +25,11 @@
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大分大学学術情報拠点図書館</Title>
+        <Url>http://www.lib.oita-u.ac.jp/</Url>
+        <ClickUrl>http://www.lib.oita-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -57,6 +62,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
+        <Title>大分大学学術情報拠点図書館</Title>
+        <Url>http://www.lib.oita-u.ac.jp/welcome.html</Url>
+        <ClickUrl>http://www.lib.oita-u.ac.jp/welcome.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
@@ -80,6 +90,11 @@
         <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
         <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
@@ -137,14 +152,24 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
+    </Result>
+    <Result>
         <Title>川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
         <Title>国会議員の先生方へ: 川西正彦の公共政策研究</Title>
@@ -197,14 +222,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_b846.html</ClickUrl>
     </Result>
     <Result>
-        <Title>所功の女系継承容認論駁・皇室典範に関する有識者会議報告書論駁&lt;wbr&gt;(その1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>色が変わって良くなったインフォシーク: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>所功の女系継承容認論駁・皇室典範に関する有識者会議報告書論駁&lt;wbr&gt;(その1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</ClickUrl>
     </Result>
     <Result>
         <Title>検疫はいい加減やめるべきだ: 川西正彦の公共政策研究</Title>
@@ -231,31 +256,6 @@
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2b9c.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2b9c.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>オバマは歓迎しないが、3州での同性婚禁止住民投票勝利は良かっ&lt;wbr&gt;た: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/11/post-27ac.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/11/post-27ac.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>馬鹿げてるノー残業デー: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/07/post_8c24.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/07/post_8c24.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>反労働基本権-実質的に団結権を否定し労働組合の免責特権を縮小&lt;wbr&gt;した1980~90年代イギリス保守党政権の労働政策を賞賛する ...</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/10/post-2ac3.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/10/post-2ac3.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Jim DeMint 上院議員のいうUAWがデトロイトの苦境の要因とする見解は基本&lt;wbr&gt;的に正しい: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/jim-demint-uaw-.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/jim-demint-uaw-.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>全米商工会議所は来るべきEmployee Free Choice 法案との戦いを「ハルマゲドン」と呼び反対運動に100億 ...</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/01/employee-free-c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/01/employee-free-c.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:13 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:21:13 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:54 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:54 PST 2010 -->

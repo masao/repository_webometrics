@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="25"
+    totalResultsAvailable="24"
     firstResultPosition="1"
-    totalResultsReturned="25">
+    totalResultsReturned="24">
         <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
@@ -32,24 +32,19 @@
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011452</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | On Some Bilateral Exchange Method And Its Dynamics</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011469</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011469</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | Flight-to-Liquidity and Flight-to-Quality : A Lesson ...</Title>
         <Url>http://jairo.nii.ac.jp/0132/00011455</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011455</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 中国の株式市場</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011470</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011470</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 目次</Title>
         <Url>http://jairo.nii.ac.jp/0132/00011493</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011493</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中国の株式市場</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011470</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011470</ClickUrl>
     </Result>
     <Result>
         <Title>IRDBコンテンツ分析システム | IR</Title>
@@ -67,14 +62,14 @@
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011459/en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 第6回青山学院「会計サミット」を終えて</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011514</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011514</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 会計操作をもたらす諸問題 : わが国の会計・監査制度を巡る課題を中心に</Title>
         <Url>http://jairo.nii.ac.jp/0132/00011516</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011516</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 第6回青山学院「会計サミット」を終えて</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011514</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011514</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 目次</Title>
@@ -132,5 +127,5 @@
         <ClickUrl>http://livetube.cc/%E5%B3%A0/%E3%81%88%E3%82%8A%E3%81%8B%E3%81%A1%E3%82%83%E3%82%93%E3%83%BE(*%C2%B4%E2%8A%A5%EF%BD%80*)%E3%83%8E</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:10 PST 2010 -->
-<!-- ws02.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:10 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:57 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:57 PST 2010 -->

@@ -3,13 +3,58 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="809"
+    totalResultsAvailable="4568"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ゴキブリは排尿しない:その優れた代謝系が明らかに | WIRED VISION</Title>
+        <Url>http://wiredvision.jp/news/200910/2009102922.html</Url>
+        <ClickUrl>http://wiredvision.jp/news/200910/2009102922.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Yayoi period - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Yayoi_period</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Yayoi_period</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本人 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E4%BA%BA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ゆとり教育 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%86%E3%81%A8%E3%82%8A%E6%95%99%E8%82%B2</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%86%E3%81%A8%E3%82%8A%E6%95%99%E8%82%B2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ishigaki Island - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Ishigaki_Island</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Ishigaki_Island</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>パラオ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%AA</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%AA</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -17,245 +62,200 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Robert Goddard (novelist) - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Robert_Goddard_(novelist)</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Robert_Goddard_(novelist)</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球語 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E8%AA%9E</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E8%AA%9E</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+        <Title>責任能力 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%B2%AC%E4%BB%BB%E8%83%BD%E5%8A%9B</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%B2%AC%E4%BB%BB%E8%83%BD%E5%8A%9B</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+        <Title>沖縄県の歴史 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E6%AD%B4%E5%8F%B2</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E6%AD%B4%E5%8F%B2</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+        <Title>日本の官僚支配と沖縄米軍</Title>
+        <Url>http://tanakanews.com/091115okinawa.htm</Url>
+        <ClickUrl>http://tanakanews.com/091115okinawa.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
+        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+        <Title>関西共同行動ホームページ</Title>
+        <Url>http://www17.plala.or.jp/kyodo/</Url>
+        <ClickUrl>http://www17.plala.or.jp/kyodo/</ClickUrl>
     </Result>
     <Result>
-        <Title>press - DRF wiki</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?press</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
+        <Title>マリーの部屋 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%81%AE%E9%83%A8%E5%B1%8B</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%81%AE%E9%83%A8%E5%B1%8B</ClickUrl>
     </Result>
     <Result>
-        <Title>Google Earth version of the data</Title>
-        <Url>http://maps.repository66.org/repository66dotorg-maps.kml</Url>
-        <ClickUrl>http://maps.repository66.org/repository66dotorg-maps.kml</ClickUrl>
+        <Title>Chinadaily BBS - Powered by Discuz! Board</Title>
+        <Url>http://bbs.chinadaily.com.cn/viewthread.php?action=printable&amp;tid=505865</Url>
+        <ClickUrl>http://bbs.chinadaily.com.cn/viewthread.php?action=printable&amp;tid=505865</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories: University of the Ryukyus</Title>
-        <Url>http://www.opendoar.org/find.php?search=University+of+the+Ryukyus&amp;title=University+of+the+Ryukyus</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=University+of+the+Ryukyus&amp;title=University+of+the+Ryukyus</ClickUrl>
+        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - University of the Ryukyus Repository</Title>
-        <Url>http://www.opendoar.org/find.php?format=full&amp;search=University+of+the+Ryukyus+Repository&amp;title=SUPPRESS</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=University+of+the+Ryukyus+Repository&amp;title=SUPPRESS</ClickUrl>
+        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Home: 沖縄地域学リポジトリ</Title>
-        <Url>http://okinawa-repo.lib.u-ryukyu.ac.jp/index.jsp?lang=</Url>
-        <ClickUrl>http://okinawa-repo.lib.u-ryukyu.ac.jp/index.jsp?lang=</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
-        <Url>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</Url>
-        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</ClickUrl>
+        <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
     <Result>
-        <Title>他大学のリポジトリ - IR log</Title>
-        <Url>http://ir.iwate-u.ac.jp/irlog/index.php?%C2%BE%C2%E7%B3%D8%A4%CE%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA</Url>
-        <ClickUrl>http://ir.iwate-u.ac.jp/irlog/index.php?%C2%BE%C2%E7%B3%D8%A4%CE%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA</ClickUrl>
+        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
     </Result>
     <Result>
-        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
-        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
-        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
+        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
+        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</ClickUrl>
+        <Title>出生数試算のインチキ-皇室典範に関する有識者会議報告書反駁&lt;wbr&gt;-: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
+        <Title>エコのための深夜営業規制反対: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
+        <Title>川西正彦の公共政策研究: オープンショップ運動・レイバーインジャンクション・ロックナー&lt;wbr&gt;エイジ・ウェルフェアキャピタリズム ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
+        <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</ClickUrl>
+        <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 平成18年度組登場</Title>
-        <Url>http://www.openaccessjapan.com/archives/2007/02/18_1.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2007/02/18_1.html</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_81.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_81.html</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</ClickUrl>
+        <Title>Animal Pharm: Benefits of High-Saturated Fat Diets (Part V ...</Title>
+        <Url>http://drbganimalpharm.blogspot.com/2009/08/benefits-of-high-saturated-fat-diets.html</Url>
+        <ClickUrl>http://drbganimalpharm.blogspot.com/2009/08/benefits-of-high-saturated-fat-diets.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
+        <Title>買い物: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-1b19.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-1b19.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+        <Title>国会議員の先生方へ: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_796d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_796d.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>挿入 [挿入] 特集 ギフトの総合専門サイト</Title>
-        <Url>http://www.fbfos.com/%E7%89%B9%E9%9B%86/%E6%8C%BF%E5%85%A5/11c4f5.html</Url>
-        <ClickUrl>http://www.fbfos.com/%E7%89%B9%E9%9B%86/%E6%8C%BF%E5%85%A5/11c4f5.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>垂直 [垂直] 特集 スナップ研究所</Title>
-        <Url>http://www.dogstogether.com/%E7%89%B9%E9%9B%86/%E5%9E%82%E7%9B%B4/28c036.html</Url>
-        <ClickUrl>http://www.dogstogether.com/%E7%89%B9%E9%9B%86/%E5%9E%82%E7%9B%B4/28c036.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; サイトマップ</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?page_id=326</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?page_id=326</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ホーム: 沖縄地域学リポジトリ</Title>
-        <Url>http://okinawa-repo.lib.u-ryukyu.ac.jp/index.jsp?lang=ja</Url>
-        <ClickUrl>http://okinawa-repo.lib.u-ryukyu.ac.jp/index.jsp?lang=ja</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Coastal biodiversity of Langkawi Island: Threats and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0048/00003890</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0048/00003890</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 沖縄県今帰仁村謝名方言のアスペクト・テンス・ムード</Title>
-        <Url>http://jairo.nii.ac.jp/0048/00004142</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0048/00004142</ClickUrl>
-    </Result>
-    <Result>
-        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
-        <Url>http://wwwsoc.nii.ac.jp/ecrk/contribute_rule.html</Url>
-        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/contribute_rule.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 機関リポジトリ Archive</Title>
-        <Url>http://www.openaccessjapan.com/cat6/</Url>
-        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
+        <Title>北島選手の国民栄誉賞は当然でないの: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/08/post_4356.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/08/post_4356.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:53 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:53 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:50 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:50 PST 2010 -->

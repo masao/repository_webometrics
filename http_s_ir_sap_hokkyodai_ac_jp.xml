@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="224"
+    totalResultsAvailable="800"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,14 +12,124 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>北海道教育大学附属図書館</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>北海道教育大学附属図書館旭川館</Title>
+        <Url>http://www.asa.hokkyodai.ac.jp/office/tosho/</Url>
+        <ClickUrl>http://www.asa.hokkyodai.ac.jp/office/tosho/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>岩見沢館ホームページ</Title>
+        <Url>http://www.iwa.hokkyodai.ac.jp/~tosho/</Url>
+        <ClickUrl>http://www.iwa.hokkyodai.ac.jp/~tosho/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道教育大学附属図書館釧路館ホームページ</Title>
+        <Url>http://www.kus.hokkyodai.ac.jp/users/library/index.html</Url>
+        <ClickUrl>http://www.kus.hokkyodai.ac.jp/users/library/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道教育大学附属図書館札幌館トップページ</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/top.html</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>岩見沢館ホームページ</Title>
+        <Url>http://tosho.iwa.hokkyodai.ac.jp/</Url>
+        <ClickUrl>http://tosho.iwa.hokkyodai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道教育大学附属図書館札幌館利用案内(一般市民向け&lt;wbr&gt;)</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/gakugai.htm</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/gakugai.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>バーム - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%A0</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%A0</ClickUrl>
+    </Result>
+    <Result>
+        <Title>情報検索メニュー &amp;gt; 北海道教育大学附属図書館釧路館</Title>
+        <Url>http://www.kus.hokkyodai.ac.jp/users/library/kensaku.html</Url>
+        <ClickUrl>http://www.kus.hokkyodai.ac.jp/users/library/kensaku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>index.html</Title>
+        <Url>http://www.sap.hokkyodai.ac.jp/~yosino/</Url>
+        <ClickUrl>http://www.sap.hokkyodai.ac.jp/~yosino/</ClickUrl>
+    </Result>
+    <Result>
         <Title>ACADEMIC RESOURCE GUIDE [まぐまぐ!]</Title>
         <Url>http://archive.mag2.com/0000005669/20081103195618000.html</Url>
         <ClickUrl>http://archive.mag2.com/0000005669/20081103195618000.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - neutralization</Title>
+        <Url>http://ci.nii.ac.jp/keyword/neutralization</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/neutralization</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - education level</Title>
+        <Url>http://ci.nii.ac.jp/keyword/education+level</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/education+level</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Sodium Chloride</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Sodium+Chloride</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Sodium+Chloride</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Yamagata Prefecture</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Yamagata+Prefecture</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Yamagata+Prefecture</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>【著書】</Title>
+        <Url>http://www.asa.hokkyodai.ac.jp/research/staff/kado/gyouseki.htm</Url>
+        <ClickUrl>http://www.asa.hokkyodai.ac.jp/research/staff/kado/gyouseki.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>干場博 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E5%B9%B2%E5%A0%B4%E5%8D%9A&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E5%B9%B2%E5%A0%B4%E5%8D%9A&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Arishima Takeo 有島武郎 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php?title=Arishima_Takeo_%E6%9C%89%E5%B3%B6%E6%AD%A6%E9%83%8E&amp;printable=yes</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php?title=Arishima_Takeo_%E6%9C%89%E5%B3%B6%E6%AD%A6%E9%83%8E&amp;printable=yes</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii - Research on the Economic History of the Early Showa ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007224815</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007224815</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii - Journal of Hokkaido University of Education ...</Title>
+        <Url>http://ci.nii.ac.jp/vol_issue/nels/AA11273292/ISS0000033839_en.html</Url>
+        <ClickUrl>http://ci.nii.ac.jp/vol_issue/nels/AA11273292/ISS0000033839_en.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii - Journal of Hokkaido University of Education ...</Title>
+        <Url>http://ci.nii.ac.jp/vol_issue/nels/AA11272030/ISS0000437761_en.html</Url>
+        <ClickUrl>http://ci.nii.ac.jp/vol_issue/nels/AA11272030/ISS0000437761_en.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii - SGE in brief PTA seminar and increasing both human ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000080700/</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000080700/</ClickUrl>
     </Result>
     <Result>
         <Title>大学機関リポジトリ</Title>
@@ -32,9 +142,89 @@
         <ClickUrl>http://barrel.ih.otaru-uc.ac.jp/library/world.jsp</ClickUrl>
     </Result>
     <Result>
+        <Title>北海道教育大学附属図書館札幌館開館日程</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/cal.html</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/cal.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>絵本コーナー</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/ehon.html</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/ehon.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道教育大学附属図書館懸賞論文</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/kensho-ronbun.html</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/kensho-ronbun.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道教育大学附属図書館</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/kenkyuseika-top.html</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/kenkyuseika-top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - 自覚症状</Title>
+        <Url>http://ci.nii.ac.jp/keyword/%E8%87%AA%E8%A6%9A%E7%97%87%E7%8A%B6</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/%E8%87%AA%E8%A6%9A%E7%97%87%E7%8A%B6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : ベル・ランカスター</Title>
+        <Url>http://search.livedoor.com/search/?q=%A5%D9%A5%EB%A1%A6%A5%E9%A5%F3%A5%AB%A5%B9%A5%BF%A1%BC</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%A5%D9%A5%EB%A1%A6%A5%E9%A5%F3%A5%AB%A5%B9%A5%BF%A1%BC</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 国際労働者協会は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B9%F1%BA%DD%CF%AB%C6%AF%BC%D4%B6%A8%B2%F1%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B9%F1%BA%DD%CF%AB%C6%AF%BC%D4%B6%A8%B2%F1%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道教育大学学術リポジトリ概要</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/repository/gaiyo.html</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/repository/gaiyo.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道教育大学学術リポジトリ管理運営規則</Title>
+        <Url>http://s-opac.sap.hokkyodai.ac.jp/library/repository/kisoku.html</Url>
+        <ClickUrl>http://s-opac.sap.hokkyodai.ac.jp/library/repository/kisoku.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
         <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</Url>
         <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>よろず長屋雑記帳</Title>
+        <Url>http://www.sahitahu.com/blog/date/2008/08.html</Url>
+        <ClickUrl>http://www.sahitahu.com/blog/date/2008/08.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii - The Effect of Class Size upon Teachers&apos; Class ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006825931</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006825931</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - SOAP</Title>
+        <Url>http://ci.nii.ac.jp/keyword/SOAP</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/SOAP</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Empathy</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Empathy</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Empathy</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Classes</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Classes</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Classes</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - museums</Title>
+        <Url>http://ci.nii.ac.jp/keyword/museums</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/museums</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Bridging</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Bridging</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Bridging</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 美術館施設との連携による造形教材の開発 : 北海道立釧路芸術館における版画ワークショップの事例</Title>
@@ -62,200 +252,10 @@
         <ClickUrl>http://jairo.nii.ac.jp/0086/00000829</ClickUrl>
     </Result>
     <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=85</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=85</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[北海道教育大学附属図書館] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%CB%CC%B3%A4%C6%BB%B6%B5%B0%E9%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%CB%CC%B3%A4%C6%BB%B6%B5%B0%E9%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : related:http://ir.lib.muroran&lt;wbr&gt;-it.ac.jp ...</Title>
-        <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Fir.lib.muroran-it.ac.jp%2Fdspace%2Fhandle%2F10258%2F215&amp;theme=</Url>
-        <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Fir.lib.muroran-it.ac.jp%2Fdspace%2Fhandle%2F10258%2F215&amp;theme=</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 総合問題の性質と選抜機能 -北海道教育大学函館校2ヵ年の事例-</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000820/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000820/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - Hokkaido University of Education Repository</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=258</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=258</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=0</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=6</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | マット運動における「後転」の指導法に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000901</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000901</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 感覚等の切り取る世界についての教育内容検討と授業プラン実践</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000917</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000917</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 児童生徒の社会性の育成を目指す生徒指導の推進のための考察</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000887</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000887</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 道徳的行動の主たる要因としての共感について</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000883</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000883</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 地域と連携した実践力ある環境教育教員養成カリキュラムの構築と&lt;wbr&gt;実践(1) 北海道教育大学地域教育開発専攻の ...</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000916</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000916</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 古典への興味・関心を高める教材開発</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000891/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000891/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>北海道教育大学 あるいは 北海道教育大学札幌校</Title>
-        <Url>http://kirin.thruhere.net/category/%E5%8C%97%E6%B5%B7%E9%81%93%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%A6/</Url>
-        <ClickUrl>http://kirin.thruhere.net/category/%E5%8C%97%E6%B5%B7%E9%81%93%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%A6/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言: 北海道教育大学学術リポジトリ</Title>
-        <Url>http://liblog.seesaa.net/article/103182223.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/article/103182223.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言</Title>
-        <Url>http://liblog.seesaa.net/archives/20080704-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/archives/20080704-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言</Title>
-        <Url>http://liblog.seesaa.net/archives/200807-2.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/archives/200807-2.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>北海道教育大学:書けるサーチ</Title>
-        <Url>http://ksearch.enq-g.info/result-96k-8AC-93-B9-8B-B3-88-E7-91-E5-8Aw.htm</Url>
-        <ClickUrl>http://ksearch.enq-g.info/result-96k-8AC-93-B9-8B-B3-88-E7-91-E5-8Aw.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「2008-06-05」を含むブログ - はてなキーワード</Title>
-        <Url>http://k.hatena.ne.jp/keywordblog/2008-06-05?date=20081102</Url>
-        <ClickUrl>http://k.hatena.ne.jp/keywordblog/2008-06-05?date=20081102</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「北海道教育大学」を含むブログ - はてなキーワード</Title>
-        <Url>http://k.hatena.ne.jp/keywordblog/%E5%8C%97%E6%B5%B7%E9%81%93%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%A6</Url>
-        <ClickUrl>http://k.hatena.ne.jp/keywordblog/%E5%8C%97%E6%B5%B7%E9%81%93%E6%95%99%E8%82%B2%E5%A4%A7%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=5</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=5</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3&amp;page=1</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3&amp;page=1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=2&amp;page=4</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=2&amp;page=4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=7&amp;page=4</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=7&amp;page=4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=5&amp;page=4</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=5&amp;page=4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=1&amp;page=4</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=1&amp;page=4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - 未ブックマークエントリー</Title>
-        <Url>http://b.hatena.ne.jp/entry/http://s-ir.sap.hokkyodai.ac.jp/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/entry/http://s-ir.sap.hokkyodai.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 道徳哲学ノート(1)同情の道徳 : ショウペンハウアーの道徳哲学</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000627</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000627</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | アイヌ語旭川方言の複他動詞</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000605</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000605</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 受益圏/受苦圏概念に関する省察 : 可能性と課題</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000620</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000620</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 聖なるエアと世俗のエア : トマス・キャンピオンのThe Bookes of Ayres について(5)</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000615</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000615</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 北海道産植物の染色体数(22)</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000458</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000458</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Reggio Emilia Approachにおけるプロジェクトの分析</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000151</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000151</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 皮錫端『経学歴史』訳注(7)</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000600</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000600</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 父親の養育態度に影響する諸要因とその構造</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000102</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000102</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 北海道教育大学・地域環境教育課程(札幌校)におけるファカルテ&lt;wbr&gt;ィ・ディベロップメントについて : 「都市環境 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000165</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000165</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 芸術文化学部構想における教育・研究のあり方</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000175</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000175</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 「空気でっぽう」における前玉の運動 : 発射の早さに関する理論計算と実験の結果</Title>
-        <Url>http://jairo.nii.ac.jp/0086/00000142</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0086/00000142</ClickUrl>
+        <Title>CiNii - On the You Mao Edition of Li Shan&apos;s Commentary on the ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007224771</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007224771</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:30 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:30 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:22 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:22 PST 2010 -->

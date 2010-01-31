@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="529"
+    totalResultsAvailable="532"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -120,11 +120,6 @@
         <Title>Community Repository of Fukui (CRFukui): K01 福井工業高等専門学校</Title>
         <Url>http://hdl.handle.net/10461/2463</Url>
         <ClickUrl>http://hdl.handle.net/10461/2463</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 小浜町絵図</Title>
-        <Url>http://hdl.handle.net/10461/2734</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2734</ClickUrl>
     </Result>
     <Result>
         <Title>Community Repository of Fukui (CRFukui): 御天守絵図</Title>
@@ -256,6 +251,11 @@
         <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
     </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:50:49 PST 2010 -->
-<!-- ws07.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:50:49 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:38 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:38 PST 2010 -->

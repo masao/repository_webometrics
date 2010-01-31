@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="1657"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学附属図書館</Title>
+        <Url>http://www.lib.akita-u.ac.jp/</Url>
+        <ClickUrl>http://www.lib.akita-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
+        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 1604年のマーストンとシェイクスピア -「変装した支配者」劇をめぐって-</Title>
+        <Url>http://hdl.handle.net/10295/902</Url>
+        <ClickUrl>http://hdl.handle.net/10295/902</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 扁平・陥没乳頭妊婦に対する乳頭保護器(ブレストシェル&lt;wbr&gt;)使用の効果</Title>
+        <Url>http://hdl.handle.net/10295/291</Url>
+        <ClickUrl>http://hdl.handle.net/10295/291</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 当院における在宅療養者への医療材料提供の実態と課題に関する研&lt;wbr&gt;究</Title>
+        <Url>http://hdl.handle.net/10295/396</Url>
+        <ClickUrl>http://hdl.handle.net/10295/396</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 急性期の呼吸理学療法</Title>
+        <Url>http://hdl.handle.net/10295/446</Url>
+        <ClickUrl>http://hdl.handle.net/10295/446</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 1930年代ドイツにおける&amp;lt;世界開放性&amp;gt;をめぐる思想模様 --ヴァルター・ベンヤミンの媒体概念を中心にして&lt;wbr&gt;--</Title>
+        <Url>http://hdl.handle.net/10295/488</Url>
+        <ClickUrl>http://hdl.handle.net/10295/488</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 母性看護実習における学生の看護技術経験の認識に関する調査</Title>
+        <Url>http://hdl.handle.net/10295/408</Url>
+        <ClickUrl>http://hdl.handle.net/10295/408</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: スクワットマシンを使用して下肢筋のトレーニングを中心とした呼&lt;wbr&gt;吸リハビリテーションを行った症例</Title>
+        <Url>http://hdl.handle.net/10295/450</Url>
+        <ClickUrl>http://hdl.handle.net/10295/450</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 呼吸リハビリテーションにおける吸気筋トレーニングの効果</Title>
+        <Url>http://hdl.handle.net/10295/789</Url>
+        <ClickUrl>http://hdl.handle.net/10295/789</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 罨法におけるリスクマネジメントと卒後継続教育の実態に関する研&lt;wbr&gt;究</Title>
+        <Url>http://hdl.handle.net/10295/448</Url>
+        <ClickUrl>http://hdl.handle.net/10295/448</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 自閉症児にVOCAを活用したコミュニケーション指導</Title>
+        <Url>http://hdl.handle.net/10295/672</Url>
+        <ClickUrl>http://hdl.handle.net/10295/672</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: CGを利用した西馬音内盆踊りの学習 -CGによる学習と実地講師による指導の比較</Title>
+        <Url>http://hdl.handle.net/10295/1596</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1596</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 音楽科教員養成における知と体験の新たな構築を目指して -「フィールドインターンシップ型授業」及び「ゲーミング ...</Title>
+        <Url>http://hdl.handle.net/10295/1597</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1597</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 樹状細胞クロストークによる新規免疫賦活機構の解明</Title>
+        <Url>http://hdl.handle.net/10295/1564</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1564</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: フィールドインターンシップ型授業報告</Title>
+        <Url>http://hdl.handle.net/10295/1588</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1588</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 幼稚園教育における「集団」の意味 -3歳児の園生活への「適応」をめぐって-</Title>
+        <Url>http://hdl.handle.net/10295/1590</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1590</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 一大学の看護学生の地域看護学実習Ⅰにおける家庭訪問の学びの過&lt;wbr&gt;程と内容</Title>
+        <Url>http://hdl.handle.net/10295/1469</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1469</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 着床前期胚の発育とその調節因子</Title>
+        <Url>http://hdl.handle.net/10295/1563</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1563</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 重度骨粗鬆症による脊柱変形の病態の解明と 疼痛に対する新たな治療法の開発</Title>
+        <Url>http://hdl.handle.net/10295/1562</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1562</ClickUrl>
+    </Result>
+    <Result>
+        <Title>|秋田大学附属図書館</Title>
+        <Url>http://www.lib.akita-u.ac.jp/freedb.htm</Url>
+        <ClickUrl>http://www.lib.akita-u.ac.jp/freedb.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Varieties and Techniques of Prohibited Kansetsu-waza ...</Title>
+        <Url>http://judoforum.com/index.php?showtopic=34519</Url>
+        <ClickUrl>http://judoforum.com/index.php?showtopic=34519</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse Japan (ROAR)</Title>
+        <Url>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</Url>
+        <ClickUrl>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse DSpace (ROAR)</Title>
+        <Url>http://roar.eprints.org/?country=&amp;version=dspace&amp;type=&amp;order=name&amp;submit=Filter</Url>
+        <ClickUrl>http://roar.eprints.org/?country=&amp;version=dspace&amp;type=&amp;order=name&amp;submit=Filter</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: Computational Inverse Techniques for Material ...</Title>
+        <Url>http://hdl.handle.net/10295/741</Url>
+        <ClickUrl>http://hdl.handle.net/10295/741</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: Al-Si二次元鋳造合金のスラリー・エロージョン挙動</Title>
+        <Url>http://hdl.handle.net/10295/597</Url>
+        <ClickUrl>http://hdl.handle.net/10295/597</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 弾性波の伝播と応答解析</Title>
+        <Url>http://hdl.handle.net/10295/370</Url>
+        <ClickUrl>http://hdl.handle.net/10295/370</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 糖尿病クリニカルパス適用において食事指導を行った7症例の検討</Title>
+        <Url>http://hdl.handle.net/10295/297</Url>
+        <ClickUrl>http://hdl.handle.net/10295/297</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 戦争遺跡のアーカイブと歴史教育おける活用 -秋田県を事例として-</Title>
+        <Url>http://hdl.handle.net/10295/1589</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1589</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 西欧の弁論・修辞学概論</Title>
+        <Url>http://hdl.handle.net/10295/1527</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1527</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 2置換β-およびγ-シクロデキストリンにおけるアントラニル酸&lt;wbr&gt;修飾残基の二次元1H-NMRおよび吸収スペクトル挙動</Title>
+        <Url>http://hdl.handle.net/10295/1515</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1515</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: Multifractal Analysis for Quantifying the Morphology of ...</Title>
+        <Url>http://hdl.handle.net/10295/1084</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1084</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: 自己像を遊ぶ</Title>
+        <Url>http://hdl.handle.net/10295/1525</Url>
+        <ClickUrl>http://hdl.handle.net/10295/1525</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>FUJIWARA Katsuya / 藤原 克哉</Title>
+        <Url>http://www.fts.ie.akita-u.ac.jp/~fujiwara/</Url>
+        <ClickUrl>http://www.fts.ie.akita-u.ac.jp/~fujiwara/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Interdisciplinary: メモ:ガイドライン試案を見る</Title>
+        <Url>http://seisin-isiki-karada.cocolog-nifty.com/blog/2009/05/post-5e41.html</Url>
+        <ClickUrl>http://seisin-isiki-karada.cocolog-nifty.com/blog/2009/05/post-5e41.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>社会貢献|国立大学法人 秋田大学</Title>
+        <Url>http://www.pcix.akita-u.ac.jp/public/</Url>
+        <ClickUrl>http://www.pcix.akita-u.ac.jp/public/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>kiyolist</Title>
+        <Url>http://www.lib.akita-u.ac.jp/kiyoej/kiyolist.htm</Url>
+        <ClickUrl>http://www.lib.akita-u.ac.jp/kiyoej/kiyolist.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アンプのエージング?</Title>
+        <Url>http://www38.tok2.com/home/shigaarch/OldBBS/71ampaging.html</Url>
+        <ClickUrl>http://www38.tok2.com/home/shigaarch/OldBBS/71ampaging.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Asia</Title>
+        <Url>http://opendoar.org/find.php?cID=Asia&amp;title=Asia</Url>
+        <ClickUrl>http://opendoar.org/find.php?cID=Asia&amp;title=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>amphicrania : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=amphicrania</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=amphicrania</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Google Earth version of the data</Title>
+        <Url>http://maps.repository66.org/repository66dotorg-maps.kml</Url>
+        <ClickUrl>http://maps.repository66.org/repository66dotorg-maps.kml</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace Community Continues to Grow</Title>
+        <Url>http://www.dspace.org/DSpace-Community-Continues-to-Grow.html</Url>
+        <ClickUrl>http://www.dspace.org/DSpace-Community-Continues-to-Grow.html</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:51 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:51 PST 2010 -->

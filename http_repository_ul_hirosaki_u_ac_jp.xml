@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="3377"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>弘前大学大学院医学研究科</Title>
+        <Url>http://hippo.med.hirosaki-u.ac.jp/</Url>
+        <ClickUrl>http://hippo.med.hirosaki-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>弘前大学附属図書館ホームページ</Title>
+        <Url>http://www.ul.hirosaki-u.ac.jp/</Url>
+        <ClickUrl>http://www.ul.hirosaki-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>弘前大学出版会</Title>
+        <Url>http://www.hirosaki-u.ac.jp/hupress/</Url>
+        <ClickUrl>http://www.hirosaki-u.ac.jp/hupress/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
+        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/288</Url>
+        <ClickUrl>http://hdl.handle.net/10129/288</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/465</Url>
+        <ClickUrl>http://hdl.handle.net/10129/465</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/915</Url>
+        <ClickUrl>http://hdl.handle.net/10129/915</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/926</Url>
+        <ClickUrl>http://hdl.handle.net/10129/926</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/815</Url>
+        <ClickUrl>http://hdl.handle.net/10129/815</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/262</Url>
+        <ClickUrl>http://hdl.handle.net/10129/262</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/202</Url>
+        <ClickUrl>http://hdl.handle.net/10129/202</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/662</Url>
+        <ClickUrl>http://hdl.handle.net/10129/662</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/576</Url>
+        <ClickUrl>http://hdl.handle.net/10129/576</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/217</Url>
+        <ClickUrl>http://hdl.handle.net/10129/217</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/316</Url>
+        <ClickUrl>http://hdl.handle.net/10129/316</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/809</Url>
+        <ClickUrl>http://hdl.handle.net/10129/809</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/266</Url>
+        <ClickUrl>http://hdl.handle.net/10129/266</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/563</Url>
+        <ClickUrl>http://hdl.handle.net/10129/563</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/872</Url>
+        <ClickUrl>http://hdl.handle.net/10129/872</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/218</Url>
+        <ClickUrl>http://hdl.handle.net/10129/218</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/412</Url>
+        <ClickUrl>http://hdl.handle.net/10129/412</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/203</Url>
+        <ClickUrl>http://hdl.handle.net/10129/203</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/594</Url>
+        <ClickUrl>http://hdl.handle.net/10129/594</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/722</Url>
+        <ClickUrl>http://hdl.handle.net/10129/722</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/272</Url>
+        <ClickUrl>http://hdl.handle.net/10129/272</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/251</Url>
+        <ClickUrl>http://hdl.handle.net/10129/251</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/898</Url>
+        <ClickUrl>http://hdl.handle.net/10129/898</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/698</Url>
+        <ClickUrl>http://hdl.handle.net/10129/698</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1127</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1127</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1793</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1793</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1802</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1802</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1800</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1800</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1801</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1801</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1796</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1796</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1797</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1797</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1792</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1792</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1798</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1798</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1795</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1795</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1799</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1799</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:43 PST 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:43 PST 2010 -->

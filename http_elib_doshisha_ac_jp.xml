@@ -3,13 +3,48 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1633"
+    totalResultsAvailable="8413"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Blackboard Jungle - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Blackboard_Jungle</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Blackboard_Jungle</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Teddy Boy - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Teddy_Boy</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Teddy_Boy</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮澤賢治の詩の世界 ( mental sketches hyperlinked )</Title>
+        <Url>http://www.ihatov.cc/</Url>
+        <ClickUrl>http://www.ihatov.cc/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Korean War Ruins of Cheorwon | The Marmot&apos;s Hole</Title>
+        <Url>http://www.rjkoehler.com/2009/05/15/korean-war-ruins-of-cheorwon/</Url>
+        <ClickUrl>http://www.rjkoehler.com/2009/05/15/korean-war-ruins-of-cheorwon/</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -17,9 +52,54 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
+        <Title>在日韓国・朝鮮人 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E9%9F%93%E5%9B%BD%E3%83%BB%E6%9C%9D%E9%AE%AE%E4%BA%BA</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E9%9F%93%E5%9B%BD%E3%83%BB%E6%9C%9D%E9%AE%AE%E4%BA%BA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>薫日記</Title>
+        <Url>http://kaoru.txt-nifty.com/diary/</Url>
+        <ClickUrl>http://kaoru.txt-nifty.com/diary/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DOSHISHA UNIVERSITY OPENCOURSEWARE</Title>
+        <Url>http://opencourse.doshisha.ac.jp/english/index.html</Url>
+        <ClickUrl>http://opencourse.doshisha.ac.jp/english/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>江戸時代の日本の礼儀と習慣をスケッチした貴重書が全ページ無料&lt;wbr&gt;公開中 - GIGAZINE</Title>
+        <Url>http://gigazine.net/index.php?/news/comments/20071206_sketches_of_japanese_manners_and_customs/</Url>
+        <ClickUrl>http://gigazine.net/index.php?/news/comments/20071206_sketches_of_japanese_manners_and_customs/</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Mika&apos;s Touch Type Trainer</Title>
+        <Url>http://www.asahi-net.or.jp/~BG8J-IMMR/touch_type/index.html</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~BG8J-IMMR/touch_type/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>pen</Title>
+        <Url>http://peacegoropen.tumblr.com/</Url>
+        <ClickUrl>http://peacegoropen.tumblr.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>同志社大学 オープンコースウェア</Title>
+        <Url>http://opencourse.doshisha.ac.jp/</Url>
+        <ClickUrl>http://opencourse.doshisha.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>links.hwan.com</Title>
+        <Url>http://links.hwan.com/</Url>
+        <ClickUrl>http://links.hwan.com/</ClickUrl>
     </Result>
     <Result>
         <Title>同志社大学図書館</Title>
@@ -27,235 +107,155 @@
         <ClickUrl>http://www.doshisha.ac.jp/library/</ClickUrl>
     </Result>
     <Result>
+        <Title>Archivalia: Digital Libraries in Japan with content in ...</Title>
+        <Url>http://archiv.twoday.net/stories/4575784/</Url>
+        <ClickUrl>http://archiv.twoday.net/stories/4575784/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japan&apos;s Conspiracy (3) P1</Title>
+        <Url>http://park.geocities.jp/jpcdebate/0103/p031.html</Url>
+        <ClickUrl>http://park.geocities.jp/jpcdebate/0103/p031.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BibliOdyssey: Connecting with China</Title>
+        <Url>http://bibliodyssey.blogspot.com/2006/02/connecting-with-china.html</Url>
+        <ClickUrl>http://bibliodyssey.blogspot.com/2006/02/connecting-with-china.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DOORS(同志社大学・女子大学OPAC)</Title>
+        <Url>http://doors.doshisha.ac.jp/</Url>
+        <ClickUrl>http://doors.doshisha.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>同志社大学大学院 総合政策科学研究科</Title>
+        <Url>http://sosei.doshisha.ac.jp/</Url>
+        <ClickUrl>http://sosei.doshisha.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BibliOdyssey: Diversions</Title>
+        <Url>http://bibliodyssey.blogspot.com/2008/02/diversions.html</Url>
+        <ClickUrl>http://bibliodyssey.blogspot.com/2008/02/diversions.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Exploring Chungjeong-no | The Marmot&apos;s Hole</Title>
+        <Url>http://www.rjkoehler.com/2009/12/08/exploring-chungjeong-no/</Url>
+        <ClickUrl>http://www.rjkoehler.com/2009/12/08/exploring-chungjeong-no/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Doshisha University</Title>
         <Url>http://www.doshisha.ac.jp/chs/</Url>
         <ClickUrl>http://www.doshisha.ac.jp/chs/</ClickUrl>
     </Result>
     <Result>
-        <Title>Doshisha University</Title>
-        <Url>http://www.doshisha.ac.jp/korean/</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/korean/</ClickUrl>
+        <Title>NetbibWiki:DigiMisc [wiki, knowledgebase, cms, php, mysql]</Title>
+        <Url>http://wiki.netbib.de/coma/DigiMisc</Url>
+        <ClickUrl>http://wiki.netbib.de/coma/DigiMisc</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
-        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>Doshisha University</Title>
-        <Url>http://www.doshisha.ac.jp/chc/</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/chc/</ClickUrl>
+        <Title>Taneda Santoka&apos;s Haiku - Terebess Asia Online (TAO)</Title>
+        <Url>http://terebess.hu/english/haiku/taneda.html</Url>
+        <ClickUrl>http://terebess.hu/english/haiku/taneda.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
     </Result>
     <Result>
-        <Title>特別資料:EU情報センター同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/eu/</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/eu/</ClickUrl>
+        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse Japan (ROAR)</Title>
-        <Url>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</Url>
-        <ClickUrl>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</ClickUrl>
+        <Title>幻覚剤 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B9%BB%E8%A6%9A%E5%89%A4</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B9%BB%E8%A6%9A%E5%89%A4</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+        <Title>Exiled to Vending Machine Island</Title>
+        <Url>http://arity.blogspot.com/</Url>
+        <ClickUrl>http://arity.blogspot.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>特別資料:特別コレクション同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/collection/index.html</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/collection/index.html</ClickUrl>
+        <Title>キリシタン版 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%82%B7%E3%82%BF%E3%83%B3%E7%89%88</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%82%B7%E3%82%BF%E3%83%B3%E7%89%88</ClickUrl>
     </Result>
     <Result>
-        <Title>スキルアップサポート:講習会のお知らせ同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/skillup/</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/skillup/</ClickUrl>
+        <Title>Rakuyōshū - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Rakuy%C5%8Dsh%C5%AB</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Rakuy%C5%8Dsh%C5%AB</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>同志社創立〜初代図書館(有終館)時代 1875-1919同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/history/1875.html</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/history/1875.html</ClickUrl>
+        <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学生・教職員の方へ:図書館利用案内同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/student/useguide.html</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/student/useguide.html</ClickUrl>
+        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
     </Result>
     <Result>
-        <Title>2009年度開館スケジュール:今出川図書館同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/calendar/schedule_imade.html</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/calendar/schedule_imade.html</ClickUrl>
+        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web of World Repositories: Directory of Repositories</Title>
-        <Url>http://repositories.webometrics.info/directory_rep.asp?offset=100</Url>
-        <ClickUrl>http://repositories.webometrics.info/directory_rep.asp?offset=100</ClickUrl>
+        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web de Repositorios Mundiales: Directorio de Repositorios</Title>
-        <Url>http://repositories.webometrics.info/directory_rep_es.asp?offset=100</Url>
-        <ClickUrl>http://repositories.webometrics.info/directory_rep_es.asp?offset=100</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registry of Open Access Repositories (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=rawliststatus%3Ddead&amp;prev=Prev&amp;page=38</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=rawliststatus%3Ddead&amp;prev=Prev&amp;page=38</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories: Doshisha University</Title>
-        <Url>http://www.opendoar.org/find.php?search=Doshisha+University&amp;title=Doshisha+University</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=Doshisha+University&amp;title=Doshisha+University</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Doshisha University Academic Repository</Title>
-        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Doshisha+University+Academic+Repository&amp;title=SUPPRESS</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Doshisha+University+Academic+Repository&amp;title=SUPPRESS</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DOORSサプリ同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/topics/09.html</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/topics/09.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>旧図書館(啓明館)時代 1920-1972同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/history/1920.html</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/history/1920.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>館内フロアマップ:ラーネッド記念図書館同志社大学図書館</Title>
-        <Url>http://www.doshisha.ac.jp/library/floormap/learned.html</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/floormap/learned.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>特別コレクション:The John Dewey &amp;amp; Pragmatism Collection at the ...</Title>
-        <Url>http://www.doshisha.ac.jp/library/collection/dewey.html</Url>
-        <ClickUrl>http://www.doshisha.ac.jp/library/collection/dewey.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>苦笑 [苦笑] 特集 ニッセン World</Title>
-        <Url>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/%E8%8B%A6%E7%AC%91/8a657b.html</Url>
-        <ClickUrl>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/%E8%8B%A6%E7%AC%91/8a657b.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国民年金 [国民年金] 特集 ¦ 失業.jp</Title>
-        <Url>http://www.lexapro-order.com/%E7%89%B9%E9%9B%86/%E5%9B%BD%E6%B0%91%E5%B9%B4%E9%87%91/6e764e.html</Url>
-        <ClickUrl>http://www.lexapro-order.com/%E7%89%B9%E9%9B%86/%E5%9B%BD%E6%B0%91%E5%B9%B4%E9%87%91/6e764e.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ITパスポート試験 [ITパスポート試験] 特集 ニッセン World</Title>
-        <Url>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/IT%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E8%A9%A6%E9%A8%93/f1adea.html</Url>
-        <ClickUrl>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/IT%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E8%A9%A6%E9%A8%93/f1adea.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
-        <Url>http://roar.eprints.org/view/software/other/other.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/software/other/other.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Development of Capillary Electrophoresis Equipped ...</Title>
-        <Url>http://jairo.nii.ac.jp/0027/00010098</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0027/00010098</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 満州事変以降の半島兵站基地化期における朝鮮総督府の宗教政策―&lt;wbr&gt;非西欧系宗教と西欧系宗教の比較を通して―</Title>
-        <Url>http://jairo.nii.ac.jp/0027/00010352</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0027/00010352</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | ナチス体制確立期までのグスタフ・ラートブルフによる法哲学上の&lt;wbr&gt;重要作品選(1)</Title>
-        <Url>http://jairo.nii.ac.jp/0027/00010113</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0027/00010113</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 石橋湛山の日蓮論</Title>
-        <Url>http://jairo.nii.ac.jp/0027/00010387</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0027/00010387</ClickUrl>
-    </Result>
-    <Result>
-        <Title>千田忠男 インターネット研究室 &amp;lt;研究業績&amp;gt;</Title>
-        <Url>http://www1.doshisha.ac.jp/~tchida/study.html</Url>
-        <ClickUrl>http://www1.doshisha.ac.jp/~tchida/study.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</ClickUrl>
+        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:29 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:29 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:18 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:18 PST 2010 -->

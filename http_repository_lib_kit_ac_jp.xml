@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="1312"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都工芸繊維大学附属図書館</Title>
+        <Url>http://www.lib.kit.ac.jp/</Url>
+        <ClickUrl>http://www.lib.kit.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>インターネット上の基礎知識 NDC 000-299 </Title>
+        <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</Url>
+        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1925</Title>
+        <Url>http://hdl.handle.net/10212/1925</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1925</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1912</Title>
+        <Url>http://hdl.handle.net/10212/1912</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1912</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/959</Title>
+        <Url>http://hdl.handle.net/10212/959</Url>
+        <ClickUrl>http://hdl.handle.net/10212/959</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/950</Title>
+        <Url>http://hdl.handle.net/10212/950</Url>
+        <ClickUrl>http://hdl.handle.net/10212/950</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/943</Title>
+        <Url>http://hdl.handle.net/10212/943</Url>
+        <ClickUrl>http://hdl.handle.net/10212/943</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/934</Title>
+        <Url>http://hdl.handle.net/10212/934</Url>
+        <ClickUrl>http://hdl.handle.net/10212/934</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/932</Title>
+        <Url>http://hdl.handle.net/10212/932</Url>
+        <ClickUrl>http://hdl.handle.net/10212/932</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/143</Title>
+        <Url>http://hdl.handle.net/10212/143</Url>
+        <ClickUrl>http://hdl.handle.net/10212/143</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/602</Title>
+        <Url>http://hdl.handle.net/10212/602</Url>
+        <ClickUrl>http://hdl.handle.net/10212/602</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/956</Title>
+        <Url>http://hdl.handle.net/10212/956</Url>
+        <ClickUrl>http://hdl.handle.net/10212/956</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/595</Title>
+        <Url>http://hdl.handle.net/10212/595</Url>
+        <ClickUrl>http://hdl.handle.net/10212/595</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/592</Title>
+        <Url>http://hdl.handle.net/10212/592</Url>
+        <ClickUrl>http://hdl.handle.net/10212/592</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/590</Title>
+        <Url>http://hdl.handle.net/10212/590</Url>
+        <ClickUrl>http://hdl.handle.net/10212/590</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/591</Title>
+        <Url>http://hdl.handle.net/10212/591</Url>
+        <ClickUrl>http://hdl.handle.net/10212/591</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/594</Title>
+        <Url>http://hdl.handle.net/10212/594</Url>
+        <ClickUrl>http://hdl.handle.net/10212/594</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/990</Title>
+        <Url>http://hdl.handle.net/10212/990</Url>
+        <ClickUrl>http://hdl.handle.net/10212/990</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/947</Title>
+        <Url>http://hdl.handle.net/10212/947</Url>
+        <ClickUrl>http://hdl.handle.net/10212/947</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/978</Title>
+        <Url>http://hdl.handle.net/10212/978</Url>
+        <ClickUrl>http://hdl.handle.net/10212/978</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1195</Title>
+        <Url>http://hdl.handle.net/10212/1195</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1195</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1108</Title>
+        <Url>http://hdl.handle.net/10212/1108</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1108</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1199</Title>
+        <Url>http://hdl.handle.net/10212/1199</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1199</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1177</Title>
+        <Url>http://hdl.handle.net/10212/1177</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1177</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1088</Title>
+        <Url>http://hdl.handle.net/10212/1088</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1088</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1201</Title>
+        <Url>http://hdl.handle.net/10212/1201</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1201</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1212</Title>
+        <Url>http://hdl.handle.net/10212/1212</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1212</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1098</Title>
+        <Url>http://hdl.handle.net/10212/1098</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1098</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1208</Title>
+        <Url>http://hdl.handle.net/10212/1208</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1208</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1197</Title>
+        <Url>http://hdl.handle.net/10212/1197</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1197</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1196</Title>
+        <Url>http://hdl.handle.net/10212/1196</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1196</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1215</Title>
+        <Url>http://hdl.handle.net/10212/1215</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1215</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1178</Title>
+        <Url>http://hdl.handle.net/10212/1178</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1178</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1919</Title>
+        <Url>http://hdl.handle.net/10212/1919</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1919</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1194</Title>
+        <Url>http://hdl.handle.net/10212/1194</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1194</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1202</Title>
+        <Url>http://hdl.handle.net/10212/1202</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1202</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1206</Title>
+        <Url>http://hdl.handle.net/10212/1206</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1206</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:58 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:58 PST 2010 -->

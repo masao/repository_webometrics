@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2100"
+    totalResultsAvailable="2102"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -137,14 +137,14 @@
         <ClickUrl>http://hdl.handle.net/10458/1970</ClickUrl>
     </Result>
     <Result>
-        <Title>宮崎大学学術情報リポジトリ : 「看護実践における認知行動療法」ワークショップセミナー報告</Title>
-        <Url>http://hdl.handle.net/10458/1972</Url>
-        <ClickUrl>http://hdl.handle.net/10458/1972</ClickUrl>
-    </Result>
-    <Result>
         <Title>宮崎大学学術情報リポジトリ : アフリカにおける地方自治体の国際協力の展開と課題 : ブルキナファソの事例から</Title>
         <Url>http://hdl.handle.net/10458/1983</Url>
         <ClickUrl>http://hdl.handle.net/10458/1983</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 「看護実践における認知行動療法」ワークショップセミナー報告</Title>
+        <Url>http://hdl.handle.net/10458/1972</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1972</ClickUrl>
     </Result>
     <Result>
         <Title>宮崎大学学術情報リポジトリ : 暖地向けダイズ品種における子実中の無機成分含有量について</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:39 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:39 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:32 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:32 PST 2010 -->

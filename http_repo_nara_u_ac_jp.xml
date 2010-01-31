@@ -1,11 +1,12 @@
+#<Net::HTTPOK:0x402d1730>
 <?xml version='1.0' encoding='UTF-8'?>
 <ResultSet
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="23"
+    totalResultsAvailable="49"
     firstResultPosition="1"
-    totalResultsReturned="23">
+    totalResultsReturned="49">
         <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
@@ -32,11 +33,6 @@
         <ClickUrl>http://jairo.nii.ac.jp/0126/00000046</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 日吉社をめぐる断章二、三</Title>
-        <Url>http://jairo.nii.ac.jp/0126/00000085</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0126/00000085</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 家屋の「はし」考</Title>
         <Url>http://jairo.nii.ac.jp/0126/00000086</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0126/00000086</ClickUrl>
@@ -45,6 +41,11 @@
         <Title>JAIRO | 暈繝彩色の研究</Title>
         <Url>http://jairo.nii.ac.jp/0126/00000099</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0126/00000099</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 日吉社をめぐる断章二、三</Title>
+        <Url>http://jairo.nii.ac.jp/0126/00000085</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0126/00000085</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 裏表紙・目次</Title>
@@ -67,6 +68,31 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=125</ClickUrl>
     </Result>
     <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 光市事件の経過</Title>
+        <Url>http://search.livedoor.com/search/?q=%B8%F7%BB%D4%BB%F6%B7%EF%A4%CE%B7%D0%B2%E1&amp;start=30</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%B8%F7%BB%D4%BB%F6%B7%EF%A4%CE%B7%D0%B2%E1&amp;start=30</ClickUrl>
+    </Result>
+    <Result>
+        <Title>中之錐 訳 - results - www.fd3la.com</Title>
+        <Url>http://www.fd3la.com/engsearch.php?title=%E4%B8%AD%E4%B9%8B%E9%8C%90%E3%80%80%E8%A8%B3&amp;action=search</Url>
+        <ClickUrl>http://www.fd3la.com/engsearch.php?title=%E4%B8%AD%E4%B9%8B%E9%8C%90%E3%80%80%E8%A8%B3&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>独立行政法人 理化学研究所 脳科学総 研究センター 神経情報基盤センター 奥村 嘉宏</Title>
+        <Url>http://nijc.brain.riken.jp/xoonips/index.php?plugin=attach&amp;pcmd=open&amp;file=okumura.pdf&amp;refer=WorkShop%2F20100122</Url>
+        <ClickUrl>http://nijc.brain.riken.jp/xoonips/index.php?plugin=attach&amp;pcmd=open&amp;file=okumura.pdf&amp;refer=WorkShop%2F20100122</ClickUrl>
+    </Result>
+    <Result>
+        <Title>両有性具者 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E4%B8%A1%E6%9C%89%E6%80%A7%E5%85%B7%E8%80%85&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E4%B8%A1%E6%9C%89%E6%80%A7%E5%85%B7%E8%80%85&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>credit suisse 金 - The Search メタ検索 2.0</Title>
+        <Url>http://meta2.the-search.jp/w/credit+suisse+%E9%87%91_10.html</Url>
+        <ClickUrl>http://meta2.the-search.jp/w/credit+suisse+%E9%87%91_10.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>図書館員もどきのひとり言</Title>
         <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
         <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
@@ -75,6 +101,31 @@
         <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
         <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
         <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 矛盾に対する態度</Title>
+        <Url>http://search.livedoor.com/search/?q=%CC%B7%BD%E2%A4%CB%C2%D0%A4%B9%A4%EB%C2%D6%C5%D9</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%CC%B7%BD%E2%A4%CB%C2%D0%A4%B9%A4%EB%C2%D6%C5%D9</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 女性解放は 立役者は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BD%F7%C0%AD%B2%F2%CA%FC%A4%CF+%CE%A9%CC%F2%BC%D4%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BD%F7%C0%AD%B2%F2%CA%FC%A4%CF+%CE%A9%CC%F2%BC%D4%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 公立図書館は 公的関与は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B8%F8%CE%A9%BF%DE%BD%F1%B4%DB%A4%CF+%B8%F8%C5%AA%B4%D8%CD%BF%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B8%F8%CE%A9%BF%DE%BD%F1%B4%DB%A4%CF+%B8%F8%C5%AA%B4%D8%CD%BF%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 町並地区は 江戸時代後期は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C4%AE%CA%C2%C3%CF%B6%E8%A4%CF+%B9%BE%B8%CD%BB%FE%C2%E5%B8%E5%B4%FC%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C4%AE%CA%C2%C3%CF%B6%E8%A4%CF+%B9%BE%B8%CD%BB%FE%C2%E5%B8%E5%B4%FC%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 上部ローム層は 下部粘土層は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BE%E5%C9%F4%A5%ED%A1%BC%A5%E0%C1%D8%A4%CF+%B2%BC%C9%F4%C7%B4%C5%DA%C1%D8%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BE%E5%C9%F4%A5%ED%A1%BC%A5%E0%C1%D8%A4%CF+%B2%BC%C9%F4%C7%B4%C5%DA%C1%D8%A4%CF</ClickUrl>
     </Result>
     <Result>
         <Title>COVEtのRSSリーダー/受信箱</Title>
@@ -87,6 +138,56 @@
         <ClickUrl>http://jairo.nii.ac.jp/0126/00000087</ClickUrl>
     </Result>
     <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 藤花</Title>
+        <Url>http://search.livedoor.com/search/?c=ld_news_sl_2&amp;q=%C6%A3%B2%D6&amp;start=90</Url>
+        <ClickUrl>http://search.livedoor.com/search/?c=ld_news_sl_2&amp;q=%C6%A3%B2%D6&amp;start=90</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : &amp;lt;b&amp;gt;かぶいて候&amp;lt;/b&amp;gt;</Title>
+        <Url>http://search.livedoor.com/search/?q=%3Cb%3E%A4%AB%A4%D6%A4%A4%A4%C6%B8%F5%3C%2Fb%3E&amp;start=70</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%3Cb%3E%A4%AB%A4%D6%A4%A4%A4%C6%B8%F5%3C%2Fb%3E&amp;start=70</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 株価は 企業業績は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B3%F4%B2%C1%A4%CF+%B4%EB%B6%C8%B6%C8%C0%D3%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B3%F4%B2%C1%A4%CF+%B4%EB%B6%C8%B6%C8%C0%D3%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 旧相馬藩領は 総括は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B5%EC%C1%EA%C7%CF%C8%CD%CE%CE%A4%CF+%C1%ED%B3%E7%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B5%EC%C1%EA%C7%CF%C8%CD%CE%CE%A4%CF+%C1%ED%B3%E7%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 手紙 光市母子殺害</Title>
+        <Url>http://search.livedoor.com/search/?c=ld_kyu_sl_2&amp;q=%BC%EA%BB%E6+%B8%F7%BB%D4%CA%EC%BB%D2%BB%A6%B3%B2&amp;start=90</Url>
+        <ClickUrl>http://search.livedoor.com/search/?c=ld_kyu_sl_2&amp;q=%BC%EA%BB%E6+%B8%F7%BB%D4%CA%EC%BB%D2%BB%A6%B3%B2&amp;start=90</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 消費者は 有機農業は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BE%C3%C8%F1%BC%D4%A4%CF+%CD%AD%B5%A1%C7%C0%B6%C8%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BE%C3%C8%F1%BC%D4%A4%CF+%CD%AD%B5%A1%C7%C0%B6%C8%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 山口県光市は 弁護団は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BB%B3%B8%FD%B8%A9%B8%F7%BB%D4%A4%CF+%CA%DB%B8%EE%C3%C4%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BB%B3%B8%FD%B8%A9%B8%F7%BB%D4%A4%CF+%CA%DB%B8%EE%C3%C4%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 南京城の周辺は無人地帯ではなかった</Title>
+        <Url>http://search.livedoor.com/search/?q=%C6%EE%B5%FE%BE%EB%A4%CE%BC%FE%CA%D5%A4%CF%CC%B5%BF%CD%C3%CF%C2%D3%A4%C7%A4%CF%A4%CA%A4%AB%A4%C3%A4%BF&amp;start=90</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%C6%EE%B5%FE%BE%EB%A4%CE%BC%FE%CA%D5%A4%CF%CC%B5%BF%CD%C3%CF%C2%D3%A4%C7%A4%CF%A4%CA%A4%AB%A4%C3%A4%BF&amp;start=90</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : ペルーアンデス、ワピ</Title>
+        <Url>http://search.livedoor.com/search/?c=ld_keyword_sl&amp;ie=utf8&amp;q=%E3%83%9A%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E3%80%81%E3%83%AF%E3%83%94</Url>
+        <ClickUrl>http://search.livedoor.com/search/?c=ld_keyword_sl&amp;ie=utf8&amp;q=%E3%83%9A%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E3%80%81%E3%83%AF%E3%83%94</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : ペルーアンデス、ワピ</Title>
+        <Url>http://search.livedoor.com/search/?c=ld_header_sb&amp;ie=utf8&amp;q=%E3%83%9A%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E3%80%81%E3%83%AF%E3%83%94&amp;x=0&amp;y=0</Url>
+        <ClickUrl>http://search.livedoor.com/search/?c=ld_header_sb&amp;ie=utf8&amp;q=%E3%83%9A%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%87%E3%82%B9%E3%80%81%E3%83%AF%E3%83%94&amp;x=0&amp;y=0</ClickUrl>
+    </Result>
+    <Result>
         <Title>xooopsのRSSリーダー - xoops</Title>
         <Url>http://r.hatena.ne.jp/xooops/xoops/?of=60</Url>
         <ClickUrl>http://r.hatena.ne.jp/xooops/xoops/?of=60</ClickUrl>
@@ -97,9 +198,39 @@
         <ClickUrl>http://jairo.nii.ac.jp/0126/00000044</ClickUrl>
     </Result>
     <Result>
+        <Title>livedoor ウェブ検索 検索結果 : PISA</Title>
+        <Url>http://search.livedoor.com/search/?q=PISA&amp;start=30</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=PISA&amp;start=30</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : Psychic</Title>
+        <Url>http://search.livedoor.com/search/?q=Psychic&amp;start=20</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=Psychic&amp;start=20</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 仏海</Title>
+        <Url>http://search.livedoor.com/search/?q=%CA%A9%B3%A4&amp;start=20</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%CA%A9%B3%A4&amp;start=20</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奈良大学 | ウェブ検索結果 - ウマい検索</Title>
+        <Url>http://uma3.net/web/%E5%A5%88%E8%89%AF%E5%A4%A7%E5%AD%A6.html</Url>
+        <ClickUrl>http://uma3.net/web/%E5%A5%88%E8%89%AF%E5%A4%A7%E5%AD%A6.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>「奈良大学」に関するSEO調査結果 - SEO Knowledge - 無料で使えるSEO対策ツール -</Title>
         <Url>http://seo.kndb.jp/keyword/%E5%A5%88%E8%89%AF%E5%A4%A7%E5%AD%A6</Url>
         <ClickUrl>http://seo.kndb.jp/keyword/%E5%A5%88%E8%89%AF%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 仏の蘇</Title>
+        <Url>http://search.livedoor.com/search/?q=%CA%A9%A4%CE%C1%C9&amp;start=50</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%CA%A9%A4%CE%C1%C9&amp;start=50</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ampw.net/mvm/search.cgi?key=?%8E%A1%02?%C0%E5%A2%B0?%8E%BD</Title>
+        <Url>http://ampw.net/mvm/search.cgi?key=%3F%8E%A1%02%3F%C0%E5%A2%B0%3F%8E%BD</Url>
+        <ClickUrl>http://ampw.net/mvm/search.cgi?key=%3F%8E%A1%02%3F%C0%E5%A2%B0%3F%8E%BD</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor ウェブ検索 検索結果 : 奈良大学</Title>
@@ -122,5 +253,5 @@
         <ClickUrl>http://r.hatena.ne.jp/xoopser/xoops%E6%83%85%E5%A0%B1/http://b.hatena.ne.jp/keyword/XOOPS?mode=rss&amp;sort=eid&amp;threshold=3</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:05 PST 2010 -->
-<!-- ws14.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:05 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:35 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:35 PST 2010 -->

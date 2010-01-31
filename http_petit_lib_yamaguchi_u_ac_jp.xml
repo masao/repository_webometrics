@@ -3,10 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="3848"
+    totalResultsAvailable="7258"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
         <Title>山口大学トップページ</Title>
         <Url>http://www.yamaguchi-u.ac.jp/</Url>
         <ClickUrl>http://www.yamaguchi-u.ac.jp/</ClickUrl>
@@ -20,6 +25,11 @@
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -47,6 +57,11 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
         <Title>山口大学受験生の方へ</Title>
         <Url>http://www.yamaguchi-u.ac.jp/yf_addmission.html</Url>
         <ClickUrl>http://www.yamaguchi-u.ac.jp/yf_addmission.html</ClickUrl>
@@ -55,6 +70,16 @@
         <Title>山口大学教員公募</Title>
         <Url>http://www.yamaguchi-u.ac.jp/kyoukankoubo.html</Url>
         <ClickUrl>http://www.yamaguchi-u.ac.jp/kyoukankoubo.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -90,6 +115,11 @@
         <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学山口地区</Title>
@@ -217,45 +247,15 @@
         <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2006.cgi</ClickUrl>
     </Result>
     <Result>
-        <Title>Google Earth version of the data</Title>
-        <Url>http://maps.repository66.org/repository66dotorg-maps.kml</Url>
-        <ClickUrl>http://maps.repository66.org/repository66dotorg-maps.kml</ClickUrl>
+        <Title>albuminocholia : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=albuminocholia</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=albuminocholia</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories: Yamaguchi University</Title>
-        <Url>http://www.opendoar.org/find.php?search=Yamaguchi+University&amp;title=Yamaguchi+University</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=Yamaguchi+University&amp;title=Yamaguchi+University</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Yamaguchi University Navigator for Open access ...</Title>
-        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Yamaguchi+University+Navigator+for+Open+access+Collection+and+Archives&amp;title=SUPPRESS</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Yamaguchi+University+Navigator+for+Open+access+Collection+and+Archives&amp;title=SUPPRESS</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学リンク</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/ya_link.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_link.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学卒業生の方へ</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/yf_graduate.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/yf_graduate.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学病院ご利用の方へ</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/yf_hospital.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/yf_hospital.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学一般の方へ</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/yf_community.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/yf_community.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学取得可能な資格・免許</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/yf_ad_license.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/yf_ad_license.html</ClickUrl>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1201</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1201</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:23 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:23 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:11 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:11 PST 2010 -->

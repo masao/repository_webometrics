@@ -3,10 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="833"
+    totalResultsAvailable="1745"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
         <Title>奈良教育大学トップページ</Title>
         <Url>http://www.nara-edu.ac.jp/</Url>
         <ClickUrl>http://www.nara-edu.ac.jp/</ClickUrl>
@@ -27,9 +32,19 @@
         <ClickUrl>http://www.nara-edu.ac.jp/LIB/lib.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
         <Title>知的障害者の余暇活動についての調査研究 -通所授産施設に就労している人を中心に-: Nara University of ...</Title>
@@ -45,6 +60,16 @@
         <Title>理数科教員養成のためのアセスメント実践報告 ―新世代を先導する理数科教員養成のためのプログラム・高大融合&lt;wbr&gt;による理数科高校 ...</Title>
         <Url>http://hdl.handle.net/10105/696</Url>
         <ClickUrl>http://hdl.handle.net/10105/696</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
         <Title>時代を拓く子どもたちの夢を育む支援: Nara University of Education Academic ...</Title>
@@ -182,6 +207,11 @@
         <ClickUrl>http://hdl.handle.net/10105/598</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>教育系サブジェクトリポジトリについて</Title>
         <Url>https://library.u-gakugei.ac.jp/edu-rp/</Url>
         <ClickUrl>https://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
@@ -190,6 +220,11 @@
         <Title>奈良教育大学 奈良教育大学学術リポジトリへのお誘い</Title>
         <Url>http://www.nara-edu.ac.jp/IPC/repository_intro.htm</Url>
         <ClickUrl>http://www.nara-edu.ac.jp/IPC/repository_intro.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -s45c 引張試験-</Title>
+        <Url>http://seonum.com/rank/s45c+%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93.html</Url>
+        <ClickUrl>http://seonum.com/rank/s45c+%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
@@ -202,6 +237,16 @@
         <ClickUrl>http://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
     </Result>
     <Result>
+        <Title>ドクター江部の糖尿病徒然日記 肥満・ダイエット</Title>
+        <Url>http://koujiebe.blog95.fc2.com/blog-category-20.html</Url>
+        <ClickUrl>http://koujiebe.blog95.fc2.com/blog-category-20.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -s45c 機械的性質-</Title>
+        <Url>http://seonum.com/rank/s45c+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</Url>
+        <ClickUrl>http://seonum.com/rank/s45c+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Repositories: Nara University of Education</Title>
         <Url>http://www.opendoar.org/find.php?search=Nara+University+of+Education&amp;title=Nara+University+of+Education</Url>
         <ClickUrl>http://www.opendoar.org/find.php?search=Nara+University+of+Education&amp;title=Nara+University+of+Education</ClickUrl>
@@ -211,51 +256,6 @@
         <Url>http://www.opendoar.org/find.php?format=full&amp;search=Nara+University+of+Education+Academic+Repository&amp;title=SUPPRESS</Url>
         <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Nara+University+of+Education+Academic+Repository&amp;title=SUPPRESS</ClickUrl>
     </Result>
-    <Result>
-        <Title>祖父母と孫との世代間関係 : 孫の年齢による関係性の変化: Nara University of Education ...</Title>
-        <Url>http://hdl.handle.net/10105/252</Url>
-        <ClickUrl>http://hdl.handle.net/10105/252</ClickUrl>
-    </Result>
-    <Result>
-        <Title>陸前出土土師器,および須恵系土器のケイ光Ⅹ線分析&lt;wbr&gt;(Ⅰ): Nara University of Education ...</Title>
-        <Url>http://hdl.handle.net/10105/407</Url>
-        <ClickUrl>http://hdl.handle.net/10105/407</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ロシア沿海州新石器遺跡堆積物の赤外光ルミネッセンス&lt;wbr&gt;(IRSL)年代測定: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/652</Url>
-        <ClickUrl>http://hdl.handle.net/10105/652</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 日中英語の現場指示における認知的対照研究</Title>
-        <Url>http://jairo.nii.ac.jp/0011/00000673</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0011/00000673</ClickUrl>
-    </Result>
-    <Result>
-        <Title>奈良教育大学トップページ</Title>
-        <Url>http://www.nara-edu.ac.jp/home-jp</Url>
-        <ClickUrl>http://www.nara-edu.ac.jp/home-jp</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 保健センターだより 第53号</Title>
-        <Url>http://jairo.nii.ac.jp/0011/00000674</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0011/00000674</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 歴史学習に及ぼす自己生成精緻化及び自己選択精緻化の効果</Title>
-        <Url>http://jairo.nii.ac.jp/0011/00000775</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0011/00000775</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:00 PST 2010 -->
-<!-- ws11.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:00 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:53 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:53 PST 2010 -->

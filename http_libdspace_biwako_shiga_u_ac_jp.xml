@@ -1,0 +1,262 @@
+#<Net::HTTPOK:0x402d92f0>
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="780"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>滋賀大学 HOME</Title>
+        <Url>http://www.shiga-u.ac.jp/</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学附属図書館教育学部分館</Title>
+        <Url>http://library.edu.shiga-u.ac.jp/</Url>
+        <ClickUrl>http://library.edu.shiga-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 HOME</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 入試情報</Title>
+        <Url>http://welcome.biwako.shiga-u.ac.jp/</Url>
+        <ClickUrl>http://welcome.biwako.shiga-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 滋賀大学附属図書館</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=9/1</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=9/1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 入試情報</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=2</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=124</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=124</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>fixed and flexible exchange rates eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/fixed-and--flexible-exchange-rates-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/fixed-and--flexible-exchange-rates-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>limbo eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/limbo-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/limbo-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>cost benefit analysis under uncertainty eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/cost-benefit-analysis-under-uncertainty-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/cost-benefit-analysis-under-uncertainty-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Facts of the Day | DocJax.com (565,385+ free e-books and ...</Title>
+        <Url>http://www.docjax.com/document/view.shtml?id=1124589&amp;title=Facts+of+the+Day</Url>
+        <ClickUrl>http://www.docjax.com/document/view.shtml?id=1124589&amp;title=Facts+of+the+Day</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HỘI ĐỒNG NHÂN DÂN | DocJax.com (586,930+ free e-books and ...</Title>
+        <Url>http://www.docjax.com/document/view.shtml?id=1146034&amp;title=H%E1%BB%98I+%C4%90%E1%BB%92NG+NH%C3%82N+D%C3%82N</Url>
+        <ClickUrl>http://www.docjax.com/document/view.shtml?id=1146034&amp;title=H%E1%BB%98I+%C4%90%E1%BB%92NG+NH%C3%82N+D%C3%82N</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 滋賀大学で学びたい方へ</Title>
+        <Url>http://www.shiga-u.ac.jp/20.html</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/20.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 大学紹介</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=1</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 学生生活</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=4</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 附属施設・図書館</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=9</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=9</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 学部・大学院</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=8</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 在学生/保護者の方へ</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=21</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=21</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 滋賀大学で学びたい方へ</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=20</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=20</ClickUrl>
+    </Result>
+    <Result>
+        <Title>中国正长石门户</Title>
+        <Url>http://www.zhongsou.net/%D5%FD%B3%A4%CA%AF</Url>
+        <ClickUrl>http://www.zhongsou.net/%D5%FD%B3%A4%CA%AF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教育分館のお知らせ2008</Title>
+        <Url>http://library.edu.shiga-u.ac.jp/news2008.html</Url>
+        <ClickUrl>http://library.edu.shiga-u.ac.jp/news2008.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 『滋賀大学学術情報リポジトリ』を試験公開しました</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=topics:906&amp;r=0</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=topics:906&amp;r=0</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 HOME</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2007&amp;mn=11</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2007&amp;mn=11</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 HOME</Title>
+        <Url>http://133.102.12.10/</Url>
+        <ClickUrl>http://133.102.12.10/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 滋賀大学で学びたい方へ</Title>
+        <Url>http://www.shiga-u.jp/20.html</Url>
+        <ClickUrl>http://www.shiga-u.jp/20.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 HOME</Title>
+        <Url>http://www.shiga-u.jp/main.cgi</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi</ClickUrl>
+    </Result>
+    <Result>
+        <Title>【多国籍企業】リリエンサル(Lilienthal&lt;wbr&gt;,D.E.)の多国籍企業に関する考え方で分かりやすいHPやP&lt;wbr&gt;DFが ...</Title>
+        <Url>http://q.hatena.ne.jp/1263712808</Url>
+        <ClickUrl>http://q.hatena.ne.jp/1263712808</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 HOME</Title>
+        <Url>http://www.shiga-u.jp/index.html</Url>
+        <ClickUrl>http://www.shiga-u.jp/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 就職・進路・資格</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=5</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 研究・地域連携</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=7</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 学部・大学院</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=8</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 附属施設・図書館</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=9</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=9</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 教育情報</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=3</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 学生生活</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=4</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 大学紹介</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=1</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 入試情報</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=2</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 卒業生の方へ</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=22</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=22</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 滋賀大学で学びたい方へ</Title>
+        <Url>http://www.shiga-u.jp/main.cgi?c=20</Url>
+        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=20</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 教育情報</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=3</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 HOME</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=0</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=0</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 研究・地域連携</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=7</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 就職・進路・資格</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=5</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 卒業生の方へ</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=22</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=22</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 一般の方/企業の方へ</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=24</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=24</ClickUrl>
+    </Result>
+    <Result>
+        <Title>滋賀大学 大学の動きバックナンバー</Title>
+        <Url>http://www.shiga-u.ac.jp/main.cgi?c=0:4</Url>
+        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=0:4</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:19 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:19 PST 2010 -->

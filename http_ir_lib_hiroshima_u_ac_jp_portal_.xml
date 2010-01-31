@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8784"
+    totalResultsAvailable="8785"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -197,14 +197,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_b846.html</ClickUrl>
     </Result>
     <Result>
-        <Title>所功の女系継承容認論駁・皇室典範に関する有識者会議報告書論駁&lt;wbr&gt;(その1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>色が変わって良くなったインフォシーク: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>所功の女系継承容認論駁・皇室典範に関する有識者会議報告書論駁&lt;wbr&gt;(その1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</ClickUrl>
     </Result>
     <Result>
         <Title>検疫はいい加減やめるべきだ: 川西正彦の公共政策研究</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/01/employee-free-c.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:21 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:21 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:09 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:09 PST 2010 -->

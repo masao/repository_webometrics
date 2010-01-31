@@ -3,10 +3,20 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4240"
+    totalResultsAvailable="38307"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学位論文</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
@@ -17,9 +27,24 @@
         <ClickUrl>http://library.u-gakugei.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Home Page of Tokyo Gakugei University Library</Title>
+        <Url>http://library.u-gakugei.ac.jp/index-e.html</Url>
+        <ClickUrl>http://library.u-gakugei.ac.jp/index-e.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>パスファインダー:E-TOPIA</Title>
@@ -27,235 +52,210 @@
         <ClickUrl>http://library.u-gakugei.ac.jp/etopia/index_p.html</ClickUrl>
     </Result>
     <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
         <Title>E-TOPIA:教育情報ポータルサイト</Title>
         <Url>http://library.u-gakugei.ac.jp/etopia/</Url>
         <ClickUrl>http://library.u-gakugei.ac.jp/etopia/</ClickUrl>
     </Result>
     <Result>
-        <Title>双六:E-TOPIA</Title>
-        <Url>https://library.u-gakugei.ac.jp/etopia/sugoroku.html</Url>
-        <ClickUrl>https://library.u-gakugei.ac.jp/etopia/sugoroku.html</ClickUrl>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru.html</ClickUrl>
+        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>往来物・教科書:E-TOPIA</Title>
-        <Url>https://library.u-gakugei.ac.jp/etopia/orai_list.html</Url>
-        <ClickUrl>https://library.u-gakugei.ac.jp/etopia/orai_list.html</ClickUrl>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>データベース:学芸大図書館</Title>
-        <Url>http://library.u-gakugei.ac.jp/database.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/database.html</ClickUrl>
+        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>パスファインダー:E-TOPIA</Title>
-        <Url>https://library.u-gakugei.ac.jp/etopia/index_p.html</Url>
-        <ClickUrl>https://library.u-gakugei.ac.jp/etopia/index_p.html</ClickUrl>
+        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-kokugo.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-kokugo.html</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/jouhouka-jouhoukyouiku-kyoukajouhou.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/jouhouka-jouhoukyouiku-kyoukajouhou.html</ClickUrl>
+        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
     </Result>
     <Result>
-        <Title>往来物・教科書:E-TOPIA</Title>
-        <Url>https://library.u-gakugei.ac.jp/etopia/orai.html</Url>
-        <ClickUrl>https://library.u-gakugei.ac.jp/etopia/orai.html</ClickUrl>
+        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/ima.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/ima.html</ClickUrl>
+        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/sidou-hyouka.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/sidou-hyouka.html</ClickUrl>
+        <Title>Osaka Kyoiku University Repository: Home</Title>
+        <Url>http://ir.lib.osaka-kyoiku.ac.jp:8080/dspace/</Url>
+        <ClickUrl>http://ir.lib.osaka-kyoiku.ac.jp:8080/dspace/</ClickUrl>
     </Result>
     <Result>
-        <Title>教育関係の文献を探すための情報源(戦後) | 調べ方案内 | 国立国会図書館</Title>
-        <Url>http://www.ndl.go.jp/jp/data/theme/theme_honbun_102200.html</Url>
-        <ClickUrl>http://www.ndl.go.jp/jp/data/theme/theme_honbun_102200.html</ClickUrl>
+        <Title>Portal:歴史学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/sidou-sinro.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/sidou-sinro.html</ClickUrl>
+        <Title>「登時」と「当時」と「輙時」 : 讚岐典侍日記のばあい: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/12974</Url>
+        <ClickUrl>http://hdl.handle.net/2309/12974</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/sidou-management.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/sidou-management.html</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/kokoro-hutoukou.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/kokoro-hutoukou.html</ClickUrl>
+        <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-sougou-kankyou.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-sougou-kankyou.html</ClickUrl>
+        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
     </Result>
     <Result>
-        <Title>往来物・教科書:E-TOPIA</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/orai_list.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/orai_list.html</ClickUrl>
+        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/shougaiji.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/shougaiji.html</ClickUrl>
+        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/kokoro-ijime.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/kokoro-ijime.html</ClickUrl>
+        <Title>出生数試算のインチキ-皇室典範に関する有識者会議報告書反駁&lt;wbr&gt;-: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/sekai-sekai.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/sekai-sekai.html</ClickUrl>
+        <Title>川西正彦の公共政策研究: オープンショップ運動・レイバーインジャンクション・ロックナー&lt;wbr&gt;エイジ・ウェルフェアキャピタリズム ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/kokoro-hoken.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/kokoro-hoken.html</ClickUrl>
+        <Title>エコのための深夜営業規制反対: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-eigo.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-eigo.html</ClickUrl>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-syosya.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-syosya.html</ClickUrl>
+        <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIAとは?:E-TOPIA</Title>
-        <Url>http://library.u-gakugei.ac.jp/about/ir/</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/about/ir/</ClickUrl>
+        <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/top.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/top.html</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
     </Result>
     <Result>
-        <Title>追加リスト(2008.3.17):E-TOPIA</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/H19.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/H19.html</ClickUrl>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>往来物・教科書:E-TOPIA</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/orai.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/orai.html</ClickUrl>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
-        <Title>追加リスト(2007.7.27):E-TOPIA</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/H18_2.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/H18_2.html</ClickUrl>
+        <Title>宗教的価値を扱う学習の市民的資質育成における原理的限界 : アメリカ合衆国の教師用指導書の実態を手がかりとして&lt;wbr&gt;: 東京学芸 ...</Title>
+        <Url>http://hdl.handle.net/2309/1152</Url>
+        <ClickUrl>http://hdl.handle.net/2309/1152</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/copyright.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/copyright.html</ClickUrl>
+        <Title>出産・子育て体験が親の成長と夫婦関係に与える影響&lt;wbr&gt;(6) : 家族形態別にみた生活の変化と夫婦関係: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/2988</Url>
+        <ClickUrl>http://hdl.handle.net/2309/2988</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/kokoro-seito.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/kokoro-seito.html</ClickUrl>
+        <Title>金属層を有する光導波路におけるTMモードの分散関係&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/2986</Url>
+        <ClickUrl>http://hdl.handle.net/2309/2986</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-rika.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-rika.html</ClickUrl>
+        <Title>イタリア・コモにおけるシルク産業集積 : 揺れ動くサードイタリア: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/2806</Url>
+        <ClickUrl>http://hdl.handle.net/2309/2806</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/ref-dictionary.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/ref-dictionary.html</ClickUrl>
+        <Title>清末民初における地方自治と財政 : 県自治財政を中心に: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/2805</Url>
+        <ClickUrl>http://hdl.handle.net/2309/2805</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/teacher-yosei.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/teacher-yosei.html</ClickUrl>
+        <Title>江戸及び東京を襲った巨大地震による大被害地域と現代の再開発地&lt;wbr&gt;域との関連性: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/1647</Url>
+        <ClickUrl>http://hdl.handle.net/2309/1647</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-sugaku.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-sugaku.html</ClickUrl>
+        <Title>E-TOPIA 東京学芸大学リポジトリ 平成19年度CSI委託事業報告交流会ポスターセッション用資料&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/89267</Url>
+        <ClickUrl>http://hdl.handle.net/2309/89267</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-sougou.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/tukuru-sougou.html</ClickUrl>
+        <Title>幼児の系列化の初期発達過程に関する研究 : 系列絵カードマッチング課題と棒通し課題による検討&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/65495</Url>
+        <ClickUrl>http://hdl.handle.net/2309/65495</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA:教育情報ポータルサイト</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/pathdata/jouhouka-jouhoukyouiku.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/pathdata/jouhouka-jouhoukyouiku.html</ClickUrl>
+        <Title>E-TOPIA 東京学芸大学リポジトリ 平成18年度CSI委託事業報告交流会ポスターセッション用資料&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/60102</Url>
+        <ClickUrl>http://hdl.handle.net/2309/60102</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+        <Title>E-TOPIA 東京学芸大学リポジトリ 平成19年度CSI委託事業報告交流会ポスターセッション用スラ&lt;wbr&gt;イド: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/89268</Url>
+        <ClickUrl>http://hdl.handle.net/2309/89268</ClickUrl>
     </Result>
     <Result>
-        <Title>追加リスト(2009.3.3):E-TOPIA</Title>
-        <Url>https://library.u-gakugei.ac.jp/etopia/H20.html</Url>
-        <ClickUrl>https://library.u-gakugei.ac.jp/etopia/H20.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>明治期教科書87点の全文画像を追加しました!:学芸大図書館</Title>
-        <Url>https://library.u-gakugei.ac.jp/notice/20090303.html</Url>
-        <ClickUrl>https://library.u-gakugei.ac.jp/notice/20090303.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>東京学芸大学附属図書館ホームページ</Title>
-        <Url>http://library.u-gakugei.ac.jp/top.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/top.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>当館について:学芸大図書館</Title>
-        <Url>http://library.u-gakugei.ac.jp/sakuin.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/sakuin.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>E-TOPIAとは?:E-TOPIA</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/about.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/about.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大学機関リポジトリ</Title>
-        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
-        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>過去のTOPICS:E-TOPIA</Title>
-        <Url>http://library.u-gakugei.ac.jp/etopia/topics.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/etopia/topics.html</ClickUrl>
+        <Title>東京都あきるの市産Stegodon miensisの産出層準とそのフィッショントラック年代&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
+        <Url>http://hdl.handle.net/2309/35451</Url>
+        <ClickUrl>http://hdl.handle.net/2309/35451</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:57 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:57 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:54 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:54 PST 2010 -->

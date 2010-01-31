@@ -3,13 +3,63 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="18739"
+    totalResultsAvailable="19093"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奈良女子大学附属図書館 Welcome to Nara Women&apos;s University Library</Title>
+        <Url>http://www.lib.nara-wu.ac.jp/</Url>
+        <ClickUrl>http://www.lib.nara-wu.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>jourlist.txt</Title>
+        <Url>http://www.uniprot.org/docs/jourlist</Url>
+        <ClickUrl>http://www.uniprot.org/docs/jourlist</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
         <Title>Talk:OAIster - LISWiki</Title>
@@ -20,6 +70,16 @@
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奈良女子大学附属図書館 Welcome to Nara Women&apos;s University Library</Title>
+        <Url>http://yamato.lib.nara-wu.ac.jp/</Url>
+        <ClickUrl>http://yamato.lib.nara-wu.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -52,9 +112,64 @@
         <ClickUrl>http://yamato.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00096640&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
     </Result>
     <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奈良女子大学附属図書館 Welcome to Nara Women&apos;s University Library</Title>
+        <Url>http://www.lib.nara-wu.ac.jp/libhp/gzdb.html</Url>
+        <ClickUrl>http://www.lib.nara-wu.ac.jp/libhp/gzdb.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文検索サイト</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1190</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1190</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Nara Womens University</Title>
+        <Url>http://www.opendoar.org/find.php?search=Nara+Womens+University&amp;title=Nara+Womens+University</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=Nara+Womens+University&amp;title=Nara+Womens+University</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Nara Womens University Digital Information Repository</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Nara+Womens+University+Digital+Information+Repository&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Nara+Womens+University+Digital+Information+Repository&amp;title=SUPPRESS</ClickUrl>
+    </Result>
+    <Result>
+        <Title>民俗学覚書 - folkloreグループ</Title>
+        <Url>http://folklore.g.hatena.ne.jp/monodoi/</Url>
+        <ClickUrl>http://folklore.g.hatena.ne.jp/monodoi/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Nara Women&apos;s University Library - English Ver.</Title>
         <Url>http://www.lib.nara-wu.ac.jp/libhp/index_eng.html</Url>
         <ClickUrl>http://www.lib.nara-wu.ac.jp/libhp/index_eng.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -141,121 +256,6 @@
         <Url>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1234972216939</Url>
         <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1234972216939</ClickUrl>
     </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1239108001199</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1239108001199</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://yamato.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1243028771386</Url>
-        <ClickUrl>http://yamato.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1243028771386</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://yamato.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1259189810552</Url>
-        <ClickUrl>http://yamato.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1259189810552</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://yamato.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1234433764215</Url>
-        <ClickUrl>http://yamato.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1234433764215</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://yamato.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1237102668166</Url>
-        <ClickUrl>http://yamato.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1237102668166</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094395&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094395&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094397&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094397&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094488&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094488&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094394&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094394&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094392&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094392&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094494&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094494&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094393&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094393&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094483&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094483&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094396&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094396&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094484&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094484&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094493&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094493&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094399&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094399&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094485&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094485&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094490&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094490&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094499&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094499&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094400&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094400&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Bibliography Details</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094486&amp;maxcnt=1000&amp;listcnt=50</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/ctlsrh.do?bibid=TW00094486&amp;maxcnt=1000&amp;listcnt=50</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:08 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:08 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:52 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:52 PST 2010 -->

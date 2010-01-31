@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="7239"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WWW Servers in Japan (Libraries-aiueo)</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_Japan.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Jump to Library in Japan</Title>
+        <Url>http://ss.cc.affrc.go.jp/ric/opac/opac.html</Url>
+        <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opac.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAIST NARA INSTITUTE of SCIENCE and TECHNOLOGY - HOME</Title>
+        <Url>http://www.naist.jp/index_e.html</Url>
+        <ClickUrl>http://www.naist.jp/index_e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAIST 奈良先端科学技術大学院大学 - ホーム</Title>
+        <Url>http://www.naist.jp/</Url>
+        <ClickUrl>http://www.naist.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries_Japan</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_Japan_e.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan_e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japan OPAC list (2009.7.16)</Title>
+        <Url>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</Url>
+        <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館リンク集: 日本の図書館 Libraries in Japan</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/other/japan.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学図書館</Title>
+        <Url>http://www.jla.or.jp/link/univ.html</Url>
+        <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAIST 奈良先端科学技術大学院大学 - ホーム</Title>
+        <Url>http://www.aist-nara.ac.jp/index-j.html</Url>
+        <ClickUrl>http://www.aist-nara.ac.jp/index-j.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>オンラインで動画・音声・教科書を無料で公開している大学の講義&lt;wbr&gt;・授業まとめ - ひげぽん OSとか作っちゃうかMona-</Title>
+        <Url>http://d.hatena.ne.jp/higepon/20080929/1222686239</Url>
+        <ClickUrl>http://d.hatena.ne.jp/higepon/20080929/1222686239</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Universities in Japan (A)</Title>
+        <Url>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</Url>
+        <ClickUrl>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Code Clones Literature - Department of Computer and ...</Title>
+        <Url>http://www.cis.uab.edu/tairasr/clones/literature/</Url>
+        <ClickUrl>http://www.cis.uab.edu/tairasr/clones/literature/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>生駒日記</Title>
+        <Url>http://d.hatena.ne.jp/mamoruk/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/mamoruk/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学図書館</Title>
+        <Url>http://wwwsoc.nii.ac.jp/jla/link/univ.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/jla/link/univ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WWW Servers in Japan (Libraries)</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_list.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_list.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Seki Lab Homepage</Title>
+        <Url>http://narayama.aist-nara.ac.jp/</Url>
+        <ClickUrl>http://narayama.aist-nara.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries in the World</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/other/all.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/all.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Seki Lab Homepage</Title>
+        <Url>http://narayama.aist-nara.ac.jp/index-j.html</Url>
+        <ClickUrl>http://narayama.aist-nara.ac.jp/index-j.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奈良県図書館協会 大学・専門図書館部会</Title>
+        <Url>http://naradaisen.exblog.jp/</Url>
+        <ClickUrl>http://naradaisen.exblog.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Research Activities</Title>
+        <Url>http://www.naist.jp/english/research/research_activities.html</Url>
+        <ClickUrl>http://www.naist.jp/english/research/research_activities.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>LinkOut Providers</Title>
+        <Url>http://www.ncbi.nlm.nih.gov/projects/linkout/journals/htmllists.cgi?type_id=6</Url>
+        <ClickUrl>http://www.ncbi.nlm.nih.gov/projects/linkout/journals/htmllists.cgi?type_id=6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>近畿地区国立大学法人等職員統一採用試験事務系(図書&lt;wbr&gt;)のご案内</Title>
+        <Url>http://www3.kulib.kyoto-u.ac.jp/examine/index.html</Url>
+        <ClickUrl>http://www3.kulib.kyoto-u.ac.jp/examine/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本のソフト別 OPAC リスト</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/indexjv.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/indexjv.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ARIADNE Technology テクノロジー入門バイオとAI</Title>
+        <Url>http://ariadne.jp/technology.html</Url>
+        <ClickUrl>http://ariadne.jp/technology.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Computing Architecture Lab. - Home -</Title>
+        <Url>http://wonder2.aist-nara.ac.jp/</Url>
+        <ClickUrl>http://wonder2.aist-nara.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Computer Design and Test Laboratory</Title>
+        <Url>http://fan.aist-nara.ac.jp/mthesis.html</Url>
+        <ClickUrl>http://fan.aist-nara.ac.jp/mthesis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): CPG-Actor-Critic法によるミミズ型 ...</Title>
+        <Url>http://hdl.handle.net/10061/4289</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4289</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 配列置換変異の誘発に関与するdnaE173変異型 ...</Title>
+        <Url>http://hdl.handle.net/10061/4145</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4145</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 塩基配列情報に基づいたtRNA共起解析</Title>
+        <Url>http://hdl.handle.net/10061/5200</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5200</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 染色体不安定性と相同組換え ~ 平成17年度実績報告書</Title>
+        <Url>http://hdl.handle.net/10061/3268</Url>
+        <ClickUrl>http://hdl.handle.net/10061/3268</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 科学する心、科学者への道</Title>
+        <Url>http://hdl.handle.net/10061/5247</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5247</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 図書 (Book)</Title>
+        <Url>http://hdl.handle.net/10061/4307</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4307</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 松明は諸君の手に : これからの科学技術と奈良 ...</Title>
+        <Url>http://hdl.handle.net/10061/5246</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5246</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 動的に変化するグループにおける暗号鍵管理手法 ...</Title>
+        <Url>http://hdl.handle.net/10061/3884</Url>
+        <ClickUrl>http://hdl.handle.net/10061/3884</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 環境調和型無鉛圧電アクチュエータ材料の開発 ...</Title>
+        <Url>http://hdl.handle.net/10061/4750</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4750</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 研究報告書 (Research Paper)</Title>
+        <Url>http://hdl.handle.net/10061/4986</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4986</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 光ピンセットを用いた一分子DNA力学特性計測システム</Title>
+        <Url>http://hdl.handle.net/10061/5199</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5199</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 遺物破片の立体モデリング手法</Title>
+        <Url>http://hdl.handle.net/10061/2034</Url>
+        <ClickUrl>http://hdl.handle.net/10061/2034</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:46 PST 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:45 PST 2010 -->

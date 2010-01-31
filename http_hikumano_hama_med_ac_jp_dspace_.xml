@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="355"
+    totalResultsAvailable="357"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -257,5 +257,5 @@
         <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C9%CD%BE%BE%B0%E5%B2%CA%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:24 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:24 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:15 PST 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:15 PST 2010 -->

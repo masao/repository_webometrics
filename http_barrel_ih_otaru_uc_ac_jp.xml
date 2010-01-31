@@ -3,13 +3,43 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1539"
+    totalResultsAvailable="3490"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>小樽商科大学</Title>
+        <Url>http://www.otaru-uc.ac.jp/</Url>
+        <ClickUrl>http://www.otaru-uc.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
         <Title>DSpaceInstances - DSpace Wiki</Title>
         <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
         <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Rudolf Hilferding - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Rudolf_Hilferding</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Rudolf_Hilferding</ClickUrl>
+    </Result>
+    <Result>
+        <Title>世界恐慌 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%81%90%E6%85%8C</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E6%81%90%E6%85%8C</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -22,14 +52,164 @@
         <ClickUrl>http://www.otaru-uc.ac.jp/htosyo1/</ClickUrl>
     </Result>
     <Result>
+        <Title>場の空気 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%A0%B4%E3%81%AE%E7%A9%BA%E6%B0%97</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%A0%B4%E3%81%AE%E7%A9%BA%E6%B0%97</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>商大くんがいく!</Title>
+        <Url>http://d.hatena.ne.jp/shoudai-kun/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/shoudai-kun/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tamagushi - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Tamagushi</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Tamagushi</ClickUrl>
+    </Result>
+    <Result>
+        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ボヘミアニズム - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%98%E3%83%9F%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%98%E3%83%9F%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ゼンテイカ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%B3%E3%83%86%E3%82%A4%E3%82%AB</ClickUrl>
+    </Result>
+    <Result>
         <Title>Barrel: 組織内部の競争と協調がイノベーションに及ぼす影響 : 営業部門の実証研究</Title>
         <Url>http://hdl.handle.net/10252/711</Url>
         <ClickUrl>http://hdl.handle.net/10252/711</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>出生数試算のインチキ-皇室典範に関する有識者会議報告書反駁&lt;wbr&gt;-: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>エコのための深夜営業規制反対: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: オープンショップ運動・レイバーインジャンクション・ロックナー&lt;wbr&gt;エイジ・ウェルフェアキャピタリズム ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
@@ -47,215 +227,35 @@
         <ClickUrl>http://hdl.handle.net/10252/1730</ClickUrl>
     </Result>
     <Result>
-        <Title>Barrel: An optimality theoretic account for the distribution ...</Title>
-        <Url>http://hdl.handle.net/10252/1959</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1959</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>Barrel: 小樽高商における年史編纂の試み : 「緑丘学園三十五年史」を中心に</Title>
-        <Url>http://hdl.handle.net/10252/2213</Url>
-        <ClickUrl>http://hdl.handle.net/10252/2213</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+        <Title>買い物: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-1b19.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-1b19.html</ClickUrl>
     </Result>
     <Result>
-        <Title>あおばと通信 - livedoor Blog(ブログ)</Title>
-        <Url>http://blog.livedoor.jp/aobato555/</Url>
-        <ClickUrl>http://blog.livedoor.jp/aobato555/</ClickUrl>
+        <Title>国会議員の先生方へ: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_796d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_796d.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+        <Title>北島選手の国民栄誉賞は当然でないの: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/08/post_4356.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/08/post_4356.html</ClickUrl>
     </Result>
     <Result>
-        <Title>小樽商科大学附属図書館</Title>
-        <Url>http://www.otaru-uc.ac.jp/htosyo1/welcome.html</Url>
-        <ClickUrl>http://www.otaru-uc.ac.jp/htosyo1/welcome.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館サービス計画研究所</Title>
-        <Url>http://tosaken.blogspot.com/</Url>
-        <ClickUrl>http://tosaken.blogspot.com/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan (ROAR)</Title>
-        <Url>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</Url>
-        <ClickUrl>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: MATHEMATICAとLiveGraphics3Dの応用 -クールノー均衡を例にして-</Title>
-        <Url>http://hdl.handle.net/10252/350</Url>
-        <ClickUrl>http://hdl.handle.net/10252/350</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 英語動詞takeの構文パターンと文法役割に関する事例研究 -Harry Potter and the ...</Title>
-        <Url>http://hdl.handle.net/10252/382</Url>
-        <ClickUrl>http://hdl.handle.net/10252/382</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: MATHEMATICAの経済学への応用(2) -ギッフェン財をもたらす効用関数の特徴について-</Title>
-        <Url>http://hdl.handle.net/10252/261</Url>
-        <ClickUrl>http://hdl.handle.net/10252/261</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: アフリカ旅日記-喜望峰を訪れて-</Title>
-        <Url>http://hdl.handle.net/10252/202</Url>
-        <ClickUrl>http://hdl.handle.net/10252/202</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: ヴィルヘルム・ベルシェとゲルハルト・ハウプトマン</Title>
-        <Url>http://hdl.handle.net/10252/331</Url>
-        <ClickUrl>http://hdl.handle.net/10252/331</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 未確定事項に直面した監査人の対応 -文献・制度の評価(6) -</Title>
-        <Url>http://hdl.handle.net/10252/254</Url>
-        <ClickUrl>http://hdl.handle.net/10252/254</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 瞬間と永遠 ―ロンサールの詩的時間構造―</Title>
-        <Url>http://hdl.handle.net/10252/610</Url>
-        <ClickUrl>http://hdl.handle.net/10252/610</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: Asymptotic Standard Errors of IRT Equating ...</Title>
-        <Url>http://hdl.handle.net/10252/565</Url>
-        <ClickUrl>http://hdl.handle.net/10252/565</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: ドイツ産業革命以降の生活改革運動とその文化的影響に関する総合&lt;wbr&gt;的研究</Title>
-        <Url>http://hdl.handle.net/10252/134</Url>
-        <ClickUrl>http://hdl.handle.net/10252/134</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 日本電気における原価管理システム進化の考察(1)</Title>
-        <Url>http://hdl.handle.net/10252/215</Url>
-        <ClickUrl>http://hdl.handle.net/10252/215</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: A Significance of Golding&apos;s Minor Novel The Scorpion God</Title>
-        <Url>http://hdl.handle.net/10252/699</Url>
-        <ClickUrl>http://hdl.handle.net/10252/699</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 1804年フランス抵当法の基本的性格(2)</Title>
-        <Url>http://hdl.handle.net/10252/564</Url>
-        <ClickUrl>http://hdl.handle.net/10252/564</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: レーモン・クノーの『地下鉄のザジ』におけるエディプス・コンプ&lt;wbr&gt;レックスについて</Title>
-        <Url>http://hdl.handle.net/10252/749</Url>
-        <ClickUrl>http://hdl.handle.net/10252/749</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 南アフリカのアンチダンピング法制 (下) . WTO体制下のアンチダンピング制度 第25回</Title>
-        <Url>http://hdl.handle.net/10252/960</Url>
-        <ClickUrl>http://hdl.handle.net/10252/960</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 統治とケイの活動 - 19世紀における国民教育論出現の可能性の条件</Title>
-        <Url>http://hdl.handle.net/10252/626</Url>
-        <ClickUrl>http://hdl.handle.net/10252/626</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 未確定事項に直面した監査人の対応 -文献・制度の評価(2)-</Title>
-        <Url>http://hdl.handle.net/10252/302</Url>
-        <ClickUrl>http://hdl.handle.net/10252/302</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 会計的思考モデルと有価証券の評価</Title>
-        <Url>http://hdl.handle.net/10252/274</Url>
-        <ClickUrl>http://hdl.handle.net/10252/274</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: コンピュータ操作支援場面におけるインストラクタのユーザ理解課&lt;wbr&gt;程の検討</Title>
-        <Url>http://hdl.handle.net/10252/622</Url>
-        <ClickUrl>http://hdl.handle.net/10252/622</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 民衆運動のなかの「暴力」</Title>
-        <Url>http://hdl.handle.net/10252/156</Url>
-        <ClickUrl>http://hdl.handle.net/10252/156</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 平野義太郎の「大アジア主義」</Title>
-        <Url>http://hdl.handle.net/10252/372</Url>
-        <ClickUrl>http://hdl.handle.net/10252/372</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 水中身体活動における心血管血行動態の応答</Title>
-        <Url>http://hdl.handle.net/10252/1457</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1457</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 寿命不確実性下の消費者行動について(IV)</Title>
-        <Url>http://hdl.handle.net/10252/1258</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1258</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 児童の説明文産出における「読み手意識」表現の発達</Title>
-        <Url>http://hdl.handle.net/10252/1285</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1285</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: GM社における大衆車市場への参入 : 1920年代における乗用車シボレ-の製品・価格政策の成果と特&lt;wbr&gt;徴</Title>
-        <Url>http://hdl.handle.net/10252/1512</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1512</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 情報技術に対する欧州の人間中心アプローチ</Title>
-        <Url>http://hdl.handle.net/10252/1185</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1185</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: コンピュータ操作技能の向上を促す説明活動のあり方 : 説明者による「問いかけ」の効果の検討</Title>
-        <Url>http://hdl.handle.net/10252/1079</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1079</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 会社法の自由化と事後的な制約 : デラウエア会社法を中心に(3・完)</Title>
-        <Url>http://hdl.handle.net/10252/1505</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1505</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 小林多喜二について若干の文献など</Title>
-        <Url>http://hdl.handle.net/10252/2212</Url>
-        <ClickUrl>http://hdl.handle.net/10252/2212</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 小樽商科大学百年史編纂室による法人文書の収集とその収集活動が&lt;wbr&gt;「歴史的、学術的に貴重な」法人文書の保存に与える影響</Title>
-        <Url>http://hdl.handle.net/10252/2215</Url>
-        <ClickUrl>http://hdl.handle.net/10252/2215</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 第4章 韓国における貿易取引の私法的規制</Title>
-        <Url>http://hdl.handle.net/10252/2536</Url>
-        <ClickUrl>http://hdl.handle.net/10252/2536</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: アメリカにおける個人医療保険の料率規制</Title>
-        <Url>http://hdl.handle.net/10252/1293</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1293</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 畳み込みの母数推定とモーメント法</Title>
-        <Url>http://hdl.handle.net/10252/1346</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1346</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 学長のリーダーシップが最良の大学教育を実現</Title>
-        <Url>http://hdl.handle.net/10252/2186</Url>
-        <ClickUrl>http://hdl.handle.net/10252/2186</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Barrel: 第1章 サハリン石油・天然ガス開発プロジェクトの概要と動向</Title>
-        <Url>http://hdl.handle.net/10252/1012</Url>
-        <ClickUrl>http://hdl.handle.net/10252/1012</ClickUrl>
+        <Title>12週無給の家族医療休暇法制しかないアメリカ合衆国では平均出&lt;wbr&gt;産後11週で職場に復帰するらしい : 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:52 PST 2010 -->
-<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:52 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:49 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:49 PST 2010 -->

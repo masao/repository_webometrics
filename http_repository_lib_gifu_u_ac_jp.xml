@@ -3,10 +3,20 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1156"
+    totalResultsAvailable="4153"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学位論文</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
@@ -22,9 +32,34 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
+        <Title>バイト敬語 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%88%E6%95%AC%E8%AA%9E</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%83%88%E6%95%AC%E8%AA%9E</ClickUrl>
+    </Result>
+    <Result>
+        <Title>キノコ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8E%E3%82%B3</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8E%E3%82%B3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Duce h.p...</Title>
+        <Url>http://www.note-to-tone.tv/hiyoshi/</Url>
+        <ClickUrl>http://www.note-to-tone.tv/hiyoshi/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
     </Result>
     <Result>
         <Title>岐阜大学図書館</Title>
@@ -32,9 +67,34 @@
         <ClickUrl>http://www1.gifu-u.ac.jp/~gulib/</ClickUrl>
     </Result>
     <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>原木栽培 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%8E%9F%E6%9C%A8%E6%A0%BD%E5%9F%B9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%8E%9F%E6%9C%A8%E6%A0%BD%E5%9F%B9</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -47,9 +107,24 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Scientific Commons: 生体膜流動性の形態学的検討 (2000), 2000-07 [長縄, 孝 ...</Title>
+        <Url>http://en.scientificcommons.org/20707301</Url>
+        <ClickUrl>http://en.scientificcommons.org/20707301</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Scientific Commons: 自家製抗APC単クローン抗体によるヒト大腸腫瘍の免疫組織化学&lt;wbr&gt;的検討 (1999 ...</Title>
+        <Url>http://en.scientificcommons.org/22124839</Url>
+        <ClickUrl>http://en.scientificcommons.org/22124839</ClickUrl>
+    </Result>
+    <Result>
         <Title>Repository List</Title>
         <Url>http://www.dspace.org/Repository-List.html</Url>
         <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Abc Søk Google: Søk etter &quot;test q5&quot;</Title>
+        <Url>http://verden.abcsok.no/index.html?page=3&amp;q=&quot;test+q5&quot;&amp;cs=latin1&amp;offset=</Url>
+        <ClickUrl>http://verden.abcsok.no/index.html?page=3&amp;q=&quot;test+q5&quot;&amp;cs=latin1&amp;offset=</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -62,6 +137,11 @@
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
@@ -70,6 +150,76 @@
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>théories, enseignement, apprentissage prononciation FLE ...</Title>
+        <Url>http://www3.unileon.es/dp/dfm/flenet/phon/phoncours4.html</Url>
+        <ClickUrl>http://www3.unileon.es/dp/dfm/flenet/phon/phoncours4.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -熱膨張係数-</Title>
+        <Url>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ノート:バイト敬語 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%90%E3%82%A4%E3%83%88%E6%95%AC%E8%AA%9E</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%90%E3%82%A4%E3%83%88%E6%95%AC%E8%AA%9E</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/,</Url>
+        <ClickUrl>http://celestial.eprints.org/,</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/Error</Url>
+        <ClickUrl>http://celestial.eprints.org/Error</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/news/</Url>
+        <ClickUrl>http://celestial.eprints.org/news/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Scientific Commons: 7.部分的第1趾移植により再建した小指欠損の1例&lt;wbr&gt;(第73回岐阜県整形外科集談会 ...</Title>
+        <Url>http://en.scientificcommons.org/22126116</Url>
+        <ClickUrl>http://en.scientificcommons.org/22126116</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Scientific Commons: 成人看護実習I(慢性期)のグループワークにおける学生の学び (2000 ...</Title>
+        <Url>http://en.scientificcommons.org/20707753</Url>
+        <ClickUrl>http://en.scientificcommons.org/20707753</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Scientific Commons: 基礎看護技術教育における効果的な指導に関する研究 : 「身につける段階」の技術指導 ...</Title>
+        <Url>http://en.scientificcommons.org/20707742</Url>
+        <ClickUrl>http://en.scientificcommons.org/20707742</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Essaie .pdf Ebook Download</Title>
+        <Url>http://www.pdf-search-engine.com/essaie-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/essaie-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>A Si Htft .pdf Ebook Download</Title>
+        <Url>http://www.pdf-search-engine.com/a-si-htft-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/a-si-htft-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1305</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1305</ClickUrl>
+    </Result>
+    <Result>
+        <Title>A Suitable Boy Vikram Seth .pdf Ebook Download</Title>
+        <Url>http://www.pdf-search-engine.com/a-suitable-boy-vikram-seth-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/a-suitable-boy-vikram-seth-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Theory Of Agricultural Markets .pdf Ebook Download</Title>
+        <Url>http://www.pdf-search-engine.com/theory-of-agricultural-markets-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/theory-of-agricultural-markets-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>Repository List</Title>
@@ -97,165 +247,15 @@
         <ClickUrl>http://www1.gifu-u.ac.jp/~masaru/uchida/</ClickUrl>
     </Result>
     <Result>
-        <Title>他大学のリポジトリ - IR log</Title>
-        <Url>http://ir.iwate-u.ac.jp/irlog/index.php?%C2%BE%C2%E7%B3%D8%A4%CE%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA</Url>
-        <ClickUrl>http://ir.iwate-u.ac.jp/irlog/index.php?%C2%BE%C2%E7%B3%D8%A4%CE%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA</ClickUrl>
+        <Title>医者も知らないホルモンバランス 8</Title>
+        <Url>http://sle2ch.hp.infoseek.co.jp/log/etc41.html</Url>
+        <ClickUrl>http://sle2ch.hp.infoseek.co.jp/log/etc41.html</ClickUrl>
     </Result>
     <Result>
-        <Title>リンク集</Title>
-        <Url>http://www.gifu-u.ac.jp/~gulib/links/links.html</Url>
-        <ClickUrl>http://www.gifu-u.ac.jp/~gulib/links/links.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
-        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
-        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_81.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_81.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ティドー(TIDO)メイプルS字型バイオリン肩当3&lt;wbr&gt;/4-4/4 &amp;gt; restジャパン</Title>
-        <Url>http://www.x-video-poker.com/rest/</Url>
-        <ClickUrl>http://www.x-video-poker.com/rest/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 「携帯電話について考える」を実施して : 学校改善キャリアアップフィールド (&amp;lt;特集&amp;gt;教師の生涯発達と共に ...</Title>
-        <Url>http://jairo.nii.ac.jp/0038/00007365</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0038/00007365</ClickUrl>
-    </Result>
-    <Result>
-        <Title>岐阜大学機関リポジトリについて</Title>
-        <Url>http://www1.gifu-u.ac.jp/~gulib/repository</Url>
-        <ClickUrl>http://www1.gifu-u.ac.jp/~gulib/repository</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>水力発電 デメリット [水力発電] [デメリット] 特集 三菱自動.jp</Title>
-        <Url>http://www.universum-entertainment.com/%E7%89%B9%E9%9B%86/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB/%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/35c794.html</Url>
-        <ClickUrl>http://www.universum-entertainment.com/%E7%89%B9%E9%9B%86/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB/%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88/35c794.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ボイストレーニング カラオケ [ボイストレーニング] [カラオケ] 特集 買い物依存症のすすめ</Title>
-        <Url>http://www.resinpatiosetstore.com/%E7%89%B9%E9%9B%86/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1/990ace.html</Url>
-        <ClickUrl>http://www.resinpatiosetstore.com/%E7%89%B9%E9%9B%86/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1/990ace.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 機関リポジトリ Archive</Title>
-        <Url>http://www.openaccessjapan.com/cat6/</Url>
-        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ユーザ認証画面(My ポータル)</Title>
-        <Url>https://www.lib.gifu-u.ac.jp/portal/</Url>
-        <ClickUrl>https://www.lib.gifu-u.ac.jp/portal/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 算数・数学の有用性を伝えることをねらいとした教材開発及び「総&lt;wbr&gt;合的な学習の時間」における算数・数学の活用 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0038/00007395</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0038/00007395</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Pressure-induced suppression of piezoelectric ...</Title>
-        <Url>http://jairo.nii.ac.jp/0038/00007574</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0038/00007574</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 地域医療の展開 : 新潟県南魚沼市の事例</Title>
-        <Url>http://jairo.nii.ac.jp/0038/00007371</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0038/00007371</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 3. 10年経験者研修の実施および連携の概要(2) : 岐阜大学教育学部における10年経験者研修(大学研修 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0038/00007324</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0038/00007324</ClickUrl>
+        <Title>地雷の中の地雷:日々是よろずER診療:So-netブログ</Title>
+        <Url>http://blog.so-net.ne.jp/case-report-by-ERP/20080123</Url>
+        <ClickUrl>http://blog.so-net.ne.jp/case-report-by-ERP/20080123</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:41 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:40 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:34 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:34 PST 2010 -->

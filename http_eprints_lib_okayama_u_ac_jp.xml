@@ -3,10 +3,20 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="10480"
+    totalResultsAvailable="13918"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Sites Powered by EPrints</Title>
         <Url>http://www.eprints.org/software/archives/</Url>
         <ClickUrl>http://www.eprints.org/software/archives/</ClickUrl>
@@ -32,9 +42,19 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>アトピー性皮膚炎 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%94%E3%83%BC%E6%80%A7%E7%9A%AE%E8%86%9A%E7%82%8E</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%94%E3%83%BC%E6%80%A7%E7%9A%AE%E8%86%9A%E7%82%8E</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
     </Result>
     <Result>
         <Title>岡山大学 学術成果リポジトリ : トップページ - 岡山大学附属図書館-</Title>
@@ -47,14 +67,69 @@
         <ClickUrl>http://eprints.rkbexplorer.com/</ClickUrl>
     </Result>
     <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Earth Science Reports - OKAYAMA UNIVERSITY EARTH SCIENCES</Title>
+        <Url>http://www.desc.okayama-u.ac.jp/Geo/2008/e_report.html</Url>
+        <ClickUrl>http://www.desc.okayama-u.ac.jp/Geo/2008/e_report.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>小金牧 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E7%89%A7</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E7%89%A7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ヤマトシロアリの女王の後継は単為生殖 - スラッシュドット・ジャパン</Title>
+        <Url>http://www.pheedo.jp/click.phdo?i=c25a5e744b266271b3166068227d8765</Url>
+        <ClickUrl>http://www.pheedo.jp/click.phdo?i=c25a5e744b266271b3166068227d8765</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ヤマトシロアリ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%88%E3%82%B7%E3%83%AD%E3%82%A2%E3%83%AA</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%88%E3%82%B7%E3%83%AD%E3%82%A2%E3%83%AA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>田邊元 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E7%94%B0%E9%82%8A%E5%85%83</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%94%B0%E9%82%8A%E5%85%83</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
     </Result>
     <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Blog : 大和心 12月6日 ニュースの御託</Title>
+        <Url>http://sirousaghi.blog36.fc2.com/blog-entry-121.html</Url>
+        <ClickUrl>http://sirousaghi.blog36.fc2.com/blog-entry-121.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Talk:OAIster - LISWiki</Title>
         <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
         <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>たかさきクリニック胃腸科内科</Title>
+        <Url>http://endoscopy.jp/</Url>
+        <ClickUrl>http://endoscopy.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -72,6 +147,16 @@
         <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?Keywords</ClickUrl>
     </Result>
     <Result>
+        <Title>岡山大学農学部学術報告</Title>
+        <Url>http://www.lib.okayama-u.ac.jp/www/aggaku2/</Url>
+        <ClickUrl>http://www.lib.okayama-u.ac.jp/www/aggaku2/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=961</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=961</ClickUrl>
+    </Result>
+    <Result>
         <Title>Ferroglaucophane Mineral Data</Title>
         <Url>http://webmineral.com/data/Ferroglaucophane.shtml</Url>
         <ClickUrl>http://webmineral.com/data/Ferroglaucophane.shtml</ClickUrl>
@@ -82,14 +167,59 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
     </Result>
     <Result>
+        <Title>軍事協力と「和解」の奇妙な関係 - POWOW.ASIA</Title>
+        <Url>http://www.powow.asia/article.php?story=20090817152446509</Url>
+        <ClickUrl>http://www.powow.asia/article.php?story=20090817152446509</ClickUrl>
+    </Result>
+    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Kawabata Yasunari 川端康成 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php/Kawabata_Yasunari_%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php/Kawabata_Yasunari_%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90</ClickUrl>
+    </Result>
+    <Result>
         <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
         <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
         <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ヤマトシロアリの女王の後継は単為生殖 - スラッシュドット・ジャパン</Title>
+        <Url>http://slashdot.jp/science/09/03/27/1337257.shtml</Url>
+        <ClickUrl>http://slashdot.jp/science/09/03/27/1337257.shtml</ClickUrl>
+    </Result>
+    <Result>
+        <Title>小菅信子 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B0%8F%E8%8F%85%E4%BF%A1%E5%AD%90</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B0%8F%E8%8F%85%E4%BF%A1%E5%AD%90</ClickUrl>
+    </Result>
+    <Result>
+        <Title>change okayama - テレビ番長</Title>
+        <Url>http://www.tv-wd.com/tv/CHANGE/change+okayama.html</Url>
+        <ClickUrl>http://www.tv-wd.com/tv/CHANGE/change+okayama.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>岡山大学農学部学術報告</Title>
+        <Url>http://www.lib.okayama-u.ac.jp/www/aggaku/</Url>
+        <ClickUrl>http://www.lib.okayama-u.ac.jp/www/aggaku/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>社会言語学 文献目録</Title>
+        <Url>http://www.geocities.jp/hituzinosanpo/bunken.html</Url>
+        <ClickUrl>http://www.geocities.jp/hituzinosanpo/bunken.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>リビングルーム</Title>
+        <Url>http://members.jcom.home.ne.jp/072286711/99Mexico.html</Url>
+        <ClickUrl>http://members.jcom.home.ne.jp/072286711/99Mexico.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>自家不和合性 (植物) - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%87%AA%E5%AE%B6%E4%B8%8D%E5%92%8C%E5%90%88%E6%80%A7_(%E6%A4%8D%E7%89%A9)</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%87%AA%E5%AE%B6%E4%B8%8D%E5%92%8C%E5%90%88%E6%80%A7_(%E6%A4%8D%E7%89%A9)</ClickUrl>
     </Result>
     <Result>
         <Title>2008-03-24(Mon): RSSを提供している機関リポジトリ一覧 - ACADEMIC RESOURCE ...</Title>
@@ -102,160 +232,30 @@
         <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Google Earth version of the data</Title>
-        <Url>http://maps.repository66.org/repository66dotorg-maps.kml</Url>
-        <ClickUrl>http://maps.repository66.org/repository66dotorg-maps.kml</ClickUrl>
+        <Title>太郎生雑記 UI 200801</Title>
+        <Url>http://uegaharatarou.blog71.fc2.com/blog-date-200801.html</Url>
+        <ClickUrl>http://uegaharatarou.blog71.fc2.com/blog-date-200801.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse EPrints (ROAR)</Title>
-        <Url>http://roar.eprints.org/?prev=Prev&amp;version=eprints2&amp;action=home&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/?prev=Prev&amp;version=eprints2&amp;action=home&amp;page=all</ClickUrl>
+        <Title>アトピー性皮膚炎 - Wikipedia</Title>
+        <Url>http://wikipedia.simpleapi.net/ja/151539/</Url>
+        <ClickUrl>http://wikipedia.simpleapi.net/ja/151539/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - ePrints@OUDIR</Title>
-        <Url>http://www.opendoar.org/find.php?format=full&amp;search=ePrints@OUDIR&amp;title=SUPPRESS</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=ePrints@OUDIR&amp;title=SUPPRESS</ClickUrl>
+        <Title>続 ボ、ボ、ボクは狼少年なんかじゃない!|新世紀のビッグブラザー&lt;wbr&gt;へ blog</Title>
+        <Url>http://ameblo.jp/takaakimitsuhashi/entry-10404665057.html</Url>
+        <ClickUrl>http://ameblo.jp/takaakimitsuhashi/entry-10404665057.html</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories: Okayama University</Title>
-        <Url>http://www.opendoar.org/find.php?search=Okayama+University&amp;title=Okayama+University</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=Okayama+University&amp;title=Okayama+University</ClickUrl>
+        <Title>ookitasaburouの日記</Title>
+        <Url>http://blog.livedoor.jp/ookitasaburou/</Url>
+        <ClickUrl>http://blog.livedoor.jp/ookitasaburou/</ClickUrl>
     </Result>
     <Result>
-        <Title>Search for a Repository (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=search&amp;query=southampton&amp;submit=Search&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=search&amp;query=southampton&amp;submit=Search&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse EPrints (ROAR)</Title>
-        <Url>http://roar.eprints.org/?action=home&amp;q=&amp;country=&amp;version=eprints2&amp;type=&amp;order=recordcount&amp;submit=Filter</Url>
-        <ClickUrl>http://roar.eprints.org/?action=home&amp;q=&amp;country=&amp;version=eprints2&amp;type=&amp;order=recordcount&amp;submit=Filter</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registry of Open Access Repositories (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=&amp;order=recordcount&amp;submit=Filter&amp;prev=Prev&amp;page=10</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=&amp;order=recordcount&amp;submit=Filter&amp;prev=Prev&amp;page=10</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Ferroglaucophane Image</Title>
-        <Url>http://webmineral.com/specimens/picshow.php?id=3991</Url>
-        <ClickUrl>http://webmineral.com/specimens/picshow.php?id=3991</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=17</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=17</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | The Friction Factors of Unsteady Pipe Flows</Title>
-        <Url>http://jairo.nii.ac.jp/0017/00013178/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0017/00013178/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 岡山県の主要3河川の水質と地質の関係</Title>
-        <Url>http://jairo.nii.ac.jp/0017/00008637/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0017/00008637/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Response of Eggplant to Integrated Approaches for ...</Title>
-        <Url>http://jairo.nii.ac.jp/0017/00008280/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0017/00008280/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>蓮舫 [蓮舫] 特集 / 消費者はじめの一歩!</Title>
-        <Url>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E8%93%AE%E8%88%AB/a830c1.html</Url>
-        <ClickUrl>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E8%93%AE%E8%88%AB/a830c1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>有償 [有償] 特集 / 消費者はじめの一歩!</Title>
-        <Url>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E6%9C%89%E5%84%9F/f08990.html</Url>
-        <ClickUrl>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E6%9C%89%E5%84%9F/f08990.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>フルHD・3D対応 [フルHD・3D対応] 特集 / 消費者はじめの一歩!</Title>
-        <Url>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E3%83%95%E3%83%ABHD%E3%83%BB3D%E5%AF%BE%E5%BF%9C/2edac6.html</Url>
-        <ClickUrl>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E3%83%95%E3%83%ABHD%E3%83%BB3D%E5%AF%BE%E5%BF%9C/2edac6.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>欧第3四半期GDP速報 [欧第3四半期GDP速報] 特集 / 消費者はじめの一歩!</Title>
-        <Url>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E6%AC%A7%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9FGDP%E9%80%9F%E5%A0%B1/e76a6d.html</Url>
-        <ClickUrl>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E6%AC%A7%E7%AC%AC3%E5%9B%9B%E5%8D%8A%E6%9C%9FGDP%E9%80%9F%E5%A0%B1/e76a6d.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ものすごく面白すぎる数式 [コンピュータプログラム] 特集 / 消費者はじめの一歩!</Title>
-        <Url>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/074668.html</Url>
-        <ClickUrl>http://www.keropee.com/%E7%89%B9%E9%9B%86/%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/074668.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TMDS [TMDS] 特集 フォン.com</Title>
-        <Url>http://www.keropee.com/%E3%83%95%E3%82%A9%E3%83%B3/%E7%89%B9%E9%9B%86/TMDS/36e28d.html</Url>
-        <ClickUrl>http://www.keropee.com/%E3%83%95%E3%82%A9%E3%83%B3/%E7%89%B9%E9%9B%86/TMDS/36e28d.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IESR Full Record</Title>
-        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310449-29078</Url>
-        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310449-29078</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>発芽 [発芽] 特集 ギフトの総合専門サイト</Title>
-        <Url>http://www.fbfos.com/%E7%89%B9%E9%9B%86/%E7%99%BA%E8%8A%BD/3dc730.html</Url>
-        <ClickUrl>http://www.fbfos.com/%E7%89%B9%E9%9B%86/%E7%99%BA%E8%8A%BD/3dc730.html</ClickUrl>
+        <Title>akemi yanagihara - 夢人</Title>
+        <Url>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</Url>
+        <ClickUrl>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:16 PST 2010 -->
-<!-- ws01.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:16 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:04 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:04 PST 2010 -->

@@ -3,10 +3,20 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4927"
+    totalResultsAvailable="6715"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Shaped charge - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Shaped_charge</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Shaped_charge</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
         <Title>熊本大学附属図書館</Title>
         <Url>http://www.lib.kumamoto-u.ac.jp/</Url>
         <ClickUrl>http://www.lib.kumamoto-u.ac.jp/</ClickUrl>
@@ -20,6 +30,11 @@
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -97,6 +112,16 @@
         <ClickUrl>http://hdl.handle.net/2298/3376</ClickUrl>
     </Result>
     <Result>
+        <Title>Shaped charge: Definition from Answers.com</Title>
+        <Url>http://www.answers.com/topic/shaped-charge</Url>
+        <ClickUrl>http://www.answers.com/topic/shaped-charge</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
         <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
@@ -160,6 +185,11 @@
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
         <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>魯迅の日本留学・戦争・革命・処刑 鳥飼行博研究室</Title>
+        <Url>http://www.geocities.jp/torikai007/bio/rojin.html</Url>
+        <ClickUrl>http://www.geocities.jp/torikai007/bio/rojin.html</ClickUrl>
     </Result>
     <Result>
         <Title>Kumamoto University Repository System: 地域コミュニティを活かしたまちづくり ...</Title>
@@ -226,36 +256,6 @@
         <Url>http://hdl.handle.net/2298/3290</Url>
         <ClickUrl>http://hdl.handle.net/2298/3290</ClickUrl>
     </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 水村美苗『私小説 from left to ...</Title>
-        <Url>http://hdl.handle.net/2298/2692</Url>
-        <ClickUrl>http://hdl.handle.net/2298/2692</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 西高東低冬型気圧配置下における地形による風向 ...</Title>
-        <Url>http://hdl.handle.net/2298/3285</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3285</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 陰影のハイライトの大きさと位置が奥行き知覚に ...</Title>
-        <Url>http://hdl.handle.net/2298/3286</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3286</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 村上春樹『海辺のカフカ』の翻訳をめぐる諸問題 ...</Title>
-        <Url>http://hdl.handle.net/2298/3298</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3298</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 戦後日本産業政策の展開と新産業都市について ...</Title>
-        <Url>http://hdl.handle.net/2298/3297</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3297</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 政策移転の分析枠組みの構築に向けて</Title>
-        <Url>http://hdl.handle.net/2298/3284</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3284</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:46 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:46 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:42 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:42 PST 2010 -->

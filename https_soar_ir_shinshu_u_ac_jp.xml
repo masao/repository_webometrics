@@ -3,13 +3,38 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1269"
+    totalResultsAvailable="3551"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
         <Title>DSpaceInstances - DSpace Wiki</Title>
         <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
         <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+    </Result>
+    <Result>
+        <Title>クオリア - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アフラトキシン - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%A9%E3%83%88%E3%82%AD%E3%82%B7%E3%83%B3</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%A9%E3%83%88%E3%82%AD%E3%82%B7%E3%83%B3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
         <Title>信州大学 附属図書館</Title>
@@ -17,9 +42,44 @@
         <ClickUrl>http://www-lib.shinshu-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>棚田 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%A3%9A%E7%94%B0</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%A3%9A%E7%94%B0</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ライチョウ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
         <Title>繊維学部図書館|信州大学 附属図書館</Title>
@@ -27,235 +87,175 @@
         <ClickUrl>http://www-lib.shinshu-u.ac.jp/seni/</ClickUrl>
     </Result>
     <Result>
+        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>出生数試算のインチキ-皇室典範に関する有識者会議報告書反駁&lt;wbr&gt;-: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: オープンショップ運動・レイバーインジャンクション・ロックナー&lt;wbr&gt;エイジ・ウェルフェアキャピタリズム ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>エコのための深夜営業規制反対: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>工学部図書館|信州大学 附属図書館</Title>
         <Url>http://www-lib.shinshu-u.ac.jp/kogk/</Url>
         <ClickUrl>http://www-lib.shinshu-u.ac.jp/kogk/</ClickUrl>
     </Result>
     <Result>
-        <Title>Shinshu University Library</Title>
-        <Url>http://www-lib.shinshu-u.ac.jp/english/index.html</Url>
-        <ClickUrl>http://www-lib.shinshu-u.ac.jp/english/index.html</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/838</Title>
+        <Url>http://hdl.handle.net/10091/838</Url>
+        <ClickUrl>http://hdl.handle.net/10091/838</ClickUrl>
     </Result>
     <Result>
-        <Title>医学部図書館|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/medicine/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/medicine/</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/771</Title>
+        <Url>http://hdl.handle.net/10091/771</Url>
+        <ClickUrl>http://hdl.handle.net/10091/771</ClickUrl>
     </Result>
     <Result>
-        <Title>教育学部図書館|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/education/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/education/</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/253</Title>
+        <Url>http://hdl.handle.net/10091/253</Url>
+        <ClickUrl>http://hdl.handle.net/10091/253</ClickUrl>
     </Result>
     <Result>
-        <Title>松本合同図書館|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/matsumoto/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/matsumoto/</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/917</Title>
+        <Url>http://hdl.handle.net/10091/917</Url>
+        <ClickUrl>http://hdl.handle.net/10091/917</ClickUrl>
     </Result>
     <Result>
-        <Title>農学部図書館|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/agriculture/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/agriculture/</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/729</Title>
+        <Url>http://hdl.handle.net/10091/729</Url>
+        <ClickUrl>http://hdl.handle.net/10091/729</ClickUrl>
     </Result>
     <Result>
-        <Title>日々記―へっぽこライブラリアンの日常―: 第9回図書館総合展 : フォーラム聴講記</Title>
-        <Url>http://hibiki.cocolog-nifty.com/blogger/2007/11/9_1da1.html</Url>
-        <ClickUrl>http://hibiki.cocolog-nifty.com/blogger/2007/11/9_1da1.html</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/954</Title>
+        <Url>http://hdl.handle.net/10091/954</Url>
+        <ClickUrl>http://hdl.handle.net/10091/954</ClickUrl>
     </Result>
     <Result>
-        <Title>特別コレクション |信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/original/special.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/original/special.html</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/186</Title>
+        <Url>http://hdl.handle.net/10091/186</Url>
+        <ClickUrl>http://hdl.handle.net/10091/186</ClickUrl>
     </Result>
     <Result>
-        <Title>【終了しました】清泉女学院大学・短期大学図書館企画展「レイチ&lt;wbr&gt;ェル・カーソン 私たちに遺したメッセージ」|イベント情報|信州 ...</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/event/2009/01/seisen.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/event/2009/01/seisen.html</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/652</Title>
+        <Url>http://hdl.handle.net/10091/652</Url>
+        <ClickUrl>http://hdl.handle.net/10091/652</ClickUrl>
     </Result>
     <Result>
-        <Title>信州大学創立60周年記念「よみがえる名画―旧制松本高等学校の&lt;wbr&gt;遺産―」(4月16日~8月16日)お知らせ|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/information/2009/03/60th-exhibition.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/information/2009/03/60th-exhibition.html</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/877</Title>
+        <Url>http://hdl.handle.net/10091/877</Url>
+        <ClickUrl>http://hdl.handle.net/10091/877</ClickUrl>
     </Result>
     <Result>
-        <Title>工学部図書館|(12月1日~12月19日)「環境図書展200&lt;wbr&gt;9」|お知らせ|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/engineering/information/2009/11/12112192009.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/engineering/information/2009/11/12112192009.html</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/787</Title>
+        <Url>http://hdl.handle.net/10091/787</Url>
+        <ClickUrl>http://hdl.handle.net/10091/787</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/194</Title>
+        <Url>http://hdl.handle.net/10091/194</Url>
+        <ClickUrl>http://hdl.handle.net/10091/194</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories: Shinshu University</Title>
-        <Url>http://www.opendoar.org/find.php?search=Shinshu+University&amp;title=Shinshu+University</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=Shinshu+University&amp;title=Shinshu+University</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/948</Title>
+        <Url>http://hdl.handle.net/10091/948</Url>
+        <ClickUrl>http://hdl.handle.net/10091/948</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse Japan (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/907</Title>
+        <Url>http://hdl.handle.net/10091/907</Url>
+        <ClickUrl>http://hdl.handle.net/10091/907</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Shinshu University Institutional Repository</Title>
-        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Shinshu+University+Institutional+Repository&amp;title=SUPPRESS</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Shinshu+University+Institutional+Repository&amp;title=SUPPRESS</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/680</Title>
+        <Url>http://hdl.handle.net/10091/680</Url>
+        <ClickUrl>http://hdl.handle.net/10091/680</ClickUrl>
     </Result>
     <Result>
-        <Title>国立情報学研究所オープンハウス2007 - かたつむりは電子図書館の夢をみるか</Title>
-        <Url>http://d.hatena.ne.jp/min2-fly/20070609/1181345885</Url>
-        <ClickUrl>http://d.hatena.ne.jp/min2-fly/20070609/1181345885</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=28</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=28</ClickUrl>
-    </Result>
-    <Result>
-        <Title>松本合同図書館|アクセス|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/matsumoto/access.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/matsumoto/access.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>オンラインサービス利用案内|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/login/servicesguide.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/login/servicesguide.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>事柄・データを探す|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/a-information/matter.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/a-information/matter.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術情報データベース|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/e-information/a-database.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/e-information/a-database.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>【お詫び】開館時間の表示についてお知らせ|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/information/2009/03/post-3.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/information/2009/03/post-3.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>12月4日(金) 信州大学読書サロンのおしらせ (人文学部卒業生 仁木英之様)|イベント情報|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/event/2009/11/091204dokushosalon.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/event/2009/11/091204dokushosalon.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>松本合同図書館|図書館館内の照明設備改修工事のお知らせ&lt;wbr&gt;|お知らせ|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/matsumoto/information/2009/03/post-10.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/matsumoto/information/2009/03/post-10.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;page=3&amp;next=Next</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;page=3&amp;next=Next</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 豚の消化管内揮発性脂肪酸,乳酸,グルコースと揮発性脂肪酸の動&lt;wbr&gt;静脈差</Title>
-        <Url>http://jairo.nii.ac.jp/0028/00001753/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0028/00001753/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IESR Full Record</Title>
-        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310653-8224</Url>
-        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310653-8224</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Simulation Study of Elastic Micropropulsion Mechanism ...</Title>
-        <Url>http://jairo.nii.ac.jp/0028/00001106</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0028/00001106</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 小型X線透視検査装置の研究開発(&amp;lt;特集&amp;gt;第13回MAGDAコ&lt;wbr&gt;ンファレンス)</Title>
-        <Url>http://jairo.nii.ac.jp/0028/00001129</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0028/00001129</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | The Cgl1281-encoding putative transporter of the ...</Title>
-        <Url>http://jairo.nii.ac.jp/0028/00002404</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0028/00002404</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 感性製品のための物理計測と心理評価(&amp;lt;特集&amp;gt;感性工学&lt;wbr&gt;)</Title>
-        <Url>http://jairo.nii.ac.jp/0028/00001157</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0028/00001157</ClickUrl>
-    </Result>
-    <Result>
-        <Title>イベント情報 一覧|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/event/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/event/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>サイトマップ|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/sitemap/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/sitemap/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>電子ジャーナル・学術情報データベース メンテナンス・トライアル情報更新情報 一覧|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/updated/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/updated/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>理念・目標 |信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/aim.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/aim.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>お問い合わせ|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/inquiry/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/inquiry/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>附属図書館利用案内 |信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/guide.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/guide.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>附属図書館概要 |信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/outline.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/outline.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>お問い合わせ |信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/inquiry.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/inquiry.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>お知らせ 一覧|信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/information/</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/information/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館出版物 |信州大学 附属図書館</Title>
-        <Url>http://www.shinshu-u.ac.jp/institution/library/publication.html</Url>
-        <ClickUrl>http://www.shinshu-u.ac.jp/institution/library/publication.html</ClickUrl>
+        <Title>Shinshu University Institutional Repository: Item 10091/945</Title>
+        <Url>http://hdl.handle.net/10091/945</Url>
+        <ClickUrl>http://hdl.handle.net/10091/945</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:31 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:31 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:18 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:18 PST 2010 -->

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="537"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>浜松医科大学附属図書館</Title>
+        <Url>http://www2.hama-med.ac.jp/w3a/toshokan/homepage.html</Url>
+        <ClickUrl>http://www2.hama-med.ac.jp/w3a/toshokan/homepage.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HamaMed-Repository: 正所および異所子宮内膜腺管上皮培養細胞からのCA125産生に&lt;wbr&gt;関する基礎的検討</Title>
+        <Url>http://hdl.handle.net/10271/133</Url>
+        <ClickUrl>http://hdl.handle.net/10271/133</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HamaMed-Repository: 胎児発育における血液凝固能の変動</Title>
+        <Url>http://hdl.handle.net/10271/159</Url>
+        <ClickUrl>http://hdl.handle.net/10271/159</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>双方向型医学系サブジェクトリポジトリ技術基盤の形成</Title>
+        <Url>https://infonavi.sapmed.ac.jp/ir/</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文検索サイト</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2008-03-24(Mon): RSSを提供している機関リポジトリ一覧 - ACADEMIC RESOURCE ...</Title>
+        <Url>http://d.hatena.ne.jp/arg/20080325/1206374304</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20080325/1206374304</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>eight mansion - PDF Search engine. Free pdf search and download.</Title>
+        <Url>http://pdf.rapid4me.com/?q=eight+mansion</Url>
+        <ClickUrl>http://pdf.rapid4me.com/?q=eight+mansion</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -and/or-</Title>
+        <Url>http://seonum.com/rank/and%EF%BC%8For.html</Url>
+        <ClickUrl>http://seonum.com/rank/and%EF%BC%8For.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -せん断応力-</Title>
+        <Url>http://seonum.com/rank/%E3%81%9B%E3%82%93%E6%96%AD%E5%BF%9C%E5%8A%9B.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%81%9B%E3%82%93%E6%96%AD%E5%BF%9C%E5%8A%9B.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=80</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=80</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>幡芽にく トレス - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=%E5%B9%A1%E8%8A%BD%E3%81%AB%E3%81%8F%E3%80%80%E3%83%88%E3%83%AC%E3%82%B9&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%B9%A1%E8%8A%BD%E3%81%AB%E3%81%8F%E3%80%80%E3%83%88%E3%83%AC%E3%82%B9&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewfeed.php?page=156</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewfeed.php?page=156</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Information</Title>
+        <Url>http://www2.hama-med.ac.jp/w3a/toshokan/guide/info-e.html</Url>
+        <ClickUrl>http://www2.hama-med.ac.jp/w3a/toshokan/guide/info-e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>vocabulary latin greek roots eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/vocabulary-latin-greek-roots-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/vocabulary-latin-greek-roots-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Loss of claudin-1 expression correlates with ...</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000357</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000357</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 関口存男における前置詞auf</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000209</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000209</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Measurement of placental oxygenation by ...</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000329</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000329</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 培養内皮細胞の高分子物質取り込みに及ぼす壁せん断応力の影響</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000522</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000522</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | An Examination of the Human Soul that Dwells within ...</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000741</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000741</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 胎盤における凝固線溶物質,特にpalacental plasminogen activator (PPA ...</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000138</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000138</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : unter Tage</Title>
+        <Url>http://search.livedoor.com/search/?q=unter+Tage</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=unter+Tage</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=80</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=80</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 対人恐怖心性は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C2%D0%BF%CD%B6%B2%C9%DD%BF%B4%C0%AD%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C2%D0%BF%CD%B6%B2%C9%DD%BF%B4%C0%AD%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 賛成は 従来療法群は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BB%BF%C0%AE%A4%CF+%BD%BE%CD%E8%CE%C5%CB%A1%B7%B2%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BB%BF%C0%AE%A4%CF+%BD%BE%CD%E8%CE%C5%CB%A1%B7%B2%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : IF1・彼の人の隣に起つは誰が人ぞ</Title>
+        <Url>http://search.livedoor.com/search/?q=IF1%A1%A6%C8%E0%A4%CE%BF%CD%A4%CE%CE%D9%A4%CB%B5%AF%A4%C4%A4%CF%C3%AF%A4%AC%BF%CD%A4%BE</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=IF1%A1%A6%C8%E0%A4%CE%BF%CD%A4%CE%CE%D9%A4%CB%B5%AF%A4%C4%A4%CF%C3%AF%A4%AC%BF%CD%A4%BE</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 多次元ARモデルによる腹壁変位信号からの胎動信号の判別</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000518/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000518/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 格支配形容詞の前置詞化の可能性 「形容詞」vollの「前置詞性」を手掛かりとして</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000141/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000141/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Catalogues informatises</Title>
+        <Url>http://www.mfj.gr.jp/web/fr/ubiblj-f.html</Url>
+        <ClickUrl>http://www.mfj.gr.jp/web/fr/ubiblj-f.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>お知らせ</Title>
+        <Url>http://www2.hama-med.ac.jp/w3a/toshokan/oshirase.html</Url>
+        <ClickUrl>http://www2.hama-med.ac.jp/w3a/toshokan/oshirase.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>郡山女子大学図書館 - リンク集 - HamaMed-Repository: 浜松医医科大学学術機関リポジトリ</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=239</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=239</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Dissertation</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:16 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:16 PST 2010 -->

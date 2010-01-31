@@ -3,13 +3,23 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="207"
+    totalResultsAvailable="324"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>入れ墨 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%85%A5%E3%82%8C%E5%A2%A8</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%85%A5%E3%82%8C%E5%A2%A8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>刺青 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%88%BA%E9%9D%92</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%88%BA%E9%9D%92</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -30,6 +40,31 @@
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=126</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=126</ClickUrl>
+    </Result>
+    <Result>
+        <Title>辞倅 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E8%BE%9E%E5%80%85&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E8%BE%9E%E5%80%85&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>遠野物語捨遺 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E%E6%8D%A8%E9%81%BA&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E%E6%8D%A8%E9%81%BA&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>今昔物語集 巻五 猟師 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E%E9%9B%86+%E5%B7%BB%E4%BA%94+%E7%8C%9F%E5%B8%AB&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E%E9%9B%86+%E5%B7%BB%E4%BA%94+%E7%8C%9F%E5%B8%AB&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : データ改変のパターン概略</Title>
+        <Url>http://search.livedoor.com/search/?q=%A2%A3%A5%C7%A1%BC%A5%BF%B2%FE%CA%D1%A4%CE%A5%D1%A5%BF%A1%BC%A5%F3%B3%B5%CE%AC</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%A2%A3%A5%C7%A1%BC%A5%BF%B2%FE%CA%D1%A4%CE%A5%D1%A5%BF%A1%BC%A5%F3%B3%B5%CE%AC</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : システムは 別府大学は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%B7%A5%B9%A5%C6%A5%E0%A4%CF+%CA%CC%C9%DC%C2%E7%B3%D8%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%B7%A5%B9%A5%C6%A5%E0%A4%CF+%CA%CC%C9%DC%C2%E7%B3%D8%A4%CF</ClickUrl>
     </Result>
     <Result>
         <Title>サイトマップ 別府大学附属図書館</Title>
@@ -87,6 +122,11 @@
         <ClickUrl>https://info.co-creates.co.jp/SSL/beppu-u/lib/c_kounyu/c_1_kounyu.html</ClickUrl>
     </Result>
     <Result>
+        <Title>刺青 - ディスマス</Title>
+        <Url>http://www.dismas.jp/aff/index.php?title=%E5%88%BA%E9%9D%92&amp;affid=X3rUj7ALa0</Url>
+        <ClickUrl>http://www.dismas.jp/aff/index.php?title=%E5%88%BA%E9%9D%92&amp;affid=X3rUj7ALa0</ClickUrl>
+    </Result>
+    <Result>
         <Title>購入希望図書入荷状況 別府大学附属図書館</Title>
         <Url>https://info.co-creates.co.jp/SSL/beppu-u/lib/c_kounyu/c_2_henji/c_2_henji.html</Url>
         <ClickUrl>https://info.co-creates.co.jp/SSL/beppu-u/lib/c_kounyu/c_2_henji/c_2_henji.html</ClickUrl>
@@ -95,6 +135,16 @@
         <Title>ようこそ!ヨッちゃんの生活辞典</Title>
         <Url>http://homepage2.nifty.com/yoshimi3/</Url>
         <ClickUrl>http://homepage2.nifty.com/yoshimi3/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>入れ墨 - 韓国辞書、ウィキペディア</Title>
+        <Url>http://wiki.wowkorea.jp/?word=%E5%85%A5%E3%82%8C%E5%A2%A8</Url>
+        <ClickUrl>http://wiki.wowkorea.jp/?word=%E5%85%A5%E3%82%8C%E5%A2%A8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>download 傘の恩返し - results - www.fd3la.com</Title>
+        <Url>http://www.fd3la.com/engsearch.php?title=download+%E5%82%98%E3%81%AE%E6%81%A9%E8%BF%94%E3%81%97&amp;action=search</Url>
+        <ClickUrl>http://www.fd3la.com/engsearch.php?title=download+%E5%82%98%E3%81%AE%E6%81%A9%E8%BF%94%E3%81%97&amp;action=search</ClickUrl>
     </Result>
     <Result>
         <Title>Links - XooNIps研究会</Title>
@@ -107,6 +157,11 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=126</ClickUrl>
     </Result>
     <Result>
+        <Title>一括検索 -図書館 採用-</Title>
+        <Url>http://seonum.com/rank/%E5%9B%B3%E6%9B%B8%E9%A4%A8+%E6%8E%A1%E7%94%A8.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%9B%B3%E6%9B%B8%E9%A4%A8+%E6%8E%A1%E7%94%A8.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | 若山牧水日記にみる読書記録(三)</Title>
         <Url>http://jairo.nii.ac.jp/0127/00001536/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0127/00001536/en</ClickUrl>
@@ -115,6 +170,16 @@
         <Title>JAIRO | フランス料理研修旅行報告</Title>
         <Url>http://jairo.nii.ac.jp/0127/00000779/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0127/00000779/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>【メンタルストレステスト】の検索結果| Ameba Search(アメーバサーチ)</Title>
+        <Url>http://web-search.ameba.jp/search.html?q=%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%86%E3%82%B9%E3%83%88&amp;webNumResults=10&amp;webFirstResult=20&amp;nowPage=3</Url>
+        <ClickUrl>http://web-search.ameba.jp/search.html?q=%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%86%E3%82%B9%E3%83%88&amp;webNumResults=10&amp;webFirstResult=20&amp;nowPage=3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>サク(壁山の弟)はどうしたら仲間にできる - results - www.fd3la.com</Title>
+        <Url>http://www.fd3la.com/engsearch.php?title=%E3%82%B5%E3%82%AF%EF%BC%88%E5%A3%81%E5%B1%B1%E3%81%AE%E5%BC%9F%EF%BC%89%E3%81%AF%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E4%BB%B2%E9%96%93%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B&amp;action=search</Url>
+        <ClickUrl>http://www.fd3la.com/engsearch.php?title=%E3%82%B5%E3%82%AF%EF%BC%88%E5%A3%81%E5%B1%B1%E3%81%AE%E5%BC%9F%EF%BC%89%E3%81%AF%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E4%BB%B2%E9%96%93%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B&amp;action=search</ClickUrl>
     </Result>
     <Result>
         <Title>年間開館スケジュール 別府大学附属図書館</Title>
@@ -127,9 +192,19 @@
         <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/e_backnumber.html</ClickUrl>
     </Result>
     <Result>
+        <Title>キーワード ちょっとした気まぐれ 2009年12月16日(Wed) 19時28分14秒</Title>
+        <Url>http://seo.bookstudio.com/1001/JHKnuwb7/20091216192814.htm</Url>
+        <ClickUrl>http://seo.bookstudio.com/1001/JHKnuwb7/20091216192814.htm</ClickUrl>
+    </Result>
+    <Result>
         <Title>修士論文一覧 別府大学附属図書館</Title>
         <Url>http://www6.beppu-u.ac.jp/lib/b_siryou/b_1_tosyokan/shuuron.html</Url>
         <ClickUrl>http://www6.beppu-u.ac.jp/lib/b_siryou/b_1_tosyokan/shuuron.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>観光と文化―旅の民族誌 | ってどうよブログ</Title>
+        <Url>http://ttedouyo.net/wp/?p=56859</Url>
+        <ClickUrl>http://ttedouyo.net/wp/?p=56859</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 屎葛の歌 : 万葉巻十六の歌をよむ</Title>
@@ -167,95 +242,20 @@
         <ClickUrl>http://jairo.nii.ac.jp/0127/00001537</ClickUrl>
     </Result>
     <Result>
+        <Title>刺青 外国為替市場</Title>
+        <Url>http://1oh.jp/wikipedia/%E5%88%BA%E9%9D%92/</Url>
+        <ClickUrl>http://1oh.jp/wikipedia/%E5%88%BA%E9%9D%92/</ClickUrl>
+    </Result>
+    <Result>
         <Title>別府大学附属図書館</Title>
         <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2006spring.html</Url>
         <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2006spring.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 「古今集」に見る大和</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001595/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001595/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2004summer.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2004summer.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2005winter.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2005winter.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2007spring.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2007spring.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2006summer.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2006summer.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2004spring.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2004spring.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2006spring.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/e_argo2006spring.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005autumn.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005autumn.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/china/e_argo2005autumn.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/china/e_argo2005autumn.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005summer.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005summer.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005spring.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/bknumber/korea/e_argo2005spring.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言: 図書館</Title>
-        <Url>http://liblog.seesaa.net/category/578396-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/category/578396-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Learning English as a Foreign Language : finding the ...</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00000056/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00000056/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 新朝の成立 : 王莽の登極過程</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001302/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001302/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Victorian Images of Meiji Japan : Isabella Bird and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00000946/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00000946/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 可能表現の変遷 : 大分郡挾間町の3世代</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001443/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001443/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>XooNIps もしくは データベース - XooNIps for IBR</Title>
-        <Url>http://icecoffee.hobby-site.com/query/XooNIps/</Url>
-        <ClickUrl>http://icecoffee.hobby-site.com/query/XooNIps/</ClickUrl>
+        <Title>刺青 - ディスマス</Title>
+        <Url>http://www.dismas.jp/aff/index.php?title=%E5%85%A5%E3%82%8C%E5%A2%A8&amp;affid=X3rUj7ALa0</Url>
+        <ClickUrl>http://www.dismas.jp/aff/index.php?title=%E5%85%A5%E3%82%8C%E5%A2%A8&amp;affid=X3rUj7ALa0</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:06 PST 2010 -->
-<!-- ws02.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:06 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:41 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:41 PST 2010 -->

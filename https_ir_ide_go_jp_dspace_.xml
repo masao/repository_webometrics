@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="278"
+    totalResultsAvailable="280"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -152,6 +152,11 @@
         <ClickUrl>http://www.opendoar.org/find.php/images/tools/images/favicon.ico</ClickUrl>
     </Result>
     <Result>
+        <Title>IESR Full Record</Title>
+        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310282-21224</Url>
+        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310282-21224</ClickUrl>
+    </Result>
+    <Result>
         <Title>機関リポジトリ参考リンク集</Title>
         <Url>http://www.lib.tottori-u.ac.jp/irp_link.htm</Url>
         <ClickUrl>http://www.lib.tottori-u.ac.jp/irp_link.htm</ClickUrl>
@@ -202,6 +207,11 @@
         <ClickUrl>http://opac.ide.go.jp/region/japanese/southeast_asia/index.html</ClickUrl>
     </Result>
     <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php/images/images/tools/faq.html</Url>
+        <ClickUrl>http://www.opendoar.org/find.php/images/images/tools/faq.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>ARRIDE研修</Title>
         <Url>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.doc</Url>
         <ClickUrl>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.doc</ClickUrl>
@@ -246,16 +256,6 @@
         <Url>http://current.ndl.go.jp/ca1626?quicktabs_4=3</Url>
         <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_4=3</ClickUrl>
     </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_4=2</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_4=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_2=1</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_2=1</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:51 PST 2010 -->
-<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:51 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:47 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:47 PST 2010 -->

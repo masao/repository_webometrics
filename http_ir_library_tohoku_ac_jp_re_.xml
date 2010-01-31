@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="17068"
+    totalResultsAvailable="17053"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -20,11 +20,6 @@
         <Title>Portal:歴史学 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/34659</Title>
-        <Url>http://hdl.handle.net/10097/34659</Url>
-        <ClickUrl>http://hdl.handle.net/10097/34659</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/40080</Title>
@@ -60,6 +55,11 @@
         <Title>TOUR(TOhoku University Repository): Item 10097/40103</Title>
         <Url>http://hdl.handle.net/10097/40103</Url>
         <ClickUrl>http://hdl.handle.net/10097/40103</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/34659</Title>
+        <Url>http://hdl.handle.net/10097/34659</Url>
+        <ClickUrl>http://hdl.handle.net/10097/34659</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/30694</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://hdl.handle.net/10097/30788</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:29 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:29 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:20 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:20 PST 2010 -->

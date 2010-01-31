@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1066"
+    totalResultsAvailable="2137"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,9 +12,34 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>錬金術 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%8C%AC%E9%87%91%E8%A1%93</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%8C%AC%E9%87%91%E8%A1%93</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>県立広島大学学術情報センター図書館</Title>
+        <Url>http://libwww.pu-hiroshima.ac.jp/</Url>
+        <ClickUrl>http://libwww.pu-hiroshima.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>広島市立大学附属図書館</Title>
+        <Url>http://www2.lib.hiroshima-cu.ac.jp/opac/index.html</Url>
+        <ClickUrl>http://www2.lib.hiroshima-cu.ac.jp/opac/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>広島市立大学附属図書館</Title>
+        <Url>http://www2.lib.hiroshima-cu.ac.jp/</Url>
+        <ClickUrl>http://www2.lib.hiroshima-cu.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>人生がベータ版</Title>
+        <Url>http://d.hatena.ne.jp/beta_magnus/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/beta_magnus/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
@@ -22,14 +47,99 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>社会情報学部図書館トップページ</Title>
+        <Url>http://www.hbg.ac.jp/univ/library/slib-top.html</Url>
+        <ClickUrl>http://www.hbg.ac.jp/univ/library/slib-top.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Kenji Kajiya&apos;s Notes / 加治屋健司の覚え書き</Title>
+        <Url>http://d.hatena.ne.jp/kk392/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/kk392/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本赤十字広島看護大学図書館 - 日本赤十字広島看護大学</Title>
+        <Url>http://www.jrchcn.ac.jp/books/index.html</Url>
+        <ClickUrl>http://www.jrchcn.ac.jp/books/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DRF5 - DRF wiki</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?DRF5</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?DRF5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>看護学部図書館トップページ</Title>
+        <Url>http://www.hbg.ac.jp/univ/library/klib-top.html</Url>
+        <ClickUrl>http://www.hbg.ac.jp/univ/library/klib-top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>kazumi mizumoto - 注目商品ピック</Title>
+        <Url>http://www.at-pop.com/ap/kazumi+mizumoto/</Url>
+        <ClickUrl>http://www.at-pop.com/ap/kazumi+mizumoto/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>錬金術 - ディスマス</Title>
+        <Url>http://www.dismas.jp/aff/index.php?title=%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB&amp;affid=D3qKhrrjY7</Url>
+        <ClickUrl>http://www.dismas.jp/aff/index.php?title=%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%AB&amp;affid=D3qKhrrjY7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>サイトマップ - 日本赤十字広島看護大学</Title>
+        <Url>http://www.jrchcn.ac.jp/00root/sitemap.html</Url>
+        <ClickUrl>http://www.jrchcn.ac.jp/00root/sitemap.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ぴゅあぴゅあ1949:セール・フレーザー商会(1&lt;wbr&gt;) - livedoor Blog(ブログ)</Title>
+        <Url>http://blog.livedoor.jp/k_guncontrol/archives/50632371.html</Url>
+        <ClickUrl>http://blog.livedoor.jp/k_guncontrol/archives/50632371.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>広島大学学術情報リポジトリ リンク</Title>
         <Url>http://ir.lib.hiroshima-u.ac.jp/portal/link.html</Url>
         <ClickUrl>http://ir.lib.hiroshima-u.ac.jp/portal/link.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>紀要 - 教育研修活動 - 日本赤十字広島看護大学</Title>
+        <Url>http://www.jrchcn.ac.jp/06education/bulletin.html</Url>
+        <ClickUrl>http://www.jrchcn.ac.jp/06education/bulletin.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - For 13 maidens&apos; prayer - 社会学</Title>
+        <Url>http://b.hatena.ne.jp/YOW/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/YOW/%E7%A4%BE%E4%BC%9A%E5%AD%A6/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -平鋼の縦弾性係数-</Title>
+        <Url>http://seonum.com/rank/%E5%B9%B3%E9%8B%BC%E3%81%AE%E7%B8%A6%E5%BC%BE%E6%80%A7%E4%BF%82%E6%95%B0.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%B9%B3%E9%8B%BC%E3%81%AE%E7%B8%A6%E5%BC%BE%E6%80%A7%E4%BF%82%E6%95%B0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帝京科学大学附属図書館 - 電子ジャーナル</Title>
+        <Url>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ha.html</Url>
+        <ClickUrl>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ha.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>karatejutsu eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/ref/karatejutsu-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/ref/karatejutsu-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>karatejutsu eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/karatejutsu-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/karatejutsu-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>infatuation eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/infatuation-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/infatuation-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>IRの更なる発展を目指した課題解決・情報共有に向けて&lt;wbr&gt;-CSI委託事業報告交流会レビューⅡ- - かたつむりは電子図書館の夢をみるか</Title>
@@ -82,6 +192,11 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=77</ClickUrl>
     </Result>
     <Result>
+        <Title>basketball drive eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/basketball-drive-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/basketball-drive-pdf.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=138</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=138</ClickUrl>
@@ -92,170 +207,55 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>gibbons game theory solution economist eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/gibbons-game-theory-solution-economist-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/gibbons-game-theory-solution-economist-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>わが闘争 raw - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E3%82%8F%E3%81%8C%E9%97%98%E4%BA%89+raw&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E3%82%8F%E3%81%8C%E9%97%98%E4%BA%89+raw&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>張井歩汰夫 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=%E5%BC%B5%E4%BA%95%E6%AD%A9%E6%B1%B0%E5%A4%AB&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%BC%B5%E4%BA%95%E6%AD%A9%E6%B1%B0%E5%A4%AB&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>the hare s gift 日本語訳 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=the+hare+s+gift+%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=the+hare+s+gift+%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | 食品添加物の心臓収縮性への影響</Title>
         <Url>http://jairo.nii.ac.jp/0078/00000191/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0078/00000191/en</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+        <Title>C0 Create weapons in weapon s illustrate フリーズ - results - www ...</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=C0+Create+weapons+in+weapon+s+illustrate%E3%80%80%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BA&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=C0+Create+weapons+in+weapon+s+illustrate%E3%80%80%E3%83%95%E3%83%AA%E3%83%BC%E3%82%BA&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=139</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=139</ClickUrl>
+        <Title>参河守大江定基出家せる語 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=%E5%8F%82%E6%B2%B3%E5%AE%88%E5%A4%A7%E6%B1%9F%E5%AE%9A%E5%9F%BA%E5%87%BA%E5%AE%B6%E3%81%9B%E3%82%8B%E8%AA%9E&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%8F%82%E6%B2%B3%E5%AE%88%E5%A4%A7%E6%B1%9F%E5%AE%9A%E5%9F%BA%E5%87%BA%E5%AE%B6%E3%81%9B%E3%82%8B%E8%AA%9E&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 公共交通機関にとってバリアフリーとはなにか?</Title>
-        <Url>http://jairo.nii.ac.jp/0079/00000101</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0079/00000101</ClickUrl>
+        <Title>Dialogue and Research Monitor | 2007 | Track 2: Governmental ...</Title>
+        <Url>http://www.jcie.or.jp/drm/2007/track2.html</Url>
+        <ClickUrl>http://www.jcie.or.jp/drm/2007/track2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Interactive Mobile Communication System with Facial ...</Title>
-        <Url>http://jairo.nii.ac.jp/0073/00000155</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0073/00000155</ClickUrl>
+        <Title>参河守大江定基出家せる語 第二 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=%E5%8F%82%E6%B2%B3%E5%AE%88%E5%A4%A7%E6%B1%9F%E5%AE%9A%E5%9F%BA%E5%87%BA%E5%AE%B6%E3%81%9B%E3%82%8B%E8%AA%9E%E3%80%80%E7%AC%AC%E4%BA%8C&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%8F%82%E6%B2%B3%E5%AE%88%E5%A4%A7%E6%B1%9F%E5%AE%9A%E5%9F%BA%E5%87%BA%E5%AE%B6%E3%81%9B%E3%82%8B%E8%AA%9E%E3%80%80%E7%AC%AC%E4%BA%8C&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 五日市町方言調査の記</Title>
-        <Url>http://jairo.nii.ac.jp/0078/00000156</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0078/00000156</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Mobile Healthcare System for Preventive of Metabolic ...</Title>
-        <Url>http://jairo.nii.ac.jp/0073/00000156</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0073/00000156</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | HIROSHIMA RESEARCH NEWS(第2号)</Title>
-        <Url>http://jairo.nii.ac.jp/0073/00000149</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0073/00000149</ClickUrl>
-    </Result>
-    <Result>
-        <Title>機関リポジトリ</Title>
-        <Url>http://www.it-hiroshima.ac.jp/library/repositories.html</Url>
-        <ClickUrl>http://www.it-hiroshima.ac.jp/library/repositories.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - omni:bus::bookmark - 060 大学</Title>
-        <Url>http://b.hatena.ne.jp/satoschi/060%20%E5%A4%A7%E5%AD%A6/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/satoschi/060%20%E5%A4%A7%E5%AD%A6/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - omni:bus::bookmark - 000 リポジトリ</Title>
-        <Url>http://b.hatena.ne.jp/satoschi/000%20%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/satoschi/000%20%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - omni:bus::bookmark - ‡1.5 中国・四国</Title>
-        <Url>http://b.hatena.ne.jp/satoschi/%E2%80%A11.5%20%E4%B8%AD%E5%9B%BD%E3%83%BB%E5%9B%9B%E5%9B%BD/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/satoschi/%E2%80%A11.5%20%E4%B8%AD%E5%9B%BD%E3%83%BB%E5%9B%9B%E5%9B%BD/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>第39回分科会案内</Title>
-        <Url>http://www.daitoken.com/taikai/2008/bunkakai.html</Url>
-        <ClickUrl>http://www.daitoken.com/taikai/2008/bunkakai.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Harp - So-net ウェブ検索</Title>
-        <Url>http://www.so-net.ne.jp/search/?type=web&amp;query=Harp&amp;charset=euc</Url>
-        <ClickUrl>http://www.so-net.ne.jp/search/?type=web&amp;query=Harp&amp;charset=euc</ClickUrl>
-    </Result>
-    <Result>
-        <Title>データベース</Title>
-        <Url>http://library.hju.ac.jp/database.htm</Url>
-        <ClickUrl>http://library.hju.ac.jp/database.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>コンテンツ収集のためのアプローチ</Title>
-        <Url>http://ir.lib.hiroshima-u.ac.jp/00023216</Url>
-        <ClickUrl>http://ir.lib.hiroshima-u.ac.jp/00023216</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術情報リポジトリ</Title>
-        <Url>http://libwww.pu-hiroshima.ac.jp/repository.html</Url>
-        <ClickUrl>http://libwww.pu-hiroshima.ac.jp/repository.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>推薦図書|尾道大学附属図書館</Title>
-        <Url>http://www.lib.onomichi-u.ac.jp/repositories.html</Url>
-        <ClickUrl>http://www.lib.onomichi-u.ac.jp/repositories.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術情報リポジトリ</Title>
-        <Url>http://libwww.pu-hiroshima.ac.jp/repository_main.html</Url>
-        <ClickUrl>http://libwww.pu-hiroshima.ac.jp/repository_main.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなアンテナ - 学術機関リポジトリ全文紀要</Title>
-        <Url>http://a.hatena.ne.jp/jwu2/rss</Url>
-        <ClickUrl>http://a.hatena.ne.jp/jwu2/rss</ClickUrl>
-    </Result>
-    <Result>
-        <Title>HARP | 広島経済大学図書館|広島経済大学</Title>
-        <Url>http://www.hue.ac.jp/lib/harp.html</Url>
-        <ClickUrl>http://www.hue.ac.jp/lib/harp.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2008-06-17 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080617</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080617</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 高圧縮可能かつコンパクトなテスト生成について(テスト圧縮&lt;wbr&gt;, &amp;lt;小特集&amp;gt;LSIのテスト・診断技術論文)</Title>
-        <Url>http://jairo.nii.ac.jp/0073/00000280</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0073/00000280</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 食品添加物の心臓収縮性への影響</Title>
-        <Url>http://jairo.nii.ac.jp/0078/00000191</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0078/00000191</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | テストデータ削減のための必須割当に基づくテストポイント挿入法</Title>
-        <Url>http://jairo.nii.ac.jp/0073/00000303</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0073/00000303</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | City as a Factor of History : st. Petersburg in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0073/00000287</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0073/00000287</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Metaphysics in an Optic Glass: The War Poetry of ...</Title>
-        <Url>http://jairo.nii.ac.jp/0078/00000251</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0078/00000251</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 野菜の煮熟軟化に及ぼす各種塩類の影響-エネルギー分散型分光法&lt;wbr&gt;による分析-</Title>
-        <Url>http://jairo.nii.ac.jp/0078/00000267</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0078/00000267</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 夏休み数学特訓補講の実践とその成果</Title>
-        <Url>http://jairo.nii.ac.jp/0076/00000079</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0076/00000079</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 芦田恵之助の日記文指導論</Title>
-        <Url>http://jairo.nii.ac.jp/0079/00000115</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0079/00000115</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 健康茶の官能評価と重金属類に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0078/00000268</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0078/00000268</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 制約問合せ処理の最適化と制約データベースの枠組みに関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0073/00000206</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0073/00000206</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 某社の歯車ポンプ製造における部品の内径研磨作業時間の自主設定&lt;wbr&gt;に関するファジィ最適化</Title>
-        <Url>http://jairo.nii.ac.jp/0076/00000078</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0076/00000078</ClickUrl>
+        <Title>marktankosich.com - My Writing</Title>
+        <Url>http://marktankosich.com/pb/wp_311400ed/wp_311400ed.html</Url>
+        <ClickUrl>http://marktankosich.com/pb/wp_311400ed/wp_311400ed.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:21 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:21 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:09 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:09 PST 2010 -->

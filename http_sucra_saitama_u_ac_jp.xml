@@ -3,13 +3,33 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1595"
+    totalResultsAvailable="5350"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>Saitama University</Title>
         <Url>http://www.saitama-u.ac.jp/</Url>
         <ClickUrl>http://www.saitama-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文教大学・文教大学女子短期大学部—大学選びの基準が変わる。—</Title>
+        <Url>http://www.bunkyo.ac.jp/</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/</Url>
+        <ClickUrl>http://www.nwec.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -32,6 +52,131 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kenichi SHIMOSAKA, Dr. Eng.</Title>
+        <Url>http://www1.ocn.ne.jp/~shimox/</Url>
+        <ClickUrl>http://www1.ocn.ne.jp/~shimox/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文教大学越谷図書館 Bunkyo University Koshigaya Library</Title>
+        <Url>http://www.bunkyo.ac.jp/faculty/lib/klib/</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/klib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館</Title>
+        <Url>http://libopac.josai.ac.jp/</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>跡見学園女子大学図書館</Title>
+        <Url>http://www.atomi.ac.jp/lib/</Url>
+        <ClickUrl>http://www.atomi.ac.jp/lib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>交通アクセス - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/about/access.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/about/access.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文教大学湘南図書館</Title>
+        <Url>http://www.bunkyo.ac.jp/faculty/lib/slib/index.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/slib/index.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女子栄養大学図書館 短期大学部図書館 香川栄養専門学校図書室</Title>
+        <Url>http://www.eiyo.ac.jp/library/</Url>
+        <ClickUrl>http://www.eiyo.ac.jp/library/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「男女共同参画のための研究と実践の交流推進フォーラム」の開催&lt;wbr&gt;について - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2008/page03i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2008/page03i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文教大学・文教大学女子短期大学部|交通案内:越谷キャンパス</Title>
+        <Url>http://www.bunkyo.ac.jp/access/koshi.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/access/koshi.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「女子高校生夏の学校」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2007/page12i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2007/page12i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「男女共同参画のための研究と実践の交流推進フォーラム」&lt;wbr&gt;(NWECフォーラム)募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2009/page05i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page05i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女性教育情報センター - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/center/</Url>
+        <ClickUrl>http://www.nwec.jp/jp/center/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文教大学・文教大学女子短期大学部|交通案内:湘南キャンパス</Title>
+        <Url>http://www.bunkyo.ac.jp/access/shonan.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/access/shonan.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>施設案内 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/about/facilities/</Url>
+        <ClickUrl>http://www.nwec.jp/jp/about/facilities/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女性情報アーキビスト入門講座 受講者募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/archive/archivist.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/archive/archivist.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「男女共同参画のための研究と実践の交流推進フォーラムワークシ&lt;wbr&gt;ョップ」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2009/page05w.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page05w.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文教大学・文教大学女子短期大学部|入試情報</Title>
+        <Url>http://www.bunkyo.ac.jp/stf/nyushi/</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/stf/nyushi/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学園案内|文教大学・文教大学女子短期大学部</Title>
+        <Url>http://www.bunkyo.ac.jp/gakuen/index.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/gakuen/index.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立女性教育会館研究ジャーナル - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/publish/record/journal.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/publish/record/journal.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
@@ -42,9 +187,64 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>「家庭教育・次世代育成のための指導者養成セミナー」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2009/page02i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page02i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女性アーカイブセンター - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/archive/</Url>
+        <ClickUrl>http://www.nwec.jp/jp/archive/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文教大学図書館: Bunkyo University Library</Title>
+        <Url>http://www.bunkyo.ac.jp/faculty/lib/</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>埼玉大学 | 教育・研究</Title>
+        <Url>http://www.saitama-u.ac.jp/education/index.html</Url>
+        <ClickUrl>http://www.saitama-u.ac.jp/education/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>埼玉大学 | 教育・研究 | 特徴ある教育</Title>
+        <Url>http://www.saitama-u.ac.jp/education/feature/index.html</Url>
+        <ClickUrl>http://www.saitama-u.ac.jp/education/feature/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「女子中高生夏の学校2009」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2009/page04i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page04i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「男女共同参画のための研究と実践の交流推進フォーラム」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2007/page07i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2007/page07i.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>埼玉大学情報メディア基盤センター -</Title>
         <Url>http://www.saitama-u.ac.jp/media/</Url>
         <ClickUrl>http://www.saitama-u.ac.jp/media/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>FrontPage - 上野研究室@埼玉大学 公式Webページ</Title>
+        <Url>http://surface-www.chem.saitama-u.ac.jp/index.html</Url>
+        <ClickUrl>http://surface-www.chem.saitama-u.ac.jp/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>家庭教育に関する国際比較調査報告書 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/publish/report/page16.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/publish/report/page16.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「女子中高生夏の学校」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2008/page09i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2008/page09i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「女性関連施設・団体リーダーのための男女共同参画推進研修」募&lt;wbr&gt;集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2009/page03i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page03i.html</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -52,210 +252,10 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Google Earth version of the data</Title>
-        <Url>http://maps.repository66.org/repository66dotorg-maps.kml</Url>
-        <ClickUrl>http://maps.repository66.org/repository66dotorg-maps.kml</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 女性の人権としてのリプロダクティブ・ヘルス/ライツ (&amp;lt;テーマ&amp;gt;女性と人権)</Title>
-        <Url>http://jairo.nii.ac.jp/0134/00000010</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0134/00000010</ClickUrl>
-    </Result>
-    <Result>
-        <Title>埼玉大学図書館 過去のお知らせ</Title>
-        <Url>http://www.lib.saitama-u.ac.jp/news/newstop.html</Url>
-        <ClickUrl>http://www.lib.saitama-u.ac.jp/news/newstop.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>平成20年 月 日</Title>
-        <Url>http://www.lib.saitama-u.ac.jp/sucra/ronbunirai.pdf</Url>
-        <ClickUrl>http://www.lib.saitama-u.ac.jp/sucra/ronbunirai.pdf</ClickUrl>
-    </Result>
-    <Result>
-        <Title>埼玉大学図書館、埼玉大学学術情報発信システム「SUCRA」を&lt;wbr&gt;埼玉県地域共同リポジトリ「SUCRA」に移行(2008&lt;wbr&gt;-11 ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20081228/1230468093</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20081228/1230468093</ClickUrl>
-    </Result>
-    <Result>
-        <Title>埼玉大学学術情報発信システムSUCRAの本格運用を開始しまし&lt;wbr&gt;た!</Title>
-        <Url>http://www.lib.saitama-u.ac.jp/news/new-2006/news080303-2.html</Url>
-        <ClickUrl>http://www.lib.saitama-u.ac.jp/news/new-2006/news080303-2.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=39</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=39</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=136</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=136</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=133</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=133</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=106</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=106</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=105</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=105</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_81.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_81.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;page=3&amp;next=Next</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;page=3&amp;next=Next</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Vegetation bioshields for tsunami mitigation: review ...</Title>
-        <Url>http://jairo.nii.ac.jp/0040/00002732/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0040/00002732/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Invariance of Frequency Difference in Nonresonant ...</Title>
-        <Url>http://jairo.nii.ac.jp/0040/00002518/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0040/00002518/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
-        <Url>http://roar.eprints.org/view/software/other/other.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/software/other/other.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 電子スペックル干渉カメラによる新しい材料劣化診断技術の確立</Title>
-        <Url>http://jairo.nii.ac.jp/0040/00002524</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0040/00002524</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 携帯型鉄筋腐食度判定装置の開発と試用</Title>
-        <Url>http://jairo.nii.ac.jp/0040/00002991</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0040/00002991</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Step-bunched Bi-terminated Si(111) surfaces as a ...</Title>
-        <Url>http://jairo.nii.ac.jp/0040/00002523</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0040/00002523</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>最新情報/大学からのお知らせ</Title>
-        <Url>http://www.saitama-u.ac.jp/koho/info/info/</Url>
-        <ClickUrl>http://www.saitama-u.ac.jp/koho/info/info/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SUCRA-RD 新・研究者総覧システムの公開を開始</Title>
-        <Url>http://www.lib.saitama-u.ac.jp/news/new-2009/news090403.html</Url>
-        <ClickUrl>http://www.lib.saitama-u.ac.jp/news/new-2009/news090403.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 機関リポジトリ Archive</Title>
-        <Url>http://www.openaccessjapan.com/cat6/</Url>
-        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
+        <Title>埼玉大学 | お知らせ&amp;amp;イベント一覧</Title>
+        <Url>http://www.saitama-u.ac.jp/event/index.html</Url>
+        <ClickUrl>http://www.saitama-u.ac.jp/event/index.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:50:50 PST 2010 -->
-<!-- ws02.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:50:50 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:40 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:40 PST 2010 -->

@@ -3,13 +3,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="10002"
+    totalResultsAvailable="4901"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
     </Result>
     <Result>
         <Title>学位論文</Title>
@@ -22,14 +27,39 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>植民地 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%B0%91%E5%9C%B0</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%B0%91%E5%9C%B0</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>薬師寺 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%96%AC%E5%B8%AB%E5%AF%BA</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%96%AC%E5%B8%AB%E5%AF%BA</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>法政大学図書館[HOSEI UNIVERSITY LIBRARY]</Title>
+        <Url>http://www.hosei.ac.jp/general/lib/index.html</Url>
+        <ClickUrl>http://www.hosei.ac.jp/general/lib/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -42,11 +72,6 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
-        <Url>http://www.ifremer.fr/avano/archives.htm</Url>
-        <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
-    </Result>
-    <Result>
         <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
@@ -57,14 +82,19 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
+        <Title>総統 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E7%B7%8F%E7%B5%B1</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%B7%8F%E7%B5%B1</ClickUrl>
+    </Result>
+    <Result>
         <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>インターネット上の基礎知識 NDC 000-299 </Title>
-        <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</Url>
-        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</ClickUrl>
+        <Title>アーネスト・フェノロサ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%8D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%95%E3%82%A7%E3%83%8E%E3%83%AD%E3%82%B5</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%8D%E3%82%B9%E3%83%88%E3%83%BB%E3%83%95%E3%82%A7%E3%83%8E%E3%83%AD%E3%82%B5</ClickUrl>
     </Result>
     <Result>
         <Title>川西正彦の公共政策研究</Title>
@@ -72,19 +102,9 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/2205</Title>
-        <Url>http://hdl.handle.net/2261/2205</Url>
-        <ClickUrl>http://hdl.handle.net/2261/2205</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/1984</Title>
-        <Url>http://hdl.handle.net/2261/1984</Url>
-        <ClickUrl>http://hdl.handle.net/2261/1984</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/5687</Title>
-        <Url>http://hdl.handle.net/2261/5687</Url>
-        <ClickUrl>http://hdl.handle.net/2261/5687</ClickUrl>
+        <Title>鷹狩 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%B7%B9%E7%8B%A9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%B7%B9%E7%8B%A9</ClickUrl>
     </Result>
     <Result>
         <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
@@ -102,44 +122,24 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/2075</Title>
-        <Url>http://hdl.handle.net/2261/2075</Url>
-        <ClickUrl>http://hdl.handle.net/2261/2075</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: Sakai調査</Title>
+        <Url>http://hdl.handle.net/10114/227</Url>
+        <ClickUrl>http://hdl.handle.net/10114/227</ClickUrl>
     </Result>
     <Result>
-        <Title>Portal:歴史学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: ミルヤ、アマミヤ、オボツの語源</Title>
+        <Url>http://hdl.handle.net/10114/1408</Url>
+        <ClickUrl>http://hdl.handle.net/10114/1408</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/8129</Title>
-        <Url>http://hdl.handle.net/2261/8129</Url>
-        <ClickUrl>http://hdl.handle.net/2261/8129</ClickUrl>
+        <Title>Journal of International Economic Studies</Title>
+        <Url>http://www.hosei.ac.jp/hikaku2/jies.htm</Url>
+        <ClickUrl>http://www.hosei.ac.jp/hikaku2/jies.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/1973</Title>
-        <Url>http://hdl.handle.net/2261/1973</Url>
-        <ClickUrl>http://hdl.handle.net/2261/1973</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/7344</Title>
-        <Url>http://hdl.handle.net/2261/7344</Url>
-        <ClickUrl>http://hdl.handle.net/2261/7344</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/5644</Title>
-        <Url>http://hdl.handle.net/2261/5644</Url>
-        <ClickUrl>http://hdl.handle.net/2261/5644</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/2047</Title>
-        <Url>http://hdl.handle.net/2261/2047</Url>
-        <ClickUrl>http://hdl.handle.net/2261/2047</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/12969</Title>
-        <Url>http://hdl.handle.net/2261/12969</Url>
-        <ClickUrl>http://hdl.handle.net/2261/12969</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
         <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
@@ -202,60 +202,60 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+        <Title>マリエトア・タヌマフィリ2世 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%A8%E3%83%88%E3%82%A2%E3%83%BB%E3%82%BF%E3%83%8C%E3%83%9E%E3%83%95%E3%82%A3%E3%83%AA2%E4%B8%96</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%A8%E3%83%88%E3%82%A2%E3%83%BB%E3%82%BF%E3%83%8C%E3%83%9E%E3%83%95%E3%82%A3%E3%83%AA2%E4%B8%96</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/910</Title>
-        <Url>http://hdl.handle.net/2261/910</Url>
-        <ClickUrl>http://hdl.handle.net/2261/910</ClickUrl>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/2040</Title>
-        <Url>http://hdl.handle.net/2261/2040</Url>
-        <ClickUrl>http://hdl.handle.net/2261/2040</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: Commitment Problem, Optimal Incentive Schemes ...</Title>
+        <Url>http://hdl.handle.net/10114/229</Url>
+        <ClickUrl>http://hdl.handle.net/10114/229</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/6630</Title>
-        <Url>http://hdl.handle.net/2261/6630</Url>
-        <ClickUrl>http://hdl.handle.net/2261/6630</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: 1949年の「夢」 1950年の「現実」 : 朝日新聞の「中立」社説をめぐって</Title>
+        <Url>http://hdl.handle.net/10114/213</Url>
+        <ClickUrl>http://hdl.handle.net/10114/213</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/1990</Title>
-        <Url>http://hdl.handle.net/2261/1990</Url>
-        <ClickUrl>http://hdl.handle.net/2261/1990</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: folA, a New Member of the TyrR Regulon in ...</Title>
+        <Url>http://hdl.handle.net/10114/749</Url>
+        <ClickUrl>http://hdl.handle.net/10114/749</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/1431</Title>
-        <Url>http://hdl.handle.net/2261/1431</Url>
-        <ClickUrl>http://hdl.handle.net/2261/1431</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: Structural Breaks and Currency Crises : A ...</Title>
+        <Url>http://hdl.handle.net/10114/697</Url>
+        <ClickUrl>http://hdl.handle.net/10114/697</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/8104</Title>
-        <Url>http://hdl.handle.net/2261/8104</Url>
-        <ClickUrl>http://hdl.handle.net/2261/8104</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: Structural Reform as Precondition for Economic ...</Title>
+        <Url>http://hdl.handle.net/10114/107</Url>
+        <ClickUrl>http://hdl.handle.net/10114/107</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/5607</Title>
-        <Url>http://hdl.handle.net/2261/5607</Url>
-        <ClickUrl>http://hdl.handle.net/2261/5607</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: Injection of Lean Mixtures into Hot Burned Gas ...</Title>
+        <Url>http://hdl.handle.net/10114/2830</Url>
+        <ClickUrl>http://hdl.handle.net/10114/2830</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/6915</Title>
-        <Url>http://hdl.handle.net/2261/6915</Url>
-        <ClickUrl>http://hdl.handle.net/2261/6915</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: 詩人黄瀛の光栄―書簡性と多言語性―</Title>
+        <Url>http://hdl.handle.net/10114/2659</Url>
+        <ClickUrl>http://hdl.handle.net/10114/2659</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/4226</Title>
-        <Url>http://hdl.handle.net/2261/4226</Url>
-        <ClickUrl>http://hdl.handle.net/2261/4226</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: 「探求学習」の系譜と学校図書館</Title>
+        <Url>http://hdl.handle.net/10114/1685</Url>
+        <ClickUrl>http://hdl.handle.net/10114/1685</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/7345</Title>
-        <Url>http://hdl.handle.net/2261/7345</Url>
-        <ClickUrl>http://hdl.handle.net/2261/7345</ClickUrl>
+        <Title>法政大学学術機関リポジトリ: Strain Rate Dependency of Dymamic Flow Stress ...</Title>
+        <Url>http://hdl.handle.net/10114/2818</Url>
+        <ClickUrl>http://hdl.handle.net/10114/2818</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 10:27:56 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 10:27:55 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:43 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:43 PST 2010 -->

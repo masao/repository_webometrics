@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1394"
+    totalResultsAvailable="1393"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -167,11 +167,6 @@
         <ClickUrl>http://hdl.handle.net/10114/631</ClickUrl>
     </Result>
     <Result>
-        <Title>法政大学学術機関リポジトリ: 幕末におけるフランス艦隊の琉球来航と薩琉関係</Title>
-        <Url>http://hdl.handle.net/10114/965</Url>
-        <ClickUrl>http://hdl.handle.net/10114/965</ClickUrl>
-    </Result>
-    <Result>
         <Title>法政大学学術機関リポジトリ: Development of Channels of Industrial Finance ...</Title>
         <Url>http://hdl.handle.net/10114/304</Url>
         <ClickUrl>http://hdl.handle.net/10114/304</ClickUrl>
@@ -256,6 +251,11 @@
         <Url>http://hdl.handle.net/10114/772</Url>
         <ClickUrl>http://hdl.handle.net/10114/772</ClickUrl>
     </Result>
+    <Result>
+        <Title>法政大学学術機関リポジトリ: なし</Title>
+        <Url>http://hdl.handle.net/10114/623</Url>
+        <ClickUrl>http://hdl.handle.net/10114/623</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:48 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:48 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:43 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:42 PST 2010 -->

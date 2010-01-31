@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8689"
+    totalResultsAvailable="8690"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -62,14 +62,14 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020343/en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Light-induced anelastic change in a-Si(H)</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020009/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020009/en</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | Bound for the Weierstrass weights of points on a ...</Title>
         <Url>http://jairo.nii.ac.jp/0025/00020389/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020389/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Light-induced anelastic change in a-Si(H)</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00020009/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00020009/en</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Effect of 6-day intense Kendo training on lymphocyte ...</Title>
@@ -122,14 +122,14 @@
         <ClickUrl>http://d.hatena.ne.jp/arg/20060402/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 「彼ら」の顔と「我々」の顔 : 『シーザーの記念柱』にみる自己否定する表象システム&lt;wbr&gt;(荒木正純先生退職祈念)</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021195</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021195</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 松岸地区における遊廓の成立と展開</Title>
         <Url>http://jairo.nii.ac.jp/0025/00021215</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021215</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「彼ら」の顔と「我々」の顔 : 『シーザーの記念柱』にみる自己否定する表象システム&lt;wbr&gt;(荒木正純先生退職祈念)</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021195</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021195</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 生起相修飾成分の認定と分類</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021183</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:27 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:27 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:46 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:46 PST 2010 -->

@@ -3,13 +3,83 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="34693"
+    totalResultsAvailable="75393"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Home — Kyoto University</Title>
+        <Url>http://www.kyoto-u.ac.jp/index-e.html</Url>
+        <ClickUrl>http://www.kyoto-u.ac.jp/index-e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ホーム — 京都大学</Title>
+        <Url>http://www.kyoto-u.ac.jp/</Url>
+        <ClickUrl>http://www.kyoto-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Digital Librarian: Images</Title>
+        <Url>http://www.digital-librarian.com/images.html</Url>
+        <ClickUrl>http://www.digital-librarian.com/images.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpaceInstances - DSpace Wiki</Title>
+        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
+        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都市 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B8%82</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E4%BA%AC%E9%83%BD%E5%B8%82</ClickUrl>
+    </Result>
+    <Result>
         <Title>京都大学図書館機構</Title>
         <Url>http://www.kulib.kyoto-u.ac.jp/homejm.html</Url>
         <ClickUrl>http://www.kulib.kyoto-u.ac.jp/homejm.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>クオリア - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>MEMBRANA | Швейная машинка для ДНК наматывает гены на катушки</Title>
+        <Url>http://www.membrana.ru/articles/inventions/2008/07/18/143700.html</Url>
+        <ClickUrl>http://www.membrana.ru/articles/inventions/2008/07/18/143700.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tourism in Thailand - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Tourism_in_Thailand</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Tourism_in_Thailand</ClickUrl>
+    </Result>
+    <Result>
+        <Title>index</Title>
+        <Url>http://www.users.kudpc.kyoto-u.ac.jp/~c53851/</Url>
+        <ClickUrl>http://www.users.kudpc.kyoto-u.ac.jp/~c53851/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都大学電子図書館</Title>
+        <Url>http://edb.kulib.kyoto-u.ac.jp/minds.html</Url>
+        <ClickUrl>http://edb.kulib.kyoto-u.ac.jp/minds.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Digital Librarian: Japan</Title>
+        <Url>http://www.digital-librarian.com/japan.html</Url>
+        <ClickUrl>http://www.digital-librarian.com/japan.html</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -17,9 +87,69 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
+        <Title>ベジタリアニズム - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B8%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B8%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Chung Keng Quee - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Chung_Keng_Quee</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Chung_Keng_Quee</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都大学大学院教育学研究科・教育学部</Title>
+        <Url>http://www.educ.kyoto-u.ac.jp/</Url>
+        <ClickUrl>http://www.educ.kyoto-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
         <Url>http://repositories.webometrics.info/top400_rep.asp</Url>
         <ClickUrl>http://repositories.webometrics.info/top400_rep.asp</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>セキュリティホール memo - 2008.11</Title>
+        <Url>http://www.st.ryukoku.ac.jp/~kjm/security/memo/2008/11.html</Url>
+        <ClickUrl>http://www.st.ryukoku.ac.jp/~kjm/security/memo/2008/11.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Department of Classics</Title>
+        <Url>http://www.bun.kyoto-u.ac.jp/classics/</Url>
+        <ClickUrl>http://www.bun.kyoto-u.ac.jp/classics/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>哲学的ゾンビ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E7%9A%84%E3%82%BE%E3%83%B3%E3%83%93</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E7%9A%84%E3%82%BE%E3%83%B3%E3%83%93</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Archivalia: Digital Libraries in Japan with content in ...</Title>
+        <Url>http://archiv.twoday.net/stories/4575784/</Url>
+        <ClickUrl>http://archiv.twoday.net/stories/4575784/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>位階 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E4%BD%8D%E9%9A%8E</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E4%BD%8D%E9%9A%8E</ClickUrl>
+    </Result>
+    <Result>
+        <Title>決定論 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E8%AB%96</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E8%AB%96</ClickUrl>
+    </Result>
+    <Result>
+        <Title>尾池和夫の地震、活断層、俳句、エッセイなど</Title>
+        <Url>http://homepage2.nifty.com/cat-fish/</Url>
+        <ClickUrl>http://homepage2.nifty.com/cat-fish/</ClickUrl>
     </Result>
     <Result>
         <Title>Ranking Web of World Repositories: Top 400 Institutional ...</Title>
@@ -27,235 +157,105 @@
         <ClickUrl>http://repositories.webometrics.info/top400_rep_inst.asp</ClickUrl>
     </Result>
     <Result>
+        <Title>Kyoto University Research Information Repository: MANGA Kyoto ...</Title>
+        <Url>http://hdl.handle.net/2433/66065</Url>
+        <ClickUrl>http://hdl.handle.net/2433/66065</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>home (takashiui)</Title>
+        <Url>http://takashi.ui.googlepages.com/</Url>
+        <ClickUrl>http://takashi.ui.googlepages.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
+        <Url>http://www.ifremer.fr/avano/archives.htm</Url>
+        <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
+    </Result>
+    <Result>
         <Title>2008/03/31 Expanded search targets and new functions of PORTA</Title>
         <Url>http://porta.ndl.go.jp/service/SER_Information_DetailRSS.jsp?news_id=9</Url>
         <ClickUrl>http://porta.ndl.go.jp/service/SER_Information_DetailRSS.jsp?news_id=9</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_es.asp</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_es.asp</ClickUrl>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios ...</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_inst_es.asp</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst_es.asp</ClickUrl>
+        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>京都大学‐お知らせ/トピックス/2007 Back Number</Title>
-        <Url>http://www.kyoto-u.ac.jp/cgi_build/back_number/2007.htm</Url>
-        <ClickUrl>http://www.kyoto-u.ac.jp/cgi_build/back_number/2007.htm</ClickUrl>
+        <Title>京都大学大学院教育学研究科・教育学部</Title>
+        <Url>http://www.educ.kyoto-u.ac.jp/j_index.htm</Url>
+        <ClickUrl>http://www.educ.kyoto-u.ac.jp/j_index.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>京都大学 河原研究室 (Prof. Kawahara Lab.)</Title>
-        <Url>http://www.ar.media.kyoto-u.ac.jp/</Url>
-        <ClickUrl>http://www.ar.media.kyoto-u.ac.jp/</ClickUrl>
+        <Title>文献収集講座2009 (桂建築系図書室)</Title>
+        <Url>http://www.h3.dion.ne.jp/~skmanabe/</Url>
+        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/</ClickUrl>
     </Result>
     <Result>
-        <Title>LinkOut Providers</Title>
-        <Url>http://www.ncbi.nlm.nih.gov/projects/linkout/journals/htmllists.cgi?type_id=6</Url>
-        <ClickUrl>http://www.ncbi.nlm.nih.gov/projects/linkout/journals/htmllists.cgi?type_id=6</ClickUrl>
+        <Title>京都大学</Title>
+        <Url>http://www.kyoto-u.ac.jp/cn/c-index.htm</Url>
+        <ClickUrl>http://www.kyoto-u.ac.jp/cn/c-index.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>京都大学図書館機構 - KURENAI: 2008年によく読まれた論文を発表 / 論文ダウンロードは年間60万件に</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=421</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=421</ClickUrl>
+        <Title>京都大学大学文書館</Title>
+        <Url>http://kua1.archives.kyoto-u.ac.jp/ja/</Url>
+        <ClickUrl>http://kua1.archives.kyoto-u.ac.jp/ja/</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+        <Title>NetbibWiki:DigiMisc [wiki, knowledgebase, cms, php, mysql]</Title>
+        <Url>http://wiki.netbib.de/coma/DigiMisc</Url>
+        <ClickUrl>http://wiki.netbib.de/coma/DigiMisc</ClickUrl>
     </Result>
     <Result>
-        <Title>京都大学‐お知らせ/トピックス</Title>
-        <Url>http://www.kyoto-u.ac.jp/cgi_build/back_number/topics.htm</Url>
-        <ClickUrl>http://www.kyoto-u.ac.jp/cgi_build/back_number/topics.htm</ClickUrl>
+        <Title>Kyoto University Research Information Repository: Induction ...</Title>
+        <Url>http://hdl.handle.net/2433/49782</Url>
+        <ClickUrl>http://hdl.handle.net/2433/49782</ClickUrl>
     </Result>
     <Result>
-        <Title>京都大学図書館機構 - 益川敏英京都大学名誉教授のノーベル物理学賞受賞論文を公開しま&lt;wbr&gt;した</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=363</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=363</ClickUrl>
+        <Title>&quot;Hassei&quot; = Masahito Hasegawa&apos;s Research</Title>
+        <Url>http://www.kurims.kyoto-u.ac.jp/~hassei/papers/</Url>
+        <ClickUrl>http://www.kurims.kyoto-u.ac.jp/~hassei/papers/</ClickUrl>
     </Result>
     <Result>
-        <Title>Kyoto University Libraries - E-books List</Title>
-        <Url>http://edb.kulib.kyoto-u.ac.jp/gakunaieb-e.html</Url>
-        <ClickUrl>http://edb.kulib.kyoto-u.ac.jp/gakunaieb-e.html</ClickUrl>
+        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+        <Title>進化心理学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>Wiki_en: ListOfSearchTargetArchives</Title>
-        <Url>http://porta.ndl.go.jp/wiki_en/Wiki.jsp?page=ListOfSearchTargetArchives</Url>
-        <ClickUrl>http://porta.ndl.go.jp/wiki_en/Wiki.jsp?page=ListOfSearchTargetArchives</ClickUrl>
+        <Title>インターネット上の基礎知識 NDC 000-299 </Title>
+        <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</Url>
+        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+        <Title>マーシャル・プラン - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
-        <Url>http://repositories.webometrics.info/top400_rep.asp?offset=0</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep.asp?offset=0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構、KURENAIで2008年によく読まれた&lt;wbr&gt;論文を発表 | カレントアウェアネス・ポータル</Title>
-        <Url>http://current.ndl.go.jp/node/11586</Url>
-        <ClickUrl>http://current.ndl.go.jp/node/11586</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Wiki: 検索対象アーカイブ一覧</Title>
-        <Url>http://porta.ndl.go.jp/wiki/Wiki.jsp?page=%E6%A4%9C%E7%B4%A2%E5%AF%BE%E8%B1%A1%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E4%B8%80%E8%A6%A7&amp;wikijsp=Wiki.jsp</Url>
-        <ClickUrl>http://porta.ndl.go.jp/wiki/Wiki.jsp?page=%E6%A4%9C%E7%B4%A2%E5%AF%BE%E8%B1%A1%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E4%B8%80%E8%A6%A7&amp;wikijsp=Wiki.jsp</ClickUrl>
-    </Result>
-    <Result>
-        <Title>数学の哲学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E3%81%AE%E5%93%B2%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E3%81%AE%E5%93%B2%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - [プレスリリース]京都大学学術情報リポジトリと京都大学学術出&lt;wbr&gt;版会との連携について</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=248</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=248</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 『京都大學文學部研究紀要』を公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=483</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=483</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - マンガによる京都大学紹介冊子「MANGA Kyoto University」をデジタル版で公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=359</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=359</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学学術情報リポジトリ(KURENAI)の収録論文に年間&lt;wbr&gt;60万アクセスがありました。(2009年1月23日&lt;wbr&gt;) — 京都大学</Title>
-        <Url>http://www.kyoto-u.ac.jp/ja/news_data/h/h1/news7/2008/090123_1.htm</Url>
-        <ClickUrl>http://www.kyoto-u.ac.jp/ja/news_data/h/h1/news7/2008/090123_1.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Research Reactor Institute Library, Kyoto University</Title>
-        <Url>http://www.rri.kyoto-u.ac.jp/library/</Url>
-        <ClickUrl>http://www.rri.kyoto-u.ac.jp/library/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: PubMed採録誌『泌尿器科紀要』を公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=472</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=472</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - 京都大学学術情報リポジトリの愛称決定! KURENAIに</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=264</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=264</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - ヒトiPS細胞樹立の論文を京大リポジトリで公開!&lt;wbr&gt;!</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=257</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=257</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Wiki: 検索対象アーカイブ一覧</Title>
-        <Url>http://porta.ndl.go.jp/wiki/Wiki.jsp?page=%E6%A4%9C%E7%B4%A2%E5%AF%BE%E8%B1%A1%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E4%B8%80%E8%A6%A7</Url>
-        <ClickUrl>http://porta.ndl.go.jp/wiki/Wiki.jsp?page=%E6%A4%9C%E7%B4%A2%E5%AF%BE%E8%B1%A1%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96%E4%B8%80%E8%A6%A7</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2008-03-24(Mon): RSSを提供している機関リポジトリ一覧 - ACADEMIC RESOURCE ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080325/1206374304</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080325/1206374304</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 収録論文数が3万件を突破! / 【特別インタビュー】経済学研究科・藤井秀樹教授</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=447</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=447</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - CiNiiから京大リポジトリ収録の論文が検索可能に</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=334</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=334</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 『生物資源経済研究』(14)を公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=498</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=498</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館退屈男: 国立国会図書館でAPI公開</Title>
-        <Url>http://toshokan.weblogs.jp/blog/2008/03/api-776a.html</Url>
-        <ClickUrl>http://toshokan.weblogs.jp/blog/2008/03/api-776a.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館 - 電子ブックリスト</Title>
-        <Url>http://edb.kulib.kyoto-u.ac.jp/gakunaieb.html</Url>
-        <ClickUrl>http://edb.kulib.kyoto-u.ac.jp/gakunaieb.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学学術情報リポジトリ 総合案内サイトKyoto University Research Information ...</Title>
-        <Url>http://edb.kulib.kyoto-u.ac.jp/kurir/index.html</Url>
-        <ClickUrl>http://edb.kulib.kyoto-u.ac.jp/kurir/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>press - DRF wiki</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?press</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - お知らせ</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - 特殊コレクション</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/collections/</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/collections/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2007-12-20(Thu): 機関リポジトリの愛称 - ACADEMIC RESOURCE GUIDE (ARG ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20071224/1198431856</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20071224/1198431856</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 『京都大学言語学研究』(27)を公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=491</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=491</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: リポジトリランキングで国内第1位/世界第24位の評価をいただ&lt;wbr&gt;きました</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=551</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=551</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 『京都大学構内遺跡調査研究年報』(2004-2006年度&lt;wbr&gt;)を公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=494</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=494</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 『人文学報』(94)(95)(96)(97) / 『東方学報』(80)(81 ...</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=464</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=464</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 『Prospectus』(11)を公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=474</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=474</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 『アジア・キリスト教・多元性』(7) と 『キリスト教思想と国家・政治論』を公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=495</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=495</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学図書館機構 - KURENAI: 『The Kyoto Economic Review』77(1)を公開</Title>
-        <Url>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=479</Url>
-        <ClickUrl>http://www.kulib.kyoto-u.ac.jp/modules/bulletin/article.php?storyid=479</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:18 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:18 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:06 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:06 PST 2010 -->

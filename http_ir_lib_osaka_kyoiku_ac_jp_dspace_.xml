@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1605"
+    totalResultsAvailable="1603"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -257,5 +257,5 @@
         <ClickUrl>http://jairo.nii.ac.jp/0049/00006765</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:54 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:54 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:51 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:51 PST 2010 -->

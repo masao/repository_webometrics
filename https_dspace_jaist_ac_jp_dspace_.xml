@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2011"
+    totalResultsAvailable="2010"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -167,11 +167,6 @@
         <ClickUrl>http://hdl.handle.net/10119/376</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: ユーザの嗜好を考慮したドキュメントスキーミング環境の研究</Title>
-        <Url>http://hdl.handle.net/10119/457</Url>
-        <ClickUrl>http://hdl.handle.net/10119/457</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIST Repository: コーパスを使ったマルチエージェントシミュレーションによる言語&lt;wbr&gt;意味の普遍性と相対性の研究</Title>
         <Url>http://hdl.handle.net/10119/589</Url>
         <ClickUrl>http://hdl.handle.net/10119/589</ClickUrl>
@@ -256,6 +251,11 @@
         <Url>http://hdl.handle.net/10119/4317</Url>
         <ClickUrl>http://hdl.handle.net/10119/4317</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIST Repository: 個人選好による情報アクセスに適したデータモデルについて</Title>
+        <Url>http://hdl.handle.net/10119/3415</Url>
+        <ClickUrl>http://hdl.handle.net/10119/3415</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:24 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:24 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:12 PST 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:12 PST 2010 -->

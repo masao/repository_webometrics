@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="229"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学校法人 文化学園 EDUCATIONAL FOUNDATION BUNKA GAKUEN</Title>
+        <Url>http://www.bunka.ac.jp/</Url>
+        <ClickUrl>http://www.bunka.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園文化女子大学図書館</Title>
+        <Url>http://www.bunka.ac.jp/lib/toshokan.html</Url>
+        <ClickUrl>http://www.bunka.ac.jp/lib/toshokan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | 新着記事</Title>
+        <Url>http://maruta.be/culture</Url>
+        <ClickUrl>http://maruta.be/culture</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化女子大学 文化ファッション研究機構 服飾文化共同研究拠点</Title>
+        <Url>http://www.bfri-bunka.jp/</Url>
+        <ClickUrl>http://www.bfri-bunka.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Joint Research Center for Fashion and Clothing Culture</Title>
+        <Url>http://www.bfri.bunka.ac.jp/en/index.php</Url>
+        <ClickUrl>http://www.bfri.bunka.ac.jp/en/index.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=94</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=94</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>www.elcohkg.com; 仙人掌搜索引擎 - 搜田機</Title>
+        <Url>http://www.elcohkg.com/search.php?search=%E6%90%9C%E7%94%B0%E6%A9%9F&amp;action=search</Url>
+        <ClickUrl>http://www.elcohkg.com/search.php?search=%E6%90%9C%E7%94%B0%E6%A9%9F&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>www.elcohkg.com; 仙人掌搜索引擎 - 羽翹 ep download</Title>
+        <Url>http://www.elcohkg.com/search.php?search=%E7%BE%BD%E7%BF%B9+ep+download&amp;action=search</Url>
+        <ClickUrl>http://www.elcohkg.com/search.php?search=%E7%BE%BD%E7%BF%B9+ep+download&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Download 澶笅 pdf book</Title>
+        <Url>http://pdfbook-s.com/%E6%BE%B6%E2%95%80%E7%AC%85/1/</Url>
+        <ClickUrl>http://pdfbook-s.com/%E6%BE%B6%E2%95%80%E7%AC%85/1/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:ホームページ</Title>
+        <Url>http://bunkalib.mega-heart.net/index.php?cp1=0&amp;cp2=1</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/index.php?cp1=0&amp;cp2=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:学内紀要</Title>
+        <Url>http://bunkalib.mega-heart.net/info/kiyo.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/kiyo.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:関連サイト集</Title>
+        <Url>http://bunkalib.mega-heart.net/info/links.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/links.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:テーマ別調べ方案内</Title>
+        <Url>http://bunkalib.mega-heart.net/info/theme.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/theme.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:継続受入中の雑誌新聞</Title>
+        <Url>http://bunkalib.mega-heart.net/info/ukeire.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/ukeire.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:アクセス(小平)</Title>
+        <Url>http://bunkalib.mega-heart.net/access/kodaira.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/access/kodaira.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:外部DB(学内専用)</Title>
+        <Url>http://bunkalib.mega-heart.net/info/externaldb.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/externaldb.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:アクセス(新都心)</Title>
+        <Url>http://bunkalib.mega-heart.net/access/shintoshin.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/access/shintoshin.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:利用案内 学内の方(小平)</Title>
+        <Url>http://bunkalib.mega-heart.net/riyo_annai/kodaira01.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/kodaira01.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:利用案内 学内の方(新都心)</Title>
+        <Url>http://bunkalib.mega-heart.net/riyo_annai/shintoshin01.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/shintoshin01.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 冷却材間は 熱水力特性は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CE%E4%B5%D1%BA%E0%B4%D6%A4%CF+%C7%AE%BF%E5%CE%CF%C6%C3%C0%AD%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CE%E4%B5%D1%BA%E0%B4%D6%A4%CF+%C7%AE%BF%E5%CE%CF%C6%C3%C0%AD%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : ジョン・スタインベック</Title>
+        <Url>http://search.livedoor.com/search/?ie=utf8&amp;lr=lang_ja&amp;q=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%99%E3%83%83%E3%82%AF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?ie=utf8&amp;lr=lang_ja&amp;q=%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%99%E3%83%83%E3%82%AF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化 Culture | 新着記事</Title>
+        <Url>http://maruta.be/culture+p1</Url>
+        <ClickUrl>http://maruta.be/culture+p1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php?p=4</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php?p=4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php?p=2</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php?p=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:トップページ</Title>
+        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php?p=3</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php?p=3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 染色テキスタイルの視覚印象評価に及ぼす糸密度の影響&lt;wbr&gt;(Ⅱ) : 下地肌色に平織物を重ねた場合について</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000085</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000085</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 現代社会における衣服着用率の季節変化 : 第一報 定点観測法の試み</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000105</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000105</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 文化女子大学生の運動行動の実態と関連要因</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000022</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000022</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 盤珪禅における不生の仏心について</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000069</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000069</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 染色テキスタイルの視覚印象評価に及ぼす糸密度の影響&lt;wbr&gt;(1)</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000084</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000084</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 仏教から見たソローと山頭火 : 色から音そして声へ</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000082</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000082</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 原爆投下決定における「公式解釈」の形成とヘンリー・スティムソ&lt;wbr&gt;ン</Title>
+        <Url>http://jairo.nii.ac.jp/0095/00000081</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0095/00000081</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:継続受入中の雑誌新聞 和雑誌・アジアの雑誌</Title>
+        <Url>http://bunkalib.mega-heart.net/info/ukeire1.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/ukeire1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:継続受入中の雑誌新聞 洋雑誌</Title>
+        <Url>http://bunkalib.mega-heart.net/info/ukeire2.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/ukeire2.html</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:37 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:37 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="53"
+    totalResultsAvailable="55"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -40,6 +40,11 @@
         <Title>Joint Research Center for Fashion and Clothing Culture</Title>
         <Url>http://www.bfri.bunka.ac.jp/en/index.php</Url>
         <ClickUrl>http://www.bfri.bunka.ac.jp/en/index.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=94</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=94</ClickUrl>
     </Result>
     <Result>
         <Title>文化学園図書館:トップページ</Title>
@@ -182,6 +187,11 @@
         <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/kodaira02.html</ClickUrl>
     </Result>
     <Result>
+        <Title>文化学園図書館:利用案内 通信教育・オープンカレッジ受講の方(新都心)</Title>
+        <Url>http://bunkalib.mega-heart.net/riyo_annai/shintoshin03.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/shintoshin03.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>文化学園図書館:利用案内 卒業生の方(新都心)</Title>
         <Url>http://bunkalib.mega-heart.net/riyo_annai/shintoshin02.html</Url>
         <ClickUrl>http://bunkalib.mega-heart.net/riyo_annai/shintoshin02.html</ClickUrl>
@@ -246,16 +256,6 @@
         <Url>http://maruta.be/culture/hokkaido</Url>
         <ClickUrl>http://maruta.be/culture/hokkaido</ClickUrl>
     </Result>
-    <Result>
-        <Title>文化 Culture | 投稿者:鼓クン</Title>
-        <Url>http://maruta.be/culture/user/cho_san</Url>
-        <ClickUrl>http://maruta.be/culture/user/cho_san</ClickUrl>
-    </Result>
-    <Result>
-        <Title>文化 Culture | 記事カテゴリ:地域</Title>
-        <Url>http://maruta.be/culture/article_category/012</Url>
-        <ClickUrl>http://maruta.be/culture/article_category/012</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:42 PST 2010 -->
-<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:42 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:36 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:35 PST 2010 -->

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="35062"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Scirus - About Us</Title>
+        <Url>http://www.scirus.com/srsapp/aboutus/</Url>
+        <ClickUrl>http://www.scirus.com/srsapp/aboutus/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Chiba University</Title>
+        <Url>http://www.chiba-u.ac.jp/</Url>
+        <ClickUrl>http://www.chiba-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Chiba University HomePage</Title>
+        <Url>http://www.chiba-u.ac.jp/e/</Url>
+        <ClickUrl>http://www.chiba-u.ac.jp/e/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>千葉大学附属図書館</Title>
+        <Url>http://www.ll.chiba-u.ac.jp/</Url>
+        <ClickUrl>http://www.ll.chiba-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Peter Suber, Open Access News</Title>
+        <Url>http://www.earlham.edu/~peters/fos/2006_04_09_fosblogarchive.html</Url>
+        <ClickUrl>http://www.earlham.edu/~peters/fos/2006_04_09_fosblogarchive.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Chiba University Library</Title>
+        <Url>http://www.ll.chiba-u.ac.jp/index.eng.html</Url>
+        <ClickUrl>http://www.ll.chiba-u.ac.jp/index.eng.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>報道写真家から</Title>
+        <Url>http://blog.goo.ne.jp/leonlobo</Url>
+        <ClickUrl>http://blog.goo.ne.jp/leonlobo</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
+        <Url>http://www.ifremer.fr/avano/archives.htm</Url>
+        <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>エルゼビア・ジャパン株式会社</Title>
+        <Url>http://japan.elsevier.com/products/scirus/index.html</Url>
+        <ClickUrl>http://japan.elsevier.com/products/scirus/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Repositories 2007 :: Presentations</Title>
+        <Url>http://openrepositories.org/2007/program/presentations</Url>
+        <ClickUrl>http://openrepositories.org/2007/program/presentations</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>地球温暖化ニュース/そろそろ間に合わなくなってきた&lt;wbr&gt;..</Title>
+        <Url>http://www.rainbow.gr.jp/news/</Url>
+        <ClickUrl>http://www.rainbow.gr.jp/news/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>千葉大学 / 千葉大学ロボット憲章</Title>
+        <Url>http://www.chiba-u.ac.jp/general/robot/robot.html</Url>
+        <ClickUrl>http://www.chiba-u.ac.jp/general/robot/robot.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>受験生の皆様へ・千葉大学入試課からのお知らせ</Title>
+        <Url>http://www.chiba-u.ac.jp/exam/nyushi/</Url>
+        <ClickUrl>http://www.chiba-u.ac.jp/exam/nyushi/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Archives  Inventory of Data Providers</Title>
+        <Url>http://www.oaforum.org/otherfiles/tv-dp.pdf</Url>
+        <ClickUrl>http://www.oaforum.org/otherfiles/tv-dp.pdf</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日帝のせいで韓国から大木が消滅したので日本人妻が謝罪と賠償と&lt;wbr&gt;植樹:Birth of Blues</Title>
+        <Url>http://birthofblues.livedoor.biz/archives/50794683.html</Url>
+        <ClickUrl>http://birthofblues.livedoor.biz/archives/50794683.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ポッドキャスト@千葉大図書館</Title>
+        <Url>http://libcast-chibau.seesaa.net/</Url>
+        <ClickUrl>http://libcast-chibau.seesaa.net/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>法学-1-アメリカ合衆国の法と社会(平成20年度教養コア科目&lt;wbr&gt;)-授業資料ナビゲータ(PATHFINDER)</Title>
+        <Url>http://biblioteca.universia.net/ficha.do?id=38649427</Url>
+        <ClickUrl>http://biblioteca.universia.net/ficha.do?id=38649427</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: オープンショップ運動・レイバーインジャンクション・ロックナー&lt;wbr&gt;エイジ・ウェルフェアキャピタリズム ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>エコのための深夜営業規制反対: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Category:Data repositories cluster - DigiRepWiki</Title>
+        <Url>http://www.ukoln.ac.uk/repositories/digirep/index/Category:Data_repositories_cluster</Url>
+        <ClickUrl>http://www.ukoln.ac.uk/repositories/digirep/index/Category:Data_repositories_cluster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>平和への結集ブログ &quot; 千葉県知事選挙:熟議討論集会の報告と立候補者情報</Title>
+        <Url>http://kaze.fm/wordpress/?p=264</Url>
+        <ClickUrl>http://kaze.fm/wordpress/?p=264</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>千葉大学研究者情報データベース Chiba University Researcher Tracker</Title>
+        <Url>http://curt.ll.chiba-u.jp/</Url>
+        <ClickUrl>http://curt.ll.chiba-u.jp/</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:13 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:13 PST 2010 -->

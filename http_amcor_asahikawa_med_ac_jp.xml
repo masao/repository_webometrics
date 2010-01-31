@@ -3,10 +3,30 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2297"
+    totalResultsAvailable="2829"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>国立大学法人 旭川医科大学</Title>
+        <Url>http://www.asahikawa-med.ac.jp/</Url>
+        <ClickUrl>http://www.asahikawa-med.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
@@ -17,14 +37,49 @@
         <ClickUrl>http://acesv.asahikawa-med.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Ranking Web of World Repositories: Directory of Repositories</Title>
         <Url>http://repositories.webometrics.info/directory_rep.asp</Url>
         <ClickUrl>http://repositories.webometrics.info/directory_rep.asp</ClickUrl>
+    </Result>
+    <Result>
+        <Title>阪神タイガースについて</Title>
+        <Url>http://www.mascardiandnash.com/</Url>
+        <ClickUrl>http://www.mascardiandnash.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
@@ -42,6 +97,16 @@
         <ClickUrl>http://www.opendoar.org/find.php?search=&amp;ctrl=new&amp;cID=&amp;ctID=&amp;clID=10&amp;submit=Filter&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;p=1</ClickUrl>
     </Result>
     <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+    </Result>
+    <Result>
         <Title>Talk:OAIster - LISWiki</Title>
         <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
         <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
@@ -52,9 +117,24 @@
         <ClickUrl>http://www.asahikawa-med.ac.jp/ipc/</ClickUrl>
     </Result>
     <Result>
+        <Title>うつ病を患って入院し回</Title>
+        <Url>http://www.zzwowgold.com/utuyamaio.html</Url>
+        <ClickUrl>http://www.zzwowgold.com/utuyamaio.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1011</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1011</ClickUrl>
     </Result>
     <Result>
         <Title>Browse Japan (ROAR)</Title>
@@ -70,6 +150,61 @@
         <Title>Data Provider</Title>
         <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>双方向型医学系サブジェクトリポジトリ技術基盤の形成</Title>
+        <Url>https://infonavi.sapmed.ac.jp/ir/</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>イングリッシュセター</Title>
+        <Url>http://www.gzgmwx.com/inguri.html</Url>
+        <ClickUrl>http://www.gzgmwx.com/inguri.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学法人 旭川医科大学大学院医学系研究科</Title>
+        <Url>http://www.asahikawa-med.ac.jp/dept/gsm/</Url>
+        <ClickUrl>http://www.asahikawa-med.ac.jp/dept/gsm/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ZARD グロリアス マインド</Title>
+        <Url>http://www.host-events.com/osuteingus.html</Url>
+        <ClickUrl>http://www.host-events.com/osuteingus.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/,</Url>
+        <ClickUrl>http://celestial.eprints.org/,</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/Error</Url>
+        <ClickUrl>http://celestial.eprints.org/Error</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
@@ -107,155 +242,20 @@
         <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Asahikawa+Medical+College+Repository&amp;title=SUPPRESS</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Lidocaine持続点滴とmexiletine経口投与が有&lt;wbr&gt;効であったLennox-Gastaut症候群の1例</Title>
-        <Url>http://jairo.nii.ac.jp/0010/00001461</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0010/00001461</ClickUrl>
+        <Title>高橋生花舗素敵な花束やア</Title>
+        <Url>http://www.haotsu.jp/takahasiseika.html</Url>
+        <ClickUrl>http://www.haotsu.jp/takahasiseika.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=10</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=10</ClickUrl>
+        <Title>Herb&amp;amp;Rose農薬な</Title>
+        <Url>http://www.wynajemsprzetu.info/herb.html</Url>
+        <ClickUrl>http://www.wynajemsprzetu.info/herb.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Registry of Open Access Repositories (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php/?prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php/?prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registry of Open Access Repositories (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php/dSpace?prev=Prev&amp;page=5</Url>
-        <ClickUrl>http://roar.eprints.org/index.php/dSpace?prev=Prev&amp;page=5</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>How much is amcor.asahikawa-med.ac.jp worth? amcor.asahikawa ...</Title>
-        <Url>http://www.yourwebsitevalue.com/details/amcor_asahikawa-med_ac_jp.html</Url>
-        <ClickUrl>http://www.yourwebsitevalue.com/details/amcor_asahikawa-med_ac_jp.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Other softwares (various) (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php/ROAR_search.xml?action=home&amp;version=other</Url>
-        <ClickUrl>http://roar.eprints.org/index.php/ROAR_search.xml?action=home&amp;version=other</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
-        <Url>http://roar.eprints.org/view/software/other/other.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/software/other/other.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Fucoidan prevents concanavalin A-induced liver injury ...</Title>
-        <Url>http://jairo.nii.ac.jp/0010/00001619</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0010/00001619</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Increase in B-cell-activation factor (BAFF) and IFN-γ ...</Title>
-        <Url>http://jairo.nii.ac.jp/0010/00002143</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0010/00002143</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Clinical Significance of Non-Hodgkin&apos;s Lymphoma with ...</Title>
-        <Url>http://jairo.nii.ac.jp/0010/00001499</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0010/00001499</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>HUSCAP園芸部:平成18年度組登場 - livedoor Blog(ブログ)</Title>
-        <Url>http://blog.livedoor.jp/x822gaz/archives/51350395.html</Url>
-        <ClickUrl>http://blog.livedoor.jp/x822gaz/archives/51350395.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>利用案内</Title>
-        <Url>http://acesv.asahikawa-med.ac.jp/AMCoR</Url>
-        <ClickUrl>http://acesv.asahikawa-med.ac.jp/AMCoR</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Asahikawa Medical College Library</Title>
-        <Url>http://acesv.asahikawa-med.ac.jp/index-e.html</Url>
-        <ClickUrl>http://acesv.asahikawa-med.ac.jp/index-e.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>XooNIps Official Site - ユーザーモジュール</Title>
-        <Url>http://xoonips.sourceforge.jp/userinfo.php?uid=94</Url>
-        <ClickUrl>http://xoonips.sourceforge.jp/userinfo.php?uid=94</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Prostanglandin E2 inhibits platelet activation via ...</Title>
-        <Url>http://jairo.nii.ac.jp/0010/00002474</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0010/00002474</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 眼科医の手引 遠隔地医療の現状と問題点</Title>
-        <Url>http://jairo.nii.ac.jp/0010/00001520</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0010/00001520</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 8ch Neurovascular Array Coilの有用性の検討</Title>
-        <Url>http://jairo.nii.ac.jp/0010/00001463</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0010/00001463</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 【ここまで進歩した動脈瘤の診断と治療】 破裂性腹部大動脈瘤の診断と治療</Title>
-        <Url>http://jairo.nii.ac.jp/0010/00001560</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0010/00001560</ClickUrl>
+        <Title>aiko 愛のしぐさ</Title>
+        <Url>http://www.arilaripi.org/angounouze.html</Url>
+        <ClickUrl>http://www.arilaripi.org/angounouze.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:50:55 PST 2010 -->
-<!-- ws15.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:50:55 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:47 PST 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:47 PST 2010 -->

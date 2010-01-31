@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="298"
+    totalResultsAvailable="879"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -15,6 +15,11 @@
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -35,6 +40,11 @@
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>R-Cube: 「学生との関わり」により養成される職員力量の考察と立命館職員&lt;wbr&gt;のキャリアパスの検討</Title>
+        <Url>http://hdl.handle.net/10367/547</Url>
+        <ClickUrl>http://hdl.handle.net/10367/547</ClickUrl>
     </Result>
     <Result>
         <Title>R-Cube: 2000年度4月 立命館アジア太平洋大学入学式 アジア太平洋マネジメント学部=The Entrance ...</Title>
@@ -72,6 +82,36 @@
         <ClickUrl>http://www.ritsumei.ac.jp/acd/mr/lib/index_e.html</ClickUrl>
     </Result>
     <Result>
+        <Title>RCAPS Web site - Conference Content</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/conference/index.php?id=5</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/conference/index.php?id=5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>International Cooperation And Research Division - 国際協力・地域連携</Title>
+        <Url>http://www.apu.ac.jp/researchsupport/modules/activities/index.php?id=44&amp;sel_lang=japanese</Url>
+        <ClickUrl>http://www.apu.ac.jp/researchsupport/modules/activities/index.php?id=44&amp;sel_lang=japanese</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Painterとは</Title>
+        <Url>http://illust-fan.info/5061696E746572/</Url>
+        <ClickUrl>http://illust-fan.info/5061696E746572/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Cognetive .pdf Ebook Download</Title>
+        <Url>http://www.pdf-search-engine.com/cognetive-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/cognetive-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>The Samurai Archives Citadel // View topic - Postscript to ...</Title>
+        <Url>http://forums.samurai-archives.com/viewtopic.php?p=50779</Url>
+        <ClickUrl>http://forums.samurai-archives.com/viewtopic.php?p=50779</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Trove - Search results for &apos;the trial of the khmer rouge&apos;</Title>
+        <Url>http://trove.nla.gov.au/result?q=the+trial+of+the+khmer+rouge</Url>
+        <ClickUrl>http://trove.nla.gov.au/result?q=the+trial+of+the+khmer+rouge</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Repositories: Ritsumeikan University</Title>
         <Url>http://www.opendoar.org/find.php?search=Ritsumeikan+University&amp;title=Ritsumeikan+University</Url>
         <ClickUrl>http://www.opendoar.org/find.php?search=Ritsumeikan+University&amp;title=Ritsumeikan+University</ClickUrl>
@@ -80,6 +120,16 @@
         <Title>OpenDOAR - Ritsumeikan Research Repository</Title>
         <Url>http://www.opendoar.org/find.php?format=full&amp;search=Ritsumeikan+Research+Repository&amp;title=SUPPRESS</Url>
         <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Ritsumeikan+Research+Repository&amp;title=SUPPRESS</ClickUrl>
+    </Result>
+    <Result>
+        <Title>村中亮夫 / Research</Title>
+        <Url>http://www.ritsumei.ac.jp/~muranaka/index.files/research.htm</Url>
+        <ClickUrl>http://www.ritsumei.ac.jp/~muranaka/index.files/research.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=26</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=26</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -117,145 +167,95 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
     </Result>
     <Result>
+        <Title>Media Resource Center - Digital Info</Title>
+        <Url>http://www.apu.ac.jp/media/modules/digitalinfo/index.php?id=48&amp;sel_lang=japanese</Url>
+        <ClickUrl>http://www.apu.ac.jp/media/modules/digitalinfo/index.php?id=48&amp;sel_lang=japanese</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=2062</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=2062</ClickUrl>
+    </Result>
+    <Result>
+        <Title>International Cooperation And Research Division - Information ...</Title>
+        <Url>http://www.apu.ac.jp/researchsupport/modules/phd/</Url>
+        <ClickUrl>http://www.apu.ac.jp/researchsupport/modules/phd/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Ritsumeikan Asia Pacific University/ Î©Ì¿&apos;Û¥¢¥ ̧¥¢ÂÀÊ¿ÍÎÂç³Ø(APU)</Title>
         <Url>http://www.apu.ac.jp/home/modules/keytopics/print.php?id=267</Url>
         <ClickUrl>http://www.apu.ac.jp/home/modules/keytopics/print.php?id=267</ClickUrl>
     </Result>
     <Result>
-        <Title>Ritsumeikan Asia Pacific University - Key Topics</Title>
-        <Url>http://www.apu.ac.jp/home/modules/keytopics/index.php?id=267&amp;sel_lang=english</Url>
-        <ClickUrl>http://www.apu.ac.jp/home/modules/keytopics/index.php?id=267&amp;sel_lang=english</ClickUrl>
-    </Result>
-    <Result>
-        <Title>遂行 [遂行] 特集 ニッセン World</Title>
-        <Url>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/%E9%81%82%E8%A1%8C/e7c0f0.html</Url>
-        <ClickUrl>http://www.swankrecordings.com/%E7%89%B9%E9%9B%86/%E9%81%82%E8%A1%8C/e7c0f0.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大学機関リポジトリ</Title>
-        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
-        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>RCAPS Web site - Publication Content</Title>
-        <Url>http://www.apu.ac.jp/rcaps/modules/publication/</Url>
-        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 機関リポジトリ Archive</Title>
-        <Url>http://www.openaccessjapan.com/cat6/</Url>
-        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | International Relations of Central Asia: Theories and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0026/00000745</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0026/00000745</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Japan-Iran Tourism Relations: Opportunities and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0026/00000148</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0026/00000148</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | International Relations of Central Asia: Theories and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0026/00000746</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0026/00000746</ClickUrl>
-    </Result>
-    <Result>
-        <Title>アーカイヴ</Title>
-        <Url>http://www.livingroom.ne.jp/db/archive.htm</Url>
-        <ClickUrl>http://www.livingroom.ne.jp/db/archive.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=26</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=26</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_name_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_name_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_name_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>立命館大学図書館</Title>
-        <Url>http://www.ritsumei.ac.jp/acd/mr/lib/sitemap.html</Url>
-        <ClickUrl>http://www.ritsumei.ac.jp/acd/mr/lib/sitemap.html</ClickUrl>
+        <Title>RCAPS Web site</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=9</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=9</ClickUrl>
     </Result>
     <Result>
         <Title>RCAPS Web site</Title>
-        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=2</Url>
-        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Ritsumeikan Asia Pacific University/ 立命館アジア太平洋大学(APU) - Key ...</Title>
-        <Url>http://www.apu.ac.jp/home/modules/keytopics/index.php?id=267&amp;sel_lang=japanese</Url>
-        <ClickUrl>http://www.apu.ac.jp/home/modules/keytopics/index.php?id=267&amp;sel_lang=japanese</ClickUrl>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=8</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=8</ClickUrl>
     </Result>
     <Result>
         <Title>RCAPS Web site - Publication Content</Title>
-        <Url>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=2&amp;sel_lang=japanese</Url>
-        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=2&amp;sel_lang=japanese</ClickUrl>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=9</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=9</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 不妊現象の構造化と臨床社会的概念に関する考察 -不妊と個・家族・社会</Title>
-        <Url>http://jairo.nii.ac.jp/0026/00000787</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0026/00000787</ClickUrl>
+        <Title>RCAPS Web site</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=7</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RCAPS Web site - Publication Content</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=24</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=24</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Media Resource Center - Library Info</Title>
+        <Url>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=46</Url>
+        <ClickUrl>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=46</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RCAPS Web site</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=28</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=28</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RCAPS Web site</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=14</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=14</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Media Resource Center</Title>
+        <Url>http://www.apu.ac.jp/media/modules/digitalinfo/print.php?id=48</Url>
+        <ClickUrl>http://www.apu.ac.jp/media/modules/digitalinfo/print.php?id=48</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RCAPS Web site</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=11</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=11</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RCAPS Web site - Publication Content</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=16</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=16</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Media Resource Center - Library Info</Title>
+        <Url>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=71</Url>
+        <ClickUrl>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=71</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RCAPS Web site</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=18</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=18</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RCAPS Web site - Publication Content</Title>
+        <Url>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=25</Url>
+        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=25</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:28 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:28 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:17 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:17 PST 2010 -->

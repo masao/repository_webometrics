@@ -3,10 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2400"
+    totalResultsAvailable="4504"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
         <Title>学位論文</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
@@ -17,6 +22,11 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>ナチス・ドイツ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%82%B9%E3%83%BB%E3%83%89%E3%82%A4%E3%83%84</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%82%B9%E3%83%BB%E3%83%89%E3%82%A4%E3%83%84</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
@@ -25,6 +35,16 @@
         <Title>静岡大学附属図書館</Title>
         <Url>http://www.lib.shizuoka.ac.jp/</Url>
         <ClickUrl>http://www.lib.shizuoka.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -47,6 +67,16 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
+        <Title>掲示板兼ゲストブック</Title>
+        <Url>http://www.cm.kj.yamagata-u.ac.jp/bbs01/list.php</Url>
+        <ClickUrl>http://www.cm.kj.yamagata-u.ac.jp/bbs01/list.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>総統 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E7%B7%8F%E7%B5%B1</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%B7%8F%E7%B5%B1</ClickUrl>
+    </Result>
+    <Result>
         <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
@@ -55,6 +85,11 @@
         <Title>川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ローランの歌 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%81%AE%E6%AD%8C</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3%E3%81%AE%E6%AD%8C</ClickUrl>
     </Result>
     <Result>
         <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
@@ -75,6 +110,11 @@
         <Title>SURE: Shizuoka University REpository: アジアの環境問題における「後発性の不利益」と ...</Title>
         <Url>http://hdl.handle.net/10297/489</Url>
         <ClickUrl>http://hdl.handle.net/10297/489</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
         <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
@@ -182,6 +222,11 @@
         <ClickUrl>http://hdl.handle.net/10297/218</ClickUrl>
     </Result>
     <Result>
+        <Title>SURE: Shizuoka University REpository: &amp;lt;論文・報告&amp;gt;中部地方寒狭川地域の領家変成岩 ...</Title>
+        <Url>http://hdl.handle.net/10297/250</Url>
+        <ClickUrl>http://hdl.handle.net/10297/250</ClickUrl>
+    </Result>
+    <Result>
         <Title>SURE: Shizuoka University REpository: 高校生の体型の年代変化と衣服寸法 静岡県に ...</Title>
         <Url>http://hdl.handle.net/10297/1155</Url>
         <ClickUrl>http://hdl.handle.net/10297/1155</ClickUrl>
@@ -211,51 +256,6 @@
         <Url>http://hdl.handle.net/10297/2408</Url>
         <ClickUrl>http://hdl.handle.net/10297/2408</ClickUrl>
     </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: 心拍数メモリー装置としてバンテージNV ...</Title>
-        <Url>http://hdl.handle.net/10297/1148</Url>
-        <ClickUrl>http://hdl.handle.net/10297/1148</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: 第2言語習得における過剰生成</Title>
-        <Url>http://hdl.handle.net/10297/2880</Url>
-        <ClickUrl>http://hdl.handle.net/10297/2880</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: 談話における&quot;所以&quot;の用法と機能</Title>
-        <Url>http://hdl.handle.net/10297/1111</Url>
-        <ClickUrl>http://hdl.handle.net/10297/1111</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: &amp;lt;判例研究&amp;gt;実体的適正手続の新たな射程 ...</Title>
-        <Url>http://hdl.handle.net/10297/1290</Url>
-        <ClickUrl>http://hdl.handle.net/10297/1290</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: 民謡の「戦後」 ―女性・「民主化」・レクリエーション―</Title>
-        <Url>http://hdl.handle.net/10297/2292</Url>
-        <ClickUrl>http://hdl.handle.net/10297/2292</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: 第2言語の初期発達段階―主要部の位置に関する ...</Title>
-        <Url>http://hdl.handle.net/10297/2883</Url>
-        <ClickUrl>http://hdl.handle.net/10297/2883</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: 『ダ・ヴィンチ・コード』の暗号 ― 『ダ ...</Title>
-        <Url>http://hdl.handle.net/10297/1099</Url>
-        <ClickUrl>http://hdl.handle.net/10297/1099</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: 大学生男女の身体寸法ならびに被服寸法に関する ...</Title>
-        <Url>http://hdl.handle.net/10297/1154</Url>
-        <ClickUrl>http://hdl.handle.net/10297/1154</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SURE: Shizuoka University REpository: 心理学における3次元視研究 2 ―運動要因に ...</Title>
-        <Url>http://hdl.handle.net/10297/2242</Url>
-        <ClickUrl>http://hdl.handle.net/10297/2242</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:13 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:13 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:00 PST 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:00 PST 2010 -->

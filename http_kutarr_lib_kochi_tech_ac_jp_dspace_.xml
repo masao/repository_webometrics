@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="399"
+    totalResultsAvailable="397"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -103,11 +103,6 @@
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/169</Url>
-        <ClickUrl>http://hdl.handle.net/10173/169</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
         <Url>http://hdl.handle.net/10173/142</Url>
         <ClickUrl>http://hdl.handle.net/10173/142</ClickUrl>
     </Result>
@@ -178,13 +173,13 @@
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/209</Url>
-        <ClickUrl>http://hdl.handle.net/10173/209</ClickUrl>
+        <Url>http://hdl.handle.net/10173/217</Url>
+        <ClickUrl>http://hdl.handle.net/10173/217</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/217</Url>
-        <ClickUrl>http://hdl.handle.net/10173/217</ClickUrl>
+        <Url>http://hdl.handle.net/10173/209</Url>
+        <ClickUrl>http://hdl.handle.net/10173/209</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
@@ -256,6 +251,11 @@
         <Url>http://hdl.handle.net/10173/296</Url>
         <ClickUrl>http://hdl.handle.net/10173/296</ClickUrl>
     </Result>
+    <Result>
+        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
+        <Url>http://hdl.handle.net/10173/195</Url>
+        <ClickUrl>http://hdl.handle.net/10173/195</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:45 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:45 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:40 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:40 PST 2010 -->

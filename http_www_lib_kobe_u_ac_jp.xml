@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="70732"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Philippines - Wikipedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Philippines</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Philippines</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kobe University</Title>
+        <Url>http://www.kobe-u.ac.jp/</Url>
+        <ClickUrl>http://www.kobe-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kobe University</Title>
+        <Url>http://www.kobe-u.ac.jp/en/</Url>
+        <ClickUrl>http://www.kobe-u.ac.jp/en/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>History of the Philippines - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/History_of_the_Philippines</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/History_of_the_Philippines</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WWW Servers in Japan (Libraries-aiueo)</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_Japan.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Jump to Library in Japan</Title>
+        <Url>http://ss.cc.affrc.go.jp/ric/opac/opac.html</Url>
+        <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opac.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries_Japan</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_Japan_e.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan_e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japan OPAC list (2009.7.16)</Title>
+        <Url>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</Url>
+        <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Chemistry and the Aquarium</Title>
+        <Url>http://www.advancedaquarist.com/issues/oct2003/chem.htm</Url>
+        <ClickUrl>http://www.advancedaquarist.com/issues/oct2003/chem.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Do-It-Yourself Magnesium Supplements for the Reef Aquarium by ...</Title>
+        <Url>http://reefkeeping.com/issues/2006-07/rhf/index.php</Url>
+        <ClickUrl>http://reefkeeping.com/issues/2006-07/rhf/index.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RoboCup Rescue Home</Title>
+        <Url>http://www.robocuprescue.org/</Url>
+        <ClickUrl>http://www.robocuprescue.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館リンク集: 日本の図書館 Libraries in Japan</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/other/japan.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>阪神・淡路大震災 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E3%83%BB%E6%B7%A1%E8%B7%AF%E5%A4%A7%E9%9C%87%E7%81%BD</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%98%AA%E7%A5%9E%E3%83%BB%E6%B7%A1%E8%B7%AF%E5%A4%A7%E9%9C%87%E7%81%BD</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repositories of Primary Sources: Asia and the Pacific</Title>
+        <Url>http://www.uidaho.edu/special-collections/asia.html</Url>
+        <ClickUrl>http://www.uidaho.edu/special-collections/asia.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Group of Logic, Statistics &amp;amp; Informatics at Kobe University</Title>
+        <Url>http://kurt.scitec.kobe-u.ac.jp/</Url>
+        <ClickUrl>http://kurt.scitec.kobe-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Department of Mathematics, Kobe University</Title>
+        <Url>http://www.math.kobe-u.ac.jp/</Url>
+        <ClickUrl>http://www.math.kobe-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>創価学会 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%89%B5%E4%BE%A1%E5%AD%A6%E4%BC%9A</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%89%B5%E4%BE%A1%E5%AD%A6%E4%BC%9A</ClickUrl>
+    </Result>
+    <Result>
+        <Title>RIEB, Kobe University -Library-</Title>
+        <Url>http://www.rieb.kobe-u.ac.jp/rieblib</Url>
+        <ClickUrl>http://www.rieb.kobe-u.ac.jp/rieblib</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学 医学研究科・医学部</Title>
+        <Url>http://www.med.kobe-u.ac.jp/WelcomeJ.html</Url>
+        <ClickUrl>http://www.med.kobe-u.ac.jp/WelcomeJ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BLOGわん : 飛べ!赤い翼 ジャピーさんと脊振村 - livedoor Blog(ブログ)</Title>
+        <Url>http://blog.baliyoka.net/archives/12267543.html</Url>
+        <ClickUrl>http://blog.baliyoka.net/archives/12267543.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tondo, Manila - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Tondo,_Manila</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Tondo,_Manila</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Philippines - WikiPilipinas: The Hip &apos;n Free Philippine ...</Title>
+        <Url>http://en.wikipilipinas.org/index.php?title=Philippines</Url>
+        <ClickUrl>http://en.wikipilipinas.org/index.php?title=Philippines</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学図書館</Title>
+        <Url>http://www.jla.or.jp/link/univ.html</Url>
+        <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kobe University Graduate School of Medicine / School of Medicine</Title>
+        <Url>http://www.med.kobe-u.ac.jp/WelcomeE.html</Url>
+        <ClickUrl>http://www.med.kobe-u.ac.jp/WelcomeE.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>スタグフレーション - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%82%B0%E3%83%95%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%82%B0%E3%83%95%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学発達科学部・神戸大学大学院人間発達環境学研究科</Title>
+        <Url>http://www.h.kobe-u.ac.jp/</Url>
+        <ClickUrl>http://www.h.kobe-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学大学院保健学研究科/神戸大学医学部保健学科</Title>
+        <Url>http://www.ams.kobe-u.ac.jp/</Url>
+        <ClickUrl>http://www.ams.kobe-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アンゴラ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kapampangan people - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Kapampangan_people</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Kapampangan_people</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ナチス・ドイツ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%82%B9%E3%83%BB%E3%83%89%E3%82%A4%E3%83%84</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%82%B9%E3%83%BB%E3%83%89%E3%82%A4%E3%83%84</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学ニュースネット委員会ホームページ</Title>
+        <Url>http://home.kobe-u.com/top/newsnet/</Url>
+        <ClickUrl>http://home.kobe-u.com/top/newsnet/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Financial Economic Newspapers</Title>
+        <Url>http://www.euskalnet.net/xirigoien/E.htm</Url>
+        <ClickUrl>http://www.euskalnet.net/xirigoien/E.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>シンセサイザー - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%BB%E3%82%B5%E3%82%A4%E3%82%B6%E3%83%BC</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学トップページ / 2005年7月11日 お知らせ</Title>
+        <Url>http://www.kobe-u.ac.jp/info/topics/t2005_07_11_02.htm</Url>
+        <ClickUrl>http://www.kobe-u.ac.jp/info/topics/t2005_07_11_02.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kingdom of Tondo - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Kingdom_of_Tondo</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Kingdom_of_Tondo</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学 医学研究科・医学部</Title>
+        <Url>http://www.med.kobe-u.ac.jp/</Url>
+        <ClickUrl>http://www.med.kobe-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>芦屋市立図書館</Title>
+        <Url>http://www.ashiya-city-library.jp/</Url>
+        <ClickUrl>http://www.ashiya-city-library.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学トップページ / アクセス・キャンパスマップ / 六甲台地区 / 神大文理農学部前</Title>
+        <Url>http://www.kobe-u.ac.jp/info/access/rokko/bun-ri-nou.htm</Url>
+        <ClickUrl>http://www.kobe-u.ac.jp/info/access/rokko/bun-ri-nou.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KOBE UNIVERSITY LAW</Title>
+        <Url>http://www.law.kobe-u.ac.jp/KLS.htm</Url>
+        <ClickUrl>http://www.law.kobe-u.ac.jp/KLS.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
+        <Url>http://d.hatena.ne.jp/arg/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>まとめサイト@筋トレ質問スレ</Title>
+        <Url>http://members.jcom.home.ne.jp/bokeboke4/Training/</Url>
+        <ClickUrl>http://members.jcom.home.ne.jp/bokeboke4/Training/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電子化資料を提供しているサーバー</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京市 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%B8%82</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E5%B8%82</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Society Copyright Policies in Japan</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/scpj/</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/scpj/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Universities in Japan (A)</Title>
+        <Url>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</Url>
+        <ClickUrl>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:11 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:11 PST 2010 -->

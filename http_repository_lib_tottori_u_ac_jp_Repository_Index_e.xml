@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="143"
+    totalResultsAvailable="142"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -37,14 +37,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | Tractive Force Surface of River Bank due to Overflow</Title>
         <Url>http://jairo.nii.ac.jp/0112/00001351/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001351/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>鳥取大学医学図書館</Title>
@@ -77,11 +77,6 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001550</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 部落問題と差別意識との関連について</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001718</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001718</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | がんの疫学的研究 : 胃集団検診の評価(第2報)</Title>
         <Url>http://jairo.nii.ac.jp/0112/00001816</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001816</ClickUrl>
@@ -92,14 +87,19 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001815</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | ケヤキの利用材積と材質について</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001356</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001356</ClickUrl>
+        <Title>JAIRO | 部落問題と差別意識との関連について</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001718</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001718</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 入眠状態およびレム睡眠時眼球運動の自動計測</Title>
         <Url>http://jairo.nii.ac.jp/0112/00001808</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001808</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ケヤキの利用材積と材質について</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001356</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001356</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Fluorescent Chromosome Banding in the Genus Epimedium</Title>
@@ -167,19 +167,14 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001819</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 1 Summaries of Doctor Theses</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000946</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000946</ClickUrl>
+        <Title>JAIRO | 関節軟骨細胞のプロテオグリカン代謝</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001910</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001910</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 遠隔病理診断(テレパソロジー)の現状と展望</Title>
         <Url>http://jairo.nii.ac.jp/0112/00001911</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001911</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 関節軟骨細胞のプロテオグリカン代謝</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001910</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001910</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Sensitivity and Specificity of Denaturing HPLC to ...</Title>
@@ -256,6 +251,11 @@
         <Url>http://jairo.nii.ac.jp/0112/00000856/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00000856/en</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIRO | Slow and Fast Oscillation Electrooculography in ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000861/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000861/en</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:50:58 PST 2010 -->
-<!-- ws06.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:50:58 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:50 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:50 PST 2010 -->

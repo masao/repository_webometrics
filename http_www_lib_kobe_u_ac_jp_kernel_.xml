@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="14248"
+    totalResultsAvailable="14258"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -212,19 +212,24 @@
         <ClickUrl>http://www.kobe-u.ac.jp/info/topics/menu/study.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>神戸大学トップページ / 入学案内 / 編入学・学士入学</Title>
-        <Url>http://www.kobe-u.ac.jp/admission/undergrad/hennyu.htm</Url>
-        <ClickUrl>http://www.kobe-u.ac.jp/admission/undergrad/hennyu.htm</ClickUrl>
-    </Result>
-    <Result>
         <Title>神戸大学トップページ / 2007年7月30日お知らせ</Title>
         <Url>http://www.kobe-u.ac.jp/info/topics/t2007_07_30_01.htm</Url>
         <ClickUrl>http://www.kobe-u.ac.jp/info/topics/t2007_07_30_01.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>神戸大学トップページ / 入学案内 / 編入学・学士入学</Title>
+        <Url>http://www.kobe-u.ac.jp/admission/undergrad/hennyu.htm</Url>
+        <ClickUrl>http://www.kobe-u.ac.jp/admission/undergrad/hennyu.htm</ClickUrl>
+    </Result>
+    <Result>
         <Title>神戸大学トップページ / 山中伸弥教授記念講演</Title>
         <Url>http://www.kobe-u.ac.jp/info/messages/m2008_04_08_yamanaka.htm</Url>
         <ClickUrl>http://www.kobe-u.ac.jp/info/messages/m2008_04_08_yamanaka.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学トップページ / アクセス・キャンパスマップ / 六甲台地区 / 駅からのアクセス</Title>
+        <Url>http://www.kobe-u.ac.jp/info/access/rokko/from-station.htm</Url>
+        <ClickUrl>http://www.kobe-u.ac.jp/info/access/rokko/from-station.htm</ClickUrl>
     </Result>
     <Result>
         <Title>神戸大学トップページ / 2009年10月28日 お知らせ</Title>
@@ -251,11 +256,6 @@
         <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>朝まで生テレビの高森明勅発言批判: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:22 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:22 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:10 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:10 PST 2010 -->

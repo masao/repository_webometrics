@@ -72,6 +72,11 @@
         <ClickUrl>http://roar.eprints.org/view/year/2009.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Browse by Country - Registry of Open Access Repositories</Title>
         <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
         <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
@@ -143,23 +148,8 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-7-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-7-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-1-1</Url>
         <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-1-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-9-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-9-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-4-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-4-1</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
@@ -173,13 +163,18 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</ClickUrl>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-9-1</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-9-1</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-5&amp;</Url>
         <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-5&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-4-1</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-4-1</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
@@ -193,13 +188,13 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-9-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-9-1</ClickUrl>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-6-1</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-6-1</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-6-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-6-1</ClickUrl>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-9-1</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-9-1</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
@@ -213,8 +208,18 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-11-1</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-11-1</ClickUrl>
+        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</Url>
+        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-8-8&amp;</Url>
+        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-8-8&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-13&amp;</Url>
+        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-13&amp;</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
@@ -228,6 +233,21 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-3-2&amp;</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-3-2&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-2-5&amp;</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-2-5&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-4-6&amp;</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-4-6&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-21&amp;</Url>
         <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-21&amp;</ClickUrl>
     </Result>
@@ -236,26 +256,6 @@
         <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-3-8&amp;</Url>
         <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-3-8&amp;</ClickUrl>
     </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-5&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-5&amp;</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-3&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-3&amp;</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2007-7-31</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2007-7-31</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-9-4&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-9-4&amp;</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:50:54 PST 2010 -->
-<!-- ws12.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:50:54 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:45 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:45 PST 2010 -->

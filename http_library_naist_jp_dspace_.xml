@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="3899"
+    totalResultsAvailable="3902"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -20,11 +20,6 @@
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -52,6 +47,11 @@
         <ClickUrl>http://hdl.handle.net/10061/4289</ClickUrl>
     </Result>
     <Result>
+        <Title>naistar (NAIST Academic Repository): 配列置換変異の誘発に関与するdnaE173変異型 ...</Title>
+        <Url>http://hdl.handle.net/10061/4145</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4145</ClickUrl>
+    </Result>
+    <Result>
         <Title>naistar (NAIST Academic Repository): 塩基配列情報に基づいたtRNA共起解析</Title>
         <Url>http://hdl.handle.net/10061/5200</Url>
         <ClickUrl>http://hdl.handle.net/10061/5200</ClickUrl>
@@ -75,11 +75,6 @@
         <Title>naistar (NAIST Academic Repository): 松明は諸君の手に : これからの科学技術と奈良 ...</Title>
         <Url>http://hdl.handle.net/10061/5246</Url>
         <ClickUrl>http://hdl.handle.net/10061/5246</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): Gene trap microarrayの開発と ...</Title>
-        <Url>http://hdl.handle.net/10061/3382</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3382</ClickUrl>
     </Result>
     <Result>
         <Title>naistar (NAIST Academic Repository): 動的に変化するグループにおける暗号鍵管理手法 ...</Title>
@@ -256,6 +251,11 @@
         <Url>http://hdl.handle.net/10061/1511</Url>
         <ClickUrl>http://hdl.handle.net/10061/1511</ClickUrl>
     </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 新規Sol-Gelプロセスによる(Pb,La ...</Title>
+        <Url>http://hdl.handle.net/10061/5241</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5241</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:49 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:49 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:45 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:45 PST 2010 -->

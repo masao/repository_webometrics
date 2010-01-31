@@ -3,18 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="20640"
+    totalResultsAvailable="20623"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>DSpaceInstances - DSpace Wiki</Title>
         <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
         <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - Library of Koriyama Women&apos;s University.</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>確率割り当ての不確定性とE-admissibility : NAGOYA Repository</Title>
@@ -152,11 +147,6 @@
         <ClickUrl>http://hdl.handle.net/2237/6976</ClickUrl>
     </Result>
     <Result>
-        <Title>モンゴル国(雑誌記事・新聞記事・インターネット編&lt;wbr&gt;) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6980</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6980</ClickUrl>
-    </Result>
-    <Result>
         <Title>バイオマス資源について考えよう : 新たな産業の育成という視点から : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6832</Url>
         <ClickUrl>http://hdl.handle.net/2237/6832</ClickUrl>
@@ -172,11 +162,6 @@
         <ClickUrl>http://hdl.handle.net/2237/8795</ClickUrl>
     </Result>
     <Result>
-        <Title>NGO: Non-governmental Organization : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6975</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6975</ClickUrl>
-    </Result>
-    <Result>
         <Title>日本人論の系譜 (国際言語文化研究科言語文化学方法論) : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/8792</Url>
         <ClickUrl>http://hdl.handle.net/2237/8792</ClickUrl>
@@ -185,6 +170,16 @@
         <Title>ナノテクノロジーで地球環境問題に取り組む-カーボンナノチュー&lt;wbr&gt;ブを中心に : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/8790</Url>
         <ClickUrl>http://hdl.handle.net/2237/8790</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NGO: Non-governmental Organization : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6975</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6975</ClickUrl>
+    </Result>
+    <Result>
+        <Title>モンゴル国(雑誌記事・新聞記事・インターネット編&lt;wbr&gt;) : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6980</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6980</ClickUrl>
     </Result>
     <Result>
         <Title>モンゴル国(図書編) : NAGOYA Repository</Title>
@@ -237,14 +232,14 @@
         <ClickUrl>http://hdl.handle.net/2237/6669</ClickUrl>
     </Result>
     <Result>
-        <Title>アルツハイマー(健康に関する科学) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/9043</Url>
-        <ClickUrl>http://hdl.handle.net/2237/9043</ClickUrl>
-    </Result>
-    <Result>
         <Title>エコツーリズム、グリーンツーリズム : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6758</Url>
         <ClickUrl>http://hdl.handle.net/2237/6758</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アルツハイマー(健康に関する科学) : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/9043</Url>
+        <ClickUrl>http://hdl.handle.net/2237/9043</ClickUrl>
     </Result>
     <Result>
         <Title>医療と材料の関わりを考える : NAGOYA Repository</Title>
@@ -256,6 +251,11 @@
         <Url>http://hdl.handle.net/2237/6860</Url>
         <ClickUrl>http://hdl.handle.net/2237/6860</ClickUrl>
     </Result>
+    <Result>
+        <Title>地球の内部構造 : 内核・外核・マントル・地殻・不連続面 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6801</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6801</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:33 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:33 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:21 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:21 PST 2010 -->

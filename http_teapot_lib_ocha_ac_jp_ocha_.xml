@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="15221"
+    totalResultsAvailable="15215"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -167,6 +167,11 @@
         <ClickUrl>http://hdl.handle.net/10083/2390</ClickUrl>
     </Result>
     <Result>
+        <Title>TeaPot : 清沢満之の思想開発環</Title>
+        <Url>http://hdl.handle.net/10083/1752</Url>
+        <ClickUrl>http://hdl.handle.net/10083/1752</ClickUrl>
+    </Result>
+    <Result>
         <Title>TeaPot : 幼児の遊びから機械を考える</Title>
         <Url>http://hdl.handle.net/10083/1887</Url>
         <ClickUrl>http://hdl.handle.net/10083/1887</ClickUrl>
@@ -185,11 +190,6 @@
         <Title>TeaPot : 第3学年 年間総合カリキュラム</Title>
         <Url>http://hdl.handle.net/10083/4675</Url>
         <ClickUrl>http://hdl.handle.net/10083/4675</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TeaPot : 清沢満之の思想開発環</Title>
-        <Url>http://hdl.handle.net/10083/1752</Url>
-        <ClickUrl>http://hdl.handle.net/10083/1752</ClickUrl>
     </Result>
     <Result>
         <Title>TeaPot : 抑うつの概観及び抑うつ発生に関する諸理論</Title>
@@ -232,11 +232,6 @@
         <ClickUrl>http://hdl.handle.net/10083/33580</ClickUrl>
     </Result>
     <Result>
-        <Title>TeaPot : お茶大図書館ハッピー宣言!~アピールする図書館戦略&lt;wbr&gt;~</Title>
-        <Url>http://hdl.handle.net/10083/33420</Url>
-        <ClickUrl>http://hdl.handle.net/10083/33420</ClickUrl>
-    </Result>
-    <Result>
         <Title>TeaPot : 東京女子高等師範学校附属高等女学校生徒服装の変遷</Title>
         <Url>http://hdl.handle.net/10083/33466</Url>
         <ClickUrl>http://hdl.handle.net/10083/33466</ClickUrl>
@@ -245,6 +240,11 @@
         <Title>TeaPot : 3-3.Perchè &quot;OUT&quot;? – La forza della letteratura ...</Title>
         <Url>http://hdl.handle.net/10083/31802</Url>
         <ClickUrl>http://hdl.handle.net/10083/31802</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TeaPot : 認知言語学的観点を生かした日本語教授法・教材開発研究 最終報告書</Title>
+        <Url>http://hdl.handle.net/10083/31183</Url>
+        <ClickUrl>http://hdl.handle.net/10083/31183</ClickUrl>
     </Result>
     <Result>
         <Title>TeaPot : 4年生小品『Forget-me-not blue』 : お茶の水女子大学芸術・表現行動学科舞踊教育学 ...</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://hdl.handle.net/10083/31797</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:25 PST 2010 -->
-<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:25 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:14 PST 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:14 PST 2010 -->

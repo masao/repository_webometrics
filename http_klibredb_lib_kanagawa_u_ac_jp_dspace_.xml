@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="512"
+    totalResultsAvailable="511"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,14 +22,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Cell Cycle and Chromosomes in Plants: So Many Kinds ...</Title>
@@ -182,6 +182,11 @@
         <ClickUrl>http://jairo.nii.ac.jp/0108/00002729/en</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIRO | Histoire Naturelle, Civile, et Ecclesiastique de ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00003555</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00003555</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | Yokohama harbor</Title>
         <Url>http://jairo.nii.ac.jp/0108/00003514</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0108/00003514</ClickUrl>
@@ -251,11 +256,6 @@
         <Url>http://jairo.nii.ac.jp/0108/00002991</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0108/00002991</ClickUrl>
     </Result>
-    <Result>
-        <Title>JAIRO | National Political Union, 1831-2</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003280</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003280</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:50:51 PST 2010 -->
-<!-- ws01.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:50:51 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:41 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:41 PST 2010 -->

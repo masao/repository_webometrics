@@ -5,7 +5,44 @@
 require "kconv"
 require "date"
 require "uri"
-require "open-uri"
+require 'net/http'
+
+def get_inlinkdata_yahoo( url, params )
+   params[ :appid ] = "ECMlhUPV34Hz1amgTZcd8L2JP068rt7mOWZEojROFiZAcNQ7RgCuapU1DRg6WbE-"
+   params[ :query ] = url
+   query = params.map{|k,v| "#{ k }=#{ v }" }.join( "&" )
+   #open( "http://search.yahooapis.com/SiteExplorerService/V1/inlinkData?#{ query }" ){|io| io.read }
+   http = Net::HTTP.new( "search.yahooapis.com", 80 )
+   response = http.get( "/SiteExplorerService/V1/inlinkData?#{ query }" )
+   response.body
+end
+
+def get_inlinkdata_total( url )
+   inlinks = 0
+   url = URI.parse( url ) if not url.respond_to?( :path )
+   url.path = "" if url.path.empty? or url.path == "/"
+   file_u = url.to_s.gsub( /\W+/, "_" ) + ".xml"
+   if File.exist?( file_u )
+      xml = open( file_u ){|io| io.read }
+   else
+      xml = get_inlinkdata_yahoo( url,
+                                  { :omit_inlinks => :subdomain,
+                                     :entire_site => 1 } )
+   end
+   inlinks = $1.to_i if xml =~ /\btotalResultsAvailable="(\d+)"/m
+   if not File.exist?( file_u )
+      open( file_u, "w" ){|io|
+         io.puts xml
+      }
+   end
+   if not url.path.empty?
+      url.path = ""
+      inlinks_subdomain = get_inlinkdata_total( url ) / 10.0
+      #p [ url.to_s,  inlinks_subdomain ]
+      inlinks += inlinks_subdomain
+   end
+   inlinks
+end
 
 data = []
 ARGV.each do |f|
@@ -25,29 +62,8 @@ ARGV.each do |f|
    #url.sub!( /\/Index\.e$/, "/" )
    url.sub!( /portal$/, "/" )
    #puts url
-   url = URI.parse( url )
-   if url.path == "/"
-      url.path = ""
-      entire_site = "&entire_size=1"
-   end
-   url = url.to_s
-   file_u = url.gsub( /\W+/, "_" ) + ".xml"
-   inlinks = 0
-   if File.exist?( file_u )
-      xml = open( file_u ){|io| io.read }
-   else
-      xml = open( "http://search.yahooapis.com/SiteExplorerService/V1/inlinkData?appid=YahooDemo&query=#{ url }&omit_inlinks=subdomain#{ entire_site }" ){|io| io.read }
-   end
-   if xml =~ /\btotalResultsAvailable="(\d+)"/m
-      inlinks = $1.to_i
-      if not File.exist?( file_u )
-         open( file_u, "w" ){|io|
-            io.puts xml
-         }
-      end
-   end
+   inlinks = get_inlinkdata_total( url )
    #p inlinks
-   #p url
    date = lines.assoc( "ËÜ¸ø³«Æü".tosjis )[1]
    date = lines.assoc( "»î¸³¸ø³«Æü".tosjis )[1] if date.nil? or date.empty?
    date = Date.new( *date.split( /\D/ ).map{|e| e.to_i } )
@@ -73,7 +89,7 @@ ARGV.each do |f|
    growth_rate3 = ( size - month[6][-1].to_i ) / 182.5
    growth_rate3 = 0 if growth_rate3 < 0
    #puts "size: #{ size }"
-   #puts "growth_rate: #{ growth_rate }"
+   #puts "growth_rate: #{ growth_rate1 }"
    data << [ name,
              size,
              growth_rate1,

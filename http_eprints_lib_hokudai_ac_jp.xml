@@ -3,13 +3,38 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="52072"
+    totalResultsAvailable="67705"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Hokkaido University</Title>
+        <Url>http://www.hokudai.ac.jp/</Url>
+        <ClickUrl>http://www.hokudai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>ROARMAP</Title>
         <Url>http://www.eprints.org/openaccess/policysignup/</Url>
         <ClickUrl>http://www.eprints.org/openaccess/policysignup/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hokkaido University</Title>
+        <Url>http://www.hokudai.ac.jp/index-e.html</Url>
+        <ClickUrl>http://www.hokudai.ac.jp/index-e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>#71: Slime Molds Show Surprising Degree of Intelligence ...</Title>
+        <Url>http://discovermagazine.com/2009/jan/071</Url>
+        <ClickUrl>http://discovermagazine.com/2009/jan/071</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
     </Result>
     <Result>
         <Title>DSpaceInstances - DSpace Wiki</Title>
@@ -27,6 +52,61 @@
         <ClickUrl>http://www.lib.hokudai.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Institute of Low Temperature Science, Hokkaido University</Title>
+        <Url>http://www.lowtem.hokudai.ac.jp/english</Url>
+        <ClickUrl>http://www.lowtem.hokudai.ac.jp/english</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ガ島通信</Title>
+        <Url>http://d.hatena.ne.jp/gatonews/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/gatonews/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道大学低温科学研究所</Title>
+        <Url>http://www.lowtem.hokudai.ac.jp/</Url>
+        <ClickUrl>http://www.lowtem.hokudai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Linking Service to Open Access Repositories</Title>
+        <Url>http://www.dlib.org/dlib/march07/sugita/03sugita.html</Url>
+        <ClickUrl>http://www.dlib.org/dlib/march07/sugita/03sugita.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Catlin Arctic Ice Survey Packing It Up – What Have They ...</Title>
+        <Url>http://wattsupwiththat.com/2009/05/11/catlin-artic-ice-survey-packing-it-up-what-have-they-accomplished/</Url>
+        <ClickUrl>http://wattsupwiththat.com/2009/05/11/catlin-artic-ice-survey-packing-it-up-what-have-they-accomplished/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>The Theropod Archives</Title>
+        <Url>http://home.comcast.net/~theropod-archives/</Url>
+        <ClickUrl>http://home.comcast.net/~theropod-archives/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道大学|法科大学院(ロースクール)</Title>
+        <Url>http://www.juris.hokudai.ac.jp/lawschool/</Url>
+        <ClickUrl>http://www.juris.hokudai.ac.jp/lawschool/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Okhotsk Plate - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Okhotsk_Plate</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Okhotsk_Plate</ClickUrl>
+    </Result>
+    <Result>
+        <Title>植民地 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%B0%91%E5%9C%B0</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%B0%91%E5%9C%B0</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
@@ -37,9 +117,109 @@
         <ClickUrl>http://www.ariadne.ac.uk/issue49/suzuki-sugita/</ClickUrl>
     </Result>
     <Result>
+        <Title>RealClimate: Adapting in Amsterdam</Title>
+        <Url>http://www.realclimate.org/index.php/archives/2008/10/adapting-in-amsterdam/</Url>
+        <ClickUrl>http://www.realclimate.org/index.php/archives/2008/10/adapting-in-amsterdam/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道大学【大学院獣医研究科・獣医学部】</Title>
+        <Url>http://www.vetmed.hokudai.ac.jp/</Url>
+        <ClickUrl>http://www.vetmed.hokudai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>失業 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%A4%B1%E6%A5%AD</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%A4%B1%E6%A5%AD</ClickUrl>
+    </Result>
+    <Result>
+        <Title>櫻井義秀のホームページ</Title>
+        <Url>http://www.hucc.hokudai.ac.jp/~n16260/</Url>
+        <ClickUrl>http://www.hucc.hokudai.ac.jp/~n16260/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道大学|法学部</Title>
+        <Url>http://www.juris.hokudai.ac.jp/</Url>
+        <ClickUrl>http://www.juris.hokudai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ギョウジャニンニク - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帝国大学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B8%9D%E5%9B%BD%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B8%9D%E5%9B%BD%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Dr. IITAKA&apos;S Home Page</Title>
+        <Url>http://www.iitaka.org/</Url>
+        <ClickUrl>http://www.iitaka.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Korsakov (town) - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Korsakov_(town)</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Korsakov_(town)</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「反日台湾」を強調したNHKスペシャルー「シリーズJAPAN&lt;wbr&gt;デビュー」</Title>
+        <Url>http://mamoretaiwan.blog100.fc2.com/blog-entry-714.html</Url>
+        <ClickUrl>http://mamoretaiwan.blog100.fc2.com/blog-entry-714.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>PDO — ENSO, Aleutian Low, or some of each? &quot; Watts Up With That?</Title>
+        <Url>http://wattsupwiththat.com/2009/05/12/pdo-enso-aleutian-low-or-some-of-each/</Url>
+        <ClickUrl>http://wattsupwiththat.com/2009/05/12/pdo-enso-aleutian-low-or-some-of-each/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>情報理論 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ぶんしけん/文化資源マネジメント研究会</Title>
+        <Url>http://www.bunshiken.org/</Url>
+        <ClickUrl>http://www.bunshiken.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Masaki Yuki, Ph.D., Home Page (Social Psychology)</Title>
+        <Url>http://lynx.let.hokudai.ac.jp/~myuki/</Url>
+        <ClickUrl>http://lynx.let.hokudai.ac.jp/~myuki/</ClickUrl>
+    </Result>
+    <Result>
         <Title>研究会「AAASとサイエンス・コミュニケーションの未来」にお&lt;wbr&gt;ける総合討論 : HUSCAP</Title>
         <Url>http://hdl.handle.net/2115/28267</Url>
         <ClickUrl>http://hdl.handle.net/2115/28267</ClickUrl>
+    </Result>
+    <Result>
+        <Title>robots.net - Amoebae Exhibit Brainless Intelligence</Title>
+        <Url>http://robots.net/article/2440.html</Url>
+        <ClickUrl>http://robots.net/article/2440.html</ClickUrl>
     </Result>
     <Result>
         <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
@@ -52,210 +232,30 @@
         <ClickUrl>http://www.lib.gla.ac.uk/openscholarship/posters.html</ClickUrl>
     </Result>
     <Result>
-        <Title>観光情報革命時代のツーリズム (その4) : 旅行情報化世代 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/35334</Url>
-        <ClickUrl>http://hdl.handle.net/2115/35334</ClickUrl>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Budapest Open Access Initiative</Title>
-        <Url>http://www.soros.org/openaccess/g/view.cfm</Url>
-        <ClickUrl>http://www.soros.org/openaccess/g/view.cfm</ClickUrl>
+        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>科学技術リテラシーをどうとらえるか : リテラシークラスタ別教育プログラム提案のための質問紙調査 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/32375</Url>
-        <ClickUrl>http://hdl.handle.net/2115/32375</ClickUrl>
+        <Title>Wandering across the Arctic : Stoat</Title>
+        <Url>http://scienceblogs.com/stoat/2009/04/wandering_across_the_arctic.php</Url>
+        <ClickUrl>http://scienceblogs.com/stoat/2009/04/wandering_across_the_arctic.php</ClickUrl>
     </Result>
     <Result>
-        <Title>Weight-based yield per recruitment and spawning-biomass per ...</Title>
-        <Url>http://hdl.handle.net/2115/616</Url>
-        <ClickUrl>http://hdl.handle.net/2115/616</ClickUrl>
+        <Title>Новая страница 2</Title>
+        <Url>http://www.jurassic.ru/_enews.htm</Url>
+        <ClickUrl>http://www.jurassic.ru/_enews.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>渦層の時間発展と特異点~それでも渦層は巻き上がる&lt;wbr&gt;?~ : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/5817</Url>
-        <ClickUrl>http://hdl.handle.net/2115/5817</ClickUrl>
-    </Result>
-    <Result>
-        <Title>氷表面のダイナミクス : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/8320</Url>
-        <ClickUrl>http://hdl.handle.net/2115/8320</ClickUrl>
-    </Result>
-    <Result>
-        <Title>PRELIMINARY APPLICATION OF A FORMALIN FIXED TISSUE SECTION TO ...</Title>
-        <Url>http://hdl.handle.net/2115/2209</Url>
-        <ClickUrl>http://hdl.handle.net/2115/2209</ClickUrl>
-    </Result>
-    <Result>
-        <Title>サンクト・ペテルブルク大学における古民族学派 : 帝政ロシアの先史考古学とФ.Д.ヴォルコフ : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/33917</Url>
-        <ClickUrl>http://hdl.handle.net/2115/33917</ClickUrl>
-    </Result>
-    <Result>
-        <Title>サケONCORHYNCHUS KETA脳下垂体の形態学的研究:(1) 腺性下垂体の微細構造 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/23404</Url>
-        <ClickUrl>http://hdl.handle.net/2115/23404</ClickUrl>
-    </Result>
-    <Result>
-        <Title>北海道におけるキュウリウオ,Osmerus eperlanus mordax,の計数形質の地理的変異について : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/23941</Url>
-        <ClickUrl>http://hdl.handle.net/2115/23941</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Analysis of a long-range random field quantum ...</Title>
-        <Url>http://hdl.handle.net/2115/13698</Url>
-        <ClickUrl>http://hdl.handle.net/2115/13698</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Upstream migration of adult chum and pink salmon in the ...</Title>
-        <Url>http://hdl.handle.net/2115/22080</Url>
-        <ClickUrl>http://hdl.handle.net/2115/22080</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ペット喪失直後に生じる悲嘆反応の頻度と程度 : 疫学的研究を目指した予備調査より : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/35505</Url>
-        <ClickUrl>http://hdl.handle.net/2115/35505</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ヒト赤血球の凍結融解及び高張塩溶液による溶血と燐脂質の遊離 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/17786</Url>
-        <ClickUrl>http://hdl.handle.net/2115/17786</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Changes of the ocean carbon cycle and ecosystems : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/34398</Url>
-        <ClickUrl>http://hdl.handle.net/2115/34398</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Preparation and Properties of Immobilized Mercuric Reductase ...</Title>
-        <Url>http://hdl.handle.net/2115/17009</Url>
-        <ClickUrl>http://hdl.handle.net/2115/17009</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SYSTEMATIC STUDY OF THE GENUS TRICHADENOTECNUM IN NEPAL ...</Title>
-        <Url>http://hdl.handle.net/2115/20005</Url>
-        <ClickUrl>http://hdl.handle.net/2115/20005</ClickUrl>
-    </Result>
-    <Result>
-        <Title>アナリティカル・マルクシズムにおける労働搾取理論 (唐渡興宣教授記念号) : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/16969</Url>
-        <ClickUrl>http://hdl.handle.net/2115/16969</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Role of Arg-72 of pharaonis Phoborhodopsin (sensory rhodopsin ...</Title>
-        <Url>http://hdl.handle.net/2115/16000</Url>
-        <ClickUrl>http://hdl.handle.net/2115/16000</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Direct and stereoselective synthesis of 2-azido-2-deoxy-β ...</Title>
-        <Url>http://hdl.handle.net/2115/35613</Url>
-        <ClickUrl>http://hdl.handle.net/2115/35613</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OA Self-Archiving Policy: Hokkaido University</Title>
-        <Url>http://www.eprints.org/openaccess/policysignup/fullinfo.php?inst=Hokkaido+University</Url>
-        <ClickUrl>http://www.eprints.org/openaccess/policysignup/fullinfo.php?inst=Hokkaido+University</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Analysis of adenylate cyclase subtypes which couple to D1 ...</Title>
-        <Url>http://hdl.handle.net/2115/4601</Url>
-        <ClickUrl>http://hdl.handle.net/2115/4601</ClickUrl>
-    </Result>
-    <Result>
-        <Title>スターリン政治体制下の農村における統治体制の再編 : 1931-1934年 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/5127</Url>
-        <ClickUrl>http://hdl.handle.net/2115/5127</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Possible role of endoplasmic reticulum stress in the ...</Title>
-        <Url>http://hdl.handle.net/2115/6121</Url>
-        <ClickUrl>http://hdl.handle.net/2115/6121</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Geographic distribution and genetic variation of hantavirus ...</Title>
-        <Url>http://hdl.handle.net/2115/4631</Url>
-        <ClickUrl>http://hdl.handle.net/2115/4631</ClickUrl>
-    </Result>
-    <Result>
-        <Title>水環境中におけるノニルフェノール化合物の動態 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/7121</Url>
-        <ClickUrl>http://hdl.handle.net/2115/7121</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ジョン・アダムズの中央政府論 (4) : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/8612</Url>
-        <ClickUrl>http://hdl.handle.net/2115/8612</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Differential Effects of Subchronic Treatments with Atypical ...</Title>
-        <Url>http://hdl.handle.net/2115/8437</Url>
-        <ClickUrl>http://hdl.handle.net/2115/8437</ClickUrl>
-    </Result>
-    <Result>
-        <Title>西ヨーロッパにおけるハプスブルク帝国史研究の近況 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/5023</Url>
-        <ClickUrl>http://hdl.handle.net/2115/5023</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Reversed operation of glutamate transporter GLT-1 is crucial ...</Title>
-        <Url>http://hdl.handle.net/2115/5931</Url>
-        <ClickUrl>http://hdl.handle.net/2115/5931</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Functional studies and genetic analysis of macrophage nitric ...</Title>
-        <Url>http://hdl.handle.net/2115/2940</Url>
-        <ClickUrl>http://hdl.handle.net/2115/2940</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ANTIGENIC ANALYSIS OF JAPANESE ENCEPHALITIS VIRUS ISOLATED IN ...</Title>
-        <Url>http://hdl.handle.net/2115/3138</Url>
-        <ClickUrl>http://hdl.handle.net/2115/3138</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SOME OBSERVATIONS ON THE NON-SPECIFICALLY ENHANCED RESISTANCE ...</Title>
-        <Url>http://hdl.handle.net/2115/1665</Url>
-        <ClickUrl>http://hdl.handle.net/2115/1665</ClickUrl>
-    </Result>
-    <Result>
-        <Title>HISTOLOGICAL AND QUANTITATIVE STUDIES ON THE POSTNATAL GROWTH ...</Title>
-        <Url>http://hdl.handle.net/2115/2121</Url>
-        <ClickUrl>http://hdl.handle.net/2115/2121</ClickUrl>
-    </Result>
-    <Result>
-        <Title>鉄-シリカ無機高分子凝集剤の特性に関する研究 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/7238</Url>
-        <ClickUrl>http://hdl.handle.net/2115/7238</ClickUrl>
-    </Result>
-    <Result>
-        <Title>A Feature Decomposition Approach to (Anti-)Reconstruction ...</Title>
-        <Url>http://hdl.handle.net/2115/8375</Url>
-        <ClickUrl>http://hdl.handle.net/2115/8375</ClickUrl>
-    </Result>
-    <Result>
-        <Title>PATHO-MORPHOLOGICAL OBSERVATIONS OF EQUINE LEUKEMIA COMPLEX ...</Title>
-        <Url>http://hdl.handle.net/2115/2216</Url>
-        <ClickUrl>http://hdl.handle.net/2115/2216</ClickUrl>
-    </Result>
-    <Result>
-        <Title>氷およびクラスレートハイドレートの照射効果と年代測定・環境評&lt;wbr&gt;価への試み : 星間空間のアモルファス氷から海洋底のガスハイド ...</Title>
-        <Url>http://hdl.handle.net/2115/8337</Url>
-        <ClickUrl>http://hdl.handle.net/2115/8337</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Some new and unrecorded Species of Pyralidæ from Corea (Lepid ...</Title>
-        <Url>http://hdl.handle.net/2115/9136</Url>
-        <ClickUrl>http://hdl.handle.net/2115/9136</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DETECTION OF SALMONELLA AND ARIZONA ORGANISMS FROM SOIL OF ...</Title>
-        <Url>http://hdl.handle.net/2115/1866</Url>
-        <ClickUrl>http://hdl.handle.net/2115/1866</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CLINICAL STUDY OF CANINE CUTANEOUS TUMORS, ESPECIALLY THE ...</Title>
-        <Url>http://hdl.handle.net/2115/2326</Url>
-        <ClickUrl>http://hdl.handle.net/2115/2326</ClickUrl>
+        <Title>HOKKAIDO UNIVERSITY Sustainability Weeks 2009</Title>
+        <Url>http://www.sustain.hokudai.ac.jp/sw2009/</Url>
+        <ClickUrl>http://www.sustain.hokudai.ac.jp/sw2009/</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:43 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:51:43 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:37 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:37 PST 2010 -->

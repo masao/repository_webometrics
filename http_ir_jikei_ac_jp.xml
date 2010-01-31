@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="997"
+    totalResultsAvailable="1643"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,14 +12,29 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>The Jikei University</Title>
+        <Url>http://www.jikei.ac.jp/micer/</Url>
+        <ClickUrl>http://www.jikei.ac.jp/micer/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
         <Url>http://www.ifremer.fr/avano/archives.htm</Url>
         <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>The Jikei University</Title>
-        <Url>http://www.jikei.ac.jp/micer/index.html</Url>
-        <ClickUrl>http://www.jikei.ac.jp/micer/index.html</ClickUrl>
+        <Title>江戸時代から明治時代の脚気の原因はカビ毒によるものだったか - finalventの日記</Title>
+        <Url>http://d.hatena.ne.jp/finalvent/20081117/1226930161</Url>
+        <ClickUrl>http://d.hatena.ne.jp/finalvent/20081117/1226930161</ClickUrl>
+    </Result>
+    <Result>
+        <Title>長門で学ぶビタミンB1発見史 - NATROMの日記</Title>
+        <Url>http://d.hatena.ne.jp/NATROM/20081221</Url>
+        <ClickUrl>http://d.hatena.ne.jp/NATROM/20081221</ClickUrl>
     </Result>
     <Result>
         <Title>Talk:OAIster - LISWiki</Title>
@@ -27,9 +42,29 @@
         <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
+        <Title>2009年度版介護保険一次判定のロジック(まとめ&lt;wbr&gt;) - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20090405/1238941908</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20090405/1238941908</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - zundamoon07のブックマーク</Title>
+        <Url>http://b.hatena.ne.jp/zundamoon07/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/zundamoon07/</ClickUrl>
+    </Result>
+    <Result>
         <Title>双方向型医学系サブジェクトリポジトリ技術基盤の形成</Title>
         <Url>https://infonavi.sapmed.ac.jp/ir/</Url>
         <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>おっと、森鴎外を批判するのはそこまでだ - memorandum</Title>
+        <Url>http://d.hatena.ne.jp/bn2islander/20081216/1229447950</Url>
+        <ClickUrl>http://d.hatena.ne.jp/bn2islander/20081216/1229447950</ClickUrl>
+    </Result>
+    <Result>
+        <Title>貧困と新型インフルエンザとの関係 - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20090506/1241582342</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20090506/1241582342</ClickUrl>
     </Result>
     <Result>
         <Title>【東京慈恵会医科大学】</Title>
@@ -37,9 +72,74 @@
         <ClickUrl>http://www.jikei.ac.jp/academic/index.html</ClickUrl>
     </Result>
     <Result>
+        <Title>[まとめ] - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/searchdiary?word=*[%A4%DE%A4%C8%A4%E1]</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/searchdiary?word=*[%A4%DE%A4%C8%A4%E1]</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[看護必要度] - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/searchdiary?word=*[%B4%C7%B8%EE%C9%AC%CD%D7%C5%D9]</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/searchdiary?word=*[%B4%C7%B8%EE%C9%AC%CD%D7%C5%D9]</ClickUrl>
+    </Result>
+    <Result>
+        <Title>麻生首相の失言が止まらない - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20081127/1227791069</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081127/1227791069</ClickUrl>
+    </Result>
+    <Result>
+        <Title>高木兼寛は麦飯で脚気を防止する事ができたのか - memorandum</Title>
+        <Url>http://d.hatena.ne.jp/bn2islander/20081217/1229526856</Url>
+        <ClickUrl>http://d.hatena.ne.jp/bn2islander/20081217/1229526856</ClickUrl>
+    </Result>
+    <Result>
+        <Title>介護報酬改定関係Q&amp;amp;A(Vol.2) - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20090420/1240223611</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20090420/1240223611</ClickUrl>
+    </Result>
+    <Result>
         <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
         <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
         <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>介護施設の火災で死者ゼロ - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20081114/1226656623</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081114/1226656623</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[Zasshi] Tokyo Jikeikai medical journal. Tokyo Jikeikai Ika ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=[Zasshi]+Tokyo+Jikeikai+medical+journal.+Tokyo+Jikeikai+Ika+Daigaku.&amp;Page=2</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=[Zasshi]+Tokyo+Jikeikai+medical+journal.+Tokyo+Jikeikai+Ika+Daigaku.&amp;Page=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[Zasshi] Tokyo Jikeikai medical journal. Tokyo Jikeikai Ika ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=[Zasshi]+Tokyo+Jikeikai+medical+journal.+Tokyo+Jikeikai+Ika+Daigaku.</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=[Zasshi]+Tokyo+Jikeikai+medical+journal.+Tokyo+Jikeikai+Ika+Daigaku.</ClickUrl>
+    </Result>
+    <Result>
+        <Title>生化学の歴史 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%AD%A6%E3%81%AE%E6%AD%B4%E5%8F%B2</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%AD%A6%E3%81%AE%E6%AD%B4%E5%8F%B2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[自然災害] - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/searchdiary?word=*[%BC%AB%C1%B3%BA%D2%B3%B2]</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/searchdiary?word=*[%BC%AB%C1%B3%BA%D2%B3%B2]</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館&amp;gt;データベース・利用ガイド</Title>
+        <Url>http://www.jikei.ac.jp/academic/micer/database.htm</Url>
+        <ClickUrl>http://www.jikei.ac.jp/academic/micer/database.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>仙台のベンチャー企業 障害者雇用拡大で急成長 - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20081103/1225712485</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081103/1225712485</ClickUrl>
+    </Result>
+    <Result>
+        <Title>麻生太郎氏、医療に関し口約束を連発 - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20080920/1221907563</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080920/1221907563</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -47,9 +147,64 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=66</ClickUrl>
     </Result>
     <Result>
+        <Title>高齢者は働くことしか才能がない? - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20090725/1248525417</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20090725/1248525417</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ベガルタ仙台J2優勝 - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20091206/1260097506</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20091206/1260097506</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大瀧佑平 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=%E5%A4%A7%E7%80%A7%E4%BD%91%E5%B9%B3&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%A4%A7%E7%80%A7%E4%BD%91%E5%B9%B3&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>result serach きみこ - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=result+serach+%E3%81%8D%E3%81%BF%E3%81%93&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=result+serach+%E3%81%8D%E3%81%BF%E3%81%93&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>uvf eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/uvf-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/uvf-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>階段昇降機の利用による物理的バリアの克服 - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20090708</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20090708</ClickUrl>
+    </Result>
+    <Result>
+        <Title>紹介「動画でわかる 摂食・嚥下リハビリテーション」 - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20081105</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081105</ClickUrl>
+    </Result>
+    <Result>
+        <Title>霞ヶ関の内幕暴露、「さらば財務省!」 - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20080809</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080809</ClickUrl>
+    </Result>
+    <Result>
+        <Title>目標はニーズと評価から導きだされる - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20081225</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081225</ClickUrl>
+    </Result>
+    <Result>
+        <Title>後期高齢者医療制度、長続きするとは思えず - リハ医の独白</Title>
+        <Url>http://d.hatena.ne.jp/zundamoon07/20080926</Url>
+        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080926</ClickUrl>
+    </Result>
+    <Result>
         <Title>臨床部門|東京慈恵会医科大学</Title>
         <Url>http://www.jikei.ac.jp/academic/rinsho.html</Url>
         <ClickUrl>http://www.jikei.ac.jp/academic/rinsho.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - 埼玉のドルジ@はてなブックマーク - 2008年12月18日</Title>
+        <Url>http://b.hatena.ne.jp/saitamanodoruji/20081218</Url>
+        <ClickUrl>http://b.hatena.ne.jp/saitamanodoruji/20081218</ClickUrl>
     </Result>
     <Result>
         <Title>大学機関リポジトリ</Title>
@@ -57,205 +212,50 @@
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>はてなブックマーク - fs001493のブックマーク - やる夫</Title>
+        <Url>http://b.hatena.ne.jp/fs001493/%E3%82%84%E3%82%8B%E5%A4%AB/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/fs001493/%E3%82%84%E3%82%8B%E5%A4%AB/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 東 香代子</Title>
+        <Url>http://search.livedoor.com/search/?q=%C5%EC+%B9%E1%C2%E5%BB%D2</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%C5%EC+%B9%E1%C2%E5%BB%D2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -ok式 浸透桝-</Title>
+        <Url>http://seonum.com/rank/ok%E5%BC%8F+%E6%B5%B8%E9%80%8F%E6%A1%9D.html</Url>
+        <ClickUrl>http://seonum.com/rank/ok%E5%BC%8F+%E6%B5%B8%E9%80%8F%E6%A1%9D.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -クランプ cad ck-</Title>
+        <Url>http://seonum.com/rank/%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97+cad+ck.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97+cad+ck.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 下流部は 関節機能は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B2%BC%CE%AE%C9%F4%A4%CF+%B4%D8%C0%E1%B5%A1%C7%BD%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B2%BC%CE%AE%C9%F4%A4%CF+%B4%D8%C0%E1%B5%A1%C7%BD%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 間接作用は 直接作用は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B4%D6%C0%DC%BA%EE%CD%D1%A4%CF+%C4%BE%C0%DC%BA%EE%CD%D1%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B4%D6%C0%DC%BA%EE%CD%D1%A4%CF+%C4%BE%C0%DC%BA%EE%CD%D1%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : リウマチ性多発筋痛症(polymyalgia rheumatica; PMR)</Title>
+        <Url>http://search.livedoor.com/search/?q=%A5%EA%A5%A6%A5%DE%A5%C1%C0%AD%C2%BF%C8%AF%B6%DA%C4%CB%BE%C9(polymyalgia+rheumatica%3B+PMR%A1%CB</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%A5%EA%A5%A6%A5%DE%A5%C1%C0%AD%C2%BF%C8%AF%B6%DA%C4%CB%BE%C9(polymyalgia+rheumatica%3B+PMR%A1%CB</ClickUrl>
+    </Result>
+    <Result>
+        <Title>檜垣惠 - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E6%AA%9C%E5%9E%A3%E6%83%A0</Url>
+        <ClickUrl>http://spysee.jp/%E6%AA%9C%E5%9E%A3%E6%83%A0</ClickUrl>
+    </Result>
+    <Result>
         <Title>倫理委員会|東京慈恵会医科大学</Title>
         <Url>http://www.jikei.ac.jp/academic/rinri/index.html</Url>
         <ClickUrl>http://www.jikei.ac.jp/academic/rinri/index.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ないとブログ</Title>
-        <Url>http://naramedulib.seesaa.net/index-4.html</Url>
-        <ClickUrl>http://naramedulib.seesaa.net/index-4.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Q&amp;amp;A回答</Title>
-        <Url>http://ir.twmu.ac.jp/about/IRQA.html</Url>
-        <ClickUrl>http://ir.twmu.ac.jp/about/IRQA.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 食事の改善と脚気の予防</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00001737</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00001737</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 食事の改善と脚気の予防 2</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00001738</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00001738</ClickUrl>
-    </Result>
-    <Result>
-        <Title>基礎部門|東京慈恵会医科大学</Title>
-        <Url>http://www.jikei.ac.jp/academic/sinryo.html</Url>
-        <ClickUrl>http://www.jikei.ac.jp/academic/sinryo.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>総合医学研究センター|東京慈恵会医科大学</Title>
-        <Url>http://www.jikei.ac.jp/academic/center.html</Url>
-        <ClickUrl>http://www.jikei.ac.jp/academic/center.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>教育センター|東京慈恵会医科大学</Title>
-        <Url>http://www.jikei.ac.jp/academic/edu_center.html</Url>
-        <ClickUrl>http://www.jikei.ac.jp/academic/edu_center.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=66</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=66</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 東京慈恵会医科大学</Title>
-        <Url>http://search.livedoor.com/search/?q=%C5%EC%B5%FE%BB%FC%B7%C3%B2%F1%B0%E5%B2%CA%C2%E7%B3%D8&amp;c=ld_weather_sl&amp;lr=lang_ja</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%C5%EC%B5%FE%BB%FC%B7%C3%B2%F1%B0%E5%B2%CA%C2%E7%B3%D8&amp;c=ld_weather_sl&amp;lr=lang_ja</ClickUrl>
-    </Result>
-    <Result>
-        <Title>倫理委員会会議録要旨 平成21年度|倫理委員会|東京慈恵会医科大学</Title>
-        <Url>http://www.jikei.ac.jp/academic/rinri/kaigi_yousi.html</Url>
-        <ClickUrl>http://www.jikei.ac.jp/academic/rinri/kaigi_yousi.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - JIKEI Repository: 東京慈恵会医科大学 学術リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=257</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=257</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=0</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8&amp;sortid=3</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 脚気原因の研究史―ビタミン欠乏症が発見,認定されるまで―&lt;wbr&gt;(資料)</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00001741</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00001741</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「リポジトリ」に関するSEO調査結果 - SEO Knowledge - 無料で使えるSEO対策ツール -</Title>
-        <Url>http://seo.kndb.jp/keyword/%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA</Url>
-        <ClickUrl>http://seo.kndb.jp/keyword/%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 東京慈恵会医科大学</Title>
-        <Url>http://search.livedoor.com/search/?q=%C5%EC%B5%FE%BB%FC%B7%C3%B2%F1%B0%E5%B2%CA%C2%E7%B3%D8&amp;c=ld_weather_sl</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%C5%EC%B5%FE%BB%FC%B7%C3%B2%F1%B0%E5%B2%CA%C2%E7%B3%D8&amp;c=ld_weather_sl</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言: リポジトリ2件</Title>
-        <Url>http://liblog.seesaa.net/article/103182387.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/article/103182387.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ないとブログ: 図書館の運営・活動</Title>
-        <Url>http://naramedulib.seesaa.net/category/3462370-1.html</Url>
-        <ClickUrl>http://naramedulib.seesaa.net/category/3462370-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ないとブログ</Title>
-        <Url>http://naramedulib.seesaa.net/archives/200911-1.html</Url>
-        <ClickUrl>http://naramedulib.seesaa.net/archives/200911-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | The Preservation of Health Amongst the Personnel of ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000156/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000156/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Effect of Pioglitazone on Body Fat and Intramuscular ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000185/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000185/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Single Coronary Artery Diagnosed Incidentally on ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000194/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000194/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Detection of Hepatitis B and G Virus Genomes in Sera ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000181/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000181/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Single Nucleotide Polymorphisms in the Interleukin-10 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000192/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000192/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Subcutanous Fat Accumulation and Thiazolidinedione ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000179/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000179/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Expression of Cell-Cycle Markers in Bladder Cancer ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000163/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000163/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | The Present Status and Problems of Clinical Trials at ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000170/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000170/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Effectiveness of a Pneumatic Compression Device and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000177/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000177/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Prevention of Arterial Stenosis after Ballon Injury ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000164/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000164/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Density Gradient Separation of Human Umbilical Cord ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000165/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000165/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | A Comparative Study of Blood Flow in the Cerebellum ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000162/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000162/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Hypercapnic Ventilatory Responses Measured by ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000159/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000159/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Effects of Sodium Ozagrel on beta-thromboglobulin and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000193/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000193/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Functional Rehabilitation of Patients with Traumatic ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000153/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000153/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Editor&apos;s Note</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000150/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000150/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | A Pilot Study to Compare Inhibitory Effects of ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000172/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000172/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Unsuccessful Reperfusion Due to No-reflow Phenomenon ...</Title>
-        <Url>http://jairo.nii.ac.jp/0067/00000189/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0067/00000189/en</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:18 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:18 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:06 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:06 PST 2010 -->

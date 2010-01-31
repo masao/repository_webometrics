@@ -27,11 +27,6 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>DuraSpace Blog &quot; Blog Archive &quot; DSpace Community Continues to ...</Title>
-        <Url>http://expertvoices.nsdl.org/duraspace/2009/12/01/dspace-community-continues-to-grow/</Url>
-        <ClickUrl>http://expertvoices.nsdl.org/duraspace/2009/12/01/dspace-community-continues-to-grow/</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
@@ -247,6 +242,11 @@
         <ClickUrl>http://roar.eprints.org/index.php?prev=Prev&amp;type=institutional&amp;action=home&amp;page=all</ClickUrl>
     </Result>
     <Result>
+        <Title>Registry of Open Access Repositories (ROAR)</Title>
+        <Url>http://roar.eprints.org/index.php?action=browse+-+Institutional+Archives+Registry&amp;prev=Prev&amp;page=4</Url>
+        <ClickUrl>http://roar.eprints.org/index.php?action=browse+-+Institutional+Archives+Registry&amp;prev=Prev&amp;page=4</ClickUrl>
+    </Result>
+    <Result>
         <Title>Browse Research Institutional or Departmental (ROAR)</Title>
         <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter%3E%2C&amp;prev=Prev&amp;page=3</Url>
         <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter%3E%2C&amp;prev=Prev&amp;page=3</ClickUrl>
@@ -257,5 +257,5 @@
         <ClickUrl>http://www.pcix.akita-u.ac.jp/public/pu_area.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:06 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:06 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:50 PST 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:50 PST 2010 -->

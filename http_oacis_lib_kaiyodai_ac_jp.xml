@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="162"
+    totalResultsAvailable="481"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,9 +27,59 @@
         <ClickUrl>http://lib.s.kaiyodai.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>ニジマス - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%83%9E%E3%82%B9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%83%9E%E3%82%B9</ClickUrl>
+    </Result>
+    <Result>
+        <Title>海軍予備員 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E4%BA%88%E5%82%99%E5%93%A1</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E4%BA%88%E5%82%99%E5%93%A1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>5~6月頃に、外に洗濯物などを干していると、 その洗濯物がとても汚れてしまうというような場所を どなたかご存知でしょうか ...</Title>
+        <Url>http://q.hatena.ne.jp/1241095231</Url>
+        <ClickUrl>http://q.hatena.ne.jp/1241095231</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文検索サイト</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>断面積の違う熱伝導方程式 | OKWave</Title>
+        <Url>http://okwave.jp/qa/q4779221.html</Url>
+        <ClickUrl>http://okwave.jp/qa/q4779221.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Tokyo University of Marine Science and Technology Library</Title>
         <Url>http://lib.s.kaiyodai.ac.jp/index_E.html</Url>
         <ClickUrl>http://lib.s.kaiyodai.ac.jp/index_E.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -and/or-</Title>
+        <Url>http://seonum.com/rank/and%EF%BC%8For.html</Url>
+        <ClickUrl>http://seonum.com/rank/and%EF%BC%8For.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -流量係数-</Title>
+        <Url>http://seonum.com/rank/%E6%B5%81%E9%87%8F%E4%BF%82%E6%95%B0.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E6%B5%81%E9%87%8F%E4%BF%82%E6%95%B0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>oacis eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/oacis-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/oacis-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帝京科学大学附属図書館 - 電子ジャーナル</Title>
+        <Url>http://www.lib.ntu.ac.jp:8080/oj/ojwa2j.html</Url>
+        <ClickUrl>http://www.lib.ntu.ac.jp:8080/oj/ojwa2j.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帝京科学大学附属図書館 - 電子ジャーナル</Title>
+        <Url>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ta.html</Url>
+        <ClickUrl>http://www.lib.ntu.ac.jp:8080/oj/ojwa1ta.html</ClickUrl>
     </Result>
     <Result>
         <Title>東京海洋大学学術機関リポジトリ(TUMSAT-OACIS&lt;wbr&gt;)準備ページ</Title>
@@ -47,6 +97,41 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=83</ClickUrl>
     </Result>
     <Result>
+        <Title>aquarium filters eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/aquarium-filters-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/aquarium-filters-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>kawasaki bayou 300 carb diagrahm eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/kawasaki-bayou-300-carb-diagrahm-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/kawasaki-bayou-300-carb-diagrahm-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Anna Zaretskaya*, Norwegian anaphora</Title>
+        <Url>http://people.umass.edu/partee/RGGU_2008/TypologyReports/Kireeva_Zaretskaya_Anaphora%20in%20Japanese%20and%20Norwegian-final_version.doc</Url>
+        <ClickUrl>http://people.umass.edu/partee/RGGU_2008/TypologyReports/Kireeva_Zaretskaya_Anaphora%20in%20Japanese%20and%20Norwegian-final_version.doc</ClickUrl>
+    </Result>
+    <Result>
+        <Title>turbomap eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/turbomap-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/turbomap-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>江戸時代 手賀沼 eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3%E3%80%80%E6%89%8B%E8%B3%80%E6%B2%BC-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/%E6%B1%9F%E6%88%B8%E6%99%82%E4%BB%A3%E3%80%80%E6%89%8B%E8%B3%80%E6%B2%BC-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記・備考録</Title>
+        <Url>http://gpspp.sakura.ne.jp/diary200808.htm</Url>
+        <ClickUrl>http://gpspp.sakura.ne.jp/diary200808.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - 世界開放録 - 2008年5月20日</Title>
+        <Url>http://b.hatena.ne.jp/yuiseki/20080520</Url>
+        <ClickUrl>http://b.hatena.ne.jp/yuiseki/20080520</ClickUrl>
+    </Result>
+    <Result>
         <Title>大学機関リポジトリ</Title>
         <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
@@ -57,6 +142,66 @@
         <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/oshirase_kyotsu2008.html</ClickUrl>
     </Result>
     <Result>
+        <Title>一括検索 -ヤング率-</Title>
+        <Url>http://seonum.com/rank/%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -孔径 測定-</Title>
+        <Url>http://seonum.com/rank/%E5%AD%94%E5%BE%84+%E6%B8%AC%E5%AE%9A.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%AD%94%E5%BE%84+%E6%B8%AC%E5%AE%9A.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -蒸気 比熱-</Title>
+        <Url>http://seonum.com/rank/%E8%92%B8%E6%B0%97+%E6%AF%94%E7%86%B1.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E8%92%B8%E6%B0%97+%E6%AF%94%E7%86%B1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -伝熱係数 sus-</Title>
+        <Url>http://seonum.com/rank/%E4%BC%9D%E7%86%B1%E4%BF%82%E6%95%B0+sus.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E4%BC%9D%E7%86%B1%E4%BF%82%E6%95%B0+sus.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -気泡 浮上速度-</Title>
+        <Url>http://seonum.com/rank/%E6%B0%97%E6%B3%A1+%E6%B5%AE%E4%B8%8A%E9%80%9F%E5%BA%A6.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E6%B0%97%E6%B3%A1+%E6%B5%AE%E4%B8%8A%E9%80%9F%E5%BA%A6.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -熱量計算 冷却水-</Title>
+        <Url>http://seonum.com/rank/%E7%86%B1%E9%87%8F%E8%A8%88%E7%AE%97+%E5%86%B7%E5%8D%B4%E6%B0%B4.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E9%87%8F%E8%A8%88%E7%AE%97+%E5%86%B7%E5%8D%B4%E6%B0%B4.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 使用は 普通教育は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BB%C8%CD%D1%A4%CF+%C9%E1%C4%CC%B6%B5%B0%E9%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BB%C8%CD%D1%A4%CF+%C9%E1%C4%CC%B6%B5%B0%E9%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : タネ網は ノリ芽は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%BF%A5%CD%CC%D6%A4%CF+%A5%CE%A5%EA%B2%EA%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%BF%A5%CD%CC%D6%A4%CF+%A5%CE%A5%EA%B2%EA%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : パパイヤは 結婚紹は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%D1%A5%D1%A5%A4%A5%E4%A4%CF+%B7%EB%BA%A7%BE%D2%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%D1%A5%D1%A5%A4%A5%E4%A4%CF+%B7%EB%BA%A7%BE%D2%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -軟鋼 機械的性質 降伏点-</Title>
+        <Url>http://seonum.com/rank/%E8%BB%9F%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA+%E9%99%8D%E4%BC%8F%E7%82%B9.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E8%BB%9F%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA+%E9%99%8D%E4%BC%8F%E7%82%B9.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -水素脆性、材料、低合金-</Title>
+        <Url>http://seonum.com/rank/%E6%B0%B4%E7%B4%A0%E8%84%86%E6%80%A7%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E4%BD%8E%E5%90%88%E9%87%91.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E6%B0%B4%E7%B4%A0%E8%84%86%E6%80%A7%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E4%BD%8E%E5%90%88%E9%87%91.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 内的自意識は 相当理性的は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C6%E2%C5%AA%BC%AB%B0%D5%BC%B1%A4%CF+%C1%EA%C5%F6%CD%FD%C0%AD%C5%AA%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C6%E2%C5%AA%BC%AB%B0%D5%BC%B1%A4%CF+%C1%EA%C5%F6%CD%FD%C0%AD%C5%AA%A4%CF</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
@@ -65,6 +210,31 @@
         <Title>Dissertation</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教えて進路Q&amp;amp;A あなたの質問にみんなが回答する!Q&amp;amp;A 断面積の違う熱伝導方程式</Title>
+        <Url>http://oshiete.eibi.co.jp/qa4779221.html</Url>
+        <ClickUrl>http://oshiete.eibi.co.jp/qa4779221.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>山崎洋史 - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E5%B1%B1%E5%B4%8E%E6%B4%8B%E5%8F%B2</Url>
+        <ClickUrl>http://spysee.jp/%E5%B1%B1%E5%B4%8E%E6%B4%8B%E5%8F%B2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大島正毅 - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E5%A4%A7%E5%B3%B6%E6%AD%A3%E6%AF%85/1128454/</Url>
+        <ClickUrl>http://spysee.jp/%E5%A4%A7%E5%B3%B6%E6%AD%A3%E6%AF%85/1128454/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなアンテナ - 学術機関リポジトリ全文紀要</Title>
+        <Url>http://a.hatena.ne.jp/jwu2/rss</Url>
+        <ClickUrl>http://a.hatena.ne.jp/jwu2/rss</ClickUrl>
+    </Result>
+    <Result>
+        <Title>(仮)</Title>
+        <Url>http://blog.goo.ne.jp/liveisle/2</Url>
+        <ClickUrl>http://blog.goo.ne.jp/liveisle/2</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 画像レーダによる船舶の監視に関する研究</Title>
@@ -86,176 +256,6 @@
         <Url>http://jairo.nii.ac.jp/0084/00000486</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0084/00000486</ClickUrl>
     </Result>
-    <Result>
-        <Title>JAIRO | LED漁灯の測光と対象種の光感覚に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000550</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000550</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=83</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=83</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館からのお知らせ(本館・分館共通)</Title>
-        <Url>http://lib.s.kaiyodai.ac.jp/library/oshirase_kyotsu2007.html</Url>
-        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/oshirase_kyotsu2007.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学位論文の扱い - DRF wiki</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87%E3%81%AE%E6%89%B1%E3%81%84</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?%E5%AD%A6%E4%BD%8D%E8%AB%96%E6%96%87%E3%81%AE%E6%89%B1%E3%81%84</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[東京海洋大学附属図書館] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C5%EC%B5%FE%B3%A4%CD%CE%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C5%EC%B5%FE%B3%A4%CD%CE%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Dnavi - 書誌情報</Title>
-        <Url>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000017126&amp;KEYWD=000000017126&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</Url>
-        <ClickUrl>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000017126&amp;KEYWD=000000017126&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>海洋大図書館メールマガジン</Title>
-        <Url>http://lib.s.kaiyodai.ac.jp/library/mailmag/pc/mm_s51.html</Url>
-        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/mailmag/pc/mm_s51.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | ネイティブジェランのゲル化機構に関する基礎研究</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000562</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000562</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Studies on peptidoglycan induced immune-related genes ...</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000561</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000561</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project ...</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>海洋大図書館メールマガジン(越中島)</Title>
-        <Url>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e50.html</Url>
-        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e50.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>海洋大図書館メールマガジン(越中島)</Title>
-        <Url>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e64.html</Url>
-        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e64.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>海洋大図書館メールマガジン(越中島)</Title>
-        <Url>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e51.html</Url>
-        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e51.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>海洋大図書館メールマガジン(越中島)</Title>
-        <Url>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e45.html</Url>
-        <ClickUrl>http://lib.s.kaiyodai.ac.jp/library/bunkan/tb-joho/mailmg/mm_e45.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : related:https://ir.u-gakugei&lt;wbr&gt;.ac.jp ...</Title>
-        <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttps%3A%2F%2Fir.u-gakugei.ac.jp%2Fhandle%2F2309%2F63447&amp;theme=</Url>
-        <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttps%3A%2F%2Fir.u-gakugei.ac.jp%2Fhandle%2F2309%2F63447&amp;theme=</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[drf:454] 東京海洋大学学術機関リポジトリ「 OACIS」の試験公開について</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drfml/msg00448.html</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drfml/msg00448.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>東京海洋大学 もしくは 東京海洋大学 - Wikipedia</Title>
-        <Url>http://icecoffee.thruhere.net/query/%E6%9D%B1%E4%BA%AC%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6</Url>
-        <ClickUrl>http://icecoffee.thruhere.net/query/%E6%9D%B1%E4%BA%AC%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 目次</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000384/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000384/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 目次</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000367/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000367/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : related:http://lib.s.kaiyodai&lt;wbr&gt;.ac.jp/</Title>
-        <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Flib.s.kaiyodai.ac.jp%2F&amp;theme=</Url>
-        <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Flib.s.kaiyodai.ac.jp%2F&amp;theme=</ClickUrl>
-    </Result>
-    <Result>
-        <Title>海洋大:書けるサーチ</Title>
-        <Url>http://ksearch.enq-g.info/result-8AC-97m-91-E5.htm</Url>
-        <ClickUrl>http://ksearch.enq-g.info/result-8AC-97m-91-E5.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 耐塩性酵母Pichia farinosa 産生キラートキシン(SMKT)の機能に関する生物物理学的研究</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000280</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000280</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | GPS・魚群探知機を用いた簡易海底地形計測の試み</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000557</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000557</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | ノニルフェノール分解微生物</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000152</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000152</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | コンテナヤードにおける空コンテナの耐風性について</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000105</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000105</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Rachel Carson and Nature Writing</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000196</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000196</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 両側回遊型カジカ仔稚魚の遊泳・摂餌機能の発達に基づく発育段階</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000157</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000157</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Distribution of Marine Filamentous Fungi Associated ...</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000155</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000155</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 第一部 海鷹丸航海調査報告 平成13年度 第4次航海報告</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000383</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000383</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 動揺環境下における船上作業効率の減退と人体の挙動に対する影響&lt;wbr&gt;について</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000002</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000002</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 想像の海辺で : ヘルツマノフスキー : オルランドにおける&amp;lt;チャンドス体験&amp;gt;</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000139</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000139</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 近接離島の生活航路における運航サービスの改善策に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000003</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000003</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 誘導加熱用高周波ソフトスイッチングインバータ電源の研究</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000030</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000030</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 低グラスホフ数域における垂直加熱平板の自然対流場に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000007</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000007</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:28 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:28 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:19 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:19 PST 2010 -->

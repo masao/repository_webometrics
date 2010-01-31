@@ -3,13 +3,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="506"
+    totalResultsAvailable="890"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>福島大学</Title>
         <Url>http://www.fukushima-u.ac.jp/</Url>
         <ClickUrl>http://www.fukushima-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -32,9 +37,39 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>剣術 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%89%A3%E8%A1%93</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%89%A3%E8%A1%93</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>小金牧 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E7%89%A7</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%91%E7%89%A7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
+    </Result>
+    <Result>
         <Title>福島大学附属図書館</Title>
         <Url>http://www.lib.fukushima-u.ac.jp/index-j.html</Url>
         <ClickUrl>http://www.lib.fukushima-u.ac.jp/index-j.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
         <Title>Talk:OAIster - LISWiki</Title>
@@ -67,9 +102,24 @@
         <ClickUrl>http://www.fukushima-u.ac.jp/index2.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学習過程研究会 - ニュース</Title>
+        <Url>http://camera.kinosita.itabashi.tokyo.jp/modules/news/</Url>
+        <ClickUrl>http://camera.kinosita.itabashi.tokyo.jp/modules/news/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福島大学|教育研究者情報</Title>
+        <Url>http://www.fukushima-u.ac.jp/guidance/researcher/index.html</Url>
+        <ClickUrl>http://www.fukushima-u.ac.jp/guidance/researcher/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
@@ -82,6 +132,11 @@
         <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Data Provider</Title>
         <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
@@ -90,6 +145,16 @@
         <Title>情報探索ポータル</Title>
         <Url>http://www.lib.fukushima-u.ac.jp/joho/joho.html</Url>
         <ClickUrl>http://www.lib.fukushima-u.ac.jp/joho/joho.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>中央州 (ケニア) - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E5%B7%9E_(%E3%82%B1%E3%83%8B%E3%82%A2)</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E5%B7%9E_(%E3%82%B1%E3%83%8B%E3%82%A2)</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -153,109 +218,44 @@
     </Result>
     <Result>
         <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=zh_TW</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=zh_TW</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
         <Url>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</Url>
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+        <Title>自縛方 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E8%87%AA%E7%B8%9B%E6%96%B9&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E8%87%AA%E7%B8%9B%E6%96%B9&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Pariser-Parr-Popleの方法に基づく不飽和有機&lt;wbr&gt;化合物のπ電子状態の計算のためのプログラミング</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00000759</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00000759</ClickUrl>
+        <Title>こたぬき メト - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E3%81%93%E3%81%9F%E3%81%AC%E3%81%8D+%E3%83%A1%E3%83%88&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E3%81%93%E3%81%9F%E3%81%AC%E3%81%8D+%E3%83%A1%E3%83%88&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
+        <Title>欄険眼段 まとめ - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=%E6%AC%84%E9%99%BA%E7%9C%BC%E6%AE%B5%E3%80%80%E3%81%BE%E3%81%A8%E3%82%81&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E6%AC%84%E9%99%BA%E7%9C%BC%E6%AE%B5%E3%80%80%E3%81%BE%E3%81%A8%E3%82%81&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_up.php</ClickUrl>
+        <Title>Kaneko Mitsuharu 金子光晴 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php?title=Kaneko_Mitsuharu_%E9%87%91%E5%AD%90%E5%85%89%E6%99%B4&amp;printable=yes</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php?title=Kaneko_Mitsuharu_%E9%87%91%E5%AD%90%E5%85%89%E6%99%B4&amp;printable=yes</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
+        <Title>Nishiwaki Junzaburo 西脇順三郎 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php?title=Nishiwaki_Junzaburo_%E8%A5%BF%E8%84%87%E9%A0%86%E4%B8%89%E9%83%8E&amp;printable=yes</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php?title=Nishiwaki_Junzaburo_%E8%A5%BF%E8%84%87%E9%A0%86%E4%B8%89%E9%83%8E&amp;printable=yes</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>福島大学附属図書館</Title>
-        <Url>http://133.52.131.162/</Url>
-        <ClickUrl>http://133.52.131.162/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>本学教員の研究成果</Title>
-        <Url>http://www.lib.fukushima-u.ac.jp/ir/</Url>
-        <ClickUrl>http://www.lib.fukushima-u.ac.jp/ir/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>更新履歴</Title>
-        <Url>http://www.lib.fukushima-u.ac.jp/update.html</Url>
-        <ClickUrl>http://www.lib.fukushima-u.ac.jp/update.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2008-03-23 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080323/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080323/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Ferri-Phlogopite from Teshirogi District Fukushima ...</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00002625</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00002625</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 具体的国家分析のための国家の基礎的諸概念について :中村氏の新「国家概念」把握によせて</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00002577</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00002577</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | まちづくりへの住民参加形態としての住民投票のあり方とドイツに&lt;wbr&gt;おける実態の研究</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00001939</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00001939</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 種々の昆虫卵の初期発生に関する電子顕微鏡的研究 Ⅲ : オオニジウヤホシテントウ卵の卵殻形成と〓〔ロ〕胞 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00001052</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00001052</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | &quot;Romanticism&quot; の意味するもの : その曖昧性と適用上の問題</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00002268</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00002268</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 現代青年とクレジット : 東京圏と福島県の比較研究</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00002650</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00002650</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 戦後日本の教育思想と「人間性」 : 資料篇</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00002727</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00002727</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 就業青少年の職業観</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00001989</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00001989</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Changes on Membrane Resistance during Excitation in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00002107</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00002107</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | フェイント動作のタイミング・コントロールに関する一考察</Title>
-        <Url>http://jairo.nii.ac.jp/0057/00001797</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0057/00001797</ClickUrl>
+        <Title>Nakano Shigeharu 中野重治 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php/Nakano_Shigeharu_%E4%B8%AD%E9%87%8E%E9%87%8D%E6%B2%BB</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php/Nakano_Shigeharu_%E4%B8%AD%E9%87%8E%E9%87%8D%E6%B2%BB</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:05 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:05 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:49 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:49 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="446"
+    totalResultsAvailable="469"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -20,11 +20,6 @@
         <Title>KIT Repository: Item 10212/1912</Title>
         <Url>http://hdl.handle.net/10212/1912</Url>
         <ClickUrl>http://hdl.handle.net/10212/1912</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KIT Repository: Item 10212/1915</Title>
-        <Url>http://hdl.handle.net/10212/1915</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1915</ClickUrl>
     </Result>
     <Result>
         <Title>Talk:OAIster - LISWiki</Title>
@@ -132,14 +127,14 @@
         <ClickUrl>http://hdl.handle.net/10212/1199</ClickUrl>
     </Result>
     <Result>
-        <Title>KIT Repository: Item 10212/1088</Title>
-        <Url>http://hdl.handle.net/10212/1088</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1088</ClickUrl>
-    </Result>
-    <Result>
         <Title>KIT Repository: Item 10212/1177</Title>
         <Url>http://hdl.handle.net/10212/1177</Url>
         <ClickUrl>http://hdl.handle.net/10212/1177</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1088</Title>
+        <Url>http://hdl.handle.net/10212/1088</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1088</ClickUrl>
     </Result>
     <Result>
         <Title>KIT Repository: Item 10212/1201</Title>
@@ -162,14 +157,14 @@
         <ClickUrl>http://hdl.handle.net/10212/1208</ClickUrl>
     </Result>
     <Result>
-        <Title>KIT Repository: Item 10212/1196</Title>
-        <Url>http://hdl.handle.net/10212/1196</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1196</ClickUrl>
-    </Result>
-    <Result>
         <Title>KIT Repository: Item 10212/1197</Title>
         <Url>http://hdl.handle.net/10212/1197</Url>
         <ClickUrl>http://hdl.handle.net/10212/1197</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1196</Title>
+        <Url>http://hdl.handle.net/10212/1196</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1196</ClickUrl>
     </Result>
     <Result>
         <Title>KIT Repository: Item 10212/1215</Title>
@@ -187,14 +182,14 @@
         <ClickUrl>http://hdl.handle.net/10212/1919</ClickUrl>
     </Result>
     <Result>
-        <Title>KIT Repository: Item 10212/1202</Title>
-        <Url>http://hdl.handle.net/10212/1202</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1202</ClickUrl>
-    </Result>
-    <Result>
         <Title>KIT Repository: Item 10212/1194</Title>
         <Url>http://hdl.handle.net/10212/1194</Url>
         <ClickUrl>http://hdl.handle.net/10212/1194</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1202</Title>
+        <Url>http://hdl.handle.net/10212/1202</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1202</ClickUrl>
     </Result>
     <Result>
         <Title>KIT Repository: Item 10212/1206</Title>
@@ -256,6 +251,11 @@
         <Url>http://hdl.handle.net/10212/1203</Url>
         <ClickUrl>http://hdl.handle.net/10212/1203</ClickUrl>
     </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1209</Title>
+        <Url>http://hdl.handle.net/10212/1209</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1209</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:11 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:11 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:57 PST 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:57 PST 2010 -->

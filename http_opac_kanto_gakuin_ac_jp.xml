@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1116"
+    totalResultsAvailable="2421"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -25,6 +25,11 @@
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -157,14 +162,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</ClickUrl>
     </Result>
     <Result>
-        <Title>朝まで生テレビの高森明勅発言批判: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>感想 大沼直樹「幼少の頃の夏目漱石」: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8984.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8984.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>朝まで生テレビの高森明勅発言批判: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</ClickUrl>
     </Result>
     <Result>
         <Title>三笠宮寛仁さま「エッセー」報道についての所感: 川西正彦の公共政策研究</Title>
@@ -182,24 +187,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2007/09/post_89b9.html</ClickUrl>
     </Result>
     <Result>
-        <Title>正平一統の記述に関する訂正: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_b846.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_b846.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>所功の女系継承容認論駁・皇室典範に関する有識者会議報告書論駁&lt;wbr&gt;(その1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>色が変わって良くなったインフォシーク: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</ClickUrl>
     </Result>
     <Result>
-        <Title>検疫はいい加減やめるべきだ: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-e407.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-e407.html</ClickUrl>
+        <Title>所功の女系継承容認論駁・皇室典範に関する有識者会議報告書論駁&lt;wbr&gt;(その1): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</ClickUrl>
     </Result>
     <Result>
         <Title>容疑者に同情する: 川西正彦の公共政策研究</Title>
@@ -256,6 +251,11 @@
         <Url>http://library.kanto-gakuin.ac.jp/</Url>
         <ClickUrl>http://library.kanto-gakuin.ac.jp/</ClickUrl>
     </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:36 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Jan 29 20:52:36 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:28 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:28 PST 2010 -->

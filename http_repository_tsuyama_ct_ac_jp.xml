@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="9"
+    totalResultsAvailable="23"
     firstResultPosition="1"
-    totalResultsReturned="9">
+    totalResultsReturned="23">
         <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
@@ -27,6 +27,11 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=122</ClickUrl>
     </Result>
     <Result>
+        <Title>一括検索 -ノズルの圧損-</Title>
+        <Url>http://seonum.com/rank/%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AE%E5%9C%A7%E6%90%8D.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AE%E5%9C%A7%E6%90%8D.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | 不均質材料の弾性変形における変形拘束の解析</Title>
         <Url>http://jairo.nii.ac.jp/0123/00000022</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0123/00000022</ClickUrl>
@@ -42,15 +47,80 @@
         <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
     </Result>
     <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 破壊特性は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C7%CB%B2%F5%C6%C3%C0%AD%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C7%CB%B2%F5%C6%C3%C0%AD%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 549</Title>
+        <Url>http://search.livedoor.com/search/?q=549&amp;start=40</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=549&amp;start=40</ClickUrl>
+    </Result>
+    <Result>
         <Title>livedoor ウェブ検索 検索結果 : リポジトリは</Title>
         <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA%A4%CF</Url>
         <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 解析は 体力冗は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B2%F2%C0%CF%A4%CF+%C2%CE%CE%CF%BE%E9%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B2%F2%C0%CF%A4%CF+%C2%CE%CE%CF%BE%E9%A4%CF</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor ウェブ検索 検索結果 : related:http://repository&lt;wbr&gt;.ipu-japan.ac.jp/</Title>
         <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Frepository.ipu-japan.ac.jp%2F&amp;theme=</Url>
         <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Frepository.ipu-japan.ac.jp%2F&amp;theme=</ClickUrl>
     </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 影響は 破壊特性は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B1%C6%B6%C1%A4%CF+%C7%CB%B2%F5%C6%C3%C0%AD%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B1%C6%B6%C1%A4%CF+%C7%CB%B2%F5%C6%C3%C0%AD%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>鷲見亮 - へんた式画像検索</Title>
+        <Url>http://hentaimage.net/%E9%B7%B2%E8%A6%8B%E4%BA%AE/</Url>
+        <ClickUrl>http://hentaimage.net/%E9%B7%B2%E8%A6%8B%E4%BA%AE/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 549</Title>
+        <Url>http://search.livedoor.com/search/?q=549&amp;start=30</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=549&amp;start=30</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : database open</Title>
+        <Url>http://search.livedoor.com/search/?q=database+open</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=database+open</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : &amp;lt;a web</Title>
+        <Url>http://search.livedoor.com/search/?q=%3Ca+web&amp;start=70</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%3Ca+web&amp;start=70</ClickUrl>
+    </Result>
+    <Result>
+        <Title>牧野 津山高専 - The Search メタ検索 2.0</Title>
+        <Url>http://meta2.the-search.jp/w/%E7%89%A7%E9%87%8E+%E6%B4%A5%E5%B1%B1%E9%AB%98%E5%B0%82_.html</Url>
+        <ClickUrl>http://meta2.the-search.jp/w/%E7%89%A7%E9%87%8E+%E6%B4%A5%E5%B1%B1%E9%AB%98%E5%B0%82_.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>津山高専 植月 - The Search メタ検索 2.0</Title>
+        <Url>http://meta2.the-search.jp/w/%E6%B4%A5%E5%B1%B1%E9%AB%98%E5%B0%82+%E6%A4%8D%E6%9C%88_.html</Url>
+        <ClickUrl>http://meta2.the-search.jp/w/%E6%B4%A5%E5%B1%B1%E9%AB%98%E5%B0%82+%E6%A4%8D%E6%9C%88_.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電気音響工学 - ディスマス</Title>
+        <Url>http://www.dismas.jp/dic/Special:ECSearchWebBing/%E9%9B%BB%E6%B0%97%E9%9F%B3%E9%9F%BF%E5%B7%A5%E5%AD%A6</Url>
+        <ClickUrl>http://www.dismas.jp/dic/Special:ECSearchWebBing/%E9%9B%BB%E6%B0%97%E9%9F%B3%E9%9F%BF%E5%B7%A5%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電気音響工学 - ディスマス</Title>
+        <Url>http://www.dismas.jp/dic/Special:ECSearchImageBing/%E9%9B%BB%E6%B0%97%E9%9F%B3%E9%9F%BF%E5%B7%A5%E5%AD%A6</Url>
+        <ClickUrl>http://www.dismas.jp/dic/Special:ECSearchImageBing/%E9%9B%BB%E6%B0%97%E9%9F%B3%E9%9F%BF%E5%B7%A5%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>金属工学 - ディスマス</Title>
+        <Url>http://www.dismas.jp/w/index.php?title=Special:ECSearchWebBing/%E9%87%91%E5%B1%9E%E5%B7%A5%E5%AD%A6&amp;from=60</Url>
+        <ClickUrl>http://www.dismas.jp/w/index.php?title=Special:ECSearchWebBing/%E9%87%91%E5%B1%9E%E5%B7%A5%E5%AD%A6&amp;from=60</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:02 PST 2010 -->
-<!-- ws07.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:02 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:55 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:55 PST 2010 -->

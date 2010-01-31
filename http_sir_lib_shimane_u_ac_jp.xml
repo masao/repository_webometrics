@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4068"
+    totalResultsAvailable="8619"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,9 +12,24 @@
         <ClickUrl>http://www.lib.shimane-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>島根大学学術情報リポジトリ SWANスワン</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/0/collection/repo/</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/0/collection/repo/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成19年度 平成18年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>島根大学附属図書館</Title>
         <Url>http://www.lib.shimane-u.ac.jp/index.asp?id=71</Url>
         <ClickUrl>http://www.lib.shimane-u.ac.jp/index.asp?id=71</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ブルーベリーについての研究、調査、報告など</Title>
+        <Url>http://www16.plala.or.jp/luckyhit/kenkyuu.html</Url>
+        <ClickUrl>http://www16.plala.or.jp/luckyhit/kenkyuu.html</ClickUrl>
     </Result>
     <Result>
         <Title>島根大学研究紀要論文全文データベース</Title>
@@ -27,235 +42,220 @@
         <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=15</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=15</ClickUrl>
+        <Title>CiNii - On &quot;Taka-zu Ema, Hirahama Hachimangu&quot;</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000463358</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000463358</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館</Title>
-        <Url>http://lisa.shimane-u.ac.jp/index.asp?id=23</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/index.asp?id=23</ClickUrl>
+        <Title>CiNii Search - Padina</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Padina</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Padina</ClickUrl>
     </Result>
     <Result>
-        <Title>国立大学法人 島根大学 - 知的情報データベース</Title>
-        <Url>http://www.shimane-u.ac.jp/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=89</Url>
-        <ClickUrl>http://www.shimane-u.ac.jp/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=89</ClickUrl>
+        <Title>大阪府立中央図書館 ミニ展示「もっと知ろう裁判員制度」裁判員制度に関する雑誌記事&lt;wbr&gt;一覧 2008年</Title>
+        <Url>http://www.library.pref.osaka.jp/central/saiban09_alist.html</Url>
+        <ClickUrl>http://www.library.pref.osaka.jp/central/saiban09_alist.html</ClickUrl>
     </Result>
     <Result>
-        <Title>ブログ-島根大学附属図書館</Title>
-        <Url>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=all</Url>
-        <ClickUrl>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=all</ClickUrl>
+        <Title>CiNii Search - Location</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Location</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Location</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学研究紀要論文全文データベース</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/0/kiyo/index.asp?mode=nv&amp;id=355</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/0/kiyo/index.asp?mode=nv&amp;id=355</ClickUrl>
+        <Title>CiNii - Seasonal Variation in the Activity of Melatonin ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/40016423159</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/40016423159</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館</Title>
-        <Url>http://lisa.shimane-u.ac.jp/menu2008/</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/menu2008/</ClickUrl>
+        <Title>CiNii Search - eelgrass</Title>
+        <Url>http://ci.nii.ac.jp/keyword/eelgrass</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/eelgrass</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館</Title>
-        <Url>http://lisa.shimane-u.ac.jp/index.asp?id=390</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/index.asp?id=390</ClickUrl>
+        <Title>CiNii - Three types of gamets from the metamorphic xenoliths ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940128</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940128</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館 サイトマップ</Title>
-        <Url>http://lisa.shimane-u.ac.jp/menu.asp?mode=sm</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/menu.asp?mode=sm</ClickUrl>
+        <Title>CiNii - Major and trace element chemistry of the garnets ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940185</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940185</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館 サイドバー</Title>
-        <Url>http://lisa.shimane-u.ac.jp/menu.asp?mode=l&amp;id=1004&amp;rid=0</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/menu.asp?mode=l&amp;id=1004&amp;rid=0</ClickUrl>
+        <Title>CiNii - Studies on the Effect of Temperature during the ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000997281</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000997281</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館 サイドバー</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/menu.asp?mode=l&amp;id=1004&amp;rid=390</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/menu.asp?mode=l&amp;id=1004&amp;rid=390</ClickUrl>
+        <Title>CiNii - James HUTTON (1726-1797) 2 : Theory of the Earth ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940024</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940024</ClickUrl>
     </Result>
     <Result>
-        <Title>国立大学法人 島根大学 - 知的情報データベース</Title>
-        <Url>http://www.shimane-u.ac.jp/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=139</Url>
-        <ClickUrl>http://www.shimane-u.ac.jp/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=139</ClickUrl>
+        <Title>CiNii - Estimation of Nutrient Loading from Watershed and ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000994169</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000994169</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 解雇法理の新段階(1)</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004446</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004446</ClickUrl>
+        <Title>CiNii - The Deep Weathering Crust of Akana Granodiorite</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006934130</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006934130</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 最近のイギリス障害者差別判例の展開とその影響</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004445</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004445</ClickUrl>
+        <Title>CiNii - New occurrences of the K-Ah(Akahoya) Tephra from the ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940126</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940126</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 水稲穎花数における遺伝的・環境的変異の成立機構に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004310</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004310</ClickUrl>
+        <Title>CiNii - Late Quaternary sediments of the Yumigahama sandbar ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940208</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940208</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 島根大学ミュージアム年報 平成20年度</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004428</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004428</ClickUrl>
+        <Title>CiNii - On the Characteristics of a Monorail Type Carrier on ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000997277</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000997277</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 島根県内の看護師のキャリア・ニーズと修士課程看護学専攻に対す&lt;wbr&gt;る認識</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004414</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004414</ClickUrl>
+        <Title>CiNii - Reprint of &quot;San-in Michi-no-ki&quot;: A Books of Travel ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006937092</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006937092</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 日本の裁判員制度 : 英米の陪審制度から学べること</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004321</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004321</ClickUrl>
+        <Title>CiNii - Studies on the Dielectric Properties of Organic ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006934028</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006934028</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 島根大学汽水域研究センター活動報告</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004389</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004389</ClickUrl>
+        <Title>CiNii - Natural history of the Nakano-umi and Shinji Lakes ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940088</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940088</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | ロシアの地域における就業構造 : 2001〜2006年のボロネジ州の場合</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004320</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004320</ClickUrl>
+        <Title>CiNii - Studies on the Dielectric Properties of Organic ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006934002</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006934002</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 生物資源科学部研究セミナー</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004340</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004340</ClickUrl>
+        <Title>CiNii - Petrograohy of the Sangun metamorphic rocks in the ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940007</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940007</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 中海湖心部における湖底の水中映像(その3) : 貧酸素環境におけるバクテリアマットの回復状況</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00004388</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00004388</ClickUrl>
+        <Title>CiNii - Whole-rock elemental abundances in sandstones and ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940181</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940181</ClickUrl>
     </Result>
     <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=15</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=15</ClickUrl>
+        <Title>CiNii - Notes on Genitive Case in Present-Day English</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006934257</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006934257</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館518</Title>
-        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=518</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=518</ClickUrl>
+        <Title>CiNii - The Effect of Fasting on the Concentration of Free ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000997163</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000997163</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館472</Title>
-        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=472</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=472</ClickUrl>
+        <Title>CiNii - Teaching of Foundations for Reading Comprehension of ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006933670</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006933670</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館494</Title>
-        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=494</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=494</ClickUrl>
+        <Title>CiNii - Geochemical implication for the maximum flooding of ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940154</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940154</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館489</Title>
-        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=489</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=489</ClickUrl>
+        <Title>CiNii - Some mechanical properties of the Siwalik sandstones ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940164</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940164</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館503</Title>
-        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=503</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=503</ClickUrl>
+        <Title>CiNii - Cropping System of Rice of Taichiro Nakai, Rono (a ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940297</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940297</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館386</Title>
-        <Url>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=386</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=386</ClickUrl>
+        <Title>CiNii - The Holocene Environmental Change of the Estuary of ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000994193</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000994193</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館 サイト統計</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/menu2008/menu.asp?mode=t</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/menu2008/menu.asp?mode=t</ClickUrl>
+        <Title>CiNii - Protoliths of the metamorphic clasts from the ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940139</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940139</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/menu2008/index.asp?id=23</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/menu2008/index.asp?id=23</ClickUrl>
+        <Title>CiNii - Ji-jiu-pian(急就篇) of the Han(漢) era</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000463380</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000463380</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館558</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=558</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=558</ClickUrl>
+        <Title>CiNii - The View of the Education for the Mentally ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006933744</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006933744</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館606</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=606</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=606</ClickUrl>
+        <Title>CiNii - Distance from White Horse to Horse : The Meaning of ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006934274</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006934274</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館355</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=355</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=355</ClickUrl>
+        <Title>CiNii - Seasonal Variation in the Activity of Melatonin ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006967344</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006967344</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館373</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=373</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=373</ClickUrl>
+        <Title>CiNii - Rsearch on the Writings by the Yamamoto Family ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006936966</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006936966</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館469</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=469</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=469</ClickUrl>
+        <Title>CiNii Search - Water Film</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Water+Film</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Water+Film</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館266</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=266</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=266</ClickUrl>
+        <Title>CiNii Search - Orthotropy</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Orthotropy</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Orthotropy</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館264</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=264</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=264</ClickUrl>
+        <Title>CiNii Search - phytoassay</Title>
+        <Url>http://ci.nii.ac.jp/keyword/phytoassay</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/phytoassay</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学附属図書館</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/menu2008/index.asp?id=390</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/menu2008/index.asp?id=390</ClickUrl>
+        <Title>CiNii Search - Glacial Age</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Glacial+Age</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Glacial+Age</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ島根大学附属図書館365</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=365</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/new/new.asp?disp=2&amp;id=365</ClickUrl>
+        <Title>CiNii Search - translation</Title>
+        <Url>http://ci.nii.ac.jp/keyword/translation</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/translation</ClickUrl>
     </Result>
     <Result>
-        <Title>[島根大学附属図書館] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C5%E7%BA%AC%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%C5%E7%BA%AC%C2%E7%B3%D8%C9%ED%C2%B0%BF%DE%BD%F1%B4%DB]</ClickUrl>
+        <Title>CiNii Search - Lie algebra</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Lie+algebra</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Lie+algebra</ClickUrl>
     </Result>
     <Result>
-        <Title>ブログ-島根大学附属図書館 評価情報・リポジトリ合同入力説明会</Title>
-        <Url>http://lisa.shimane-u.ac.jp/blog/blog.asp?disp=ID87&amp;ttl=%95]%89%BF%8F%EE%95%F1%81E%83%8A%83|%83W%83g%83%8A%8D%87%93%AF%93%FC%97%CD%90%E0%96%BE%89%EF</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/blog/blog.asp?disp=ID87&amp;ttl=%95]%89%BF%8F%EE%95%F1%81E%83%8A%83|%83W%83g%83%8A%8D%87%93%AF%93%FC%97%CD%90%E0%96%BE%89%EF</ClickUrl>
+        <Title>CiNii Search - Oryza sativa</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Oryza+sativa</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Oryza+sativa</ClickUrl>
     </Result>
     <Result>
-        <Title>ブログ-島根大学附属図書館 隧穂セ。諠・ ア繝サ繝ェ繝昴ず繝医Μ蜷亥酔蜈・蜉幄ェャ譏惹シ</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/blog/blog.asp?disp=ID87&amp;ttl=%E8%A9%95%E4%BE%A1%E6%83%85%E5%A0%B1%E3%83%BB%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E5%90%88%E5%90%8C%E5%85%A5%E5%8A%9B%E8%AA%AC%E6%98%8E%E4%BC%9A</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/blog/blog.asp?disp=ID87&amp;ttl=%E8%A9%95%E4%BE%A1%E6%83%85%E5%A0%B1%E3%83%BB%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E5%90%88%E5%90%8C%E5%85%A5%E5%8A%9B%E8%AA%AC%E6%98%8E%E4%BC%9A</ClickUrl>
+        <Title>CiNii Search - regeneration</Title>
+        <Url>http://ci.nii.ac.jp/keyword/regeneration</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/regeneration</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 振動ふるい上の粒子の運動の位相範囲と網下率との関係についての&lt;wbr&gt;一考察</Title>
-        <Url>http://jairo.nii.ac.jp/0015/00001394/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0015/00001394/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Article 694 at 07/04/02 14:42:32 From: fukuyama @ lib.shimane ...</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drf-ml/600/694.html</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf-ml/600/694.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ブログ-島根大学附属図書館</Title>
-        <Url>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=2007/06</Url>
-        <ClickUrl>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=2007/06</ClickUrl>
-    </Result>
-    <Result>
-        <Title>島根大学研究紀要論文全文データベース</Title>
-        <Url>http://lisa.shimane-u.ac.jp/0/kiyo/index.asp?mode=nv&amp;id=264</Url>
-        <ClickUrl>http://lisa.shimane-u.ac.jp/0/kiyo/index.asp?mode=nv&amp;id=264</ClickUrl>
+        <Title>CiNii Search - Book-Reading</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Book-Reading</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Book-Reading</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.ac2.yahoo.com uncompressed/chunked Fri Jan 29 20:51:14 PST 2010 -->
-<!-- ws01.ydn.ac4.yahoo.com uncompressed/chunked Fri Jan 29 20:51:14 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:02 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:02 PST 2010 -->
