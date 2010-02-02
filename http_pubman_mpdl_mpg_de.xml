@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="400"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Max Planck vLib News</Title>
+        <Url>http://blog.vlib.mpg.de/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国際学術情報流通基盤整備事業 イベント情報 2009第1回「研究者は発信する多様な情報手段を用い、社会へ&lt;wbr&gt;の拡がりを求めて」</Title>
+        <Url>http://www.nii.ac.jp/sparc/event/2009/20090625.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/sparc/event/2009/20090625.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Recent activities (S. Todoroki)</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/node2.html</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/node2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>PubMan Blog</Title>
+        <Url>http://pubman.blogs.mpdl.mpg.de/</Url>
+        <ClickUrl>http://pubman.blogs.mpdl.mpg.de/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>まさおのChangeLogメモ / 2009-02</Title>
+        <Url>http://masao.jpn.org/d/2009-02.html</Url>
+        <ClickUrl>http://masao.jpn.org/d/2009-02.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Max Planck vLib News &quot; sfx-targets</Title>
+        <Url>http://blog.vlib.mpg.de/tag/sfx-targets/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/tag/sfx-targets/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:PubMan - MPDLMediaWiki</Title>
+        <Url>http://colab.mpdl.mpg.de/mediawiki/PubMan</Url>
+        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/PubMan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>User:Andi - MPDLMediaWiki</Title>
+        <Url>http://colab.mpdl.mpg.de/mediawiki/User:Andi</Url>
+        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/User:Andi</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Papers on the focus of my interest (S. Todoroki)</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/node3.html</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/node3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HOME in English (S. Todoroki)</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/node1.html</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/node1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>PubMan Sword - MPDLMediaWiki</Title>
+        <Url>http://colab.mpdl.mpg.de/mediawiki/PubMan_Sword</Url>
+        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/PubMan_Sword</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:PubMan - MPDLMediaWiki</Title>
+        <Url>http://colab.mpdl.mpg.de/mediawiki/Portal:PubMan</Url>
+        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/Portal:PubMan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Research output — MPI Website</Title>
+        <Url>http://www.mpi.nl/research/publications-and-presentations</Url>
+        <ClickUrl>http://www.mpi.nl/research/publications-and-presentations</ClickUrl>
+    </Result>
+    <Result>
+        <Title>PubMan Functionalities - MPDLMediaWiki</Title>
+        <Url>http://colab.mpdl.mpg.de/mediawiki/PubMan_Functionalities</Url>
+        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/PubMan_Functionalities</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Kidney stones</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/category/kidney-stones/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/category/kidney-stones/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ESciDoc Services ValidationService - MPDLMediaWiki</Title>
+        <Url>http://colab.mpdl.mpg.de/mediawiki/ESciDoc_Services_ValidationService</Url>
+        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/ESciDoc_Services_ValidationService</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Publications by Menzo Windhouwer</Title>
+        <Url>http://www.windhouwer.nl/menzo/professional/pubs.html</Url>
+        <ClickUrl>http://www.windhouwer.nl/menzo/professional/pubs.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Publications — MPI Website</Title>
+        <Url>http://www.mpi.nl/people/levinson-stephen/publications</Url>
+        <ClickUrl>http://www.mpi.nl/people/levinson-stephen/publications</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DRFtech-Kyoto - DRF wiki</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?DRFtech-Kyoto</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?DRFtech-Kyoto</ClickUrl>
+    </Result>
+    <Result>
+        <Title>PubMan Wordpress Plugin - MPDLMediaWiki</Title>
+        <Url>http://colab.mpdl.mpg.de/mediawiki/User:Andi/PubMan_Wordpress_Plugin</Url>
+        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/User:Andi/PubMan_Wordpress_Plugin</ClickUrl>
+    </Result>
+    <Result>
+        <Title>最近の活動 (轟 眞市)</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/node5.html</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/node5.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HOME in Japanese (轟 眞市)</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/node4.html</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/node4.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Max Planck vLib News &quot; About</Title>
+        <Url>http://blog.vlib.mpg.de/about/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/about/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Freiraum &quot; Publications</Title>
+        <Url>http://www.andreasgros.net/publications/</Url>
+        <ClickUrl>http://www.andreasgros.net/publications/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37167</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37167/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37167/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37186</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37186/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37186/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37076</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37076/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37076/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37216</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37216/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37216/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37099</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37099/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37099/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:39422</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc39422/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc39422/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37110</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37110/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37110/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37172</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37172/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37172/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37274</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37274/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37274/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reinhold von Sengbusch &quot; Blog Archive &quot; escidoc:37063</Title>
+        <Url>http://sengbusch.blogs.mpdl.mpg.de/escidoc37063/</Url>
+        <ClickUrl>http://sengbusch.blogs.mpdl.mpg.de/escidoc37063/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[Yan ke xue shu hui kan] = Ophthalmological series. : KMLE 의학 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=[Yan+ke+xue+shu+hui+kan]+=+Ophthalmological+series.</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=[Yan+ke+xue+shu+hui+kan]+=+Ophthalmological+series.</ClickUrl>
+    </Result>
+    <Result>
+        <Title>発表論文、講演資料など - 高久雅生</Title>
+        <Url>http://masao.jpn.org/pub/</Url>
+        <ClickUrl>http://masao.jpn.org/pub/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>B サイエンスコミュニケーション SPARCJapanセミナー 「だからセルフアーカイビングはやめられない!」講演ビデオ公開</Title>
+        <Url>http://btobsc.blog25.fc2.com/blog-entry-236.html</Url>
+        <ClickUrl>http://btobsc.blog25.fc2.com/blog-entry-236.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>B サイエンスコミュニケーション 自ら発信する自称奇特な研究者(追記あり)(訂正もあり&lt;wbr&gt;)</Title>
+        <Url>http://btobsc.blog25.fc2.com/blog-entry-199.html</Url>
+        <ClickUrl>http://btobsc.blog25.fc2.com/blog-entry-199.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Max Planck vLib News &quot; rss</Title>
+        <Url>http://blog.vlib.mpg.de/tag/rss/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/tag/rss/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>FACES 3.2.1 build date 2009-11-02 17:49:55</Title>
+        <Url>http://faces.mpdl.mpg.de/faces/about</Url>
+        <ClickUrl>http://faces.mpdl.mpg.de/faces/about</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Max Planck vLib News &quot; vLib portal</Title>
+        <Url>http://blog.vlib.mpg.de/category/vlib/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/category/vlib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Max Planck vLib News &quot; tools</Title>
+        <Url>http://blog.vlib.mpg.de/category/tools/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/category/tools/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Freiraum &quot; wordpress</Title>
+        <Url>http://www.andreasgros.net/tag/wordpress/</Url>
+        <ClickUrl>http://www.andreasgros.net/tag/wordpress/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Max Planck vLib News &quot; resource-feed</Title>
+        <Url>http://blog.vlib.mpg.de/tag/resource-feed/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/tag/resource-feed/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Make the best use of Blog and Google in your research ...</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/06Obt.pdf</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/06Obt.pdf</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Papers on the focus of my interest(S. Todoroki)</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/00list_e.pdf</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/00list_e.pdf</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Take the lead, and you will win. I took the photo of fiber ...</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/06Eglass.pdf</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/06Eglass.pdf</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Publication List(S. Todoroki)</Title>
+        <Url>http://www.geocities.jp/tokyo_1406/00todoroki_e.pdf</Url>
+        <ClickUrl>http://www.geocities.jp/tokyo_1406/00todoroki_e.pdf</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ESciDoc Interfaces - MPDLMediaWiki</Title>
+        <Url>http://colab.mpdl.mpg.de/mediawiki/ESciDoc_Interfaces</Url>
+        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/ESciDoc_Interfaces</ClickUrl>
+    </Result>
+    <Result>
+        <Title>PubMan Release &quot; PubMan Blog</Title>
+        <Url>http://pubman.blogs.mpdl.mpg.de/category/pubman-release/</Url>
+        <ClickUrl>http://pubman.blogs.mpdl.mpg.de/category/pubman-release/</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Mon Feb  1 06:15:09 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Mon Feb  1 06:15:09 PST 2010 -->
