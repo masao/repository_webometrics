@@ -73,7 +73,12 @@ if $0 == __FILE__
          next
       end
       name = name[1]
-      url  = lines.assoc("機関リポジトリへのリンク（日）".tosjis)[1]
+      url = lines.assoc("機関リポジトリへのリンク（日）".tosjis)
+      if url.nil?
+         STDERR.puts "name not found: skipping #{ f }"
+         next
+      end
+      url = url[1]
       #puts url
       url.sub!( /\/index\.(?:jsp|html?)(?:\?[\w\=]*)?$/, "/" )
       #url.sub!( /\/repo_index\.html?$/, "/" )
