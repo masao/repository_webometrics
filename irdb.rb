@@ -29,7 +29,7 @@ def get_inlinkdata_total( url )
    else
       xml = get_inlinkdata_yahoo( url,
                                   { :omit_inlinks => :subdomain,
-                                     :entire_site => 1 } )
+                                    :entire_site => 1 } )
    end
    inlinks = $1.to_i if xml =~ /\btotalResultsAvailable="(\d+)"/m
    if not File.exist?( file_u )
@@ -37,6 +37,13 @@ def get_inlinkdata_total( url )
          io.puts xml
       }
    end
+   #if url.scheme == "http"
+   #   url_ssl = url.dup
+   #   url_ssl.scheme = "https"
+   #   inlinks_ssl = get_inlinkdata_total( url_ssl )
+   #   #p [ url_ssl.to_s, inlinks_ssl ]
+   #   inlinks += inlinks_ssl
+   #end
    if not url.path.empty?
       url.path = ""
       inlinks_subdomain = get_inlinkdata_total( url )
@@ -151,7 +158,7 @@ if $0 == __FILE__
               ].join( "\t" )
       else
       #when :tsv
-         puts [ line[0], "%0.01f" % ( sum * 100 ), d.map{|e| "%0.04f" % e } ].join( "\t" )
+         puts [ line[0], "%0.02f" % ( sum * 100 ), d.map{|e| "%0.04f" % e } ].join( "\t" )
       end
    end
 end
