@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="34343"
+    totalResultsAvailable="34102"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -107,6 +107,21 @@
         <ClickUrl>http://wattsupwiththat.com/2009/06/28/nasa-giss-adjustments-galore-rewriting-climate-history/</ClickUrl>
     </Result>
     <Result>
+        <Title>郡山女子大学図書館 - Library of Koriyama Women&apos;s University.</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Malaysian Publications</Title>
         <Url>http://malaysianpublications.blogspot.com/</Url>
         <ClickUrl>http://malaysianpublications.blogspot.com/</ClickUrl>
@@ -202,11 +217,6 @@
         <ClickUrl>http://hdl.handle.net/2237/6839</ClickUrl>
     </Result>
     <Result>
-        <Title>ベイズ主義の社会化はいかにあるべきか - リーバイのモデルの検討を通して - : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6837</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6837</ClickUrl>
-    </Result>
-    <Result>
         <Title>認識論における非個人主義的内在主義 : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6835</Url>
         <ClickUrl>http://hdl.handle.net/2237/6835</ClickUrl>
@@ -220,6 +230,11 @@
         <Title>Near Triviality of Conclusive Reasons : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6848</Url>
         <ClickUrl>http://hdl.handle.net/2237/6848</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ベイズ主義の社会化はいかにあるべきか - リーバイのモデルの検討を通して - : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6837</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6837</ClickUrl>
     </Result>
     <Result>
         <Title>オープンアクセスジャーナルの現状 : NAGOYA Repository</Title>
@@ -241,21 +256,6 @@
         <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:22 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:22 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:29 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:29 PST 2010 -->

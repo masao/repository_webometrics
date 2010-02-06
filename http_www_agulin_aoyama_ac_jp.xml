@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1994"
+    totalResultsAvailable="1930"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -75,11 +75,6 @@
         <Title>GBRCホームページ</Title>
         <Url>http://www.gbrc.jp/</Url>
         <ClickUrl>http://www.gbrc.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>It&apos;s a beautiful noise</Title>
-        <Url>http://jiyu-runner.cocolog-nifty.com/tannsihin/</Url>
-        <ClickUrl>http://jiyu-runner.cocolog-nifty.com/tannsihin/</ClickUrl>
     </Result>
     <Result>
         <Title>大学図書館</Title>
@@ -256,6 +251,11 @@
         <Url>http://integratedenglish.edublogs.org/2009/02/04/test/</Url>
         <ClickUrl>http://integratedenglish.edublogs.org/2009/02/04/test/</ClickUrl>
     </Result>
+    <Result>
+        <Title>Meiji University Library|Use the Library|Yamanote Line ...</Title>
+        <Url>http://www.lib.meiji.ac.jp/english/use/yamanote/index.html</Url>
+        <ClickUrl>http://www.lib.meiji.ac.jp/english/use/yamanote/index.html</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:57 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:57 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:54 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:54 PST 2010 -->

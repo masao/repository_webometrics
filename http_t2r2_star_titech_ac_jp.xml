@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="50573"
+    totalResultsAvailable="50445"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -57,11 +57,6 @@
         <ClickUrl>http://www.sde.cs.titech.ac.jp/~gondow/index-e.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
-        <Url>http://roar.eprints.org/?action=search&amp;query=dspace+at+mit&amp;sa=Search</Url>
-        <ClickUrl>http://roar.eprints.org/?action=search&amp;query=dspace+at+mit&amp;sa=Search</ClickUrl>
-    </Result>
-    <Result>
         <Title>links for 2009-04-09 &quot; 個人的な雑記</Title>
         <Url>http://yoshy.wordpress.com/2009/04/10/links-for-2009-04-09/</Url>
         <ClickUrl>http://yoshy.wordpress.com/2009/04/10/links-for-2009-04-09/</ClickUrl>
@@ -80,6 +75,11 @@
         <Title>Tokyo Institute of Technology | Current Students</Title>
         <Url>http://www.titech.ac.jp/english/enrolled/index.html</Url>
         <ClickUrl>http://www.titech.ac.jp/english/enrolled/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>太陽電池研究の小長井誠研究室&amp;amp;山田明研究室</Title>
+        <Url>http://solid.pe.titech.ac.jp/</Url>
+        <ClickUrl>http://solid.pe.titech.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>木嶋研究室 - 東京工業大学大学院社会理工学研究科 価値システム専攻</Title>
@@ -122,19 +122,19 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>hiroya aoki - スポーツ選人</Title>
+        <Url>http://www.spo-p.com/sp/HIROYA/hiroya+aoki.html</Url>
+        <ClickUrl>http://www.spo-p.com/sp/HIROYA/hiroya+aoki.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Welcome to the Registry of Open Access Repositories ...</Title>
         <Url>http://roar.eprints.org/?prev=Prev</Url>
         <ClickUrl>http://roar.eprints.org/?prev=Prev</ClickUrl>
     </Result>
     <Result>
         <Title>Welcome to the Registry of Open Access Repositories ...</Title>
-        <Url>http://roar.eprints.org/?action=search&amp;query=Kristianstad&amp;sa=Search</Url>
-        <ClickUrl>http://roar.eprints.org/?action=search&amp;query=Kristianstad&amp;sa=Search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Welcome to the Registry of Open Access Repositories ...</Title>
-        <Url>http://roar.eprints.org/?action=search&amp;query=m%C3%A4lardalens&amp;submit=Search</Url>
-        <ClickUrl>http://roar.eprints.org/?action=search&amp;query=m%C3%A4lardalens&amp;submit=Search</ClickUrl>
+        <Url>http://roar.eprints.org/?action=search&amp;query=aquatic+commons&amp;sa=Search</Url>
+        <ClickUrl>http://roar.eprints.org/?action=search&amp;query=aquatic+commons&amp;sa=Search</ClickUrl>
     </Result>
     <Result>
         <Title>Faculty Staff Information - TOKYO TECH OCW</Title>
@@ -142,14 +142,14 @@
         <ClickUrl>http://www.ocw.titech.ac.jp/index.php?module=General&amp;action=StaffInfo&amp;id=9&amp;lang=EN</ClickUrl>
     </Result>
     <Result>
+        <Title>Wiki論文 - Wikiに関する論文リスト(暫定版)</Title>
+        <Url>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</Url>
+        <ClickUrl>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</ClickUrl>
+    </Result>
+    <Result>
         <Title>Tokyo Tech Bulletin | Feature</Title>
         <Url>http://www.titech.ac.jp/bulletin/feature.html</Url>
         <ClickUrl>http://www.titech.ac.jp/bulletin/feature.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Movies - Sampei Laboratory</Title>
-        <Url>http://www.sc.ctrl.titech.ac.jp/movies/movies-e2.html</Url>
-        <ClickUrl>http://www.sc.ctrl.titech.ac.jp/movies/movies-e2.html</ClickUrl>
     </Result>
     <Result>
         <Title>Tokyo Institute of Technology | Faculty and Staff</Title>
@@ -190,16 +190,6 @@
         <Title>Tokyo Institute of Technology, Graduate School of Decision ...</Title>
         <Url>http://www.soc.titech.ac.jp/~hidano/projects/projectsE.html</Url>
         <ClickUrl>http://www.soc.titech.ac.jp/~hidano/projects/projectsE.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Thesis - Sampei Laboratory</Title>
-        <Url>http://www.sc.ctrl.titech.ac.jp/research/paper/paper-e.html</Url>
-        <ClickUrl>http://www.sc.ctrl.titech.ac.jp/research/paper/paper-e.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Wiki論文 - Wikiに関する論文リスト(暫定版)</Title>
-        <Url>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</Url>
-        <ClickUrl>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
@@ -256,6 +246,16 @@
         <Url>http://www.titech.ac.jp/whoswho/Profiles/0026/0001690/prof_e.html</Url>
         <ClickUrl>http://www.titech.ac.jp/whoswho/Profiles/0026/0001690/prof_e.html</ClickUrl>
     </Result>
+    <Result>
+        <Title>Profile</Title>
+        <Url>http://www.titech.ac.jp/whoswho/Profiles/0026/0001939/prof_e.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/whoswho/Profiles/0026/0001939/prof_e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Profile</Title>
+        <Url>http://www.titech.ac.jp/whoswho/Profiles/0026/0001492/prof_e.html</Url>
+        <ClickUrl>http://www.titech.ac.jp/whoswho/Profiles/0026/0001492/prof_e.html</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:18 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:18 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:51 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:51 PST 2010 -->

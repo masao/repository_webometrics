@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2010"
+    totalResultsAvailable="1986"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,11 +27,6 @@
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 化学的手法を用いた芳香制御及び嗅覚情報提示システムに関する研&lt;wbr&gt;究</Title>
-        <Url>http://hdl.handle.net/10119/8013</Url>
-        <ClickUrl>http://hdl.handle.net/10119/8013</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIST Repository: JAIST学術研究成果リポジトリ平成18年度成果報告</Title>
         <Url>http://hdl.handle.net/10119/3515</Url>
         <ClickUrl>http://hdl.handle.net/10119/3515</ClickUrl>
@@ -40,6 +35,11 @@
         <Title>JAIST Repository: JAIST学術研究成果リポジトリ平成19年度成果報告</Title>
         <Url>http://hdl.handle.net/10119/4471</Url>
         <ClickUrl>http://hdl.handle.net/10119/4471</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: 化学的手法を用いた芳香制御及び嗅覚情報提示システムに関する研&lt;wbr&gt;究</Title>
+        <Url>http://hdl.handle.net/10119/8013</Url>
+        <ClickUrl>http://hdl.handle.net/10119/8013</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: 音声のスペクトル包絡における個人性に関する研究</Title>
@@ -52,24 +52,9 @@
         <ClickUrl>http://hdl.handle.net/10119/352</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 様相論理における不完全性への代数的アプロ-チ</Title>
-        <Url>http://hdl.handle.net/10119/977</Url>
-        <ClickUrl>http://hdl.handle.net/10119/977</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: マルチエージェント系における組織学習を用いた動的環境への適応&lt;wbr&gt;に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/723</Url>
-        <ClickUrl>http://hdl.handle.net/10119/723</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIST Repository: ソフトウェアーキテクチャ設計に関する研究</Title>
         <Url>http://hdl.handle.net/10119/931</Url>
         <ClickUrl>http://hdl.handle.net/10119/931</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 直観主義論理のいくつかの部分論理に対するゲンツェン流Sequ&lt;wbr&gt;ent計算</Title>
-        <Url>http://hdl.handle.net/10119/917</Url>
-        <ClickUrl>http://hdl.handle.net/10119/917</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: コミュニケーションにおける笑いの出現パターン:遠隔キーボード&lt;wbr&gt;対話と対面音声対話の比較</Title>
@@ -117,34 +102,14 @@
         <ClickUrl>http://hdl.handle.net/10119/835</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 思考プロセスの共有を支援するアノテーションエディタに関する研&lt;wbr&gt;究</Title>
-        <Url>http://hdl.handle.net/10119/477</Url>
-        <ClickUrl>http://hdl.handle.net/10119/477</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: Support Vector Learning and Rule Induction ...</Title>
-        <Url>http://hdl.handle.net/10119/818</Url>
-        <ClickUrl>http://hdl.handle.net/10119/818</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIST Repository: 日本企業のMOT改革力を向上させるための研究と提言&lt;wbr&gt;~開発設計技術革新に関する ...</Title>
         <Url>http://hdl.handle.net/10119/536</Url>
         <ClickUrl>http://hdl.handle.net/10119/536</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 並行自己反映計算の宣言的記述に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/851</Url>
-        <ClickUrl>http://hdl.handle.net/10119/851</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIST Repository: 金沢市における「新たな観光」の可能性について-「観光まちづく&lt;wbr&gt;り」の事例・大野町-</Title>
         <Url>http://hdl.handle.net/10119/529</Url>
         <ClickUrl>http://hdl.handle.net/10119/529</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 対話者識別機能を付加したコミュニケーションロボットの社会的利&lt;wbr&gt;用と評価</Title>
-        <Url>http://hdl.handle.net/10119/475</Url>
-        <ClickUrl>http://hdl.handle.net/10119/475</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: シソーラスの可視化による発散型英語学習支援ツールの研究</Title>
@@ -212,6 +177,11 @@
         <ClickUrl>http://hdl.handle.net/10119/3259</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIST Repository: 高階述語論理定理証明器HOLのための問題領域ライブラリの構築</Title>
+        <Url>http://hdl.handle.net/10119/1539</Url>
+        <ClickUrl>http://hdl.handle.net/10119/1539</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIST Repository: スタイラスを利用した小型携帯端末向け入力インタフェースRod&lt;wbr&gt;Directの評価</Title>
         <Url>http://hdl.handle.net/10119/4050</Url>
         <ClickUrl>http://hdl.handle.net/10119/4050</ClickUrl>
@@ -256,6 +226,36 @@
         <Url>http://hdl.handle.net/10119/3415</Url>
         <ClickUrl>http://hdl.handle.net/10119/3415</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIST Repository: ナレッジマネジメント : 6.ナレッジマネジメントによる&quot;知の共鳴&quot;</Title>
+        <Url>http://hdl.handle.net/10119/4590</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4590</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: スレッドレベル投機実行を支援するキャッシュ機構に関する研究</Title>
+        <Url>http://hdl.handle.net/10119/1793</Url>
+        <ClickUrl>http://hdl.handle.net/10119/1793</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: 暗号理論における数論とそのアルゴリズムの研究</Title>
+        <Url>http://hdl.handle.net/10119/1645</Url>
+        <ClickUrl>http://hdl.handle.net/10119/1645</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: 聴覚末梢系処理モデルを用いた非定常機械騒音の評価に関する研究</Title>
+        <Url>http://hdl.handle.net/10119/1508</Url>
+        <ClickUrl>http://hdl.handle.net/10119/1508</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: アプリケーション指向のIPパケット制御手法の提案と実現</Title>
+        <Url>http://hdl.handle.net/10119/1914</Url>
+        <ClickUrl>http://hdl.handle.net/10119/1914</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: HTMLタグの繰り返しパターンに注目した知識の自動獲得</Title>
+        <Url>http://hdl.handle.net/10119/1797</Url>
+        <ClickUrl>http://hdl.handle.net/10119/1797</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:12 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:12 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:15 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:15 PST 2010 -->

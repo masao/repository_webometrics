@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1603"
+    totalResultsAvailable="1588"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>Osaka Kyoiku University</Title>
-        <Url>http://okumedia.cc.osaka-kyoiku.ac.jp/</Url>
-        <ClickUrl>http://okumedia.cc.osaka-kyoiku.ac.jp/</ClickUrl>
+        <Title>国立大学法人・大阪教育大学</Title>
+        <Url>http://www.osaka-kyoiku.ac.jp/</Url>
+        <ClickUrl>http://www.osaka-kyoiku.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -52,6 +52,11 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>教育系サブジェクトリポジトリについて</Title>
         <Url>https://library.u-gakugei.ac.jp/edu-rp/</Url>
         <ClickUrl>https://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
@@ -83,8 +88,18 @@
     </Result>
     <Result>
         <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=fr_FR</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=fr_FR</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
         <Url>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</Url>
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=zh_TW</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=zh_TW</ClickUrl>
     </Result>
     <Result>
         <Title>Data Provider</Title>
@@ -117,11 +132,6 @@
         <ClickUrl>http://okumedia.cc.osaka-kyoiku.ac.jp/?tomodak/grapes/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | スポーツ現象を表象する言語の適応に関する研究―新聞にみられる&lt;wbr&gt;&quot;隠喩&quot;としてのスポーツシンボルへの事例的試み―</Title>
         <Url>http://jairo.nii.ac.jp/0049/00006644</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0049/00006644</ClickUrl>
@@ -130,11 +140,6 @@
         <Title>国立大学法人・大阪教育大学</Title>
         <Url>https://www.osaka-kyoiku.ac.jp/</Url>
         <ClickUrl>https://www.osaka-kyoiku.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 学校周辺の交通を対象とした身近な地域調査の実践 -GISを用いた大阪教育大学附属平野中学校での事例&lt;wbr&gt;-</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00008879</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00008879</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 打球動作の基礎的研究―テニスフォアハンドストロークのinit&lt;wbr&gt;iate movementに関する筋電図的研究―</Title>
@@ -162,11 +167,6 @@
         <ClickUrl>http://jairo.nii.ac.jp/0049/00003540</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 知的障害児の数量感覚に関する実践的研究 第II報</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00001931</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00001931</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 日・韓両国における道徳教育の比較研究</Title>
         <Url>http://jairo.nii.ac.jp/0049/00006726</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0049/00006726</ClickUrl>
@@ -177,19 +177,19 @@
         <ClickUrl>http://jairo.nii.ac.jp/0049/00007224</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 授業分析研究における教師行動のカテゴリー化に関する一考察&lt;wbr&gt;(その1)</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00007931</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00007931</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 木材組織学用CAIコースウェアの開発(第一報)―CAIコース&lt;wbr&gt;ウェア構築用シェル―</Title>
         <Url>http://jairo.nii.ac.jp/0049/00006924</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0049/00006924</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | スタンダールの『恋愛論』(DE L&apos;AMOUR)をめぐって(その一)―スタンダールと『恋愛論&lt;wbr&gt;』の関係について(上)</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006134</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006134</ClickUrl>
+        <Title>JAIRO | 授業分析研究における教師行動のカテゴリー化に関する一考察&lt;wbr&gt;(その1)</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00007931</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00007931</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 読む力をつけるための読解の作業化</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00009972</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00009972</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 日本図書館学会の動向</Title>
@@ -222,6 +222,11 @@
         <ClickUrl>http://jairo.nii.ac.jp/0049/00002105</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIRO | 新しい評価Q&amp;amp;A</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00002939</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00002939</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | デザイン・工芸教育の実践的研究(第1報)―パズルの制作を通し&lt;wbr&gt;て―</Title>
         <Url>http://jairo.nii.ac.jp/0049/00006935</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0049/00006935</ClickUrl>
@@ -251,11 +256,6 @@
         <Url>http://jairo.nii.ac.jp/0049/00005902</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0049/00005902</ClickUrl>
     </Result>
-    <Result>
-        <Title>JAIRO | 武道・舞踊・スポーツの技術習得に関する研究(Ⅰ)&lt;wbr&gt;~特に武道と舞踊の稽古における技術習得過程を中心に&lt;wbr&gt;~</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006765</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006765</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:51 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:51 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:04 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:04 PST 2010 -->

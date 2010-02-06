@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4514"
+    totalResultsAvailable="4505"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -167,6 +167,11 @@
         <ClickUrl>http://shikisima.exblog.jp/3731152</ClickUrl>
     </Result>
     <Result>
+        <Title>流星の絆</Title>
+        <Url>http://blog.goo.ne.jp/americasycamore1</Url>
+        <ClickUrl>http://blog.goo.ne.jp/americasycamore1</ClickUrl>
+    </Result>
+    <Result>
         <Title>図書館おばさんTの奮闘日記: 2月 2008</Title>
         <Url>http://obasan-t.blogspot.com/2008_02_01_archive.html</Url>
         <ClickUrl>http://obasan-t.blogspot.com/2008_02_01_archive.html</ClickUrl>
@@ -185,11 +190,6 @@
         <Title>図書館おばさんTの奮闘日記: 2008/09/30新着図書案内</Title>
         <Url>http://obasan-t.blogspot.com/2008/09/20080930.html</Url>
         <ClickUrl>http://obasan-t.blogspot.com/2008/09/20080930.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国士舘大学 21世紀アジア学部</Title>
-        <Url>http://www.kokushikan.ac.jp/faculty/21_Asia/index.html</Url>
-        <ClickUrl>http://www.kokushikan.ac.jp/faculty/21_Asia/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://www.kch.kokushikan.ac.jp/study/past-e.htm</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:23 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:23 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:57 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:57 PST 2010 -->

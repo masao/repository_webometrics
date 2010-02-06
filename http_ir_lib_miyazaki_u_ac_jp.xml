@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="5988"
+    totalResultsAvailable="5782"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,6 +52,11 @@
         <ClickUrl>http://www.lib.miyazaki-u.ac.jp/igaku/</ClickUrl>
     </Result>
     <Result>
+        <Title>決定論 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E8%AB%96</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E8%AB%96</ClickUrl>
+    </Result>
+    <Result>
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
         <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
@@ -72,14 +77,19 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
+        <Title>宮崎大学学術情報リポジトリ : 日向夏栽培における課題と経営改善のための定量的考察</Title>
+        <Url>http://hdl.handle.net/10458/1893</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1893</ClickUrl>
     </Result>
     <Result>
-        <Title>宮崎大学学術情報リポジトリ : 聴覚障害児が医療の場で受ける困難に関する文献検討</Title>
-        <Url>http://hdl.handle.net/10458/1969</Url>
-        <ClickUrl>http://hdl.handle.net/10458/1969</ClickUrl>
+        <Title>宮崎大学学術情報リポジトリ : メタン発酵消化液のブロッコリー栽培における施用効果について</Title>
+        <Url>http://hdl.handle.net/10458/1892</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1892</ClickUrl>
+    </Result>
+    <Result>
+        <Title>宮崎大学学術情報リポジトリ : 暖地向けダイズ品種における子実中の無機成分含有量について</Title>
+        <Url>http://hdl.handle.net/10458/1897</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1897</ClickUrl>
     </Result>
     <Result>
         <Title>宮崎大学学術情報リポジトリ : The Mechanical Behaviour and Wood Structure ...</Title>
@@ -102,9 +112,9 @@
         <ClickUrl>http://hdl.handle.net/10458/1895</ClickUrl>
     </Result>
     <Result>
-        <Title>宮崎大学学術情報リポジトリ : 日向夏栽培における課題と経営改善のための定量的考察</Title>
-        <Url>http://hdl.handle.net/10458/1893</Url>
-        <ClickUrl>http://hdl.handle.net/10458/1893</ClickUrl>
+        <Title>宮崎大学学術情報リポジトリ : アルファルファタコゾウムシの導入天敵ヨーロッパトビチビアメバ&lt;wbr&gt;チの宮崎県における放飼とその ...</Title>
+        <Url>http://hdl.handle.net/10458/1887</Url>
+        <ClickUrl>http://hdl.handle.net/10458/1887</ClickUrl>
     </Result>
     <Result>
         <Title>宮崎大学学術情報リポジトリ : Effect of Fermented Apple Solution on the ...</Title>
@@ -122,11 +132,6 @@
         <ClickUrl>http://hdl.handle.net/10458/1890</ClickUrl>
     </Result>
     <Result>
-        <Title>宮崎大学学術情報リポジトリ : アルファルファタコゾウムシの導入天敵ヨーロッパトビチビアメバ&lt;wbr&gt;チの宮崎県における放飼とその ...</Title>
-        <Url>http://hdl.handle.net/10458/1887</Url>
-        <ClickUrl>http://hdl.handle.net/10458/1887</ClickUrl>
-    </Result>
-    <Result>
         <Title>宮崎大学学術情報リポジトリ : タイにおける看護教育事情 : プリンス・オブ・ソンクラ大学看護学部を訪問して</Title>
         <Url>http://hdl.handle.net/10458/1971</Url>
         <ClickUrl>http://hdl.handle.net/10458/1971</ClickUrl>
@@ -135,11 +140,6 @@
         <Title>宮崎大学学術情報リポジトリ : 第2子以降の出産を迎える家族のニーズ</Title>
         <Url>http://hdl.handle.net/10458/1968</Url>
         <ClickUrl>http://hdl.handle.net/10458/1968</ClickUrl>
-    </Result>
-    <Result>
-        <Title>宮崎大学学術情報リポジトリ : メタン発酵消化液のブロッコリー栽培における施用効果について</Title>
-        <Url>http://hdl.handle.net/10458/1892</Url>
-        <ClickUrl>http://hdl.handle.net/10458/1892</ClickUrl>
     </Result>
     <Result>
         <Title>宮崎大学学術情報リポジトリ : A県看護師の就業継続の意思とキャリアアップに関する調査</Title>
@@ -177,11 +177,6 @@
         <ClickUrl>http://hdl.handle.net/10458/1972</ClickUrl>
     </Result>
     <Result>
-        <Title>宮崎大学学術情報リポジトリ : 暖地向けダイズ品種における子実中の無機成分含有量について</Title>
-        <Url>http://hdl.handle.net/10458/1897</Url>
-        <ClickUrl>http://hdl.handle.net/10458/1897</ClickUrl>
-    </Result>
-    <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
@@ -190,11 +185,6 @@
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>宮崎大学学術情報リポジトリ : Characteristics and clustering of human ...</Title>
-        <Url>http://hdl.handle.net/10458/1811</Url>
-        <ClickUrl>http://hdl.handle.net/10458/1811</ClickUrl>
     </Result>
     <Result>
         <Title>Japanese college kiyo/serials - LibraryWiki</Title>
@@ -256,6 +246,16 @@
         <Url>http://www.pdfgeni.com/ref/%E9%9D%9E%E3%83%AA%E3%83%B3%E3%82%AF-pdf.html</Url>
         <ClickUrl>http://www.pdfgeni.com/ref/%E9%9D%9E%E3%83%AA%E3%83%B3%E3%82%AF-pdf.html</ClickUrl>
     </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:32 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:32 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:41 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:41 PST 2010 -->

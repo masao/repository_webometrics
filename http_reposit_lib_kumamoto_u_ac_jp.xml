@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="6715"
+    totalResultsAvailable="6746"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -40,6 +40,16 @@
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -112,6 +122,11 @@
         <ClickUrl>http://hdl.handle.net/2298/3376</ClickUrl>
     </Result>
     <Result>
+        <Title>Kumamoto University Repository System: ラオスにおける自然環境と社会経済環境の空間的相互関係</Title>
+        <Url>http://hdl.handle.net/2298/9728</Url>
+        <ClickUrl>http://hdl.handle.net/2298/9728</ClickUrl>
+    </Result>
+    <Result>
         <Title>Shaped charge: Definition from Answers.com</Title>
         <Url>http://www.answers.com/topic/shaped-charge</Url>
         <ClickUrl>http://www.answers.com/topic/shaped-charge</ClickUrl>
@@ -125,6 +140,11 @@
         <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
     </Result>
     <Result>
         <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
@@ -162,14 +182,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
     </Result>
     <Result>
         <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
@@ -197,9 +217,19 @@
         <ClickUrl>http://hdl.handle.net/2298/3292</ClickUrl>
     </Result>
     <Result>
-        <Title>Kumamoto University Repository System: ミクログリアの活性化を介する黒質線条体系 ...</Title>
-        <Url>http://hdl.handle.net/2298/9868</Url>
-        <ClickUrl>http://hdl.handle.net/2298/9868</ClickUrl>
+        <Title>Kumamoto University Repository System: 精神科作業療法におけるケース・カンファレンス ...</Title>
+        <Url>http://hdl.handle.net/2298/2859</Url>
+        <ClickUrl>http://hdl.handle.net/2298/2859</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kumamoto University Repository System: 文化期の他国商人政策と城下商人</Title>
+        <Url>http://hdl.handle.net/2298/2863</Url>
+        <ClickUrl>http://hdl.handle.net/2298/2863</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kumamoto University Repository System: 地形性降水の総観気候学的研究における分類基準 ...</Title>
+        <Url>http://hdl.handle.net/2298/2937</Url>
+        <ClickUrl>http://hdl.handle.net/2298/2937</ClickUrl>
     </Result>
     <Result>
         <Title>Kumamoto University Repository System: 熊本大学学術リポジトリ報告(19年度)</Title>
@@ -212,6 +242,11 @@
         <ClickUrl>http://hdl.handle.net/2298/3267</ClickUrl>
     </Result>
     <Result>
+        <Title>Kumamoto University Repository System: 東南アジア大陸山地部におけるヒト・モノ・情報 ...</Title>
+        <Url>http://hdl.handle.net/2298/3417</Url>
+        <ClickUrl>http://hdl.handle.net/2298/3417</ClickUrl>
+    </Result>
+    <Result>
         <Title>Kumamoto University Repository System: 遺伝子工学と監視社会 : 遺伝子診断の倫理的 ...</Title>
         <Url>http://hdl.handle.net/2298/2933</Url>
         <ClickUrl>http://hdl.handle.net/2298/2933</ClickUrl>
@@ -221,41 +256,6 @@
         <Url>http://hdl.handle.net/2298/3295</Url>
         <ClickUrl>http://hdl.handle.net/2298/3295</ClickUrl>
     </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 非営利組織におけるリーダーシップ : 類型的 ...</Title>
-        <Url>http://hdl.handle.net/2298/3289</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3289</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 日本の精神科医療における情報開示 : 実態と規定要因</Title>
-        <Url>http://hdl.handle.net/2298/3362</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3362</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: High-field, high ...</Title>
-        <Url>http://hdl.handle.net/2298/9625</Url>
-        <ClickUrl>http://hdl.handle.net/2298/9625</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 住環境における住民の手続法的地位 : 多極的 ...</Title>
-        <Url>http://hdl.handle.net/2298/2922</Url>
-        <ClickUrl>http://hdl.handle.net/2298/2922</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 中高層建築物等の建築計画に対する近隣住民の ...</Title>
-        <Url>http://hdl.handle.net/2298/3287</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3287</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 日本語「ている」と中国語「着」 : 対照言語 ...</Title>
-        <Url>http://hdl.handle.net/2298/3300</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3300</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kumamoto University Repository System: 韓国新石器時代石器の使用痕観察 : 打製の ...</Title>
-        <Url>http://hdl.handle.net/2298/3290</Url>
-        <ClickUrl>http://hdl.handle.net/2298/3290</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:42 PST 2010 -->
-<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:42 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:52 PST 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:52 PST 2010 -->

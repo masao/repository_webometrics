@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="185"
+    totalResultsAvailable="182"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -82,14 +82,19 @@
         <ClickUrl>http://hdl.handle.net/10422/75</ClickUrl>
     </Result>
     <Result>
+        <Title>Shiga University of Medical Science Repository: Item 10422/93</Title>
+        <Url>http://hdl.handle.net/10422/93</Url>
+        <ClickUrl>http://hdl.handle.net/10422/93</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University of Medical Science Repository: Item 10422/151</Title>
+        <Url>http://hdl.handle.net/10422/151</Url>
+        <ClickUrl>http://hdl.handle.net/10422/151</ClickUrl>
+    </Result>
+    <Result>
         <Title>Shiga University of Medical Science Repository: Item 10422/155</Title>
         <Url>http://hdl.handle.net/10422/155</Url>
         <ClickUrl>http://hdl.handle.net/10422/155</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Shiga University of Medical Science Repository: Item 10422/154</Title>
-        <Url>http://hdl.handle.net/10422/154</Url>
-        <ClickUrl>http://hdl.handle.net/10422/154</ClickUrl>
     </Result>
     <Result>
         <Title>Shiga University of Medical Science Repository: Item 10422/162</Title>
@@ -112,24 +117,14 @@
         <ClickUrl>http://hdl.handle.net/10422/145</ClickUrl>
     </Result>
     <Result>
-        <Title>Shiga University of Medical Science Repository: Item 10422/159</Title>
-        <Url>http://hdl.handle.net/10422/159</Url>
-        <ClickUrl>http://hdl.handle.net/10422/159</ClickUrl>
-    </Result>
-    <Result>
         <Title>Shiga University of Medical Science Repository: Item 10422/142</Title>
         <Url>http://hdl.handle.net/10422/142</Url>
         <ClickUrl>http://hdl.handle.net/10422/142</ClickUrl>
     </Result>
     <Result>
-        <Title>Shiga University of Medical Science Repository: Item 10422/151</Title>
-        <Url>http://hdl.handle.net/10422/151</Url>
-        <ClickUrl>http://hdl.handle.net/10422/151</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Shiga University of Medical Science Repository: Item 10422/157</Title>
-        <Url>http://hdl.handle.net/10422/157</Url>
-        <ClickUrl>http://hdl.handle.net/10422/157</ClickUrl>
+        <Title>Shiga University of Medical Science Repository: Item 10422/154</Title>
+        <Url>http://hdl.handle.net/10422/154</Url>
+        <ClickUrl>http://hdl.handle.net/10422/154</ClickUrl>
     </Result>
     <Result>
         <Title>Shiga University of Medical Science Repository: Item 10422/153</Title>
@@ -157,9 +152,9 @@
         <ClickUrl>http://hdl.handle.net/10422/123</ClickUrl>
     </Result>
     <Result>
-        <Title>Shiga University of Medical Science Repository: Item 10422/156</Title>
-        <Url>http://hdl.handle.net/10422/156</Url>
-        <ClickUrl>http://hdl.handle.net/10422/156</ClickUrl>
+        <Title>Shiga University of Medical Science Repository: Item 10422/149</Title>
+        <Url>http://hdl.handle.net/10422/149</Url>
+        <ClickUrl>http://hdl.handle.net/10422/149</ClickUrl>
     </Result>
     <Result>
         <Title>Shiga University of Medical Science Repository: Item 10422/161</Title>
@@ -180,6 +175,11 @@
         <Title>SUMSビジネス・メドネット-産学連携-滋賀医科大学</Title>
         <Url>http://www.shiga-med.ac.jp/sangaku/mednet.html</Url>
         <ClickUrl>http://www.shiga-med.ac.jp/sangaku/mednet.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>Top page [Library, Shiga University of Medical Science]</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://www.shiga-med.ac.jp/education/bumon.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:34 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:34 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:11 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:11 PST 2010 -->

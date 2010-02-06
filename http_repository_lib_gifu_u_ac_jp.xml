@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4153"
+    totalResultsAvailable="4131"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,6 +52,11 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Duce h.p...</Title>
         <Url>http://www.note-to-tone.tv/hiyoshi/</Url>
         <ClickUrl>http://www.note-to-tone.tv/hiyoshi/</ClickUrl>
@@ -75,11 +80,6 @@
         <Title>原木栽培 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E5%8E%9F%E6%9C%A8%E6%A0%BD%E5%9F%B9</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E5%8E%9F%E6%9C%A8%E6%A0%BD%E5%9F%B9</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
@@ -117,16 +117,6 @@
         <ClickUrl>http://en.scientificcommons.org/22124839</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Abc Søk Google: Søk etter &quot;test q5&quot;</Title>
-        <Url>http://verden.abcsok.no/index.html?page=3&amp;q=&quot;test+q5&quot;&amp;cs=latin1&amp;offset=</Url>
-        <ClickUrl>http://verden.abcsok.no/index.html?page=3&amp;q=&quot;test+q5&quot;&amp;cs=latin1&amp;offset=</ClickUrl>
-    </Result>
-    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
@@ -140,6 +130,11 @@
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
@@ -157,11 +152,6 @@
         <ClickUrl>http://www3.unileon.es/dp/dfm/flenet/phon/phoncours4.html</ClickUrl>
     </Result>
     <Result>
-        <Title>一括検索 -熱膨張係数-</Title>
-        <Url>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>ノート:バイト敬語 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%90%E3%82%A4%E3%83%88%E6%95%AC%E8%AA%9E</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E3%83%90%E3%82%A4%E3%83%88%E6%95%AC%E8%AA%9E</ClickUrl>
@@ -175,11 +165,6 @@
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/Error</Url>
         <ClickUrl>http://celestial.eprints.org/Error</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/news/</Url>
-        <ClickUrl>http://celestial.eprints.org/news/</ClickUrl>
     </Result>
     <Result>
         <Title>Scientific Commons: 7.部分的第1趾移植により再建した小指欠損の1例&lt;wbr&gt;(第73回岐阜県整形外科集談会 ...</Title>
@@ -222,11 +207,6 @@
         <ClickUrl>http://www.pdf-search-engine.com/theory-of-agricultural-markets-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Repositories: Gifu University</Title>
         <Url>http://www.opendoar.org/find.php?search=Gifu+University&amp;title=Gifu+University</Url>
         <ClickUrl>http://www.opendoar.org/find.php?search=Gifu+University&amp;title=Gifu+University</ClickUrl>
@@ -237,9 +217,9 @@
         <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Gifu+University+Institutional+Repository&amp;title=SUPPRESS</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=2</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=2</ClickUrl>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=http%3A%2F%2Frepository.lib.gifu-u.ac.jp%2Fdspace-oai%2Frequest</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=http%3A%2F%2Frepository.lib.gifu-u.ac.jp%2Fdspace-oai%2Frequest</ClickUrl>
     </Result>
     <Result>
         <Title>論文・授業資料の一部(内田勝)</Title>
@@ -256,6 +236,26 @@
         <Url>http://blog.so-net.ne.jp/case-report-by-ERP/20080123</Url>
         <ClickUrl>http://blog.so-net.ne.jp/case-report-by-ERP/20080123</ClickUrl>
     </Result>
+    <Result>
+        <Title>一括検索 -熱膨張率-</Title>
+        <Url>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E7%8E%87.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E7%8E%87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -s-n線図 sus301-</Title>
+        <Url>http://seonum.com/rank/s%EF%BC%8Dn%E7%B7%9A%E5%9B%B3+sus301.html</Url>
+        <ClickUrl>http://seonum.com/rank/s%EF%BC%8Dn%E7%B7%9A%E5%9B%B3+sus301.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -熱膨張係数-</Title>
+        <Url>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -せん断応力-</Title>
+        <Url>http://seonum.com/rank/%E3%81%9B%E3%82%93%E6%96%AD%E5%BF%9C%E5%8A%9B.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%81%9B%E3%82%93%E6%96%AD%E5%BF%9C%E5%8A%9B.html</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:34 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:34 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:42 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:42 PST 2010 -->

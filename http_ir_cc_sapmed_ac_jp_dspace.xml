@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1499"
+    totalResultsAvailable="1493"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,24 +22,14 @@
         <ClickUrl>http://www.sapmed.ac.jp/libr/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Repository List</Title>
         <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
         <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=2</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=2</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -70,6 +60,11 @@
         <Title>Items where Year is 2009 - Registry of Open Access Repositories</Title>
         <Url>http://roar.eprints.org/view/year/2009.html</Url>
         <ClickUrl>http://roar.eprints.org/view/year/2009.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/dspace.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
     </Result>
     <Result>
         <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
@@ -148,11 +143,6 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-1-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-1-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-6-1</Url>
         <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-6-1</ClickUrl>
     </Result>
@@ -160,6 +150,11 @@
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-1</Url>
         <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-1-1</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-1-1</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
@@ -173,11 +168,6 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-4-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-4-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-4-1</Url>
         <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-4-1</ClickUrl>
     </Result>
@@ -185,16 +175,6 @@
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-9&amp;</Url>
         <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-9&amp;</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-6-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-6-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-9-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-9-1</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
@@ -208,6 +188,16 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-11-1</Url>
+        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-11-1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2009-1-1</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2009-1-1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</Url>
         <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</ClickUrl>
     </Result>
@@ -215,11 +205,6 @@
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-8-8&amp;</Url>
         <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-8-8&amp;</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-13&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-13&amp;</ClickUrl>
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
@@ -253,9 +238,24 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-3-8&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-3-8&amp;</ClickUrl>
+        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-12-8&amp;</Url>
+        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-12-8&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-3&amp;</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-3&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-11-1</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-11-1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2007-7-31</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2007-7-31</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:45 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:45 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:26 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:26 PST 2010 -->

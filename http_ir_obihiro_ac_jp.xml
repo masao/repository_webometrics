@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2062"
+    totalResultsAvailable="2065"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -42,6 +42,11 @@
         <ClickUrl>http://www.obihiro.ac.jp/~library/</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
         <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
@@ -50,11 +55,6 @@
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
         <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
         <Title>動物医療センター診療案内 -帯広畜産大学-</Title>
@@ -82,6 +82,11 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+    </Result>
+    <Result>
         <Title> -帯広畜産大学-</Title>
         <Url>http://www.obihiro.ac.jp/topic.html</Url>
         <ClickUrl>http://www.obihiro.ac.jp/topic.html</ClickUrl>
@@ -95,11 +100,6 @@
         <Title>公募・採用情報 -帯広畜産大学-</Title>
         <Url>http://www.obihiro.ac.jp/vacancy/index.html</Url>
         <ClickUrl>http://www.obihiro.ac.jp/vacancy/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Edit Archive Record</Title>
@@ -177,6 +177,11 @@
         <ClickUrl>http://www.obihiro.ac.jp/u-graduate/advance.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
@@ -197,14 +202,14 @@
         <ClickUrl>http://www.obihiro.ac.jp/daigaku/rinen.html</ClickUrl>
     </Result>
     <Result>
-        <Title>構内案内図 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/facility/map.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/facility/map.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>科目等履修生の募集案内 -帯広畜産大学-</Title>
         <Url>http://www.obihiro.ac.jp/kouza/kamoku.html</Url>
         <ClickUrl>http://www.obihiro.ac.jp/kouza/kamoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>構内案内図 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/facility/map.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/facility/map.html</ClickUrl>
     </Result>
     <Result>
         <Title>帯広畜産大学 -帯広畜産大学-</Title>
@@ -212,14 +217,14 @@
         <ClickUrl>http://www.obihiro.ac.jp/photo/prac-index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>辻修 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/ichiran/tsuji_osamu.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/ichiran/tsuji_osamu.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>動物医療センター -帯広畜産大学-</Title>
         <Url>http://www.obihiro.ac.jp/facility/hospital.html</Url>
         <ClickUrl>http://www.obihiro.ac.jp/facility/hospital.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>辻修 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/ichiran/tsuji_osamu.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/ichiran/tsuji_osamu.html</ClickUrl>
     </Result>
     <Result>
         <Title>渡邊 芳之 -帯広畜産大学-</Title>
@@ -251,11 +256,6 @@
         <Url>http://www.obihiro.ac.jp/sitemap.html</Url>
         <ClickUrl>http://www.obihiro.ac.jp/sitemap.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>帯広畜産大学 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/inquiry.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/inquiry.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:33 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:33 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:09 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:09 PST 2010 -->

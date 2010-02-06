@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2712"
+    totalResultsAvailable="2695"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -45,6 +45,11 @@
         <Title>東京歯科大学図書館</Title>
         <Url>http://www.tdc.ac.jp/lib/</Url>
         <ClickUrl>http://www.tdc.ac.jp/lib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>The Bulletin of TOKYO DENTAL COLLEGE</Title>
@@ -102,11 +107,6 @@
         <ClickUrl>http://hdl.handle.net/10130/848</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
-    </Result>
-    <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
@@ -117,14 +117,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+    </Result>
+    <Result>
         <Title>東京歯科大学学術機関リポジトリ : IRUCAA@TDC</Title>
         <Url>http://www.tdc.ac.jp/lib/ir/</Url>
         <ClickUrl>http://www.tdc.ac.jp/lib/ir/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>IRUCAA@TDC : Effects of stretching stimulation with different ...</Title>
@@ -152,14 +152,14 @@
         <ClickUrl>http://hdl.handle.net/10130/896</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : Cortical representation area of human dental pulp</Title>
-        <Url>http://hdl.handle.net/10130/854</Url>
-        <ClickUrl>http://hdl.handle.net/10130/854</ClickUrl>
-    </Result>
-    <Result>
         <Title>IRUCAA@TDC : 後進箴言</Title>
         <Url>http://hdl.handle.net/10130/432</Url>
         <ClickUrl>http://hdl.handle.net/10130/432</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRUCAA@TDC : Cortical representation area of human dental pulp</Title>
+        <Url>http://hdl.handle.net/10130/854</Url>
+        <ClickUrl>http://hdl.handle.net/10130/854</ClickUrl>
     </Result>
     <Result>
         <Title>IRUCAA@TDC : 真空管内ノ光線</Title>
@@ -175,11 +175,6 @@
         <Title>IRUCAA@TDC : 歯槽膿漏ニ因スル敗血症ノ一例</Title>
         <Url>http://hdl.handle.net/10130/422</Url>
         <ClickUrl>http://hdl.handle.net/10130/422</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : 露国ニ於ケル歯科医術</Title>
-        <Url>http://hdl.handle.net/10130/425</Url>
-        <ClickUrl>http://hdl.handle.net/10130/425</ClickUrl>
     </Result>
     <Result>
         <Title>IRUCAA@TDC : 東京歯科大学衛生学講座2005年の記録</Title>
@@ -205,6 +200,11 @@
         <Title>IRUCAA@TDC : 結核性舌癌ノ實驗</Title>
         <Url>http://hdl.handle.net/10130/250</Url>
         <ClickUrl>http://hdl.handle.net/10130/250</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRUCAA@TDC : Colonization pattern of periodontal bacteria in ...</Title>
+        <Url>http://hdl.handle.net/10130/818</Url>
+        <ClickUrl>http://hdl.handle.net/10130/818</ClickUrl>
     </Result>
     <Result>
         <Title>IRUCAA@TDC : 象牙芽細胞感覚受容機構の解明(TRP・電位依存性チャネル、神&lt;wbr&gt;経共培養解析)</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://hdl.handle.net/10130/391</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:48 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:48 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:18 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:18 PST 2010 -->

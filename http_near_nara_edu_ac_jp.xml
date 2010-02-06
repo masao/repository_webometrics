@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1745"
+    totalResultsAvailable="1743"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,14 +52,14 @@
         <ClickUrl>http://hdl.handle.net/10105/639</ClickUrl>
     </Result>
     <Result>
-        <Title>韓国における国語科教育と英語科教育 -韓国春川市における授業実践の視察から-: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/520</Url>
-        <ClickUrl>http://hdl.handle.net/10105/520</ClickUrl>
-    </Result>
-    <Result>
         <Title>理数科教員養成のためのアセスメント実践報告 ―新世代を先導する理数科教員養成のためのプログラム・高大融合&lt;wbr&gt;による理数科高校 ...</Title>
         <Url>http://hdl.handle.net/10105/696</Url>
         <ClickUrl>http://hdl.handle.net/10105/696</ClickUrl>
+    </Result>
+    <Result>
+        <Title>韓国における国語科教育と英語科教育 -韓国春川市における授業実践の視察から-: Nara University of ...</Title>
+        <Url>http://hdl.handle.net/10105/520</Url>
+        <ClickUrl>http://hdl.handle.net/10105/520</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -75,11 +75,6 @@
         <Title>時代を拓く子どもたちの夢を育む支援: Nara University of Education Academic ...</Title>
         <Url>http://hdl.handle.net/10105/493</Url>
         <ClickUrl>http://hdl.handle.net/10105/493</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
@@ -157,11 +152,6 @@
         <ClickUrl>http://hdl.handle.net/10105/604</ClickUrl>
     </Result>
     <Result>
-        <Title>広報誌 「ならやま」 2007年春号: Nara University of Education Academic ...</Title>
-        <Url>http://hdl.handle.net/10105/527</Url>
-        <ClickUrl>http://hdl.handle.net/10105/527</ClickUrl>
-    </Result>
-    <Result>
         <Title>生活科におけるカイコの教材としての可能性: Nara University of Education Academic ...</Title>
         <Url>http://hdl.handle.net/10105/378</Url>
         <ClickUrl>http://hdl.handle.net/10105/378</ClickUrl>
@@ -207,9 +197,19 @@
         <ClickUrl>http://hdl.handle.net/10105/598</ClickUrl>
     </Result>
     <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>教育系サブジェクトリポジトリについて</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Nara+University+of+Education+Academic+Repository&amp;title=SUPPRESS</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:53 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:53 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:35 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:35 PST 2010 -->

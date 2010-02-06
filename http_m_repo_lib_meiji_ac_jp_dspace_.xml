@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="757"
+    totalResultsAvailable="755"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,14 +52,14 @@
         <ClickUrl>http://jairo.nii.ac.jp/0065/00000230</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 池雪蕾著『憂国志談大逆陰謀の末路』について</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002710</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002710</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 緑地工学研究室〈Laboratory of Landscape Engineering〉</Title>
         <Url>http://jairo.nii.ac.jp/0065/00000601</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0065/00000601</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 池雪蕾著『憂国志談大逆陰謀の末路』について</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002710</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002710</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 根保証契約における保証人の死亡-相続性の問題から根保証の確定&lt;wbr&gt;の問題へ-</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://jairo.nii.ac.jp/0065/00000965</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:02 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:02 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:35 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:35 PST 2010 -->

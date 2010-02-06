@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="7367"
+    totalResultsAvailable="7297"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -77,11 +77,6 @@
         <ClickUrl>http://hdl.handle.net/2065/8470</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: &amp;lt;LIND&amp;gt;のサジェストペディア</Title>
-        <Url>http://hdl.handle.net/2065/3429</Url>
-        <ClickUrl>http://hdl.handle.net/2065/3429</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at Waseda University: 初中級クラスの一事例に見る語彙学習の問題</Title>
         <Url>http://hdl.handle.net/2065/3610</Url>
         <ClickUrl>http://hdl.handle.net/2065/3610</ClickUrl>
@@ -90,6 +85,11 @@
         <Title>DSpace at Waseda University: 理工系留学生のための化学の専門連語-高校教科書の調査に基づく&lt;wbr&gt;選定-</Title>
         <Url>http://hdl.handle.net/2065/5826</Url>
         <ClickUrl>http://hdl.handle.net/2065/5826</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: &amp;lt;LIND&amp;gt;のサジェストペディア</Title>
+        <Url>http://hdl.handle.net/2065/3429</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3429</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at Waseda University: アダルト・プロベーションについて</Title>
@@ -105,11 +105,6 @@
         <Title>DSpace at Waseda University: 合意形成としての評価 : 総合活動型日本語教育における教師論のために</Title>
         <Url>http://hdl.handle.net/2065/2799</Url>
         <ClickUrl>http://hdl.handle.net/2065/2799</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 周作人『老虎橋雜詩』試論(上) : 「雑誌」という形式をめぐって</Title>
-        <Url>http://hdl.handle.net/2065/6068</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6068</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at Waseda University: ベラスケス作《彫刻家モンタニェースの肖像》をめぐる諸問題 ...</Title>
@@ -142,19 +137,9 @@
         <ClickUrl>http://hdl.handle.net/2065/5595</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 「外国語としての英語」から「国際語としての英語」へ英語教育再&lt;wbr&gt;考</Title>
-        <Url>http://hdl.handle.net/2065/5844</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5844</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at Waseda University: &amp;lt;別の世界&amp;gt;を切り出す記憶像-ムージル『静かなヴェローニカの&lt;wbr&gt;誘惑 ...</Title>
         <Url>http://hdl.handle.net/2065/8478</Url>
         <ClickUrl>http://hdl.handle.net/2065/8478</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 国松さんと幸作さんの昔話 : 二風谷・平取 : 平村幸作さんの民話(3)</Title>
-        <Url>http://hdl.handle.net/2065/5592</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5592</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at Waseda University: 企業行動と生産物の耐久性</Title>
@@ -202,16 +187,6 @@
         <ClickUrl>http://hdl.handle.net/2065/5594</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: フリッツ・シュルツ「古典期ローマ私法」(V)</Title>
-        <Url>http://hdl.handle.net/2065/2670</Url>
-        <ClickUrl>http://hdl.handle.net/2065/2670</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 公共性の構図・序説</Title>
-        <Url>http://hdl.handle.net/2065/6633</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6633</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at Waseda University: Deleted Truth: An Exercise in a ...</Title>
         <Url>http://hdl.handle.net/2065/6098</Url>
         <ClickUrl>http://hdl.handle.net/2065/6098</ClickUrl>
@@ -232,6 +207,16 @@
         <ClickUrl>http://hdl.handle.net/2065/5817</ClickUrl>
     </Result>
     <Result>
+        <Title>DSpace at Waseda University: 周作人『老虎橋雜詩』試論(上) : 「雑誌」という形式をめぐって</Title>
+        <Url>http://hdl.handle.net/2065/6068</Url>
+        <ClickUrl>http://hdl.handle.net/2065/6068</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 公共性の構図・序説</Title>
+        <Url>http://hdl.handle.net/2065/6633</Url>
+        <ClickUrl>http://hdl.handle.net/2065/6633</ClickUrl>
+    </Result>
+    <Result>
         <Title>DSpace at Waseda University: 言語は語る-ベンヤミンとハイデガーの場合-</Title>
         <Url>http://hdl.handle.net/2065/8465</Url>
         <ClickUrl>http://hdl.handle.net/2065/8465</ClickUrl>
@@ -240,11 +225,6 @@
         <Title>DSpace at Waseda University: 書物という架け橋-角田柳作と早稲田大学図書館-</Title>
         <Url>http://hdl.handle.net/2065/28849</Url>
         <ClickUrl>http://hdl.handle.net/2065/28849</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 発信される「日本」-KBS戦前文書のリテラシー史的意味&lt;wbr&gt;-</Title>
-        <Url>http://hdl.handle.net/2065/28856</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28856</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at Waseda University: リテラシー史研究会について</Title>
@@ -256,6 +236,26 @@
         <Url>http://hdl.handle.net/2065/28868</Url>
         <ClickUrl>http://hdl.handle.net/2065/28868</ClickUrl>
     </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 研究ノート 企業犯罪の抑止とコンプライアンス・プログラムに関する ...</Title>
+        <Url>http://hdl.handle.net/2065/13005</Url>
+        <ClickUrl>http://hdl.handle.net/2065/13005</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 第7回「世界教育会議」と大島正徳 -戦間期国際交流史研究の視点から-</Title>
+        <Url>http://hdl.handle.net/2065/13061</Url>
+        <ClickUrl>http://hdl.handle.net/2065/13061</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 安井息軒と中村敬宇 -安井息軒研究序説-</Title>
+        <Url>http://hdl.handle.net/2065/28880</Url>
+        <ClickUrl>http://hdl.handle.net/2065/28880</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 企業的統一体に関する訴訟法:デンマークの見解</Title>
+        <Url>http://hdl.handle.net/2065/13004</Url>
+        <ClickUrl>http://hdl.handle.net/2065/13004</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:07 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:07 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:40 PST 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:40 PST 2010 -->

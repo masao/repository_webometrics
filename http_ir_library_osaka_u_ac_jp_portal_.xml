@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2619"
+    totalResultsAvailable="2601"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -40,6 +40,11 @@
         <Title>Portal:歴史学 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>インドアでインド ― Armchair Indologist ―</Title>
+        <Url>http://rivertop.exblog.jp/</Url>
+        <ClickUrl>http://rivertop.exblog.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
@@ -97,6 +102,11 @@
         <ClickUrl>http://www.library.osaka-u.ac.jp/others/zassi-1.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>はてなブックマーク - ncnrのブックマーク</Title>
         <Url>http://b.hatena.ne.jp/ncnr/</Url>
         <ClickUrl>http://b.hatena.ne.jp/ncnr/</ClickUrl>
@@ -150,6 +160,11 @@
         <Title>Portal:歴史学 - はなもく Wikipedia</Title>
         <Url>http://www.hanamoku.jp/wikipedia/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
         <ClickUrl>http://www.hanamoku.jp/wikipedia/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>とりあえず20のIR Search Engine</Title>
+        <Url>http://rollyo.com/asoshina/aaaaaieieair/</Url>
+        <ClickUrl>http://rollyo.com/asoshina/aaaaaieieair/</ClickUrl>
     </Result>
     <Result>
         <Title>土木のデータ</Title>
@@ -237,25 +252,10 @@
         <ClickUrl>http://jairo.nii.ac.jp/0030/00010639</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 六朝士大夫の精神</Title>
-        <Url>http://jairo.nii.ac.jp/0030/00004530</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0030/00004530</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | The Keynesian Multiplier Effect Reconsidered</Title>
         <Url>http://jairo.nii.ac.jp/0030/00010653</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0030/00010653</ClickUrl>
     </Result>
-    <Result>
-        <Title>JAIRO | Do Bequests Increase or Decrease Wealth Inequalities?</Title>
-        <Url>http://jairo.nii.ac.jp/0030/00010652</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0030/00010652</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - omni:bus::bookmark - 06 ORGANIZATION</Title>
-        <Url>http://b.hatena.ne.jp/satoschi/06%20ORGANIZATION/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/satoschi/06%20ORGANIZATION/</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:23 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:23 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:30 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:30 PST 2010 -->

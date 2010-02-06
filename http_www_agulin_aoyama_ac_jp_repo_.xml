@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="24"
+    totalResultsAvailable="26"
     firstResultPosition="1"
-    totalResultsReturned="24">
+    totalResultsReturned="26">
         <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
@@ -37,11 +37,6 @@
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011455</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 目次</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011493</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011493</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 中国の株式市場</Title>
         <Url>http://jairo.nii.ac.jp/0132/00011470</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011470</ClickUrl>
@@ -50,11 +45,6 @@
         <Title>IRDBコンテンツ分析システム | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=131</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=131</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Butの「対照」の意味とその動機付け : dialoguality(対話形式)とdialogicity ...</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011452/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011452/en</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Contests with Cross-Shareholdings</Title>
@@ -67,14 +57,34 @@
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011516</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 第6回青山学院「会計サミット」を終えて</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011514</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011514</ClickUrl>
+        <Title>JAIRO | 日本の紹介 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011520</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011520</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 目次</Title>
         <Url>http://jairo.nii.ac.jp/0132/00011517</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011517</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 保育士の一日 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011521</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011521</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 保育士の一日 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011521/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011521/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 日本の紹介 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011520/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011520/en</ClickUrl>
     </Result>
     <Result>
         <Title>大阪府立大学 経済学部図書室 WEB or PRINT 法律・判例雑誌編</Title>
@@ -127,5 +137,5 @@
         <ClickUrl>http://livetube.cc/%E5%B3%A0/%E3%81%88%E3%82%8A%E3%81%8B%E3%81%A1%E3%82%83%E3%82%93%E3%83%BE(*%C2%B4%E2%8A%A5%EF%BD%80*)%E3%83%8E</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:57 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:57 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:53 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:53 PST 2010 -->

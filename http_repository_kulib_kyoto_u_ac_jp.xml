@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="75393"
+    totalResultsAvailable="75079"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,6 +52,11 @@
         <ClickUrl>http://www.membrana.ru/articles/inventions/2008/07/18/143700.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Tibeto-logic</Title>
+        <Url>http://tibeto-logic.blogspot.com/</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学位論文</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
@@ -60,6 +65,11 @@
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都大学大学院アジア・アフリカ地域研究研究科(ASAFAS&lt;wbr&gt;)</Title>
+        <Url>http://www.asafas.kyoto-u.ac.jp/</Url>
+        <ClickUrl>http://www.asafas.kyoto-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>Tourism in Thailand - Wikipedia, the free encyclopedia</Title>
@@ -92,6 +102,11 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%99%E3%82%B8%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%8B%E3%82%BA%E3%83%A0</ClickUrl>
     </Result>
     <Result>
+        <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
+        <Url>http://repositories.webometrics.info/top400_rep.asp</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep.asp</ClickUrl>
+    </Result>
+    <Result>
         <Title>Chung Keng Quee - Wikipedia, the free encyclopedia</Title>
         <Url>http://en.wikipedia.org/wiki/Chung_Keng_Quee</Url>
         <ClickUrl>http://en.wikipedia.org/wiki/Chung_Keng_Quee</ClickUrl>
@@ -100,11 +115,6 @@
         <Title>京都大学大学院教育学研究科・教育学部</Title>
         <Url>http://www.educ.kyoto-u.ac.jp/</Url>
         <ClickUrl>http://www.educ.kyoto-u.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
-        <Url>http://repositories.webometrics.info/top400_rep.asp</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep.asp</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -132,9 +142,24 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E7%9A%84%E3%82%BE%E3%83%B3%E3%83%93</ClickUrl>
     </Result>
     <Result>
+        <Title>郡山女子大学図書館 - Library of Koriyama Women&apos;s University.</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Archivalia: Digital Libraries in Japan with content in ...</Title>
         <Url>http://archiv.twoday.net/stories/4575784/</Url>
         <ClickUrl>http://archiv.twoday.net/stories/4575784/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>位階 - Wikipedia</Title>
@@ -231,31 +256,6 @@
         <Url>http://www.kurims.kyoto-u.ac.jp/~hassei/papers/</Url>
         <ClickUrl>http://www.kurims.kyoto-u.ac.jp/~hassei/papers/</ClickUrl>
     </Result>
-    <Result>
-        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>進化心理学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E5%BF%83%E7%90%86%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>インターネット上の基礎知識 NDC 000-299 </Title>
-        <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</Url>
-        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>マーシャル・プラン - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3</ClickUrl>
-    </Result>
-    <Result>
-        <Title>川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:06 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:06 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:06 PST 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:06 PST 2010 -->

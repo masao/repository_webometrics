@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="15069"
+    totalResultsAvailable="15063"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -15,6 +15,11 @@
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>No-sword</Title>
+        <Url>http://no-sword.jp/blog/</Url>
+        <ClickUrl>http://no-sword.jp/blog/</ClickUrl>
     </Result>
     <Result>
         <Title>Hitotsubashi University</Title>
@@ -42,19 +47,9 @@
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
-        <Title>PORTA(国立国会図書館デジタルアーカイブポータル&lt;wbr&gt;)</Title>
-        <Url>http://www.dap.ndl.go.jp/home/</Url>
-        <ClickUrl>http://www.dap.ndl.go.jp/home/</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAGAYASU Yukinobu (yukinobu) on Twitter</Title>
-        <Url>http://twitter.com/yukinobu</Url>
-        <ClickUrl>http://twitter.com/yukinobu</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -67,6 +62,11 @@
         <ClickUrl>http://web.kyoto-inet.or.jp/people/tiakio/index.html</ClickUrl>
     </Result>
     <Result>
+        <Title>NAGAYASU Yukinobu (yukinobu) on Twitter</Title>
+        <Url>http://twitter.com/yukinobu</Url>
+        <ClickUrl>http://twitter.com/yukinobu</ClickUrl>
+    </Result>
+    <Result>
         <Title>一橋大学 法学研究科 &amp;gt; トップ</Title>
         <Url>http://www.law.hit-u.ac.jp/</Url>
         <ClickUrl>http://www.law.hit-u.ac.jp/</ClickUrl>
@@ -75,6 +75,11 @@
         <Title>支那 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E6%94%AF%E9%82%A3</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%94%AF%E9%82%A3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>カラマーゾフの兄弟 - Wikipedia</Title>
@@ -87,9 +92,19 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Archivalia: Digital Libraries in Japan with content in ...</Title>
         <Url>http://archiv.twoday.net/stories/4575784/</Url>
         <ClickUrl>http://archiv.twoday.net/stories/4575784/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>the silkworm</Title>
@@ -217,16 +232,6 @@
         <ClickUrl>http://hdl.handle.net/10086/15809</ClickUrl>
     </Result>
     <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: 多言語化する日本社会のとらえ方 ...</Title>
-        <Url>http://hdl.handle.net/10086/15490</Url>
-        <ClickUrl>http://hdl.handle.net/10086/15490</ClickUrl>
-    </Result>
-    <Result>
-        <Title>David H. Slater, &quot;The Making of Japan&apos;s New Working Class ...</Title>
-        <Url>http://mrzine.monthlyreview.org/2010/slater270110.html</Url>
-        <ClickUrl>http://mrzine.monthlyreview.org/2010/slater270110.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
@@ -237,25 +242,20 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
     <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>出生数試算のインチキ-皇室典範に関する有識者会議報告書反駁&lt;wbr&gt;-: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:28 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:28 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:36 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:36 PST 2010 -->

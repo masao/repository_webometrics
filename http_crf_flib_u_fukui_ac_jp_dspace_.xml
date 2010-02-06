@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="532"
+    totalResultsAvailable="538"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -32,6 +32,11 @@
         <ClickUrl>http://karin30.flib.fukui-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
@@ -55,11 +60,6 @@
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Browse Japan (ROAR)</Title>
@@ -122,6 +122,16 @@
         <ClickUrl>http://hdl.handle.net/10461/2463</ClickUrl>
     </Result>
     <Result>
+        <Title>Community Repository of Fukui (CRFukui): 小浜町絵図</Title>
+        <Url>http://hdl.handle.net/10461/2734</Url>
+        <ClickUrl>http://hdl.handle.net/10461/2734</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 越前国絵図</Title>
+        <Url>http://hdl.handle.net/10461/2729</Url>
+        <ClickUrl>http://hdl.handle.net/10461/2729</ClickUrl>
+    </Result>
+    <Result>
         <Title>Community Repository of Fukui (CRFukui): 御天守絵図</Title>
         <Url>http://hdl.handle.net/10461/2739</Url>
         <ClickUrl>http://hdl.handle.net/10461/2739</ClickUrl>
@@ -167,11 +177,6 @@
         <ClickUrl>http://www.fukui-nct.ac.jp/~tosyo/libindex.html</ClickUrl>
     </Result>
     <Result>
-        <Title>福井大学附属図書館 | ホーム</Title>
-        <Url>http://www.flib.u-fukui.ac.jp/</Url>
-        <ClickUrl>http://www.flib.u-fukui.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
         <Url>http://www.opendoar.org/find.php?rID=1490&amp;format=full</Url>
         <ClickUrl>http://www.opendoar.org/find.php?rID=1490&amp;format=full</ClickUrl>
@@ -180,11 +185,6 @@
         <Title>Google Earth version of the data</Title>
         <Url>http://maps.repository66.org/repository66dotorg-maps.kml</Url>
         <ClickUrl>http://maps.repository66.org/repository66dotorg-maps.kml</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories: University of Fukui</Title>
@@ -200,6 +200,11 @@
         <Title>福井大学 | ニュース一覧</Title>
         <Url>http://www.fukui-u.ac.jp/news/news_top/news_2.html</Url>
         <ClickUrl>http://www.fukui-u.ac.jp/news/news_top/news_2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=98</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=98</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -243,19 +248,14 @@
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
     </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:38 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:38 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:17 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:17 PST 2010 -->

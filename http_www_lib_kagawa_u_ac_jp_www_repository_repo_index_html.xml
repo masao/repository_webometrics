@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="335"
+    totalResultsAvailable="326"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -102,11 +102,6 @@
         <ClickUrl>http://www.opendoar.org/find.php?search=Kagawa+University&amp;title=Kagawa+University</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse Japan (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;order=&amp;country=jp&amp;version=&amp;type=&amp;submit=Filter&amp;prev=Prev&amp;page=6</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Library Archives of Kagawa University</Title>
         <Url>http://www.opendoar.org/find.php?format=full&amp;search=Open+Library+Archives+of+Kagawa+University&amp;title=SUPPRESS</Url>
         <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Open+Library+Archives+of+Kagawa+University&amp;title=SUPPRESS</ClickUrl>
@@ -120,6 +115,11 @@
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=95</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=95</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -227,11 +227,6 @@
         <ClickUrl>http://systemgear-sol.blog16.jp/?blog=2&amp;page=1&amp;paged=3</ClickUrl>
     </Result>
     <Result>
-        <Title>SG社員の息抜きBlog</Title>
-        <Url>http://systemgear-sol.blog16.jp/?blog=2&amp;page=1&amp;paged=4</Url>
-        <ClickUrl>http://systemgear-sol.blog16.jp/?blog=2&amp;page=1&amp;paged=4</ClickUrl>
-    </Result>
-    <Result>
         <Title>2009-01-03 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
         <Url>http://d.hatena.ne.jp/arg/20090103</Url>
         <ClickUrl>http://d.hatena.ne.jp/arg/20090103</ClickUrl>
@@ -256,6 +251,11 @@
         <Url>http://jairo.nii.ac.jp/0096/00001519</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0096/00001519</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIRO | 高度情報社会における子育て支援の新しい試みとその検証&lt;wbr&gt;(3) : 携帯子育て掲示板の運用指針についての検討</Title>
+        <Url>http://jairo.nii.ac.jp/0096/00000986</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0096/00000986</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:38 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:38 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:14 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:14 PST 2010 -->

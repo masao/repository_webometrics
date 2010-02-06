@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="17821"
+    totalResultsAvailable="17820"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -72,6 +72,11 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>ホーム - 東京大学農学生命科学図書館</Title>
+        <Url>http://www.lib.a.u-tokyo.ac.jp/</Url>
+        <ClickUrl>http://www.lib.a.u-tokyo.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
@@ -87,9 +92,19 @@
         <ClickUrl>http://lib.c.u-tokyo.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>北海道南西沖地震 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E5%8D%97%E8%A5%BF%E6%B2%96%E5%9C%B0%E9%9C%87</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E5%8D%97%E8%A5%BF%E6%B2%96%E5%9C%B0%E9%9C%87</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title> Dave Benson&apos;s Mathematics Links </Title>
@@ -222,11 +237,6 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AC%E3%82%A4%E5%B1%9E</ClickUrl>
     </Result>
     <Result>
-        <Title>東京大学文学部中国語中国文学研究室</Title>
-        <Url>http://www.l.u-tokyo.ac.jp/chubun/</Url>
-        <ClickUrl>http://www.l.u-tokyo.ac.jp/chubun/</ClickUrl>
-    </Result>
-    <Result>
         <Title>Portal:歴史学 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
@@ -246,16 +256,6 @@
         <Url>http://hdl.handle.net/2261/7344</Url>
         <ClickUrl>http://hdl.handle.net/2261/7344</ClickUrl>
     </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/5644</Title>
-        <Url>http://hdl.handle.net/2261/5644</Url>
-        <ClickUrl>http://hdl.handle.net/2261/5644</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/2047</Title>
-        <Url>http://hdl.handle.net/2261/2047</Url>
-        <ClickUrl>http://hdl.handle.net/2261/2047</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:11 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:11 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:12 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:12 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="6933"
+    totalResultsAvailable="6935"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -68,11 +68,6 @@
     </Result>
     <Result>
         <Title>すゞはらひ</Title>
-        <Url>http://www.voiceblog.jp/clarte9/?il=10&amp;io=0</Url>
-        <ClickUrl>http://www.voiceblog.jp/clarte9/?il=10&amp;io=0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>すゞはらひ</Title>
         <Url>http://www.voiceblog.jp/clarte9/</Url>
         <ClickUrl>http://www.voiceblog.jp/clarte9/</ClickUrl>
     </Result>
@@ -85,6 +80,11 @@
         <Title>Portal:歴史学 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>インドアでインド ― Armchair Indologist ―</Title>
+        <Url>http://rivertop.exblog.jp/</Url>
+        <ClickUrl>http://rivertop.exblog.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -177,6 +177,11 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%97%A7%E5%88%B6%E4%B8%AD%E7%AD%89%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Sightsong: 下村兼史『或日の干潟』</Title>
         <Url>http://pub.ne.jp/Sightsong/?entry_id=2180415</Url>
         <ClickUrl>http://pub.ne.jp/Sightsong/?entry_id=2180415</ClickUrl>
@@ -192,6 +197,11 @@
         <ClickUrl>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+    </Result>
+    <Result>
         <Title>Osaka University Science and Engineering Library</Title>
         <Url>http://suita.library.osaka-u.ac.jp/english/index.html</Url>
         <ClickUrl>http://suita.library.osaka-u.ac.jp/english/index.html</ClickUrl>
@@ -205,16 +215,6 @@
         <Title>DRF International Conference 2008 (DRFIC2008)</Title>
         <Url>https://www.tulips.tsukuba.ac.jp/DRFIC2008/posters_entry_en.php</Url>
         <ClickUrl>https://www.tulips.tsukuba.ac.jp/DRFIC2008/posters_entry_en.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
-    </Result>
-    <Result>
-        <Title>D | Indologica</Title>
-        <Url>http://www.indologica.de/drupal/?q=node/63</Url>
-        <ClickUrl>http://www.indologica.de/drupal/?q=node/63</ClickUrl>
     </Result>
     <Result>
         <Title>対人社会心理学研究</Title>
@@ -252,10 +252,10 @@
         <ClickUrl>http://japaneselaw.blogspot.com/2009/07/age-of-majority-in-japan.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Japanese Law Blog: Forced Confession and Retrial</Title>
-        <Url>http://japaneselaw.blogspot.com/2008/07/forced-confession-and-retrial.html</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/2008/07/forced-confession-and-retrial.html</ClickUrl>
+        <Title>Japanese Law Blog: Business Trip and Karoshi</Title>
+        <Url>http://japaneselaw.blogspot.com/2008/05/business-trip-and-karoshi.html</Url>
+        <ClickUrl>http://japaneselaw.blogspot.com/2008/05/business-trip-and-karoshi.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:24 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:24 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:31 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:31 PST 2010 -->

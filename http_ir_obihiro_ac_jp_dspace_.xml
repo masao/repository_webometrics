@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="80"
+    totalResultsAvailable="78"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -62,11 +62,6 @@
         <ClickUrl>http://dir.kondo-net.gr.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ: カテゴリ</Title>
-        <Url>http://xtrm.jp/category/?id=2078518243&amp;tag=%E5%AD%A6%E8%A1%93%E6%A9%9F%E9%96%A2%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA</Url>
-        <ClickUrl>http://xtrm.jp/category/?id=2078518243&amp;tag=%E5%AD%A6%E8%A1%93%E6%A9%9F%E9%96%A2%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA</ClickUrl>
-    </Result>
-    <Result>
         <Title>Article 822 at 07/06/01 16:11:47 From: eri @ obihiro.ac.jp ...</Title>
         <Url>http://drf.lib.hokudai.ac.jp/drf-ml/800/822.html</Url>
         <ClickUrl>http://drf.lib.hokudai.ac.jp/drf-ml/800/822.html</ClickUrl>
@@ -87,6 +82,11 @@
         <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20070510/complete_listing/</ClickUrl>
     </Result>
     <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Yahoo!カテゴリ - 分割リスト</Title>
         <Url>http://dir.yahoo.co.jp/pg/newsite/20070510/split_listing/index_2.html</Url>
         <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20070510/split_listing/index_2.html</ClickUrl>
@@ -95,11 +95,6 @@
         <Title>特集検索--漢方薬局</Title>
         <Url>http://www.allkanpo.com/O/link.asp?page=ir.obihiro.ac.jp/dspace/handle/123456789/1354</Url>
         <ClickUrl>http://www.allkanpo.com/O/link.asp?page=ir.obihiro.ac.jp/dspace/handle/123456789/1354</ClickUrl>
-    </Result>
-    <Result>
-        <Title>帯広畜産大学 &amp;gt; 図書館、資料館 - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Regional/Japanese_Regions/Hokkaido/Education/Universities/Obihiro_University_Of_Agriculture_And_Veterinary_Medicine/Libraries_and_Musenums/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Regional/Japanese_Regions/Hokkaido/Education/Universities/Obihiro_University_Of_Agriculture_And_Veterinary_Medicine/Libraries_and_Musenums/</ClickUrl>
     </Result>
     <Result>
         <Title>集客検索,漢方会社</Title>
@@ -256,6 +251,11 @@
         <Url>http://dir.livedoor.com/search/?p=9&amp;q=MIT&amp;start=50</Url>
         <ClickUrl>http://dir.livedoor.com/search/?p=9&amp;q=MIT&amp;start=50</ClickUrl>
     </Result>
+    <Result>
+        <Title>学術機関リポジトリ | Ferret ディレクトリ検索下位層</Title>
+        <Url>http://search.jp-ferret.com/cDir/1-4-124750-583171</Url>
+        <ClickUrl>http://search.jp-ferret.com/cDir/1-4-124750-583171</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:32 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:32 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:08 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:08 PST 2010 -->

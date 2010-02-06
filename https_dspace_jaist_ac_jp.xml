@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="6315"
+    totalResultsAvailable="6288"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,6 +52,11 @@
         <ClickUrl>http://www.jaist.ac.jp/library/index-jp.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIST Repository: 研究組織のサイエンス・コミュニケーション -政府系研究機関 情報系研究部門の事例研究-</Title>
         <Url>http://hdl.handle.net/10119/4403</Url>
         <ClickUrl>http://hdl.handle.net/10119/4403</ClickUrl>
@@ -87,11 +92,6 @@
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 化学的手法を用いた芳香制御及び嗅覚情報提示システムに関する研&lt;wbr&gt;究</Title>
-        <Url>http://hdl.handle.net/10119/8013</Url>
-        <ClickUrl>http://hdl.handle.net/10119/8013</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIST Repository: JAIST学術研究成果リポジトリ平成18年度成果報告</Title>
         <Url>http://hdl.handle.net/10119/3515</Url>
         <ClickUrl>http://hdl.handle.net/10119/3515</ClickUrl>
@@ -100,6 +100,11 @@
         <Title>JAIST Repository: JAIST学術研究成果リポジトリ平成19年度成果報告</Title>
         <Url>http://hdl.handle.net/10119/4471</Url>
         <ClickUrl>http://hdl.handle.net/10119/4471</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: 化学的手法を用いた芳香制御及び嗅覚情報提示システムに関する研&lt;wbr&gt;究</Title>
+        <Url>http://hdl.handle.net/10119/8013</Url>
+        <ClickUrl>http://hdl.handle.net/10119/8013</ClickUrl>
     </Result>
     <Result>
         <Title>TH &amp;amp; Colleague&apos;s Works</Title>
@@ -122,9 +127,9 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios ...</Title>
+        <Url>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</ClickUrl>
     </Result>
     <Result>
         <Title>忙中小春日和 - livedoor Blog(ブログ)</Title>
@@ -142,9 +147,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: 音声のスペクトル包絡における個人性に関する研究</Title>
@@ -155,11 +165,6 @@
         <Title>JAIST Repository: 非定型的意志決定の支援システム構築に関する研究</Title>
         <Url>http://hdl.handle.net/10119/352</Url>
         <ClickUrl>http://hdl.handle.net/10119/352</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 様相論理における不完全性への代数的アプロ-チ</Title>
-        <Url>http://hdl.handle.net/10119/977</Url>
-        <ClickUrl>http://hdl.handle.net/10119/977</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: マルチエージェント系における組織学習を用いた動的環境への適応&lt;wbr&gt;に関する研究</Title>
@@ -222,24 +227,9 @@
         <ClickUrl>http://hdl.handle.net/10119/835</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 思考プロセスの共有を支援するアノテーションエディタに関する研&lt;wbr&gt;究</Title>
-        <Url>http://hdl.handle.net/10119/477</Url>
-        <ClickUrl>http://hdl.handle.net/10119/477</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: Support Vector Learning and Rule Induction ...</Title>
-        <Url>http://hdl.handle.net/10119/818</Url>
-        <ClickUrl>http://hdl.handle.net/10119/818</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIST Repository: 日本企業のMOT改革力を向上させるための研究と提言&lt;wbr&gt;~開発設計技術革新に関する ...</Title>
         <Url>http://hdl.handle.net/10119/536</Url>
         <ClickUrl>http://hdl.handle.net/10119/536</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 並行自己反映計算の宣言的記述に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/851</Url>
-        <ClickUrl>http://hdl.handle.net/10119/851</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: 金沢市における「新たな観光」の可能性について-「観光まちづく&lt;wbr&gt;り」の事例・大野町-</Title>
@@ -247,15 +237,25 @@
         <ClickUrl>http://hdl.handle.net/10119/529</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 対話者識別機能を付加したコミュニケーションロボットの社会的利&lt;wbr&gt;用と評価</Title>
-        <Url>http://hdl.handle.net/10119/475</Url>
-        <ClickUrl>http://hdl.handle.net/10119/475</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIST Repository: シソーラスの可視化による発散型英語学習支援ツールの研究</Title>
         <Url>http://hdl.handle.net/10119/578</Url>
         <ClickUrl>http://hdl.handle.net/10119/578</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIST Repository: 振舞い近似手法を用いたステートチャートに対する不変性の検証</Title>
+        <Url>http://hdl.handle.net/10119/939</Url>
+        <ClickUrl>http://hdl.handle.net/10119/939</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: 情報キオスクのための,力覚を用いた情報提示手法の提案と実装</Title>
+        <Url>http://hdl.handle.net/10119/496</Url>
+        <ClickUrl>http://hdl.handle.net/10119/496</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: 等価変換理論を応用した創造的問題解決支援システムに関する研究</Title>
+        <Url>http://hdl.handle.net/10119/376</Url>
+        <ClickUrl>http://hdl.handle.net/10119/376</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:13 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:13 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:16 PST 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:16 PST 2010 -->

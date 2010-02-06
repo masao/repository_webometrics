@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="400"
+    totalResultsAvailable="405"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -202,6 +202,16 @@
         <ClickUrl>http://blog.vlib.mpg.de/tag/rss/</ClickUrl>
     </Result>
     <Result>
+        <Title>Max Planck vLib News &quot; outage</Title>
+        <Url>http://blog.vlib.mpg.de/tag/outage/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/tag/outage/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Max Planck vLib News &quot; ticTOCs</Title>
+        <Url>http://blog.vlib.mpg.de/tag/tictocs/</Url>
+        <ClickUrl>http://blog.vlib.mpg.de/tag/tictocs/</ClickUrl>
+    </Result>
+    <Result>
         <Title>FACES 3.2.1 build date 2009-11-02 17:49:55</Title>
         <Url>http://faces.mpdl.mpg.de/faces/about</Url>
         <ClickUrl>http://faces.mpdl.mpg.de/faces/about</ClickUrl>
@@ -246,16 +256,6 @@
         <Url>http://www.geocities.jp/tokyo_1406/00todoroki_e.pdf</Url>
         <ClickUrl>http://www.geocities.jp/tokyo_1406/00todoroki_e.pdf</ClickUrl>
     </Result>
-    <Result>
-        <Title>ESciDoc Interfaces - MPDLMediaWiki</Title>
-        <Url>http://colab.mpdl.mpg.de/mediawiki/ESciDoc_Interfaces</Url>
-        <ClickUrl>http://colab.mpdl.mpg.de/mediawiki/ESciDoc_Interfaces</ClickUrl>
-    </Result>
-    <Result>
-        <Title>PubMan Release &quot; PubMan Blog</Title>
-        <Url>http://pubman.blogs.mpdl.mpg.de/category/pubman-release/</Url>
-        <ClickUrl>http://pubman.blogs.mpdl.mpg.de/category/pubman-release/</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Mon Feb  1 06:15:09 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Mon Feb  1 06:15:09 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:19 PST 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:19 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2105"
+    totalResultsAvailable="2090"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -15,6 +15,11 @@
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: Economic Growth ...</Title>
@@ -30,11 +35,6 @@
         <Title>HERMES-IR : Research &amp;amp; Education Resources: 近世末期絹織物業中心地の人口移動 ...</Title>
         <Url>http://hdl.handle.net/10086/15809</Url>
         <ClickUrl>http://hdl.handle.net/10086/15809</ClickUrl>
-    </Result>
-    <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: 多言語化する日本社会のとらえ方 ...</Title>
-        <Url>http://hdl.handle.net/10086/15490</Url>
-        <ClickUrl>http://hdl.handle.net/10086/15490</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
@@ -62,14 +62,14 @@
         <ClickUrl>http://hdl.handle.net/10086/6774</ClickUrl>
     </Result>
     <Result>
+        <Title>HERMES-IR : Research &amp;amp; Education Resources: 新収図書リスト</Title>
+        <Url>http://hdl.handle.net/10086/5552</Url>
+        <ClickUrl>http://hdl.handle.net/10086/5552</ClickUrl>
+    </Result>
+    <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: The Twentieth ...</Title>
         <Url>http://hdl.handle.net/10086/8306</Url>
         <ClickUrl>http://hdl.handle.net/10086/8306</ClickUrl>
-    </Result>
-    <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: ギールケ文庫の購入事情・補遺</Title>
-        <Url>http://hdl.handle.net/10086/5574</Url>
-        <ClickUrl>http://hdl.handle.net/10086/5574</ClickUrl>
     </Result>
     <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: ロシア鞦韆考</Title>
@@ -127,14 +127,14 @@
         <ClickUrl>http://hdl.handle.net/10086/13718</ClickUrl>
     </Result>
     <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: 中世エジプトの貨幣政策</Title>
-        <Url>http://hdl.handle.net/10086/11664</Url>
-        <ClickUrl>http://hdl.handle.net/10086/11664</ClickUrl>
-    </Result>
-    <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: 大西健夫・堤清二編『国立の小学校』</Title>
         <Url>http://hdl.handle.net/10086/16394</Url>
         <ClickUrl>http://hdl.handle.net/10086/16394</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HERMES-IR : Research &amp;amp; Education Resources: 中世エジプトの貨幣政策</Title>
+        <Url>http://hdl.handle.net/10086/11664</Url>
+        <ClickUrl>http://hdl.handle.net/10086/11664</ClickUrl>
     </Result>
     <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: 一橋大学附属図書館における公開展示 ...</Title>
@@ -157,11 +157,6 @@
         <ClickUrl>http://hdl.handle.net/10086/16287</ClickUrl>
     </Result>
     <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: ある強制移住</Title>
-        <Url>http://hdl.handle.net/10086/12303</Url>
-        <ClickUrl>http://hdl.handle.net/10086/12303</ClickUrl>
-    </Result>
-    <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: 韓国の図書館におけるILL活動と ...</Title>
         <Url>http://hdl.handle.net/10086/13408</Url>
         <ClickUrl>http://hdl.handle.net/10086/13408</ClickUrl>
@@ -170,11 +165,6 @@
         <Title>HERMES-IR : Research &amp;amp; Education Resources: 小泉信三の象徴天皇論 : 『帝室論 ...</Title>
         <Url>http://hdl.handle.net/10086/13726</Url>
         <ClickUrl>http://hdl.handle.net/10086/13726</ClickUrl>
-    </Result>
-    <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: 世界経済の動向と日本 : 主として ...</Title>
-        <Url>http://hdl.handle.net/10086/17429</Url>
-        <ClickUrl>http://hdl.handle.net/10086/17429</ClickUrl>
     </Result>
     <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: 幕末期における商人移動の人口地理学 ...</Title>
@@ -187,9 +177,9 @@
         <ClickUrl>http://hdl.handle.net/10086/17366</ClickUrl>
     </Result>
     <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: メンガーの講義録</Title>
-        <Url>http://hdl.handle.net/10086/5569</Url>
-        <ClickUrl>http://hdl.handle.net/10086/5569</ClickUrl>
+        <Title>HERMES-IR : Research &amp;amp; Education Resources: 翻訳と解釈 : 『ロビンソン ...</Title>
+        <Url>http://hdl.handle.net/10086/5537</Url>
+        <ClickUrl>http://hdl.handle.net/10086/5537</ClickUrl>
     </Result>
     <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: メンガー文庫目録改訂作業の中から</Title>
@@ -237,14 +227,14 @@
         <ClickUrl>http://hdl.handle.net/10086/5577</ClickUrl>
     </Result>
     <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: 翻訳と解釈 : 『ロビンソン ...</Title>
-        <Url>http://hdl.handle.net/10086/5537</Url>
-        <ClickUrl>http://hdl.handle.net/10086/5537</ClickUrl>
-    </Result>
-    <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: 1995年センター報告・日誌</Title>
         <Url>http://hdl.handle.net/10086/5457</Url>
         <ClickUrl>http://hdl.handle.net/10086/5457</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HERMES-IR : Research &amp;amp; Education Resources: 貴重書の保存・修理</Title>
+        <Url>http://hdl.handle.net/10086/5439</Url>
+        <ClickUrl>http://hdl.handle.net/10086/5439</ClickUrl>
     </Result>
     <Result>
         <Title>HERMES-IR : Research &amp;amp; Education Resources: civilの概念と訳語に関する覚え書</Title>
@@ -252,10 +242,20 @@
         <ClickUrl>http://hdl.handle.net/10086/5532</ClickUrl>
     </Result>
     <Result>
-        <Title>HERMES-IR : Research &amp;amp; Education Resources: 貴重書の保存・修理</Title>
-        <Url>http://hdl.handle.net/10086/5439</Url>
-        <ClickUrl>http://hdl.handle.net/10086/5439</ClickUrl>
+        <Title>HERMES-IR : Research &amp;amp; Education Resources: 「メンガー文庫マイクロフィルム化 ...</Title>
+        <Url>http://hdl.handle.net/10086/5476</Url>
+        <ClickUrl>http://hdl.handle.net/10086/5476</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HERMES-IR : Research &amp;amp; Education Resources: 一七世紀ロシアの所領構造・覚書</Title>
+        <Url>http://hdl.handle.net/10086/11753</Url>
+        <ClickUrl>http://hdl.handle.net/10086/11753</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HERMES-IR : Research &amp;amp; Education Resources: ビザンツ帝国における土地税徴収と ...</Title>
+        <Url>http://hdl.handle.net/10086/17363</Url>
+        <ClickUrl>http://hdl.handle.net/10086/17363</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:27 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:27 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:35 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:35 PST 2010 -->

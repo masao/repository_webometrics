@@ -3,13 +3,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8413"
+    totalResultsAvailable="8157"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Film Studies For Free</Title>
+        <Url>http://filmstudiesforfree.blogspot.com/</Url>
+        <ClickUrl>http://filmstudiesforfree.blogspot.com/</ClickUrl>
     </Result>
     <Result>
         <Title>Blackboard Jungle - Wikipedia, the free encyclopedia</Title>
@@ -57,11 +62,6 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E5%9C%A8%E6%97%A5%E9%9F%93%E5%9B%BD%E3%83%BB%E6%9C%9D%E9%AE%AE%E4%BA%BA</ClickUrl>
     </Result>
     <Result>
-        <Title>薫日記</Title>
-        <Url>http://kaoru.txt-nifty.com/diary/</Url>
-        <ClickUrl>http://kaoru.txt-nifty.com/diary/</ClickUrl>
-    </Result>
-    <Result>
         <Title>DOSHISHA UNIVERSITY OPENCOURSEWARE</Title>
         <Url>http://opencourse.doshisha.ac.jp/english/index.html</Url>
         <ClickUrl>http://opencourse.doshisha.ac.jp/english/index.html</ClickUrl>
@@ -87,19 +87,14 @@
         <ClickUrl>http://www.asahi-net.or.jp/~BG8J-IMMR/touch_type/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>pen</Title>
-        <Url>http://peacegoropen.tumblr.com/</Url>
-        <ClickUrl>http://peacegoropen.tumblr.com/</ClickUrl>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
     </Result>
     <Result>
         <Title>同志社大学 オープンコースウェア</Title>
         <Url>http://opencourse.doshisha.ac.jp/</Url>
         <ClickUrl>http://opencourse.doshisha.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>links.hwan.com</Title>
-        <Url>http://links.hwan.com/</Url>
-        <ClickUrl>http://links.hwan.com/</ClickUrl>
     </Result>
     <Result>
         <Title>同志社大学図書館</Title>
@@ -162,11 +157,6 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Exploring Chungjeong-no | The Marmot&apos;s Hole</Title>
-        <Url>http://www.rjkoehler.com/2009/12/08/exploring-chungjeong-no/</Url>
-        <ClickUrl>http://www.rjkoehler.com/2009/12/08/exploring-chungjeong-no/</ClickUrl>
-    </Result>
-    <Result>
         <Title>Doshisha University</Title>
         <Url>http://www.doshisha.ac.jp/chs/</Url>
         <ClickUrl>http://www.doshisha.ac.jp/chs/</ClickUrl>
@@ -190,6 +180,11 @@
         <Title>Taneda Santoka&apos;s Haiku - Terebess Asia Online (TAO)</Title>
         <Url>http://terebess.hu/english/haiku/taneda.html</Url>
         <ClickUrl>http://terebess.hu/english/haiku/taneda.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Exploring Chungjeong-no | The Marmot&apos;s Hole</Title>
+        <Url>http://www.rjkoehler.com/2009/12/08/exploring-chungjeong-no/</Url>
+        <ClickUrl>http://www.rjkoehler.com/2009/12/08/exploring-chungjeong-no/</ClickUrl>
     </Result>
     <Result>
         <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
@@ -237,6 +232,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
     <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
@@ -257,5 +257,5 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:18 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:18 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:23 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:23 PST 2010 -->

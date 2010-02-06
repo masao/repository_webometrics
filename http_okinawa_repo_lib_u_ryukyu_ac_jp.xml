@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="428"
+    totalResultsAvailable="433"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -142,14 +142,14 @@
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=336</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 閲覧と貸出</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=381</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=381</ClickUrl>
-    </Result>
-    <Result>
         <Title>琉球大学附属図書館 &quot; 図書館活動</Title>
         <Url>http://www.lib.u-ryukyu.ac.jp/?p=183</Url>
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=183</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 閲覧と貸出</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=381</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=381</ClickUrl>
     </Result>
     <Result>
         <Title>琉球大学附属図書館 &quot; 利用案内</Title>
@@ -172,14 +172,14 @@
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=389</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 各種申請書</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1149</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1149</ClickUrl>
-    </Result>
-    <Result>
         <Title>琉球大学附属図書館 &quot; 展示資料</Title>
         <Url>http://www.lib.u-ryukyu.ac.jp/?p=1153</Url>
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1153</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 各種申請書</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1149</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1149</ClickUrl>
     </Result>
     <Result>
         <Title>琉球大学附属図書館 &quot; 第2回びぶりお文学賞受賞作品集を発行しました。</Title>
@@ -212,24 +212,19 @@
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3112</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 第3回びぶりお文学賞</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3156</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3156</ClickUrl>
-    </Result>
-    <Result>
         <Title>琉球大学附属図書館 &quot; サイトマップ</Title>
         <Url>http://www.lib.u-ryukyu.ac.jp/?page_id=326</Url>
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?page_id=326</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 琉球大学附属図書館(モバイル版)</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?page_id=339</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?page_id=339</ClickUrl>
-    </Result>
-    <Result>
         <Title>琉球大学附属図書館 &quot; 相談窓口</Title>
         <Url>http://www.lib.u-ryukyu.ac.jp/?page_id=348</Url>
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?page_id=348</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 琉球大学附属図書館(モバイル版)</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?page_id=339</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?page_id=339</ClickUrl>
     </Result>
     <Result>
         <Title>十字路からの発言</Title>
@@ -243,19 +238,24 @@
     </Result>
     <Result>
         <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
-        <Url>http://www.miyakojimacity.jp/blog/?itemid=185</Url>
-        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=185</ClickUrl>
+        <Url>http://www.miyakojimacity.jp/blog/?itemid=20</Url>
+        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=20</ClickUrl>
     </Result>
     <Result>
-        <Title>沖縄農業研究会へ</Title>
-        <Url>http://www.cc.u-ryukyu.ac.jp/~okinoken/newpage1.htm</Url>
-        <ClickUrl>http://www.cc.u-ryukyu.ac.jp/~okinoken/newpage1.htm</ClickUrl>
+        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
+        <Url>http://www.miyakojimacity.jp/blog/?itemid=23</Url>
+        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=23</ClickUrl>
     </Result>
     <Result>
-        <Title>一括検索 -塑性指数-</Title>
-        <Url>http://seonum.com/rank/%E5%A1%91%E6%80%A7%E6%8C%87%E6%95%B0.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E5%A1%91%E6%80%A7%E6%8C%87%E6%95%B0.html</ClickUrl>
+        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
+        <Url>http://www.miyakojimacity.jp/blog/?itemid=227</Url>
+        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=227</ClickUrl>
+    </Result>
+    <Result>
+        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
+        <Url>http://www.miyakojimacity.jp/blog/?itemid=561</Url>
+        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=561</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:54 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:54 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:37 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:37 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="20623"
+    totalResultsAvailable="20348"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,14 +12,14 @@
         <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
     </Result>
     <Result>
+        <Title>郡山女子大学図書館 - Library of Koriyama Women&apos;s University.</Title>
+        <Url>http://library.koriyama-kgc.ac.jp/</Url>
+        <ClickUrl>http://library.koriyama-kgc.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>確率割り当ての不確定性とE-admissibility : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6836</Url>
         <ClickUrl>http://hdl.handle.net/2237/6836</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ベイズ主義の社会化はいかにあるべきか - リーバイのモデルの検討を通して - : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6837</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6837</ClickUrl>
     </Result>
     <Result>
         <Title>戦争倫理学における功利主義的思考 - 現代功利主義からの議論の検討 - : NAGOYA Repository</Title>
@@ -27,19 +27,14 @@
         <ClickUrl>http://hdl.handle.net/2237/6839</ClickUrl>
     </Result>
     <Result>
-        <Title>認識論における非個人主義的内在主義 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6835</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6835</ClickUrl>
-    </Result>
-    <Result>
-        <Title>バンジョー/ソウザ『認識的正当化』 現代英米認識論の生々しい論争に触れる : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6845</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6845</ClickUrl>
-    </Result>
-    <Result>
         <Title>Near Triviality of Conclusive Reasons : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6848</Url>
         <ClickUrl>http://hdl.handle.net/2237/6848</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ベイズ主義の社会化はいかにあるべきか - リーバイのモデルの検討を通して - : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6837</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6837</ClickUrl>
     </Result>
     <Result>
         <Title>オープンアクセスジャーナルの現状 : NAGOYA Repository</Title>
@@ -82,11 +77,6 @@
         <ClickUrl>http://hdl.handle.net/2237/6376</ClickUrl>
     </Result>
     <Result>
-        <Title>大学図書館員の意識改革を : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6079</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6079</ClickUrl>
-    </Result>
-    <Result>
         <Title>Three Stories from the Thai Recension of the Paňňāsa-jātaka ...</Title>
         <Url>http://hdl.handle.net/2237/8455</Url>
         <ClickUrl>http://hdl.handle.net/2237/8455</ClickUrl>
@@ -105,6 +95,11 @@
         <Title>Biochemical studies of matured xylem of Cryptomeria japonica ...</Title>
         <Url>http://hdl.handle.net/2237/8529</Url>
         <ClickUrl>http://hdl.handle.net/2237/8529</ClickUrl>
+    </Result>
+    <Result>
+        <Title>&amp;lt;彙報&amp;gt;乳幼児をもつ父親の父性意識に関する研究 : 父と子の絆の形成過程(平成 9 年度発達臨床学専攻修士学位論文概要 ...</Title>
+        <Url>http://hdl.handle.net/2237/2923</Url>
+        <ClickUrl>http://hdl.handle.net/2237/2923</ClickUrl>
     </Result>
     <Result>
         <Title>『契約は他人を害さない』ことの今日的意義(四) : NAGOYA Repository</Title>
@@ -157,19 +152,14 @@
         <ClickUrl>http://hdl.handle.net/2237/5579</ClickUrl>
     </Result>
     <Result>
-        <Title>多文化共生社会 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/8795</Url>
-        <ClickUrl>http://hdl.handle.net/2237/8795</ClickUrl>
+        <Title>ナノテクノロジーで地球環境問題に取り組む-カーボンナノチュー&lt;wbr&gt;ブを中心に : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8790</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8790</ClickUrl>
     </Result>
     <Result>
         <Title>日本人論の系譜 (国際言語文化研究科言語文化学方法論) : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/8792</Url>
         <ClickUrl>http://hdl.handle.net/2237/8792</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ナノテクノロジーで地球環境問題に取り組む-カーボンナノチュー&lt;wbr&gt;ブを中心に : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/8790</Url>
-        <ClickUrl>http://hdl.handle.net/2237/8790</ClickUrl>
     </Result>
     <Result>
         <Title>NGO: Non-governmental Organization : NAGOYA Repository</Title>
@@ -195,6 +185,11 @@
         <Title>小・中学生の親子関係、親からの期待、子どもの目標の関係 - 親子関係がよいと子どもは親の期待に応えようとするのか ...</Title>
         <Url>http://hdl.handle.net/2237/9458</Url>
         <ClickUrl>http://hdl.handle.net/2237/9458</ClickUrl>
+    </Result>
+    <Result>
+        <Title>多文化共生社会 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8795</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8795</ClickUrl>
     </Result>
     <Result>
         <Title>社会的動機づけの発達と学業達成過程 : 社会的責任目標研究に関するレビュー : NAGOYA Repository</Title>
@@ -237,25 +232,30 @@
         <ClickUrl>http://hdl.handle.net/2237/6758</ClickUrl>
     </Result>
     <Result>
-        <Title>アルツハイマー(健康に関する科学) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/9043</Url>
-        <ClickUrl>http://hdl.handle.net/2237/9043</ClickUrl>
-    </Result>
-    <Result>
-        <Title>医療と材料の関わりを考える : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/8789</Url>
-        <ClickUrl>http://hdl.handle.net/2237/8789</ClickUrl>
-    </Result>
-    <Result>
         <Title>遺伝子組換え食品を考える : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6860</Url>
         <ClickUrl>http://hdl.handle.net/2237/6860</ClickUrl>
+    </Result>
+    <Result>
+        <Title>機能性食品を考える : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6940</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6940</ClickUrl>
     </Result>
     <Result>
         <Title>地球の内部構造 : 内核・外核・マントル・地殻・不連続面 : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6801</Url>
         <ClickUrl>http://hdl.handle.net/2237/6801</ClickUrl>
     </Result>
+    <Result>
+        <Title>アルツハイマー(健康に関する科学) : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/9043</Url>
+        <ClickUrl>http://hdl.handle.net/2237/9043</ClickUrl>
+    </Result>
+    <Result>
+        <Title>科学哲学から見た「知的設計」説 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/7336</Url>
+        <ClickUrl>http://hdl.handle.net/2237/7336</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:21 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:21 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:28 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:28 PST 2010 -->

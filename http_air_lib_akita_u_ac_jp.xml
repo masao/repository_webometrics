@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1657"
+    totalResultsAvailable="1644"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -32,9 +32,19 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: ロービジョン用教育漢字筆順学習ソフトウェアの開発とその試用</Title>
+        <Url>http://hdl.handle.net/10295/228</Url>
+        <ClickUrl>http://hdl.handle.net/10295/228</ClickUrl>
     </Result>
     <Result>
         <Title>秋田大学: 1604年のマーストンとシェイクスピア -「変装した支配者」劇をめぐって-</Title>
@@ -87,11 +97,6 @@
         <ClickUrl>http://hdl.handle.net/10295/672</ClickUrl>
     </Result>
     <Result>
-        <Title>秋田大学: CGを利用した西馬音内盆踊りの学習 -CGによる学習と実地講師による指導の比較</Title>
-        <Url>http://hdl.handle.net/10295/1596</Url>
-        <ClickUrl>http://hdl.handle.net/10295/1596</ClickUrl>
-    </Result>
-    <Result>
         <Title>秋田大学: 音楽科教員養成における知と体験の新たな構築を目指して -「フィールドインターンシップ型授業」及び「ゲーミング ...</Title>
         <Url>http://hdl.handle.net/10295/1597</Url>
         <ClickUrl>http://hdl.handle.net/10295/1597</ClickUrl>
@@ -100,16 +105,6 @@
         <Title>秋田大学: 樹状細胞クロストークによる新規免疫賦活機構の解明</Title>
         <Url>http://hdl.handle.net/10295/1564</Url>
         <ClickUrl>http://hdl.handle.net/10295/1564</ClickUrl>
-    </Result>
-    <Result>
-        <Title>秋田大学: フィールドインターンシップ型授業報告</Title>
-        <Url>http://hdl.handle.net/10295/1588</Url>
-        <ClickUrl>http://hdl.handle.net/10295/1588</ClickUrl>
-    </Result>
-    <Result>
-        <Title>秋田大学: 幼稚園教育における「集団」の意味 -3歳児の園生活への「適応」をめぐって-</Title>
-        <Url>http://hdl.handle.net/10295/1590</Url>
-        <ClickUrl>http://hdl.handle.net/10295/1590</ClickUrl>
     </Result>
     <Result>
         <Title>秋田大学: 一大学の看護学生の地域看護学実習Ⅰにおける家庭訪問の学びの過&lt;wbr&gt;程と内容</Title>
@@ -127,6 +122,11 @@
         <ClickUrl>http://hdl.handle.net/10295/1562</ClickUrl>
     </Result>
     <Result>
+        <Title>DuraSpace Blog &quot; Blog Archive &quot; DSpace Community Continues to ...</Title>
+        <Url>http://expertvoices.nsdl.org/duraspace/2009/12/01/dspace-community-continues-to-grow/</Url>
+        <ClickUrl>http://expertvoices.nsdl.org/duraspace/2009/12/01/dspace-community-continues-to-grow/</ClickUrl>
+    </Result>
+    <Result>
         <Title>|秋田大学附属図書館</Title>
         <Url>http://www.lib.akita-u.ac.jp/freedb.htm</Url>
         <ClickUrl>http://www.lib.akita-u.ac.jp/freedb.htm</ClickUrl>
@@ -135,11 +135,6 @@
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Varieties and Techniques of Prohibited Kansetsu-waza ...</Title>
@@ -172,6 +167,11 @@
         <ClickUrl>http://hdl.handle.net/10295/370</ClickUrl>
     </Result>
     <Result>
+        <Title>秋田大学: Exploring Test-Wiseness of Japanese Senior High School ...</Title>
+        <Url>http://hdl.handle.net/10295/195</Url>
+        <ClickUrl>http://hdl.handle.net/10295/195</ClickUrl>
+    </Result>
+    <Result>
         <Title>秋田大学: 糖尿病クリニカルパス適用において食事指導を行った7症例の検討</Title>
         <Url>http://hdl.handle.net/10295/297</Url>
         <ClickUrl>http://hdl.handle.net/10295/297</ClickUrl>
@@ -195,11 +195,6 @@
         <Title>秋田大学: Multifractal Analysis for Quantifying the Morphology of ...</Title>
         <Url>http://hdl.handle.net/10295/1084</Url>
         <ClickUrl>http://hdl.handle.net/10295/1084</ClickUrl>
-    </Result>
-    <Result>
-        <Title>秋田大学: 自己像を遊ぶ</Title>
-        <Url>http://hdl.handle.net/10295/1525</Url>
-        <ClickUrl>http://hdl.handle.net/10295/1525</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -256,6 +251,11 @@
         <Url>http://www.dspace.org/DSpace-Community-Continues-to-Grow.html</Url>
         <ClickUrl>http://www.dspace.org/DSpace-Community-Continues-to-Grow.html</ClickUrl>
     </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php?rSoftWareName=&amp;format=titles&amp;step=50</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?rSoftWareName=&amp;format=titles&amp;step=50</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:51 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:51 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:22 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:22 PST 2010 -->

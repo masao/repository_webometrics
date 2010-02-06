@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="511"
+    totalResultsAvailable="514"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -20,6 +20,11 @@
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: アラブにおける剣道指導の諸問題 : 日本文化とアラブ文化の ...</Title>
+        <Url>http://hdl.handle.net/10487/3909</Url>
+        <ClickUrl>http://hdl.handle.net/10487/3909</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -55,6 +60,11 @@
         <Title>JAIRO | Wisteria in full blossoms Kameido,Tokyo.</Title>
         <Url>http://jairo.nii.ac.jp/0108/00003491/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0108/00003491/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Los Empeños Qve Se Orecen / de Ivan Pérez de Montalván</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00003557/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00003557/en</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 筋生理学研究のための電子顕微鏡技法</Title>
@@ -162,19 +172,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0108/00003372/en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | マルチコアプロセッサでのRubyプログラムの高速実行方式の開&lt;wbr&gt;発</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003133/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003133/en</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 23 舜水先生文集 巻之二十三</Title>
         <Url>http://jairo.nii.ac.jp/0108/00003088/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0108/00003088/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Differentias iurium Romani et Germanici in pactis de ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002762/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002762/en</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 〔001〕 輿地誌略 巻一</Title>
@@ -202,6 +202,11 @@
         <ClickUrl>http://jairo.nii.ac.jp/0108/00003003</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIRO | Comedia Nueva, Intitulada, Lo Cierto por lo Dudoso ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00003558</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00003558</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | Reflexiones sobre la clase de expresión escrita</Title>
         <Url>http://jairo.nii.ac.jp/0108/00003551</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0108/00003551</ClickUrl>
@@ -215,6 +220,11 @@
         <Title>JAIRO | Histoire Naturelle, Civile, et Ecclesiastique de ...</Title>
         <Url>http://jairo.nii.ac.jp/0108/00003554</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0108/00003554</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Los Empeños Qve Se Orecen / de Ivan Pérez de Montalván</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00003557</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00003557</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Wisteria garden Maebashi,Nakasendo</Title>
@@ -246,16 +256,6 @@
         <Url>http://jairo.nii.ac.jp/0108/00002986</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0108/00002986</ClickUrl>
     </Result>
-    <Result>
-        <Title>JAIRO | Japanese illustration; a history of the arts of wood ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003281</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003281</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 01 舜水先生文集 巻之一</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002991</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002991</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:41 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:41 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:21 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:21 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="14258"
+    totalResultsAvailable="14376"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -40,6 +40,11 @@
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -132,6 +137,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
     <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
@@ -167,14 +177,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
     </Result>
     <Result>
         <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
@@ -212,14 +222,14 @@
         <ClickUrl>http://www.kobe-u.ac.jp/info/topics/menu/study.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>神戸大学トップページ / 2007年7月30日お知らせ</Title>
-        <Url>http://www.kobe-u.ac.jp/info/topics/t2007_07_30_01.htm</Url>
-        <ClickUrl>http://www.kobe-u.ac.jp/info/topics/t2007_07_30_01.htm</ClickUrl>
-    </Result>
-    <Result>
         <Title>神戸大学トップページ / 入学案内 / 編入学・学士入学</Title>
         <Url>http://www.kobe-u.ac.jp/admission/undergrad/hennyu.htm</Url>
         <ClickUrl>http://www.kobe-u.ac.jp/admission/undergrad/hennyu.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神戸大学トップページ / 2007年7月30日お知らせ</Title>
+        <Url>http://www.kobe-u.ac.jp/info/topics/t2007_07_30_01.htm</Url>
+        <ClickUrl>http://www.kobe-u.ac.jp/info/topics/t2007_07_30_01.htm</ClickUrl>
     </Result>
     <Result>
         <Title>神戸大学トップページ / 山中伸弥教授記念講演</Title>
@@ -246,16 +256,6 @@
         <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-1b19.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-1b19.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>北島選手の国民栄誉賞は当然でないの: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/08/post_4356.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/08/post_4356.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>12週無給の家族医療休暇法制しかないアメリカ合衆国では平均出&lt;wbr&gt;産後11週で職場に復帰するらしい : 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:10 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:10 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:42 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:42 PST 2010 -->

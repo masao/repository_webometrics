@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="5350"
+    totalResultsAvailable="5355"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -67,6 +67,11 @@
         <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/klib/</ClickUrl>
     </Result>
     <Result>
+        <Title>Renku - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Renku</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Renku</ClickUrl>
+    </Result>
+    <Result>
         <Title>城西大学 水田記念図書館</Title>
         <Url>http://libopac.josai.ac.jp/</Url>
         <ClickUrl>http://libopac.josai.ac.jp/</ClickUrl>
@@ -85,6 +90,11 @@
         <Title>文教大学湘南図書館</Title>
         <Url>http://www.bunkyo.ac.jp/faculty/lib/slib/index.htm</Url>
         <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/slib/index.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>観念論 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%A6%B3%E5%BF%B5%E8%AB%96</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%A6%B3%E5%BF%B5%E8%AB%96</ClickUrl>
     </Result>
     <Result>
         <Title>女子栄養大学図書館 短期大学部図書館 香川栄養専門学校図書室</Title>
@@ -212,14 +222,19 @@
         <ClickUrl>http://www.saitama-u.ac.jp/education/feature/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>「女子中高生夏の学校2009」募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2009/page04i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page04i.html</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
         <Title>「男女共同参画のための研究と実践の交流推進フォーラム」募集 - 国立女性教育会館</Title>
         <Url>http://www.nwec.jp/jp/program/invite/2007/page07i.html</Url>
         <ClickUrl>http://www.nwec.jp/jp/program/invite/2007/page07i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「女子中高生夏の学校2009」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2009/page04i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page04i.html</ClickUrl>
     </Result>
     <Result>
         <Title>埼玉大学情報メディア基盤センター -</Title>
@@ -241,21 +256,6 @@
         <Url>http://www.nwec.jp/jp/program/invite/2008/page09i.html</Url>
         <ClickUrl>http://www.nwec.jp/jp/program/invite/2008/page09i.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>「女性関連施設・団体リーダーのための男女共同参画推進研修」募&lt;wbr&gt;集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2009/page03i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page03i.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>埼玉大学 | お知らせ&amp;amp;イベント一覧</Title>
-        <Url>http://www.saitama-u.ac.jp/event/index.html</Url>
-        <ClickUrl>http://www.saitama-u.ac.jp/event/index.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:40 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:40 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:20 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:20 PST 2010 -->

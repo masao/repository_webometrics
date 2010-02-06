@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="19560"
+    totalResultsAvailable="19321"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,11 +22,6 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Year 24 Group - Wikipedia, the free encyclopedia</Title>
-        <Url>http://en.wikipedia.org/wiki/Year_24_Group</Url>
-        <ClickUrl>http://en.wikipedia.org/wiki/Year_24_Group</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
@@ -42,19 +37,29 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Year 24 Group - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Year_24_Group</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Year_24_Group</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>お茶の水女子大学附属図書館</Title>
         <Url>http://www.lib.ocha.ac.jp/</Url>
         <ClickUrl>http://www.lib.ocha.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>お茶の水女子大学ジェンダー研究センター - Institute for Gender Studies(Japanese)</Title>
         <Url>http://www.igs.ocha.ac.jp/f-gens/</Url>
         <ClickUrl>http://www.igs.ocha.ac.jp/f-gens/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Ranking Web of World Repositories: Top 400 Institutional ...</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_inst.asp</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst.asp</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -112,11 +117,6 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios ...</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_inst_es.asp</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst_es.asp</ClickUrl>
-    </Result>
-    <Result>
         <Title>梁啓超 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E6%A2%81%E5%95%93%E8%B6%85</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%A2%81%E5%95%93%E8%B6%85</ClickUrl>
@@ -140,6 +140,11 @@
         <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
     </Result>
     <Result>
         <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
@@ -177,14 +182,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
     </Result>
     <Result>
         <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
@@ -251,11 +256,6 @@
         <Url>http://hdl.handle.net/10083/4675</Url>
         <ClickUrl>http://hdl.handle.net/10083/4675</ClickUrl>
     </Result>
-    <Result>
-        <Title>TeaPot : 抑うつの概観及び抑うつ発生に関する諸理論</Title>
-        <Url>http://hdl.handle.net/10083/3539</Url>
-        <ClickUrl>http://hdl.handle.net/10083/3539</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:15 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:15 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:18 PST 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:18 PST 2010 -->

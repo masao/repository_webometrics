@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="280"
+    totalResultsAvailable="279"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -143,8 +143,8 @@
     </Result>
     <Result>
         <Title>GR3 : Cartographie des bases existantes - Cost</Title>
-        <Url>http://www.revues.org/cost/index.php/Special:Randompage</Url>
-        <ClickUrl>http://www.revues.org/cost/index.php/Special:Randompage</ClickUrl>
+        <Url>http://www.revues.org/cost/index.php/GR3_:_Cartographie_des_bases_existantes</Url>
+        <ClickUrl>http://www.revues.org/cost/index.php/GR3_:_Cartographie_des_bases_existantes</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
@@ -212,9 +212,19 @@
         <ClickUrl>http://www.opendoar.org/find.php/images/images/tools/faq.html</ClickUrl>
     </Result>
     <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php/tools/images/images/rss1data.php</Url>
+        <ClickUrl>http://www.opendoar.org/find.php/tools/images/images/rss1data.php</ClickUrl>
+    </Result>
+    <Result>
         <Title>ARRIDE研修</Title>
         <Url>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.doc</Url>
         <ClickUrl>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.doc</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php/tools/images/images/tools/index.html</Url>
+        <ClickUrl>http://www.opendoar.org/find.php/tools/images/images/tools/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>Open Access Japan | オープンアクセスジャパン - 機関リポジトリ Archive</Title>
@@ -243,19 +253,9 @@
     </Result>
     <Result>
         <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_2=4</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_2=4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_2=2</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_2=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
         <Url>http://current.ndl.go.jp/ca1626?quicktabs_4=3</Url>
         <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_4=3</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:47 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:47 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:59 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:59 PST 2010 -->

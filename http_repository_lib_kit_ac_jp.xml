@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1312"
+    totalResultsAvailable="1293"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -42,6 +42,11 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>インターネット上の基礎知識 NDC 000-299 </Title>
         <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</Url>
         <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</ClickUrl>
@@ -62,6 +67,11 @@
         <ClickUrl>http://hdl.handle.net/10212/1912</ClickUrl>
     </Result>
     <Result>
+        <Title>KIT Repository: Item 10212/1902</Title>
+        <Url>http://hdl.handle.net/10212/1902</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1902</ClickUrl>
+    </Result>
+    <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
@@ -70,11 +80,6 @@
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -87,19 +92,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
         <Title>KIT Repository: Item 10212/959</Title>
         <Url>http://hdl.handle.net/10212/959</Url>
         <ClickUrl>http://hdl.handle.net/10212/959</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KIT Repository: Item 10212/950</Title>
-        <Url>http://hdl.handle.net/10212/950</Url>
-        <ClickUrl>http://hdl.handle.net/10212/950</ClickUrl>
     </Result>
     <Result>
         <Title>KIT Repository: Item 10212/943</Title>
@@ -142,6 +142,11 @@
         <ClickUrl>http://hdl.handle.net/10212/592</ClickUrl>
     </Result>
     <Result>
+        <Title>KIT Repository: Item 10212/950</Title>
+        <Url>http://hdl.handle.net/10212/950</Url>
+        <ClickUrl>http://hdl.handle.net/10212/950</ClickUrl>
+    </Result>
+    <Result>
         <Title>KIT Repository: Item 10212/590</Title>
         <Url>http://hdl.handle.net/10212/590</Url>
         <ClickUrl>http://hdl.handle.net/10212/590</ClickUrl>
@@ -167,19 +172,14 @@
         <ClickUrl>http://hdl.handle.net/10212/947</ClickUrl>
     </Result>
     <Result>
+        <Title>KIT Repository: Item 10212/596</Title>
+        <Url>http://hdl.handle.net/10212/596</Url>
+        <ClickUrl>http://hdl.handle.net/10212/596</ClickUrl>
+    </Result>
+    <Result>
         <Title>KIT Repository: Item 10212/978</Title>
         <Url>http://hdl.handle.net/10212/978</Url>
         <ClickUrl>http://hdl.handle.net/10212/978</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KIT Repository: Item 10212/1195</Title>
-        <Url>http://hdl.handle.net/10212/1195</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1195</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KIT Repository: Item 10212/1108</Title>
-        <Url>http://hdl.handle.net/10212/1108</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1108</ClickUrl>
     </Result>
     <Result>
         <Title>KIT Repository: Item 10212/1199</Title>
@@ -207,9 +207,19 @@
         <ClickUrl>http://hdl.handle.net/10212/1212</ClickUrl>
     </Result>
     <Result>
+        <Title>KIT Repository: Item 10212/1108</Title>
+        <Url>http://hdl.handle.net/10212/1108</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1108</ClickUrl>
+    </Result>
+    <Result>
         <Title>KIT Repository: Item 10212/1098</Title>
         <Url>http://hdl.handle.net/10212/1098</Url>
         <ClickUrl>http://hdl.handle.net/10212/1098</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KIT Repository: Item 10212/1195</Title>
+        <Url>http://hdl.handle.net/10212/1195</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1195</ClickUrl>
     </Result>
     <Result>
         <Title>KIT Repository: Item 10212/1208</Title>
@@ -222,16 +232,6 @@
         <ClickUrl>http://hdl.handle.net/10212/1197</ClickUrl>
     </Result>
     <Result>
-        <Title>KIT Repository: Item 10212/1196</Title>
-        <Url>http://hdl.handle.net/10212/1196</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1196</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KIT Repository: Item 10212/1215</Title>
-        <Url>http://hdl.handle.net/10212/1215</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1215</ClickUrl>
-    </Result>
-    <Result>
         <Title>KIT Repository: Item 10212/1178</Title>
         <Url>http://hdl.handle.net/10212/1178</Url>
         <ClickUrl>http://hdl.handle.net/10212/1178</ClickUrl>
@@ -242,9 +242,9 @@
         <ClickUrl>http://hdl.handle.net/10212/1919</ClickUrl>
     </Result>
     <Result>
-        <Title>KIT Repository: Item 10212/1194</Title>
-        <Url>http://hdl.handle.net/10212/1194</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1194</ClickUrl>
+        <Title>KIT Repository: Item 10212/1191</Title>
+        <Url>http://hdl.handle.net/10212/1191</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1191</ClickUrl>
     </Result>
     <Result>
         <Title>KIT Repository: Item 10212/1202</Title>
@@ -252,10 +252,10 @@
         <ClickUrl>http://hdl.handle.net/10212/1202</ClickUrl>
     </Result>
     <Result>
-        <Title>KIT Repository: Item 10212/1206</Title>
-        <Url>http://hdl.handle.net/10212/1206</Url>
-        <ClickUrl>http://hdl.handle.net/10212/1206</ClickUrl>
+        <Title>KIT Repository: Item 10212/1194</Title>
+        <Url>http://hdl.handle.net/10212/1194</Url>
+        <ClickUrl>http://hdl.handle.net/10212/1194</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:58 PST 2010 -->
-<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:58 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:30 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:30 PST 2010 -->

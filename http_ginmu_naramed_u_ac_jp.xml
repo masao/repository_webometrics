@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="129"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>公立大学法人 奈良県立医科大学</Title>
+        <Url>http://www.naramed-u.ac.jp/</Url>
+        <ClickUrl>http://www.naramed-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/</Url>
+        <ClickUrl>http://celestial.eprints.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>附属図書館</Title>
+        <Url>http://www.naramed-u.ac.jp/~lib/</Url>
+        <ClickUrl>http://www.naramed-u.ac.jp/~lib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
+        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+    </Result>
+    <Result>
+        <Title>旋尾線虫 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%97%8B%E5%B0%BE%E7%B7%9A%E8%99%AB</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%97%8B%E5%B0%BE%E7%B7%9A%E8%99%AB</ClickUrl>
+    </Result>
+    <Result>
+        <Title>附属図書館</Title>
+        <Url>http://www.naramed-u.ac.jp/lib/</Url>
+        <ClickUrl>http://www.naramed-u.ac.jp/lib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>双方向型医学系サブジェクトリポジトリ技術基盤の形成</Title>
+        <Url>https://infonavi.sapmed.ac.jp/ir/</Url>
+        <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to local public university libraries;公立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkou.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkou.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/Error</Url>
+        <ClickUrl>http://celestial.eprints.org/Error</ClickUrl>
+    </Result>
+    <Result>
+        <Title>against-the-rule astigmatism : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=against-the-rule+astigmatism</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=against-the-rule+astigmatism</ClickUrl>
+    </Result>
+    <Result>
+        <Title>accessory process of lumbar vertebra : KMLE 의학 검색 엔진 - 의학사전 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=accessory+process+of+lumbar+vertebra</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=accessory+process+of+lumbar+vertebra</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Identify Response</Title>
+        <Url>http://celestial.eprints.org/oai/.unknown?verb=Identify</Url>
+        <ClickUrl>http://celestial.eprints.org/oai/.unknown?verb=Identify</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1822</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1822</ClickUrl>
+    </Result>
+    <Result>
+        <Title>lenticular cataract : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=lenticular+cataract</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=lenticular+cataract</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CAVIに関する抄録 - results - www.lookrapid.com</Title>
+        <Url>http://www.lookrapid.com/engsearch.php?title=CAVI%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8A%84%E9%8C%B2&amp;action=search</Url>
+        <ClickUrl>http://www.lookrapid.com/engsearch.php?title=CAVI%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%8A%84%E9%8C%B2&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ARA-2576 eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/ARA-2576-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/ARA-2576-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>facial index eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/facial-index-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/facial-index-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=135</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=135</ClickUrl>
+    </Result>
+    <Result>
+        <Title>identification human bones eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/identification-human-bones-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/identification-human-bones-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/dspace.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奈良県立医科大学 - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E7%AB%8B%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=%E5%A5%88%E8%89%AF%E7%9C%8C%E7%AB%8B%E5%8C%BB%E7%A7%91%E5%A4%A7%E5%AD%A6&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奈良県立医科大学 | 奈良県 大学一覧 学校JP</Title>
+        <Url>http://www.schooljp.net/e2900132.html</Url>
+        <ClickUrl>http://www.schooljp.net/e2900132.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>公立大学法人 奈良県立医科大学</Title>
+        <Url>http://www.naramed-u.ac.jp/newindex.htm</Url>
+        <ClickUrl>http://www.naramed-u.ac.jp/newindex.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなアンテナ - 学術機関リポジトリ全文紀要</Title>
+        <Url>http://a.hatena.ne.jp/jwu2/rss</Url>
+        <ClickUrl>http://a.hatena.ne.jp/jwu2/rss</ClickUrl>
+    </Result>
+    <Result>
+        <Title>研究業績</Title>
+        <Url>http://www.naramed-u.ac.jp/~bioch/gyouseki.html</Url>
+        <ClickUrl>http://www.naramed-u.ac.jp/~bioch/gyouseki.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>オンライン利用できる医学系研究紀要一覧 全リスト | ジャーナル | 東京大学医学図書館</Title>
+        <Url>http://www.lib.m.u-tokyo.ac.jp/journals/kiyo_olj.html</Url>
+        <ClickUrl>http://www.lib.m.u-tokyo.ac.jp/journals/kiyo_olj.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>YUKINARI - 検索結果</Title>
+        <Url>http://x-row.cc/igseek/index.php?word=YUKINARI&amp;page=64</Url>
+        <ClickUrl>http://x-row.cc/igseek/index.php?word=YUKINARI&amp;page=64</ClickUrl>
+    </Result>
+    <Result>
+        <Title>オンライン利用できる医学系研究紀要一覧 な | ジャーナル | 東京大学医学図書館</Title>
+        <Url>http://www.lib.m.u-tokyo.ac.jp/journals/kiyo_olj_n.html</Url>
+        <ClickUrl>http://www.lib.m.u-tokyo.ac.jp/journals/kiyo_olj_n.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>シスチン尿情報</Title>
+        <Url>http://ja.healthhaven.com/cystinuria.htm</Url>
+        <ClickUrl>http://ja.healthhaven.com/cystinuria.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>透析療法掲示板</Title>
+        <Url>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=thr;page=3;id=hd</Url>
+        <ClickUrl>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=thr;page=3;id=hd</ClickUrl>
+    </Result>
+    <Result>
+        <Title>透析療法掲示板</Title>
+        <Url>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=ntr;page=46;id=hd</Url>
+        <ClickUrl>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=ntr;page=46;id=hd</ClickUrl>
+    </Result>
+    <Result>
+        <Title>透析療法掲示板</Title>
+        <Url>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=one;no=13654;id=hd</Url>
+        <ClickUrl>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=one;no=13654;id=hd</ClickUrl>
+    </Result>
+    <Result>
+        <Title>透析療法掲示板</Title>
+        <Url>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=one;page=260;id=hd</Url>
+        <ClickUrl>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=one;page=260;id=hd</ClickUrl>
+    </Result>
+    <Result>
+        <Title>透析療法掲示板</Title>
+        <Url>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=one;no=13655;id=hd</Url>
+        <ClickUrl>http://yan-hd.net/cgi-bin/c-board/c-board.cgi?cmd=one;no=13655;id=hd</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Dnavi - 書誌情報</Title>
+        <Url>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000017821&amp;KEYWD=000000017821&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</Url>
+        <ClickUrl>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000017821&amp;KEYWD=000000017821&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=135</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=135</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ないとブログ: 機関リポジトリ</Title>
+        <Url>http://naramedulib.seesaa.net/category/3961760-1.html</Url>
+        <ClickUrl>http://naramedulib.seesaa.net/category/3961760-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言</Title>
+        <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
+        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ないとブログ: 感動!!機関リポジトリ</Title>
+        <Url>http://naramedulib.seesaa.net/article/132018804.html</Url>
+        <ClickUrl>http://naramedulib.seesaa.net/article/132018804.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>annuloaortic e. : KMLE Medical Dictionary - Online medical ...</Title>
+        <Url>http://www.kmle.com/search.php?Search=annuloaortic+e.</Url>
+        <ClickUrl>http://www.kmle.com/search.php?Search=annuloaortic+e.</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:57 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:57 PST 2010 -->

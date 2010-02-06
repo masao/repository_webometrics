@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="11664"
+    totalResultsAvailable="11597"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -35,6 +35,16 @@
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -117,6 +127,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
     </Result>
     <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
@@ -182,19 +197,19 @@
         <ClickUrl>http://hdl.handle.net/2297/3858</ClickUrl>
     </Result>
     <Result>
+        <Title>KURA : 末梢神経慢性伸張に伴う神経筋接合部の病態</Title>
+        <Url>http://hdl.handle.net/2297/4529</Url>
+        <ClickUrl>http://hdl.handle.net/2297/4529</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KURA : 糖尿病患者における療養行動の構造</Title>
+        <Url>http://hdl.handle.net/2297/6138</Url>
+        <ClickUrl>http://hdl.handle.net/2297/6138</ClickUrl>
+    </Result>
+    <Result>
         <Title>KURA : 平成19年度委託事業領域2「業績DB・IR連携プロジェクト」&lt;wbr&gt;成果報告 金沢大学・早稲田大学・九州大学</Title>
         <Url>http://hdl.handle.net/2297/9944</Url>
         <ClickUrl>http://hdl.handle.net/2297/9944</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KURA : 主体的に生活を営もうとする生徒の育成-他との関わりによる「課&lt;wbr&gt;題解決力」の深まりを求めて-</Title>
-        <Url>http://hdl.handle.net/2297/3143</Url>
-        <ClickUrl>http://hdl.handle.net/2297/3143</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KURA : 崇實・崇厚の諸子とその配偶者に関するノート:清末中国における&lt;wbr&gt;完顔氏の婚姻関係の一齣</Title>
-        <Url>http://hdl.handle.net/2297/9735</Url>
-        <ClickUrl>http://hdl.handle.net/2297/9735</ClickUrl>
     </Result>
     <Result>
         <Title>KURA : 1.西谷地区の概要</Title>
@@ -202,9 +217,14 @@
         <ClickUrl>http://hdl.handle.net/2297/9704</ClickUrl>
     </Result>
     <Result>
-        <Title>KURA : 自然を探求する力を育てる-問題解決に向けた交流の工夫&lt;wbr&gt;-</Title>
-        <Url>http://hdl.handle.net/2297/3136</Url>
-        <ClickUrl>http://hdl.handle.net/2297/3136</ClickUrl>
+        <Title>KURA : The sense of married female teachers for taking ...</Title>
+        <Url>http://hdl.handle.net/2297/6148</Url>
+        <ClickUrl>http://hdl.handle.net/2297/6148</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KURA : 酸性降下物の特性--金沢市の大気汚染を例にとって</Title>
+        <Url>http://hdl.handle.net/2297/2574</Url>
+        <ClickUrl>http://hdl.handle.net/2297/2574</ClickUrl>
     </Result>
     <Result>
         <Title>KURA : 幼児期の食育に関する研究:附属幼稚園における4年間の食育の取&lt;wbr&gt;り組みから</Title>
@@ -217,19 +237,14 @@
         <ClickUrl>http://hdl.handle.net/2297/4281</ClickUrl>
     </Result>
     <Result>
-        <Title>KURA : 本態性高血圧症におけるSpironolactone長期治療の&lt;wbr&gt;,ACTHに対するaldosterone反応に ...</Title>
-        <Url>http://hdl.handle.net/2297/8754</Url>
-        <ClickUrl>http://hdl.handle.net/2297/8754</ClickUrl>
-    </Result>
-    <Result>
         <Title>KURA : 白血球増多症を伴った非血液非リンパ系悪性腫瘍症例における顆粒&lt;wbr&gt;球コロニー刺激因子と顆粒球・マクロファージ ...</Title>
         <Url>http://hdl.handle.net/2297/9496</Url>
         <ClickUrl>http://hdl.handle.net/2297/9496</ClickUrl>
     </Result>
     <Result>
-        <Title>KURA : 成長しつづける文庫:宮本文庫開設に寄せて</Title>
-        <Url>http://hdl.handle.net/2297/7700</Url>
-        <ClickUrl>http://hdl.handle.net/2297/7700</ClickUrl>
+        <Title>KURA : 本態性高血圧症におけるSpironolactone長期治療の&lt;wbr&gt;,ACTHに対するaldosterone反応に ...</Title>
+        <Url>http://hdl.handle.net/2297/8754</Url>
+        <ClickUrl>http://hdl.handle.net/2297/8754</ClickUrl>
     </Result>
     <Result>
         <Title>KURA : 平成19年度委託事業領域1「金沢大学学術情報リポジトリKUR&lt;wbr&gt;Aの運用」成果報告</Title>
@@ -237,25 +252,10 @@
         <ClickUrl>http://hdl.handle.net/2297/9943</ClickUrl>
     </Result>
     <Result>
-        <Title>KURA : 「業績DB・IR連携プロジェクト」の概要と今後の課題</Title>
-        <Url>http://hdl.handle.net/2297/9945</Url>
-        <ClickUrl>http://hdl.handle.net/2297/9945</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KURA : 悪性リンパ腫の再燃との鑑別が困難であった多発性骨髄腫 67Gaシンチグラフィによる評価</Title>
-        <Url>http://hdl.handle.net/2297/4246</Url>
-        <ClickUrl>http://hdl.handle.net/2297/4246</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KURA : コミュニケーション力とメンタルヘルス-選択理論の実践から&lt;wbr&gt;-</Title>
-        <Url>http://hdl.handle.net/2297/3145</Url>
-        <ClickUrl>http://hdl.handle.net/2297/3145</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KURA : 現代青年の友人関係と自己像・親友像についての発達的研究</Title>
-        <Url>http://hdl.handle.net/2297/3846</Url>
-        <ClickUrl>http://hdl.handle.net/2297/3846</ClickUrl>
+        <Title>KURA : 起止録 嘉永二年(1849)七月~十二月(翻刻)</Title>
+        <Url>http://hdl.handle.net/2297/9623</Url>
+        <ClickUrl>http://hdl.handle.net/2297/9623</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:30 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:29 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:38 PST 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:37 PST 2010 -->

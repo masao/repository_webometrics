@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="481"
+    totalResultsAvailable="488"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -35,6 +35,11 @@
         <Title>海軍予備員 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E4%BA%88%E5%82%99%E5%93%A1</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B5%B7%E8%BB%8D%E4%BA%88%E5%82%99%E5%93%A1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>5~6月頃に、外に洗濯物などを干していると、 その洗濯物がとても汚れてしまうというような場所を どなたかご存知でしょうか ...</Title>
@@ -97,14 +102,9 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=83</ClickUrl>
     </Result>
     <Result>
-        <Title>aquarium filters eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/aquarium-filters-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/aquarium-filters-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>kawasaki bayou 300 carb diagrahm eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/kawasaki-bayou-300-carb-diagrahm-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/kawasaki-bayou-300-carb-diagrahm-pdf.html</ClickUrl>
+        <Title>SWRMのヤング率 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=SWRM%E3%81%AE%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=SWRM%E3%81%AE%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87&amp;action=search</ClickUrl>
     </Result>
     <Result>
         <Title>Anna Zaretskaya*, Norwegian anaphora</Title>
@@ -157,11 +157,6 @@
         <ClickUrl>http://seonum.com/rank/%E8%92%B8%E6%B0%97+%E6%AF%94%E7%86%B1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>一括検索 -伝熱係数 sus-</Title>
-        <Url>http://seonum.com/rank/%E4%BC%9D%E7%86%B1%E4%BF%82%E6%95%B0+sus.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E4%BC%9D%E7%86%B1%E4%BF%82%E6%95%B0+sus.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>一括検索 -気泡 浮上速度-</Title>
         <Url>http://seonum.com/rank/%E6%B0%97%E6%B3%A1+%E6%B5%AE%E4%B8%8A%E9%80%9F%E5%BA%A6.html</Url>
         <ClickUrl>http://seonum.com/rank/%E6%B0%97%E6%B3%A1+%E6%B5%AE%E4%B8%8A%E9%80%9F%E5%BA%A6.html</ClickUrl>
@@ -202,24 +197,19 @@
         <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C6%E2%C5%AA%BC%AB%B0%D5%BC%B1%A4%CF+%C1%EA%C5%F6%CD%FD%C0%AD%C5%AA%A4%CF</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Dissertation</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</ClickUrl>
     </Result>
     <Result>
+        <Title>y_yanbeのRSSリーダー - 受信箱</Title>
+        <Url>http://r.hatena.ne.jp/y_yanbe/</Url>
+        <ClickUrl>http://r.hatena.ne.jp/y_yanbe/</ClickUrl>
+    </Result>
+    <Result>
         <Title>教えて進路Q&amp;amp;A あなたの質問にみんなが回答する!Q&amp;amp;A 断面積の違う熱伝導方程式</Title>
         <Url>http://oshiete.eibi.co.jp/qa4779221.html</Url>
         <ClickUrl>http://oshiete.eibi.co.jp/qa4779221.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山崎洋史 - あのひと検索 SPYSEE [スパイシー]</Title>
-        <Url>http://spysee.jp/%E5%B1%B1%E5%B4%8E%E6%B4%8B%E5%8F%B2</Url>
-        <ClickUrl>http://spysee.jp/%E5%B1%B1%E5%B4%8E%E6%B4%8B%E5%8F%B2</ClickUrl>
     </Result>
     <Result>
         <Title>大島正毅 - あのひと検索 SPYSEE [スパイシー]</Title>
@@ -247,15 +237,25 @@
         <ClickUrl>http://jairo.nii.ac.jp/0084/00000487</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 戦時急造艦の松型(丁型)駆逐艦に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0084/00000477</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0084/00000477</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 表紙・目次</Title>
         <Url>http://jairo.nii.ac.jp/0084/00000486</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0084/00000486</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIRO | LED漁灯の測光と対象種の光感覚に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0084/00000550</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0084/00000550</ClickUrl>
+    </Result>
+    <Result>
+        <Title>y_yanbeのRSSリーダー - 受信箱</Title>
+        <Url>http://r.hatena.ne.jp/y_yanbe/?of=210</Url>
+        <ClickUrl>http://r.hatena.ne.jp/y_yanbe/?of=210</ClickUrl>
+    </Result>
+    <Result>
+        <Title>y_yanbeのRSSリーダー - 受信箱</Title>
+        <Url>http://r.hatena.ne.jp/y_yanbe/?of=150</Url>
+        <ClickUrl>http://r.hatena.ne.jp/y_yanbe/?of=150</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:19 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:19 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:52 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:52 PST 2010 -->

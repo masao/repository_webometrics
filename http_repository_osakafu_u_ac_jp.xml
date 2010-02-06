@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="662"
+    totalResultsAvailable="657"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,6 +27,11 @@
         <ClickUrl>http://www.center.osakafu-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Osaka Prefecture University Repository: 特別養護老人ホームにおけるリスク ...</Title>
+        <Url>http://hdl.handle.net/10466/3503</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3503</ClickUrl>
+    </Result>
+    <Result>
         <Title>Osaka Prefecture University Repository: 自治体における子どもの権利に関する条例の制定動向</Title>
         <Url>http://hdl.handle.net/10466/3510</Url>
         <ClickUrl>http://hdl.handle.net/10466/3510</ClickUrl>
@@ -47,9 +52,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Prefecture University Repository: 特別養護老人ホームにおけるリスク ...</Title>
-        <Url>http://hdl.handle.net/10466/3503</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3503</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
         <Title>Osaka Prefecture University Repository: セルフヘルプ・グループの参加者による実践に ...</Title>
@@ -87,11 +92,6 @@
         <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/03/opera20090331.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Coiso .pdf Ebook Download</Title>
         <Url>http://www.pdf-search-engine.com/coiso-pdf.html</Url>
         <ClickUrl>http://www.pdf-search-engine.com/coiso-pdf.html</ClickUrl>
@@ -100,11 +100,6 @@
         <Title>robinson crusoe level 2 - PDF Search engine. Free pdf search ...</Title>
         <Url>http://pdf.rapid4me.com/?q=robinson+crusoe+level+2&amp;p=9</Url>
         <ClickUrl>http://pdf.rapid4me.com/?q=robinson+crusoe+level+2&amp;p=9</ClickUrl>
-    </Result>
-    <Result>
-        <Title>3a-hydroxy-5a-pregnan-20&lt;wbr&gt;-one : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학 ...</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=3a-hydroxy-5a-pregnan-20-one</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=3a-hydroxy-5a-pregnan-20-one</ClickUrl>
     </Result>
     <Result>
         <Title>tasso eBook Downloads</Title>
@@ -135,6 +130,11 @@
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=130</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=130</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -177,9 +177,19 @@
         <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2007/04/2007.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Ebooks search results for &quot;albee three tall women&quot;</Title>
+        <Url>http://pdfse.com/albee-three-tall-women</Url>
+        <ClickUrl>http://pdfse.com/albee-three-tall-women</ClickUrl>
+    </Result>
+    <Result>
         <Title>abomasus : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
         <Url>http://www.kmle.co.kr/search.php?Search=abomasus</Url>
         <ClickUrl>http://www.kmle.co.kr/search.php?Search=abomasus</ClickUrl>
+    </Result>
+    <Result>
+        <Title>neurocyte : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=neurocyte</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=neurocyte</ClickUrl>
     </Result>
     <Result>
         <Title>polestar writing course 解答 - results - www.purimblog.net</Title>
@@ -207,14 +217,14 @@
         <ClickUrl>http://www.pdfgeni.com/book/type-curve-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>bodie solutions eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/bodie-solutions-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/bodie-solutions-pdf.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>cathedral carver eBook Downloads</Title>
         <Url>http://www.pdfgeni.com/book/cathedral-carver-pdf.html</Url>
         <ClickUrl>http://www.pdfgeni.com/book/cathedral-carver-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>carver cathedral eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/carver-cathedral-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/carver-cathedral-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>roppo il contratto eBook Downloads</Title>
@@ -237,25 +247,15 @@
         <ClickUrl>http://www.pdfgeni.com/book/works-of-raymond-carver-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>life of greece will durant eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/life-of-greece-will-durant-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/life-of-greece-will-durant-pdf.html</ClickUrl>
+        <Title>enterprise economic book eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/enterprise-economic-book-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/enterprise-economic-book-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>ch 0 portrait of linear algebra eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/ch-0-portrait-of-linear-algebra-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/ch-0-portrait-of-linear-algebra-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>comparative international accounting frederick choi eBook ...</Title>
-        <Url>http://www.pdfgeni.com/book/comparative-international-accounting-frederick-choi-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/comparative-international-accounting-frederick-choi-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>what we talk about when we talk about love raymond carver ...</Title>
-        <Url>http://www.pdfgeni.com/book/what-we-talk-about-when-we-talk-about-love-raymond-carver-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/what-we-talk-about-when-we-talk-about-love-raymond-carver-pdf.html</ClickUrl>
+        <Title>ramond carvers neighbors eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/ramond-carvers-neighbors-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/ramond-carvers-neighbors-pdf.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:56 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:56 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:51 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:51 PST 2010 -->

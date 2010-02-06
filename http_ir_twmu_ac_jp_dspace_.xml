@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="207"
+    totalResultsAvailable="202"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -45,6 +45,11 @@
         <Title>東京女子医科大学図書館_大東分室</Title>
         <Url>http://www.twmu.ac.jp/U/facilities/f04lib_daito.html</Url>
         <ClickUrl>http://www.twmu.ac.jp/U/facilities/f04lib_daito.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -112,24 +117,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0109/00008929</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 治療計画と複数ナビゲーションの統合によるMRI誘導下穿刺術の&lt;wbr&gt;精度向上</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008920</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008920</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | Inhibition of mitochondrial remodeling by ...</Title>
         <Url>http://jairo.nii.ac.jp/0109/00008923</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0109/00008923</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 表紙,目次,奥付等</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00000349</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00000349</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Twinkle 誕生!-キラリと輝くコンテンツ- 東京女子医科大学学術リポジトリの紹介</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008928</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008928</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 東京女子医科大学学術リポジトリTwinkleの紹介</Title>
@@ -137,24 +127,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0109/00008926</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Long-term prognostic assessment of 185 newly ...</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008922</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008922</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | (シンポジウム 交通災害)頸髄損傷と鞭打ち損傷</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00000313</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00000313</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | EXPERIENCES IN YAG LASER THERAPY OF HEMANGIOMA</Title>
         <Url>http://jairo.nii.ac.jp/0109/00008573</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0109/00008573</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 中学生の健康問題への意識と課題の実態調査-大東町立中学校教員&lt;wbr&gt;への質問紙調査を通して-</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008776</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008776</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Twinkle 誕生!-キラリと輝くコンテンツ- 東京女子医科大学学術リポジトリの紹介</Title>
@@ -175,6 +150,11 @@
         <Title>JAIRO | 大動脈壁の加齢変容</Title>
         <Url>http://jairo.nii.ac.jp/0109/00007702</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0109/00007702</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中学生の健康問題への意識と課題の実態調査-大東町立中学校教員&lt;wbr&gt;への質問紙調査を通して-</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008776</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008776</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 悪性腫瘍に対する全身温熱化学療法の現状</Title>
@@ -256,6 +236,26 @@
         <Url>http://www.twmu.jp/U/facilities/f04library.html</Url>
         <ClickUrl>http://www.twmu.jp/U/facilities/f04library.html</ClickUrl>
     </Result>
+    <Result>
+        <Title>東京女子医科大学図書館_看護専門学校分室</Title>
+        <Url>http://twmu.ac.jp/U/facilities/f04lib_kansen.html</Url>
+        <ClickUrl>http://twmu.ac.jp/U/facilities/f04lib_kansen.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 大東町の食文化の変遷と住民の生活の質の変化に関する研究&lt;wbr&gt;(第二報)-壮年期世代の伝統食の伝承に関する認識&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008775</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008775</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 人間関係教育を包含するテュートリアル教育</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008794</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008794</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | (未来医学事典)注射針の最新動向と未来技術</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008822</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008822</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:43 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:43 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:23 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:23 PST 2010 -->

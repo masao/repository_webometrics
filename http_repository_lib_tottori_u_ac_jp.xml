@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="377"
+    totalResultsAvailable="374"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -28,8 +28,8 @@
     </Result>
     <Result>
         <Title>ソフトエネルギー</Title>
-        <Url>http://greenpost.way-nifty.com/softenergy/</Url>
-        <ClickUrl>http://greenpost.way-nifty.com/softenergy/</ClickUrl>
+        <Url>http://greenpost.way-nifty.com/softenergy</Url>
+        <ClickUrl>http://greenpost.way-nifty.com/softenergy</ClickUrl>
     </Result>
     <Result>
         <Title>Bbs.lib.inc.php eBooks Top 20 - Printfu PDF Search</Title>
@@ -47,14 +47,19 @@
         <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?menuid=1023</ClickUrl>
     </Result>
     <Result>
-        <Title>akemi yanagihara - 夢人</Title>
-        <Url>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</Url>
-        <ClickUrl>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</ClickUrl>
+        <Title>al hejap | al hejap news | Recentnews.co.uk</Title>
+        <Url>http://www.recentnews.co.uk/al%20hejap/</Url>
+        <ClickUrl>http://www.recentnews.co.uk/al%20hejap/</ClickUrl>
     </Result>
     <Result>
-        <Title>ソフトエネルギー: エネルギー</Title>
-        <Url>http://greenpost.way-nifty.com/softenergy/cat5374641/index.html</Url>
-        <ClickUrl>http://greenpost.way-nifty.com/softenergy/cat5374641/index.html</ClickUrl>
+        <Title>鳥取大学医学図書館</Title>
+        <Url>http://lib.med.tottori-u.ac.jp/homepage.html</Url>
+        <ClickUrl>http://lib.med.tottori-u.ac.jp/homepage.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>SHERIDAN STYLE eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/SHERIDAN-STYLE-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/SHERIDAN-STYLE-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>ソフトエネルギー: 100国内</Title>
@@ -72,9 +77,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Tractive Force Surface of River Bank due to Overflow</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001351/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001351/en</ClickUrl>
+        <Title>u18 め~る式 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=u18+%E3%82%81%EF%BD%9E%E3%82%8B%E5%BC%8F&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=u18+%E3%82%81%EF%BD%9E%E3%82%8B%E5%BC%8F&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>crown english series I 本文全訳 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=crown+english+series+I+%E6%9C%AC%E6%96%87%E5%85%A8%E8%A8%B3&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=crown+english+series+I+%E6%9C%AC%E6%96%87%E5%85%A8%E8%A8%B3&amp;action=search</ClickUrl>
     </Result>
     <Result>
         <Title>三晃金属 折版単位重量 - results - www.frestres.com</Title>
@@ -82,29 +92,19 @@
         <ClickUrl>http://www.frestres.com/engsearch.php?title=%E4%B8%89%E6%99%83%E9%87%91%E5%B1%9E%E3%80%80%E6%8A%98%E7%89%88%E5%8D%98%E4%BD%8D%E9%87%8D%E9%87%8F&amp;action=search</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Gauge RR eBook Downloads</Title>
         <Url>http://www.pdfgeni.com/book/Gauge-RR-pdf.html</Url>
         <ClickUrl>http://www.pdfgeni.com/book/Gauge-RR-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>dip meter eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/dip-meter-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/dip-meter-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SHERIDAN STYLE eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/SHERIDAN-STYLE-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/SHERIDAN-STYLE-pdf.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>competency based resume eBook Downloads</Title>
         <Url>http://www.pdfgeni.com/book/competency-based-resume-pdf.html</Url>
         <ClickUrl>http://www.pdfgeni.com/book/competency-based-resume-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>evapotranspiration method eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/evapotranspiration-method-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/evapotranspiration-method-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>School Management in Japan eBook Downloads</Title>
@@ -115,11 +115,6 @@
         <Title>estimating evapotranspiration eBook Downloads</Title>
         <Url>http://www.pdfgeni.com/book/estimating-evapotranspiration-pdf.html</Url>
         <ClickUrl>http://www.pdfgeni.com/book/estimating-evapotranspiration-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>geotechnical engineering study eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/geotechnical-engineering-study-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/geotechnical-engineering-study-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>悪魔の血 eBook Downloads</Title>
@@ -137,9 +132,9 @@
         <ClickUrl>http://www.pdfgeni.com/book/School-Administration-Management-in-Japan-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>鳥取大学医学図書館</Title>
-        <Url>http://lib.med.tottori-u.ac.jp/HOMEPAGE.html</Url>
-        <ClickUrl>http://lib.med.tottori-u.ac.jp/HOMEPAGE.html</ClickUrl>
+        <Title>Passive and Active Network Analysis and Synthesis eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/Passive-and-Active-Network-Analysis-and-Synthesis-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/Passive-and-Active-Network-Analysis-and-Synthesis-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>企業の方へ/鳥取大学公式ホームページ</Title>
@@ -197,6 +192,11 @@
         <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?itemid=3005</ClickUrl>
     </Result>
     <Result>
+        <Title>荒木有美 プロフィール - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E8%8D%92%E6%9C%A8%E6%9C%89%E7%BE%8E/1215319/</Url>
+        <ClickUrl>http://spysee.jp/%E8%8D%92%E6%9C%A8%E6%9C%89%E7%BE%8E/1215319/</ClickUrl>
+    </Result>
+    <Result>
         <Title>企業の方へ/鳥取大学公式ホームページ</Title>
         <Url>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110&amp;pfromid=0</Url>
         <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110&amp;pfromid=0</ClickUrl>
@@ -232,6 +232,11 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001815</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIRO | 1 Summaries of Doctor Theses</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000946</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000946</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | ケヤキの利用材積と材質について</Title>
         <Url>http://jairo.nii.ac.jp/0112/00001356</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001356</ClickUrl>
@@ -251,11 +256,6 @@
         <Url>http://jairo.nii.ac.jp/0112/00001387</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001387</ClickUrl>
     </Result>
-    <Result>
-        <Title>JAIRO | 体育授業における走り高跳びの用器具の工夫について</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001081</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001081</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:51 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:51 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:33 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:33 PST 2010 -->

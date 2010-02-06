@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="879"
+    totalResultsAvailable="876"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -72,6 +72,11 @@
         <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-2.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
@@ -130,6 +135,16 @@
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=26</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=26</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Identify Response</Title>
+        <Url>http://celestial.eprints.org/oai/.unknown?verb=Identify</Url>
+        <ClickUrl>http://celestial.eprints.org/oai/.unknown?verb=Identify</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -212,14 +227,14 @@
         <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=24</ClickUrl>
     </Result>
     <Result>
-        <Title>Media Resource Center - Library Info</Title>
-        <Url>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=46</Url>
-        <ClickUrl>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=46</ClickUrl>
-    </Result>
-    <Result>
         <Title>RCAPS Web site</Title>
         <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=28</Url>
         <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=28</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Media Resource Center - Library Info</Title>
+        <Url>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=46</Url>
+        <ClickUrl>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=46</ClickUrl>
     </Result>
     <Result>
         <Title>RCAPS Web site</Title>
@@ -241,21 +256,6 @@
         <Url>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=16</Url>
         <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=16</ClickUrl>
     </Result>
-    <Result>
-        <Title>Media Resource Center - Library Info</Title>
-        <Url>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=71</Url>
-        <ClickUrl>http://www.apu.ac.jp/media/modules/libraryinfo/index.php?id=71</ClickUrl>
-    </Result>
-    <Result>
-        <Title>RCAPS Web site</Title>
-        <Url>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=18</Url>
-        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/print.php?id=18</ClickUrl>
-    </Result>
-    <Result>
-        <Title>RCAPS Web site - Publication Content</Title>
-        <Url>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=25</Url>
-        <ClickUrl>http://www.apu.ac.jp/rcaps/modules/publication/index.php?id=25</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:17 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:17 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:22 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:22 PST 2010 -->

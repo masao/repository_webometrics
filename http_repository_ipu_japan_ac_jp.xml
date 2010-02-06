@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2230"
+    totalResultsAvailable="2086"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -47,11 +47,6 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
@@ -87,6 +82,16 @@
         <ClickUrl>http://www.ipu-japan.ac.jp/library/</ClickUrl>
     </Result>
     <Result>
+        <Title>環太平洋大学附属図書館、環太平洋大学研究成果リポジトリを公開&lt;wbr&gt;(2009-01-**) - ACADEMIC ...</Title>
+        <Url>http://d.hatena.ne.jp/arg/20090227/1235742768</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20090227/1235742768</ClickUrl>
+    </Result>
+    <Result>
+        <Title>kurokawa kiyoshi - 注目商品ピック</Title>
+        <Url>http://www.at-pop.com/ap/kurokawa+kiyoshi/</Url>
+        <ClickUrl>http://www.at-pop.com/ap/kurokawa+kiyoshi/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/,</Url>
         <ClickUrl>http://celestial.eprints.org/,</ClickUrl>
@@ -95,11 +100,6 @@
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/Error</Url>
         <ClickUrl>http://celestial.eprints.org/Error</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/news/</Url>
-        <ClickUrl>http://celestial.eprints.org/news/</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Edit Archive Record</Title>
@@ -127,11 +127,6 @@
         <ClickUrl>http://www.opendoar.org/find.php?search=International+Pacific+University&amp;title=International+Pacific+University</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=2</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=2</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - 環太平洋大学研究成果リポジトリ (IPU REPOSITORY)</Title>
         <Url>http://www.opendoar.org/find.php?format=full&amp;search=%E7%92%B0%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA+(IPU+REPOSITORY)&amp;title=SUPPRESS</Url>
         <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=%E7%92%B0%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%A4%A7%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA+(IPU+REPOSITORY)&amp;title=SUPPRESS</ClickUrl>
@@ -140,6 +135,11 @@
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=121</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=121</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Identify Response</Title>
+        <Url>http://celestial.eprints.org/oai/.unknown?verb=Identify</Url>
+        <ClickUrl>http://celestial.eprints.org/oai/.unknown?verb=Identify</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -212,11 +212,6 @@
         <ClickUrl>http://ipu-japan.ac.jp/library/opac/</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
-        <Url>http://roar.eprints.org/view/software/eprints/eprints-3=2E1=2E0.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/software/eprints/eprints-3=2E1=2E0.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
@@ -256,6 +251,11 @@
         <Url>http://ipu-japan.ac.jp/library/qanda/</Url>
         <ClickUrl>http://ipu-japan.ac.jp/library/qanda/</ClickUrl>
     </Result>
+    <Result>
+        <Title>環太平洋大学附属図書館 &quot; リンクページ</Title>
+        <Url>http://ipu-japan.ac.jp/library/links/</Url>
+        <ClickUrl>http://ipu-japan.ac.jp/library/links/</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:55 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:55 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:38 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:38 PST 2010 -->

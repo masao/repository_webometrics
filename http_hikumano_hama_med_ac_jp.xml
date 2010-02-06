@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="537"
+    totalResultsAvailable="550"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,29 +52,39 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>HamaMed-Repository: 正所および異所子宮内膜腺管上皮培養細胞からのCA125産生に&lt;wbr&gt;関する基礎的検討</Title>
-        <Url>http://hdl.handle.net/10271/133</Url>
-        <ClickUrl>http://hdl.handle.net/10271/133</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
-        <Title>HamaMed-Repository: 胎児発育における血液凝固能の変動</Title>
-        <Url>http://hdl.handle.net/10271/159</Url>
-        <ClickUrl>http://hdl.handle.net/10271/159</ClickUrl>
+        <Title>HamaMed-Repository: 20 学位論文</Title>
+        <Url>http://hdl.handle.net/10271/3</Url>
+        <ClickUrl>http://hdl.handle.net/10271/3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HamaMed-Repository: 螢光を用いた胎便吸引症候群(MAS)の特異的診断法に関する研&lt;wbr&gt;究</Title>
+        <Url>http://hdl.handle.net/10271/147</Url>
+        <ClickUrl>http://hdl.handle.net/10271/147</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HamaMed-Repository: Urinary trypsin inhibitor(UTI)の癌転移抑制作用と手術 ...</Title>
+        <Url>http://hdl.handle.net/10271/109</Url>
+        <ClickUrl>http://hdl.handle.net/10271/109</ClickUrl>
     </Result>
     <Result>
         <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
@@ -87,6 +97,11 @@
         <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>学位論文検索サイト</Title>
         <Url>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</Url>
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</ClickUrl>
@@ -97,14 +112,9 @@
         <ClickUrl>http://d.hatena.ne.jp/arg/20080325/1206374304</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>eight mansion - PDF Search engine. Free pdf search and download.</Title>
-        <Url>http://pdf.rapid4me.com/?q=eight+mansion</Url>
-        <ClickUrl>http://pdf.rapid4me.com/?q=eight+mansion</ClickUrl>
+        <Title>HamaMed-Repository: 胎児発育における血液凝固能の変動</Title>
+        <Url>http://hdl.handle.net/10271/159</Url>
+        <ClickUrl>http://hdl.handle.net/10271/159</ClickUrl>
     </Result>
     <Result>
         <Title>一括検索 -and/or-</Title>
@@ -137,6 +147,11 @@
         <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%B9%A1%E8%8A%BD%E3%81%AB%E3%81%8F%E3%80%80%E3%83%88%E3%83%AC%E3%82%B9&amp;action=search</ClickUrl>
     </Result>
     <Result>
+        <Title>6116nakanarihu</Title>
+        <Url>http://typewiki.info/keyword/net/blog6116.html</Url>
+        <ClickUrl>http://typewiki.info/keyword/net/blog6116.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>郡山女子大学図書館 - リンク集</Title>
         <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewfeed.php?page=156</Url>
         <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewfeed.php?page=156</ClickUrl>
@@ -152,9 +167,19 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>vocabulary latin greek roots eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/vocabulary-latin-greek-roots-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/vocabulary-latin-greek-roots-pdf.html</ClickUrl>
+        <Title>kusanagi eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/kusanagi-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/kusanagi-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>yolk AND sac AND stem AND cell eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/yolk-AND-sac-AND-stem-AND-cell-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/yolk-AND-sac-AND-stem-AND-cell-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>yolk AND sack AND stem AND cell eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/yolk-AND-sack-AND-stem-AND-cell-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/yolk-AND-sack-AND-stem-AND-cell-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Loss of claudin-1 expression correlates with ...</Title>
@@ -231,31 +256,6 @@
         <Url>http://www.mfj.gr.jp/web/fr/ubiblj-f.html</Url>
         <ClickUrl>http://www.mfj.gr.jp/web/fr/ubiblj-f.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>お知らせ</Title>
-        <Url>http://www2.hama-med.ac.jp/w3a/toshokan/oshirase.html</Url>
-        <ClickUrl>http://www2.hama-med.ac.jp/w3a/toshokan/oshirase.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - HamaMed-Repository: 浜松医医科大学学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=239</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=239</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Dissertation</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:16 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:16 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:48 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:48 PST 2010 -->

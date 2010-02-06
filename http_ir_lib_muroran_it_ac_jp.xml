@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="970"
+    totalResultsAvailable="960"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -37,6 +37,11 @@
         <ClickUrl>http://mitlib.lib.muroran-it.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
@@ -45,11 +50,6 @@
         <Title>屋内バイクトレーニング時のトライアスロン熟練者の発汗量と体表&lt;wbr&gt;面温度の測定: Muroran-IT Academic ...</Title>
         <Url>http://hdl.handle.net/10258/438</Url>
         <ClickUrl>http://hdl.handle.net/10258/438</ClickUrl>
-    </Result>
-    <Result>
-        <Title>小型超音速飛行実験機の空力特性: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/428</Url>
-        <ClickUrl>http://hdl.handle.net/10258/428</ClickUrl>
     </Result>
     <Result>
         <Title>ローカル・マニフェストのリアリティ : 地方政治変革の潮流: Muroran-IT Academic Resources ...</Title>
@@ -62,9 +62,9 @@
         <ClickUrl>http://hdl.handle.net/10258/424</ClickUrl>
     </Result>
     <Result>
-        <Title>吸込み式超音速風洞におけるスターティングロードの計測と評価&lt;wbr&gt;: Muroran-IT Academic Resources ...</Title>
-        <Url>http://hdl.handle.net/10258/430</Url>
-        <ClickUrl>http://hdl.handle.net/10258/430</ClickUrl>
+        <Title>小型超音速飛行実験機の空力特性: Muroran-IT Academic Resources Archive</Title>
+        <Url>http://hdl.handle.net/10258/428</Url>
+        <ClickUrl>http://hdl.handle.net/10258/428</ClickUrl>
     </Result>
     <Result>
         <Title>Upper Bounds on Percolation Probabilities for Oriented Bond ...</Title>
@@ -77,6 +77,11 @@
         <ClickUrl>http://hdl.handle.net/10258/354</ClickUrl>
     </Result>
     <Result>
+        <Title>ロケット燃焼室におけるニッケル電鋳特性向上に関する基礎研究&lt;wbr&gt;: Muroran-IT Academic Resources ...</Title>
+        <Url>http://hdl.handle.net/10258/426</Url>
+        <ClickUrl>http://hdl.handle.net/10258/426</ClickUrl>
+    </Result>
+    <Result>
         <Title>グリーン水素製造 (第2報) 金属酸化物担持ニッケル触媒によるメタン分解反応: Muroran-IT Academic ...</Title>
         <Url>http://hdl.handle.net/10258/435</Url>
         <ClickUrl>http://hdl.handle.net/10258/435</ClickUrl>
@@ -87,19 +92,9 @@
         <ClickUrl>http://hdl.handle.net/10258/429</ClickUrl>
     </Result>
     <Result>
-        <Title>ロケット燃焼室におけるニッケル電鋳特性向上に関する基礎研究&lt;wbr&gt;: Muroran-IT Academic Resources ...</Title>
-        <Url>http://hdl.handle.net/10258/426</Url>
-        <ClickUrl>http://hdl.handle.net/10258/426</ClickUrl>
-    </Result>
-    <Result>
         <Title>北海道内市町村の鳥獣被害への取り組み: Muroran-IT Academic Resources Archive</Title>
         <Url>http://hdl.handle.net/10258/436</Url>
         <ClickUrl>http://hdl.handle.net/10258/436</ClickUrl>
-    </Result>
-    <Result>
-        <Title>反転ファンターボジェットエンジンの研究: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/423</Url>
-        <ClickUrl>http://hdl.handle.net/10258/423</ClickUrl>
     </Result>
     <Result>
         <Title>Blake の A Vision of the Last Judgment について: Muroran-IT ...</Title>
@@ -107,19 +102,24 @@
         <ClickUrl>http://hdl.handle.net/10258/433</ClickUrl>
     </Result>
     <Result>
-        <Title>北海道稚内市の洪水ハザードマップ作成 および避難に関する考察: Muroran-IT Academic Resources ...</Title>
-        <Url>http://hdl.handle.net/10258/437</Url>
-        <ClickUrl>http://hdl.handle.net/10258/437</ClickUrl>
-    </Result>
-    <Result>
         <Title>Study on Electric Properties of Gadolinium Nitrate Crystals ...</Title>
         <Url>http://hdl.handle.net/10258/431</Url>
         <ClickUrl>http://hdl.handle.net/10258/431</ClickUrl>
     </Result>
     <Result>
+        <Title>反転ファンターボジェットエンジンの研究: Muroran-IT Academic Resources Archive</Title>
+        <Url>http://hdl.handle.net/10258/423</Url>
+        <ClickUrl>http://hdl.handle.net/10258/423</ClickUrl>
+    </Result>
+    <Result>
         <Title>熱分解吸熱反応燃料に関する研究: Muroran-IT Academic Resources Archive</Title>
         <Url>http://hdl.handle.net/10258/427</Url>
         <ClickUrl>http://hdl.handle.net/10258/427</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道稚内市の洪水ハザードマップ作成 および避難に関する考察: Muroran-IT Academic Resources ...</Title>
+        <Url>http://hdl.handle.net/10258/437</Url>
+        <ClickUrl>http://hdl.handle.net/10258/437</ClickUrl>
     </Result>
     <Result>
         <Title>室蘭工業大学「エンジニアリング・デザイン教育ネットワーク」の&lt;wbr&gt;活動報告: Muroran-IT Academic ...</Title>
@@ -227,19 +227,9 @@
         <ClickUrl>http://hdl.handle.net/10258/414</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
-    </Result>
-    <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Department of Civil Engineering and Architecture: Muroran-IT ...</Title>
@@ -256,6 +246,16 @@
         <Url>http://hdl.handle.net/10258/219</Url>
         <ClickUrl>http://hdl.handle.net/10258/219</ClickUrl>
     </Result>
+    <Result>
+        <Title>臭いセンサーマイクロチップの開発: Muroran-IT Academic Resources Archive</Title>
+        <Url>http://hdl.handle.net/10258/410</Url>
+        <ClickUrl>http://hdl.handle.net/10258/410</ClickUrl>
+    </Result>
+    <Result>
+        <Title>最も有名なハワイ語動詞alohaの用法について: Muroran-IT Academic Resources Archive</Title>
+        <Url>http://hdl.handle.net/10258/237</Url>
+        <ClickUrl>http://hdl.handle.net/10258/237</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:54 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:54 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:09 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:09 PST 2010 -->

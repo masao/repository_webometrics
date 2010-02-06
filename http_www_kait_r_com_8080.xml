@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="250"
+    totalResultsAvailable="255"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,6 +52,11 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
     </Result>
     <Result>
+        <Title>社会政策・労働問題研究の歴史分析、メモ帳</Title>
+        <Url>http://ryojikaneko.blog78.fc2.com/</Url>
+        <ClickUrl>http://ryojikaneko.blog78.fc2.com/</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
@@ -62,19 +67,24 @@
         <ClickUrl>http://fr.wikipedia.org/wiki/M%C3%A9garon</ClickUrl>
     </Result>
     <Result>
-        <Title>Gas Hold Up .pdf Ebook Download</Title>
-        <Url>http://www.pdf-search-engine.com/gas-hold-up-pdf.html</Url>
-        <ClickUrl>http://www.pdf-search-engine.com/gas-hold-up-pdf.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>greek gods eBook Downloads</Title>
         <Url>http://www.pdfgeni.com/ref/greek-gods-pdf.html</Url>
         <ClickUrl>http://www.pdfgeni.com/ref/greek-gods-pdf.html</ClickUrl>
     </Result>
     <Result>
+        <Title>社会政策・労働問題研究の歴史分析、メモ帳 行き詰る家研究</Title>
+        <Url>http://ryojikaneko.blog78.fc2.com/blog-entry-101.html</Url>
+        <ClickUrl>http://ryojikaneko.blog78.fc2.com/blog-entry-101.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=91</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=91</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -117,14 +127,34 @@
         <ClickUrl>http://www.pdfgeni.com/book/Greek-hera-pdf.html</ClickUrl>
     </Result>
     <Result>
+        <Title>algebra 014 eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/algebra-014-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/algebra-014-pdf.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>GAP +air +mirror eBook Downloads</Title>
         <Url>http://www.pdfgeni.com/book/GAP-+air-+mirror-pdf.html</Url>
         <ClickUrl>http://www.pdfgeni.com/book/GAP-+air-+mirror-pdf.html</ClickUrl>
     </Result>
     <Result>
+        <Title>elements of alegbra eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/elements-of-alegbra-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/elements-of-alegbra-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>100 -200 sprint training eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/100--200-sprint-training-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/100--200-sprint-training-pdf.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>in the hand of the goddess eBook Downloads</Title>
         <Url>http://www.pdfgeni.com/book/in-the-hand-of-the-goddess-pdf.html</Url>
         <ClickUrl>http://www.pdfgeni.com/book/in-the-hand-of-the-goddess-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>biomechanical development of running shoes eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/biomechanical-development-of-running-shoes-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/biomechanical-development-of-running-shoes-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>アナモルフォーズ | j-all</Title>
@@ -167,9 +197,9 @@
         <ClickUrl>http://seonum.com/rank/%E5%9C%9F+%E4%BD%93%E7%A9%8D%E5%BC%BE%E6%80%A7%E7%8E%87.html</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 太伯は 回転式マイクは</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C2%C0%C7%EC%A4%CF+%B2%F3%C5%BE%BC%B0%A5%DE%A5%A4%A5%AF%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C2%C0%C7%EC%A4%CF+%B2%F3%C5%BE%BC%B0%A5%DE%A5%A4%A5%AF%A4%CF</ClickUrl>
+        <Title>社会政策・労働問題研究の歴史分析、メモ帳 学際的領域</Title>
+        <Url>http://ryojikaneko.blog78.fc2.com/blog-category-11.html</Url>
+        <ClickUrl>http://ryojikaneko.blog78.fc2.com/blog-category-11.html</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 低アスペクト比の純流体論理素子に関する研究</Title>
@@ -226,36 +256,6 @@
         <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php</ClickUrl>
     </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_name_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_name_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>マイフレンド</Title>
-        <Url>http://sesame.selfip.net/sesame/my_friend.aspx?sel_tool=f_journal&amp;user=yakumosora&amp;query=%E8%A8%80%E8%AA%9E%E5%AD%A6</Url>
-        <ClickUrl>http://sesame.selfip.net/sesame/my_friend.aspx?sel_tool=f_journal&amp;user=yakumosora&amp;query=%E8%A8%80%E8%AA%9E%E5%AD%A6</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:31 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:31 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:07 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:07 PST 2010 -->

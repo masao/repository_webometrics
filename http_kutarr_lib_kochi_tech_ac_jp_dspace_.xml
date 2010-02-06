@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="397"
+    totalResultsAvailable="399"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -32,6 +32,11 @@
         <ClickUrl>http://www.kochi-tech.ac.jp/library/</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
         <Url>http://hdl.handle.net/10173/279</Url>
         <ClickUrl>http://hdl.handle.net/10173/279</ClickUrl>
@@ -58,13 +63,13 @@
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/400</Url>
-        <ClickUrl>http://hdl.handle.net/10173/400</ClickUrl>
+        <Url>http://hdl.handle.net/10173/305</Url>
+        <ClickUrl>http://hdl.handle.net/10173/305</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/305</Url>
-        <ClickUrl>http://hdl.handle.net/10173/305</ClickUrl>
+        <Url>http://hdl.handle.net/10173/400</Url>
+        <ClickUrl>http://hdl.handle.net/10173/400</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
@@ -152,34 +157,9 @@
         <ClickUrl>http://hdl.handle.net/10173/138</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/238</Url>
-        <ClickUrl>http://hdl.handle.net/10173/238</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/350</Url>
-        <ClickUrl>http://hdl.handle.net/10173/350</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/198</Url>
-        <ClickUrl>http://hdl.handle.net/10173/198</ClickUrl>
-    </Result>
-    <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
         <Url>http://hdl.handle.net/10173/217</Url>
         <ClickUrl>http://hdl.handle.net/10173/217</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/209</Url>
-        <ClickUrl>http://hdl.handle.net/10173/209</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
@@ -193,8 +173,8 @@
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/244</Url>
-        <ClickUrl>http://hdl.handle.net/10173/244</ClickUrl>
+        <Url>http://hdl.handle.net/10173/319</Url>
+        <ClickUrl>http://hdl.handle.net/10173/319</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
@@ -203,8 +183,8 @@
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/319</Url>
-        <ClickUrl>http://hdl.handle.net/10173/319</ClickUrl>
+        <Url>http://hdl.handle.net/10173/209</Url>
+        <ClickUrl>http://hdl.handle.net/10173/209</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
@@ -213,13 +193,18 @@
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/357</Url>
-        <ClickUrl>http://hdl.handle.net/10173/357</ClickUrl>
+        <Url>http://hdl.handle.net/10173/323</Url>
+        <ClickUrl>http://hdl.handle.net/10173/323</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/191</Url>
-        <ClickUrl>http://hdl.handle.net/10173/191</ClickUrl>
+        <Url>http://hdl.handle.net/10173/206</Url>
+        <ClickUrl>http://hdl.handle.net/10173/206</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
+        <Url>http://hdl.handle.net/10173/357</Url>
+        <ClickUrl>http://hdl.handle.net/10173/357</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
@@ -233,18 +218,8 @@
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/206</Url>
-        <ClickUrl>http://hdl.handle.net/10173/206</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
         <Url>http://hdl.handle.net/10173/199</Url>
         <ClickUrl>http://hdl.handle.net/10173/199</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
-        <Url>http://hdl.handle.net/10173/220</Url>
-        <ClickUrl>http://hdl.handle.net/10173/220</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
@@ -253,9 +228,34 @@
     </Result>
     <Result>
         <Title>Kochi University of Technology Academic Resource Repository ...</Title>
+        <Url>http://hdl.handle.net/10173/286</Url>
+        <ClickUrl>http://hdl.handle.net/10173/286</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
         <Url>http://hdl.handle.net/10173/195</Url>
         <ClickUrl>http://hdl.handle.net/10173/195</ClickUrl>
     </Result>
+    <Result>
+        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
+        <Url>http://hdl.handle.net/10173/186</Url>
+        <ClickUrl>http://hdl.handle.net/10173/186</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
+        <Url>http://hdl.handle.net/10173/220</Url>
+        <ClickUrl>http://hdl.handle.net/10173/220</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
+        <Url>http://hdl.handle.net/10173/284</Url>
+        <ClickUrl>http://hdl.handle.net/10173/284</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kochi University of Technology Academic Resource Repository ...</Title>
+        <Url>http://hdl.handle.net/10173/355</Url>
+        <ClickUrl>http://hdl.handle.net/10173/355</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:40 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:40 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:50 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:50 PST 2010 -->

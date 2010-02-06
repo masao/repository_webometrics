@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="21265"
+    totalResultsAvailable="21189"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -55,6 +55,11 @@
         <Title>日録メモ風の更新情報 坂本衛|MAMO&apos;s</Title>
         <Url>http://www.aa.alpha-net.ne.jp/mamos/whatsnew.html</Url>
         <ClickUrl>http://www.aa.alpha-net.ne.jp/mamos/whatsnew.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>日本思想史研究室</Title>
@@ -142,6 +147,11 @@
         <ClickUrl>http://hdl.handle.net/10097/35863</ClickUrl>
     </Result>
     <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35928</Title>
+        <Url>http://hdl.handle.net/10097/35928</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35928</ClickUrl>
+    </Result>
+    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/30743</Title>
         <Url>http://hdl.handle.net/10097/30743</Url>
         <ClickUrl>http://hdl.handle.net/10097/30743</ClickUrl>
@@ -177,19 +187,29 @@
         <ClickUrl>http://hdl.handle.net/10097/39877</ClickUrl>
     </Result>
     <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35804</Title>
+        <Url>http://hdl.handle.net/10097/35804</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35804</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/40083</Title>
+        <Url>http://hdl.handle.net/10097/40083</Url>
+        <ClickUrl>http://hdl.handle.net/10097/40083</ClickUrl>
+    </Result>
+    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/35550</Title>
         <Url>http://hdl.handle.net/10097/35550</Url>
         <ClickUrl>http://hdl.handle.net/10097/35550</ClickUrl>
     </Result>
     <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/30750</Title>
-        <Url>http://hdl.handle.net/10097/30750</Url>
-        <ClickUrl>http://hdl.handle.net/10097/30750</ClickUrl>
-    </Result>
-    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/34625</Title>
         <Url>http://hdl.handle.net/10097/34625</Url>
         <ClickUrl>http://hdl.handle.net/10097/34625</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/30750</Title>
+        <Url>http://hdl.handle.net/10097/30750</Url>
+        <ClickUrl>http://hdl.handle.net/10097/30750</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/35041</Title>
@@ -227,35 +247,15 @@
         <ClickUrl>http://www.tohoku.ac.jp/english/disclosure/media/</ClickUrl>
     </Result>
     <Result>
+        <Title>まさおのChangeLogメモ</Title>
+        <Url>http://masao.jpn.org/d/</Url>
+        <ClickUrl>http://masao.jpn.org/d/</ClickUrl>
+    </Result>
+    <Result>
         <Title>東北大学研究者紹介</Title>
         <Url>http://db.tohoku.ac.jp/whois/</Url>
         <ClickUrl>http://db.tohoku.ac.jp/whois/</ClickUrl>
     </Result>
-    <Result>
-        <Title>陳凱劭的BLOG &quot; 彰化永靖北白川宮能久親王御遺蹟碑</Title>
-        <Url>http://blog.kaishao.idv.tw/?p=1415</Url>
-        <ClickUrl>http://blog.kaishao.idv.tw/?p=1415</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/34942</Title>
-        <Url>http://hdl.handle.net/10097/34942</Url>
-        <ClickUrl>http://hdl.handle.net/10097/34942</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35743</Title>
-        <Url>http://hdl.handle.net/10097/35743</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35743</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/30785</Title>
-        <Url>http://hdl.handle.net/10097/30785</Url>
-        <ClickUrl>http://hdl.handle.net/10097/30785</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/36842</Title>
-        <Url>http://hdl.handle.net/10097/36842</Url>
-        <ClickUrl>http://hdl.handle.net/10097/36842</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:21 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:21 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:55 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:54 PST 2010 -->

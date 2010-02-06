@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="17053"
+    totalResultsAvailable="16919"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -42,6 +42,11 @@
         <ClickUrl>http://hdl.handle.net/10097/35863</ClickUrl>
     </Result>
     <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35928</Title>
+        <Url>http://hdl.handle.net/10097/35928</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35928</ClickUrl>
+    </Result>
+    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/30743</Title>
         <Url>http://hdl.handle.net/10097/30743</Url>
         <ClickUrl>http://hdl.handle.net/10097/30743</ClickUrl>
@@ -77,14 +82,19 @@
         <ClickUrl>http://hdl.handle.net/10097/39877</ClickUrl>
     </Result>
     <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35804</Title>
+        <Url>http://hdl.handle.net/10097/35804</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35804</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/40083</Title>
+        <Url>http://hdl.handle.net/10097/40083</Url>
+        <ClickUrl>http://hdl.handle.net/10097/40083</ClickUrl>
+    </Result>
+    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/35550</Title>
         <Url>http://hdl.handle.net/10097/35550</Url>
         <ClickUrl>http://hdl.handle.net/10097/35550</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/30750</Title>
-        <Url>http://hdl.handle.net/10097/30750</Url>
-        <ClickUrl>http://hdl.handle.net/10097/30750</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/34625</Title>
@@ -92,24 +102,24 @@
         <ClickUrl>http://hdl.handle.net/10097/34625</ClickUrl>
     </Result>
     <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/30750</Title>
+        <Url>http://hdl.handle.net/10097/30750</Url>
+        <ClickUrl>http://hdl.handle.net/10097/30750</ClickUrl>
+    </Result>
+    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/35041</Title>
         <Url>http://hdl.handle.net/10097/35041</Url>
         <ClickUrl>http://hdl.handle.net/10097/35041</ClickUrl>
     </Result>
     <Result>
+        <Title>まさおのChangeLogメモ</Title>
+        <Url>http://masao.jpn.org/d/</Url>
+        <ClickUrl>http://masao.jpn.org/d/</ClickUrl>
+    </Result>
+    <Result>
         <Title>東北大学研究者紹介</Title>
         <Url>http://db.tohoku.ac.jp/whois/</Url>
         <ClickUrl>http://db.tohoku.ac.jp/whois/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/34942</Title>
-        <Url>http://hdl.handle.net/10097/34942</Url>
-        <ClickUrl>http://hdl.handle.net/10097/34942</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35743</Title>
-        <Url>http://hdl.handle.net/10097/35743</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35743</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/30785</Title>
@@ -122,11 +132,6 @@
         <ClickUrl>http://hdl.handle.net/10097/36842</ClickUrl>
     </Result>
     <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/34931</Title>
-        <Url>http://hdl.handle.net/10097/34931</Url>
-        <ClickUrl>http://hdl.handle.net/10097/34931</ClickUrl>
-    </Result>
-    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/35047</Title>
         <Url>http://hdl.handle.net/10097/35047</Url>
         <ClickUrl>http://hdl.handle.net/10097/35047</ClickUrl>
@@ -135,11 +140,6 @@
         <Title>TOUR(TOhoku University Repository): Item 10097/30135</Title>
         <Url>http://hdl.handle.net/10097/30135</Url>
         <ClickUrl>http://hdl.handle.net/10097/30135</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/40083</Title>
-        <Url>http://hdl.handle.net/10097/40083</Url>
-        <ClickUrl>http://hdl.handle.net/10097/40083</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/30136</Title>
@@ -172,11 +172,6 @@
         <ClickUrl>http://hdl.handle.net/10097/106</ClickUrl>
     </Result>
     <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/39685</Title>
-        <Url>http://hdl.handle.net/10097/39685</Url>
-        <ClickUrl>http://hdl.handle.net/10097/39685</ClickUrl>
-    </Result>
-    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/39725</Title>
         <Url>http://hdl.handle.net/10097/39725</Url>
         <ClickUrl>http://hdl.handle.net/10097/39725</ClickUrl>
@@ -192,19 +187,9 @@
         <ClickUrl>http://hdl.handle.net/10097/24425</ClickUrl>
     </Result>
     <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/39836</Title>
-        <Url>http://hdl.handle.net/10097/39836</Url>
-        <ClickUrl>http://hdl.handle.net/10097/39836</ClickUrl>
-    </Result>
-    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/35855</Title>
         <Url>http://hdl.handle.net/10097/35855</Url>
         <ClickUrl>http://hdl.handle.net/10097/35855</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35045</Title>
-        <Url>http://hdl.handle.net/10097/35045</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35045</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/34003</Title>
@@ -220,11 +205,6 @@
         <Title>TOUR(TOhoku University Repository): Item 10097/39793</Title>
         <Url>http://hdl.handle.net/10097/39793</Url>
         <ClickUrl>http://hdl.handle.net/10097/39793</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35928</Title>
-        <Url>http://hdl.handle.net/10097/35928</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35928</ClickUrl>
     </Result>
     <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/34945</Title>
@@ -247,15 +227,35 @@
         <ClickUrl>http://hdl.handle.net/10097/25429</ClickUrl>
     </Result>
     <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/30788</Title>
+        <Url>http://hdl.handle.net/10097/30788</Url>
+        <ClickUrl>http://hdl.handle.net/10097/30788</ClickUrl>
+    </Result>
+    <Result>
         <Title>TOUR(TOhoku University Repository): Item 10097/29792</Title>
         <Url>http://hdl.handle.net/10097/29792</Url>
         <ClickUrl>http://hdl.handle.net/10097/29792</ClickUrl>
     </Result>
     <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/30788</Title>
-        <Url>http://hdl.handle.net/10097/30788</Url>
-        <ClickUrl>http://hdl.handle.net/10097/30788</ClickUrl>
+        <Title>TOUR(TOhoku University Repository): Item 10097/39599</Title>
+        <Url>http://hdl.handle.net/10097/39599</Url>
+        <ClickUrl>http://hdl.handle.net/10097/39599</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/30787</Title>
+        <Url>http://hdl.handle.net/10097/30787</Url>
+        <ClickUrl>http://hdl.handle.net/10097/30787</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/31835</Title>
+        <Url>http://hdl.handle.net/10097/31835</Url>
+        <ClickUrl>http://hdl.handle.net/10097/31835</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/40048</Title>
+        <Url>http://hdl.handle.net/10097/40048</Url>
+        <ClickUrl>http://hdl.handle.net/10097/40048</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:20 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:20 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:53 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:53 PST 2010 -->

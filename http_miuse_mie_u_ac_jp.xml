@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="15838"
+    totalResultsAvailable="15775"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -57,6 +57,11 @@
         <ClickUrl>http://d.hatena.ne.jp/actuary_math/</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>MITが今度は全教員の学術論文をオープンアクセスに | Okumura&apos;s Blog</Title>
         <Url>http://oku.edu.mie-u.ac.jp/~okumura/blog/node/2388</Url>
         <ClickUrl>http://oku.edu.mie-u.ac.jp/~okumura/blog/node/2388</ClickUrl>
@@ -82,9 +87,9 @@
         <ClickUrl>http://hdl.handle.net/10076/7172</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 滑管内静水中における砂れきの沈降, 転動および滑動</Title>
-        <Url>http://hdl.handle.net/10076/8652</Url>
-        <ClickUrl>http://hdl.handle.net/10076/8652</ClickUrl>
+        <Title>MIUSE: ピロミド酸に関する魚病化学療法的研究-Ⅰ. : 魚類における吸収, 分布, 残留性および安全性</Title>
+        <Url>http://hdl.handle.net/10076/2416</Url>
+        <ClickUrl>http://hdl.handle.net/10076/2416</ClickUrl>
     </Result>
     <Result>
         <Title>MIUSE: 事例報告:三重大学の広報活動</Title>
@@ -95,6 +100,11 @@
         <Title>MIUSE: 2004年台風21号と前線による豪雨災害</Title>
         <Url>http://hdl.handle.net/10076/7166</Url>
         <ClickUrl>http://hdl.handle.net/10076/7166</ClickUrl>
+    </Result>
+    <Result>
+        <Title>MIUSE: 滑管内静水中における砂れきの沈降, 転動および滑動</Title>
+        <Url>http://hdl.handle.net/10076/8652</Url>
+        <ClickUrl>http://hdl.handle.net/10076/8652</ClickUrl>
     </Result>
     <Result>
         <Title>MIUSE: 小粒径から大粒径まで包含したポーラスコンクリートの統一化理論&lt;wbr&gt;の構築とその応用</Title>
@@ -112,9 +122,9 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios ...</Title>
+        <Url>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -127,11 +137,6 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>MIUSE: 平成19年度CSI委託事業報告交流会(領域1)ポスター等</Title>
         <Url>http://hdl.handle.net/10076/8932</Url>
         <ClickUrl>http://hdl.handle.net/10076/8932</ClickUrl>
@@ -140,6 +145,11 @@
         <Title>MIUSE: グリム童話と『日本の昔ばなし』の比較 : 難題解決結婚について</Title>
         <Url>http://hdl.handle.net/10076/2026</Url>
         <ClickUrl>http://hdl.handle.net/10076/2026</ClickUrl>
+    </Result>
+    <Result>
+        <Title>MIUSE: 情報メディアの活用 : パスファインダーを通して</Title>
+        <Url>http://hdl.handle.net/10076/7022</Url>
+        <ClickUrl>http://hdl.handle.net/10076/7022</ClickUrl>
     </Result>
     <Result>
         <Title>MIUSE: MIUSEの仮公開と今後の展開</Title>
@@ -162,19 +172,14 @@
         <ClickUrl>http://hdl.handle.net/10076/8935</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: コンテンツ収集戦略 / 事例報告:日の丸弁当から幕の内弁当へ</Title>
-        <Url>http://hdl.handle.net/10076/2685</Url>
-        <ClickUrl>http://hdl.handle.net/10076/2685</ClickUrl>
-    </Result>
-    <Result>
         <Title>MIUSE: 現代農村の住民生活と家族 : 岡山県児島湾干拓地における農村家族分析</Title>
         <Url>http://hdl.handle.net/10076/1990</Url>
         <ClickUrl>http://hdl.handle.net/10076/1990</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: ピロミド酸に関する魚病化学療法的研究-Ⅰ. : 魚類における吸収, 分布, 残留性および安全性</Title>
-        <Url>http://hdl.handle.net/10076/2416</Url>
-        <ClickUrl>http://hdl.handle.net/10076/2416</ClickUrl>
+        <Title>MIUSE: コンテンツ収集戦略 / 事例報告:日の丸弁当から幕の内弁当へ</Title>
+        <Url>http://hdl.handle.net/10076/2685</Url>
+        <ClickUrl>http://hdl.handle.net/10076/2685</ClickUrl>
     </Result>
     <Result>
         <Title>MIUSE: 平成19年度CSI委託事業報告交流会(領域2)ポスター等</Title>
@@ -227,11 +232,6 @@
         <ClickUrl>http://hdl.handle.net/10076/8231</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 地球規模水循環システム予測値のスケールダウンと予測の不確実性&lt;wbr&gt;低減手法の開発</Title>
-        <Url>http://hdl.handle.net/10076/7155</Url>
-        <ClickUrl>http://hdl.handle.net/10076/7155</ClickUrl>
-    </Result>
-    <Result>
         <Title>MIUSE: 三重大学Moodleの構築と運用</Title>
         <Url>http://hdl.handle.net/10076/8076</Url>
         <ClickUrl>http://hdl.handle.net/10076/8076</ClickUrl>
@@ -240,11 +240,6 @@
         <Title>MIUSE: モリエール I : スカパンの笑い</Title>
         <Url>http://hdl.handle.net/10076/6245</Url>
         <ClickUrl>http://hdl.handle.net/10076/6245</ClickUrl>
-    </Result>
-    <Result>
-        <Title>MIUSE: 表現活動としての3Dアニメーション制作の教材化II : 美術教育としての3DCG制作指導成立の与件</Title>
-        <Url>http://hdl.handle.net/10076/2664</Url>
-        <ClickUrl>http://hdl.handle.net/10076/2664</ClickUrl>
     </Result>
     <Result>
         <Title>MIUSE: 看護学生の健康状態と大学校舎内の空気質</Title>
@@ -256,6 +251,11 @@
         <Url>http://hdl.handle.net/10076/6349</Url>
         <ClickUrl>http://hdl.handle.net/10076/6349</ClickUrl>
     </Result>
+    <Result>
+        <Title>MIUSE: 表現活動としての3Dアニメーション制作の教材化II : 美術教育としての3DCG制作指導成立の与件</Title>
+        <Url>http://hdl.handle.net/10076/2664</Url>
+        <ClickUrl>http://hdl.handle.net/10076/2664</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:56 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:56 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:27 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:27 PST 2010 -->

@@ -3,10 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8690"
+    totalResultsAvailable="8668"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>まさおのChangeLogメモ</Title>
+        <Url>http://masao.jpn.org/d/</Url>
+        <ClickUrl>http://masao.jpn.org/d/</ClickUrl>
+    </Result>
+    <Result>
         <Title>りぽじとりの中の人々</Title>
         <Url>http://tulipsr.seesaa.net/</Url>
         <ClickUrl>http://tulipsr.seesaa.net/</ClickUrl>
@@ -82,9 +87,19 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021209/en</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIRO | &amp;lt;Originals&amp;gt;Level of Myoglobin Concentration in Human ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00001016/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00001016/en</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | 〈Original Papers〉 Tectonically induced gravity ...</Title>
         <Url>http://jairo.nii.ac.jp/0025/00020707/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020707/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/dspace.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
     </Result>
     <Result>
         <Title>Browse by Country - Registry of Open Access Repositories</Title>
@@ -95,6 +110,11 @@
         <Title>JAIRO | Jet fragmentation and gauge/string duality</Title>
         <Url>http://jairo.nii.ac.jp/0025/00020038</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020038</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Optical properties of novel semiconductor ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00020306</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00020306</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | &amp;lt;Originals&amp;gt;Bilateral Facilitation of Hand-motor ...</Title>
@@ -112,11 +132,6 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00011083</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | X-ray diffraction study on the thermal properties of ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020361</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020361</ClickUrl>
-    </Result>
-    <Result>
         <Title>2006-04-02 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
         <Url>http://d.hatena.ne.jp/arg/20060402/</Url>
         <ClickUrl>http://d.hatena.ne.jp/arg/20060402/</ClickUrl>
@@ -127,24 +142,19 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021215</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 「彼ら」の顔と「我々」の顔 : 『シーザーの記念柱』にみる自己否定する表象システム&lt;wbr&gt;(荒木正純先生退職祈念)</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021195</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021195</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 生起相修飾成分の認定と分類</Title>
         <Url>http://jairo.nii.ac.jp/0025/00020224</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020224</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Digital Librariesへのアプローチ : 米国を中心とする取組み事例に基づく考察</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020896</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020896</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 〈公開講座報告〉「知的障害者の体育指導」受講生の満足度に関す&lt;wbr&gt;る調査</Title>
         <Url>http://jairo.nii.ac.jp/0025/00021042</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021042</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Digital Librariesへのアプローチ : 米国を中心とする取組み事例に基づく考察</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00020896</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00020896</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Promoting effect of MgO addition to Pt/Ni/CeO2/Al2O3 ...</Title>
@@ -170,11 +180,6 @@
         <Title>JAIRO | PERCEPTIONS OF LIS GRADUATE STUDENTS OF PEER LEARNING</Title>
         <Url>http://jairo.nii.ac.jp/0025/00020497</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020497</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 『大学研究』編集規定・論文募集要項</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020966</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020966</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 抗癌剤含有アパタイトによる転移性骨腫瘍の局所治療に関する研究</Title>
@@ -207,16 +212,6 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021338</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 電子図書館システムNetLibraの広域コンテンツ流通支援へ&lt;wbr&gt;の適用検討</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021092</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021092</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 〈授業報告〉共通体育ハンドボール授業での投能力の向上について</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021057</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021057</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | Double shrink methodologies to determine the sample ...</Title>
         <Url>http://jairo.nii.ac.jp/0025/00020030</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020030</ClickUrl>
@@ -230,6 +225,11 @@
         <Title>JAIRO | Derived equivalences and Serre duality for Gorenstein ...</Title>
         <Url>http://jairo.nii.ac.jp/0025/00021178</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021178</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 〈授業報告〉共通体育ハンドボール授業での投能力の向上について</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021057</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021057</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 利用価値の性質と学習動機づけに与える影響</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00021183</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:46 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:46 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:20 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:20 PST 2010 -->

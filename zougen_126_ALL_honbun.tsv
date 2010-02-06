@@ -4,6 +4,7 @@
 設置種別	私立大学
 機関規模	C
 
+［リポジトリ 1］
 機関リポジトリ名称（日）	別府大学機関リポジトリ
 機関リポジトリ名称（英）	Beppu University Information Library for Documentation
 機関リポジトリトップページ画像	http://irdb.nii.ac.jp/analysis/file/image/capture/126.gif
@@ -15,10 +16,26 @@
 使用ソフトウェア	XooNIps
 試験公開日	2008/08/01
 本公開日	2009/06/17
-備考（日）	
-備考（英）	
+備考（日）	CiNii連携対象
+備考（英）	This IR cooperates with CiNii
+
+［リポジトリ 2］
+機関リポジトリ名称（日）	別府大学(地域連携プログラム)
+機関リポジトリ名称（英）	Beppu University and Oita Regional Society Co-Operation
+機関リポジトリトップページ画像	http://irdb.nii.ac.jp/analysis/file/image/capture/126-2.gif
+機関リポジトリへのリンク（日）	http://bud.beppu-u.ac.jp
+機関リポジトリへのリンク（英）	http://bud.beppu-u.ac.jp
+機関リポジトリロゴマーク	http://irdb.nii.ac.jp/analysis/file/image/logo/126-2.gif
+郵便番号	874-8501
+住所	大分県別府市北石垣82
+使用ソフトウェア	XooNIps
+試験公開日	2010/01/05
+本公開日	2010/01/06
+備考（日）	CiNii連携対象
+備考（英）	This IR cooperates with CiNii 
 
 	Journal Article（学術雑誌論文）	Thesis or Dissertation（学位論文）	Departmental Bulletin Paper（紀要論文）	Conference Paper（会議発表論文）	Presentation（会議発表用資料）	Book（図書）	Technical Report（テクニカルレポート）	Research Paper（研究報告書）	Article（一般雑誌記事）	Preprint（プレプリント）	Learning Material（教材）	Data or Dataset（データ・データベース）	Software（ソフトウェア）	Others（その他）	合計
+2010/01	109	0	481	0	0	0	0	16	489	0	0	0	0	459	1554
 2009/12	109	0	418	0	0	0	0	16	167	0	0	0	0	428	1138
 2009/11	109	0	418	0	0	0	0	16	167	0	0	0	0	428	1138
 2009/10	109	0	418	0	0	0	0	16	167	0	0	0	0	428	1138

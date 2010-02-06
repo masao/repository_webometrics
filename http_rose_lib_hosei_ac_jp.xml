@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4901"
+    totalResultsAvailable="4921"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -55,6 +55,16 @@
         <Title>法政大学図書館[HOSEI UNIVERSITY LIBRARY]</Title>
         <Url>http://www.hosei.ac.jp/general/lib/index.html</Url>
         <ClickUrl>http://www.hosei.ac.jp/general/lib/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Registered Archives</Title>
@@ -147,6 +157,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
     <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
@@ -182,14 +197,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
     </Result>
     <Result>
         <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
@@ -207,19 +222,9 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%A8%E3%83%88%E3%82%A2%E3%83%BB%E3%82%BF%E3%83%8C%E3%83%9E%E3%83%95%E3%82%A3%E3%83%AA2%E4%B8%96</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
-    </Result>
-    <Result>
         <Title>法政大学学術機関リポジトリ: Commitment Problem, Optimal Incentive Schemes ...</Title>
         <Url>http://hdl.handle.net/10114/229</Url>
         <ClickUrl>http://hdl.handle.net/10114/229</ClickUrl>
-    </Result>
-    <Result>
-        <Title>法政大学学術機関リポジトリ: 1949年の「夢」 1950年の「現実」 : 朝日新聞の「中立」社説をめぐって</Title>
-        <Url>http://hdl.handle.net/10114/213</Url>
-        <ClickUrl>http://hdl.handle.net/10114/213</ClickUrl>
     </Result>
     <Result>
         <Title>法政大学学術機関リポジトリ: folA, a New Member of the TyrR Regulon in ...</Title>
@@ -251,11 +256,6 @@
         <Url>http://hdl.handle.net/10114/1685</Url>
         <ClickUrl>http://hdl.handle.net/10114/1685</ClickUrl>
     </Result>
-    <Result>
-        <Title>法政大学学術機関リポジトリ: Strain Rate Dependency of Dymamic Flow Stress ...</Title>
-        <Url>http://hdl.handle.net/10114/2818</Url>
-        <ClickUrl>http://hdl.handle.net/10114/2818</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:43 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:43 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:55 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:55 PST 2010 -->

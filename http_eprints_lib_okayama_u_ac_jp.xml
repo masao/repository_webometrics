@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="13918"
+    totalResultsAvailable="13964"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -97,11 +97,6 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E7%94%B0%E9%82%8A%E5%85%83</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
@@ -115,16 +110,6 @@
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Blog : 大和心 12月6日 ニュースの御託</Title>
-        <Url>http://sirousaghi.blog36.fc2.com/blog-entry-121.html</Url>
-        <ClickUrl>http://sirousaghi.blog36.fc2.com/blog-entry-121.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>たかさきクリニック胃腸科内科</Title>
@@ -157,6 +142,11 @@
         <ClickUrl>http://celestial.eprints.org/repository?repository=961</ClickUrl>
     </Result>
     <Result>
+        <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
+        <Url>http://repositories.webometrics.info/top400_rep.asp?offset=50</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep.asp?offset=50</ClickUrl>
+    </Result>
+    <Result>
         <Title>Ferroglaucophane Mineral Data</Title>
         <Url>http://webmineral.com/data/Ferroglaucophane.shtml</Url>
         <ClickUrl>http://webmineral.com/data/Ferroglaucophane.shtml</ClickUrl>
@@ -172,6 +162,11 @@
         <ClickUrl>http://www.powow.asia/article.php?story=20090817152446509</ClickUrl>
     </Result>
     <Result>
+        <Title>沼野忠之 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%B2%BC%E9%87%8E%E5%BF%A0%E4%B9%8B</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B2%BC%E9%87%8E%E5%BF%A0%E4%B9%8B</ClickUrl>
+    </Result>
+    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
@@ -180,6 +175,11 @@
         <Title>Kawabata Yasunari 川端康成 - LibraryWiki</Title>
         <Url>http://library.osu.edu/wikis/library/index.php/Kawabata_Yasunari_%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90</Url>
         <ClickUrl>http://library.osu.edu/wikis/library/index.php/Kawabata_Yasunari_%E5%B7%9D%E7%AB%AF%E5%BA%B7%E6%88%90</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
@@ -200,6 +200,11 @@
         <Title>change okayama - テレビ番長</Title>
         <Url>http://www.tv-wd.com/tv/CHANGE/change+okayama.html</Url>
         <ClickUrl>http://www.tv-wd.com/tv/CHANGE/change+okayama.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>岡山大学農学部学術報告</Title>
@@ -251,11 +256,6 @@
         <Url>http://blog.livedoor.jp/ookitasaburou/</Url>
         <ClickUrl>http://blog.livedoor.jp/ookitasaburou/</ClickUrl>
     </Result>
-    <Result>
-        <Title>akemi yanagihara - 夢人</Title>
-        <Url>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</Url>
-        <ClickUrl>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:04 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:04 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:04 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:04 PST 2010 -->

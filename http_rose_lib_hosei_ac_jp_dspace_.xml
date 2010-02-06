@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1393"
+    totalResultsAvailable="1386"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -20,11 +20,6 @@
         <Title>法政大学学術機関リポジトリ: Commitment Problem, Optimal Incentive Schemes ...</Title>
         <Url>http://hdl.handle.net/10114/229</Url>
         <ClickUrl>http://hdl.handle.net/10114/229</ClickUrl>
-    </Result>
-    <Result>
-        <Title>法政大学学術機関リポジトリ: 1949年の「夢」 1950年の「現実」 : 朝日新聞の「中立」社説をめぐって</Title>
-        <Url>http://hdl.handle.net/10114/213</Url>
-        <ClickUrl>http://hdl.handle.net/10114/213</ClickUrl>
     </Result>
     <Result>
         <Title>法政大学学術機関リポジトリ: folA, a New Member of the TyrR Regulon in ...</Title>
@@ -60,11 +55,6 @@
         <Title>法政大学学術機関リポジトリ: 「探求学習」の系譜と学校図書館</Title>
         <Url>http://hdl.handle.net/10114/1685</Url>
         <ClickUrl>http://hdl.handle.net/10114/1685</ClickUrl>
-    </Result>
-    <Result>
-        <Title>法政大学学術機関リポジトリ: Strain Rate Dependency of Dymamic Flow Stress ...</Title>
-        <Url>http://hdl.handle.net/10114/2818</Url>
-        <ClickUrl>http://hdl.handle.net/10114/2818</ClickUrl>
     </Result>
     <Result>
         <Title>法政大学学術機関リポジトリ: J.S.シルの宗教思想―希望の神学は人間性の宗教に何を付け加&lt;wbr&gt;えたのか―</Title>
@@ -132,14 +122,14 @@
         <ClickUrl>http://hdl.handle.net/10114/1651</ClickUrl>
     </Result>
     <Result>
-        <Title>法政大学学術機関リポジトリ: La littérature romande par ordre alphabétique</Title>
-        <Url>http://hdl.handle.net/10114/1574</Url>
-        <ClickUrl>http://hdl.handle.net/10114/1574</ClickUrl>
-    </Result>
-    <Result>
         <Title>法政大学学術機関リポジトリ: William J. Baumol, The Free-Market Innovation ...</Title>
         <Url>http://hdl.handle.net/10114/2281</Url>
         <ClickUrl>http://hdl.handle.net/10114/2281</ClickUrl>
+    </Result>
+    <Result>
+        <Title>法政大学学術機関リポジトリ: La littérature romande par ordre alphabétique</Title>
+        <Url>http://hdl.handle.net/10114/1574</Url>
+        <ClickUrl>http://hdl.handle.net/10114/1574</ClickUrl>
     </Result>
     <Result>
         <Title>法政大学学術機関リポジトリ: 遠田雄志著『組織を変える〈常識〉』中央公論新社、2005年3&lt;wbr&gt;月</Title>
@@ -227,6 +217,11 @@
         <ClickUrl>http://hdl.handle.net/10114/680</ClickUrl>
     </Result>
     <Result>
+        <Title>法政大学学術機関リポジトリ: 幕末におけるフランス艦隊の琉球来航と薩琉関係</Title>
+        <Url>http://hdl.handle.net/10114/965</Url>
+        <ClickUrl>http://hdl.handle.net/10114/965</ClickUrl>
+    </Result>
+    <Result>
         <Title>法政大学学術機関リポジトリ: 機密送第三号</Title>
         <Url>http://hdl.handle.net/10114/373</Url>
         <ClickUrl>http://hdl.handle.net/10114/373</ClickUrl>
@@ -242,11 +237,6 @@
         <ClickUrl>http://hdl.handle.net/10114/317</ClickUrl>
     </Result>
     <Result>
-        <Title>法政大学学術機関リポジトリ: なし</Title>
-        <Url>http://hdl.handle.net/10114/395</Url>
-        <ClickUrl>http://hdl.handle.net/10114/395</ClickUrl>
-    </Result>
-    <Result>
         <Title>法政大学学術機関リポジトリ: An Empirical Study on Testing the Fisher ...</Title>
         <Url>http://hdl.handle.net/10114/772</Url>
         <ClickUrl>http://hdl.handle.net/10114/772</ClickUrl>
@@ -256,6 +246,16 @@
         <Url>http://hdl.handle.net/10114/623</Url>
         <ClickUrl>http://hdl.handle.net/10114/623</ClickUrl>
     </Result>
+    <Result>
+        <Title>法政大学学術機関リポジトリ: なし</Title>
+        <Url>http://hdl.handle.net/10114/633</Url>
+        <ClickUrl>http://hdl.handle.net/10114/633</ClickUrl>
+    </Result>
+    <Result>
+        <Title>法政大学学術機関リポジトリ: なし</Title>
+        <Url>http://hdl.handle.net/10114/526</Url>
+        <ClickUrl>http://hdl.handle.net/10114/526</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:43 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:42 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:54 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:54 PST 2010 -->

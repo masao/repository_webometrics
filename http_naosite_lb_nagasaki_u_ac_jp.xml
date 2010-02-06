@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="24224"
+    totalResultsAvailable="24250"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -57,6 +57,11 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>civilian watchdog in japan</Title>
         <Url>http://civilwatchdoginjapan.blogspot.com/</Url>
         <ClickUrl>http://civilwatchdoginjapan.blogspot.com/</ClickUrl>
@@ -70,11 +75,6 @@
         <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
         <Url>http://www.ifremer.fr/avano/archives.htm</Url>
         <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Confucianism — Saving the Planet! &quot; Manyul Im&apos;s Chinese ...</Title>
-        <Url>http://manyulim.wordpress.com/2009/06/26/confucianism-saving-the-planet/</Url>
-        <ClickUrl>http://manyulim.wordpress.com/2009/06/26/confucianism-saving-the-planet/</ClickUrl>
     </Result>
     <Result>
         <Title>NAOSITE: 財政の持続可能性に関する考察-成長率・利子率論争と時系列デー&lt;wbr&gt;タによる検定のサーベイ-</Title>
@@ -107,6 +107,11 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
+        <Title>Confucianism — Saving the Planet! &quot; Manyul Im&apos;s Chinese ...</Title>
+        <Url>http://manyulim.wordpress.com/2009/06/26/confucianism-saving-the-planet/</Url>
+        <ClickUrl>http://manyulim.wordpress.com/2009/06/26/confucianism-saving-the-planet/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
         <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
@@ -127,14 +132,14 @@
         <ClickUrl>http://hdl.handle.net/10069/4284</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: Herbaceous and ericaceous communities in the ...</Title>
-        <Url>http://hdl.handle.net/10069/7364</Url>
-        <ClickUrl>http://hdl.handle.net/10069/7364</ClickUrl>
-    </Result>
-    <Result>
         <Title>NAOSITE: インデューサ付き遠心ファンの乱流騒音に関する研究</Title>
         <Url>http://hdl.handle.net/10069/5240</Url>
         <ClickUrl>http://hdl.handle.net/10069/5240</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAOSITE: Herbaceous and ericaceous communities in the ...</Title>
+        <Url>http://hdl.handle.net/10069/7364</Url>
+        <ClickUrl>http://hdl.handle.net/10069/7364</ClickUrl>
     </Result>
     <Result>
         <Title>NAOSITE: 旧ソ連の中等理科教育における教科間結合に関する研究 : 1930年代の中等分科理科教育の成立と教科間の関連性</Title>
@@ -170,6 +175,11 @@
         <Title>NAOSITE: &amp;lt;研究論文&amp;gt;助詞ハの機能と部分否定</Title>
         <Url>http://hdl.handle.net/10069/5457</Url>
         <ClickUrl>http://hdl.handle.net/10069/5457</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAOSITE: Stomach-Selective Gene Transfer Following the ...</Title>
+        <Url>http://hdl.handle.net/10069/8394</Url>
+        <ClickUrl>http://hdl.handle.net/10069/8394</ClickUrl>
     </Result>
     <Result>
         <Title>NAOSITE: Two New Acylated Flavanone Glycosides from the ...</Title>
@@ -212,6 +222,11 @@
         <ClickUrl>http://hdl.handle.net/10069/8391</ClickUrl>
     </Result>
     <Result>
+        <Title>NAOSITE: Altitudinal change in plant endemism and species ...</Title>
+        <Url>http://hdl.handle.net/10069/6479</Url>
+        <ClickUrl>http://hdl.handle.net/10069/6479</ClickUrl>
+    </Result>
+    <Result>
         <Title>NAOSITE: Further Characterization of Galloyl Pedunculagin as ...</Title>
         <Url>http://hdl.handle.net/10069/8378</Url>
         <ClickUrl>http://hdl.handle.net/10069/8378</ClickUrl>
@@ -220,11 +235,6 @@
         <Title>NAOSITE: Activity-Guided Fractionation of Green Tea Extract ...</Title>
         <Url>http://hdl.handle.net/10069/8377</Url>
         <ClickUrl>http://hdl.handle.net/10069/8377</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Altitudinal change in plant endemism and species ...</Title>
-        <Url>http://hdl.handle.net/10069/6479</Url>
-        <ClickUrl>http://hdl.handle.net/10069/6479</ClickUrl>
     </Result>
     <Result>
         <Title>NAOSITE: Antiproliferative Constituents in the Plant 8. Seeds ...</Title>
@@ -237,25 +247,15 @@
         <ClickUrl>http://hdl.handle.net/10069/8399</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: Antimicrobial Activity of 10 Different Plant ...</Title>
-        <Url>http://hdl.handle.net/10069/8386</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8386</ClickUrl>
-    </Result>
-    <Result>
         <Title>NAOSITE: Antibacterial Spectrum of Plant Polyphenols and ...</Title>
         <Url>http://hdl.handle.net/10069/8396</Url>
         <ClickUrl>http://hdl.handle.net/10069/8396</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: ペルソナと関係の一考察 : トマス・アクィナス『能力論』q.9, a.3-4</Title>
-        <Url>http://hdl.handle.net/10069/5834</Url>
-        <ClickUrl>http://hdl.handle.net/10069/5834</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Antiproliferative Activity of the Main Constituents ...</Title>
-        <Url>http://hdl.handle.net/10069/8387</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8387</ClickUrl>
+        <Title>NAOSITE: Antimicrobial Activity of 10 Different Plant ...</Title>
+        <Url>http://hdl.handle.net/10069/8386</Url>
+        <ClickUrl>http://hdl.handle.net/10069/8386</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:00 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:00 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:59 PST 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:59 PST 2010 -->

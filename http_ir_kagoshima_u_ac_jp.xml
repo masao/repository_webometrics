@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8606"
+    totalResultsAvailable="8553"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -62,6 +62,11 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E7%9C%A0%E3%82%8C%E3%82%8B%E6%A3%AE%E3%81%AE%E7%BE%8E%E5%A5%B3</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
         <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
@@ -117,34 +122,14 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A9%E3%83%B3_(%E6%A4%8D%E7%89%A9)</ClickUrl>
     </Result>
     <Result>
-        <Title>帰社時間が明確に分かった...</Title>
-        <Url>http://www.trading-stocks-profits.com/index.html</Url>
-        <ClickUrl>http://www.trading-stocks-profits.com/index.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>日向清人のビジネス英語雑記帳:スペースアルク</Title>
         <Url>http://eng.alc.co.jp/newsbiz/hinata/2009/01/please.html</Url>
         <ClickUrl>http://eng.alc.co.jp/newsbiz/hinata/2009/01/please.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
-    </Result>
-    <Result>
         <Title>鹿児島県における郵便局と民間金融機関の店舗配置: Kagoshima University Repository</Title>
         <Url>http://hdl.handle.net/10232/7357</Url>
         <ClickUrl>http://hdl.handle.net/10232/7357</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球列島の染織について 第2報: Kagoshima University Repository</Title>
-        <Url>http://hdl.handle.net/10232/6976</Url>
-        <ClickUrl>http://hdl.handle.net/10232/6976</ClickUrl>
-    </Result>
-    <Result>
-        <Title>銀行監督者の名声重視と銀行規制: Kagoshima University Repository</Title>
-        <Url>http://hdl.handle.net/10232/7797</Url>
-        <ClickUrl>http://hdl.handle.net/10232/7797</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -172,9 +157,14 @@
         <ClickUrl>http://hdl.handle.net/10232/7161</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+        <Title>Some Aspects of Fisheries and Biology of Spanner Crab (Ranina ...</Title>
+        <Url>http://hdl.handle.net/10232/7966</Url>
+        <ClickUrl>http://hdl.handle.net/10232/7966</ClickUrl>
+    </Result>
+    <Result>
+        <Title>taronの日記</Title>
+        <Url>http://d.hatena.ne.jp/taron/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/taron/</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -187,24 +177,19 @@
         <ClickUrl>http://homepage2.nifty.com/kamitaku/KAGKAN83.HTM</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Log In: Kagoshima University Repository</Title>
         <Url>http://ado.lib.kagoshima-u.ac.jp/mydspace?lang=en</Url>
         <ClickUrl>http://ado.lib.kagoshima-u.ac.jp/mydspace?lang=en</ClickUrl>
     </Result>
     <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+    </Result>
+    <Result>
         <Title>My PDF Library - Part 6 - The Fossil Forum</Title>
         <Url>http://www.thefossilforum.com/index.php?showtopic=2853</Url>
         <ClickUrl>http://www.thefossilforum.com/index.php?showtopic=2853</ClickUrl>
-    </Result>
-    <Result>
-        <Title>島津家大系図正統: Kagoshima University Repository</Title>
-        <Url>http://hdl.handle.net/10232/252</Url>
-        <ClickUrl>http://hdl.handle.net/10232/252</ClickUrl>
     </Result>
     <Result>
         <Title>COMPARATIVE ANALYSIS OF BEHAVIORS OF METAL FORMING INFLUENCED ...</Title>
@@ -237,11 +222,6 @@
         <ClickUrl>http://hdl.handle.net/10232/2859</ClickUrl>
     </Result>
     <Result>
-        <Title>ニヒドロキシステアリン酸の植物に對する作用に就て&lt;wbr&gt;(第一報): Kagoshima University Repository</Title>
-        <Url>http://hdl.handle.net/10232/2619</Url>
-        <ClickUrl>http://hdl.handle.net/10232/2619</ClickUrl>
-    </Result>
-    <Result>
         <Title>甘藷の生理学的研究(I) : 既存の根が新生する根に及ぼす肥大抑制作用について&lt;wbr&gt;: Kagoshima University ...</Title>
         <Url>http://hdl.handle.net/10232/2059</Url>
         <ClickUrl>http://hdl.handle.net/10232/2059</ClickUrl>
@@ -256,6 +236,26 @@
         <Url>http://hdl.handle.net/10232/2365</Url>
         <ClickUrl>http://hdl.handle.net/10232/2365</ClickUrl>
     </Result>
+    <Result>
+        <Title>黒毛和種繁殖牛のBody condition scoringにおける評定者の経験の効果: Kagoshima ...</Title>
+        <Url>http://hdl.handle.net/10232/5756</Url>
+        <ClickUrl>http://hdl.handle.net/10232/5756</ClickUrl>
+    </Result>
+    <Result>
+        <Title>古代遺跡出土の動物骨に関する研究 : VI.鹿児島県麦之浦貝塚出土骨の概要: Kagoshima University ...</Title>
+        <Url>http://hdl.handle.net/10232/1769</Url>
+        <ClickUrl>http://hdl.handle.net/10232/1769</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「見」字再考: Kagoshima University Repository</Title>
+        <Url>http://hdl.handle.net/10232/7629</Url>
+        <ClickUrl>http://hdl.handle.net/10232/7629</ClickUrl>
+    </Result>
+    <Result>
+        <Title>水産動物の筋肉成分に關する研究(第二報): Kagoshima University Repository</Title>
+        <Url>http://hdl.handle.net/10232/2635</Url>
+        <ClickUrl>http://hdl.handle.net/10232/2635</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:03 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:03 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:03 PST 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:03 PST 2010 -->

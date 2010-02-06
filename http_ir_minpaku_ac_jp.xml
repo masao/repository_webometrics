@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="333"
+    totalResultsAvailable="339"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -147,9 +147,19 @@
         <ClickUrl>http://tibeto-logic.blogspot.com/2009/04/men-of-stone.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Tibeto-logic: Take the Cursive Test</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/12/take-cursive-test.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/12/take-cursive-test.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Tibeto-logic: Bon Bibliography Downloadable</Title>
         <Url>http://tibeto-logic.blogspot.com/2009/11/bon-bibliography-downloadable.html</Url>
         <ClickUrl>http://tibeto-logic.blogspot.com/2009/11/bon-bibliography-downloadable.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: A Prayer for the Happiness of Tibet</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/06/prayer-for-happiness-of-tibet.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/06/prayer-for-happiness-of-tibet.html</ClickUrl>
     </Result>
     <Result>
         <Title>Quests of the Dragon and Bird Clan: The Balance of Nature</Title>
@@ -165,6 +175,11 @@
         <Title>Search Results For bambote</Title>
         <Url>http://www.mixcat.com/search.php?q=bambote&amp;start=30</Url>
         <ClickUrl>http://www.mixcat.com/search.php?q=bambote&amp;start=30</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Search Results For bambote</Title>
+        <Url>http://www.mixcat.com/search.php?q=bambote&amp;start=35</Url>
+        <ClickUrl>http://www.mixcat.com/search.php?q=bambote&amp;start=35</ClickUrl>
     </Result>
     <Result>
         <Title>Tibeto-logic: August 2007</Title>
@@ -192,6 +207,11 @@
         <ClickUrl>http://gunston.gmu.edu/dhaines1/home.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=134</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=134</ClickUrl>
+    </Result>
+    <Result>
         <Title>Japanese expatriates in Singapore - Wikipedia, the free ...</Title>
         <Url>http://en.wikipedia.org/wiki/Japanese_expatriates_in_Singapore</Url>
         <ClickUrl>http://en.wikipedia.org/wiki/Japanese_expatriates_in_Singapore</ClickUrl>
@@ -202,9 +222,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>The Commoditisation of Identity | DocJax.com (678,924+ free ...</Title>
-        <Url>http://www.docjax.com/document/view.shtml?id=158646&amp;title=The+Commoditisation+of+Identity</Url>
-        <ClickUrl>http://www.docjax.com/document/view.shtml?id=158646&amp;title=The+Commoditisation+of+Identity</ClickUrl>
+        <Title>青柳姉妹 sister - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E9%9D%92%E6%9F%B3%E5%A7%89%E5%A6%B9+sister&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%9D%92%E6%9F%B3%E5%A7%89%E5%A6%B9+sister&amp;action=search</ClickUrl>
     </Result>
     <Result>
         <Title>雷神信仰の変遷 - results - www.frestres.com</Title>
@@ -215,11 +235,6 @@
         <Title>National Museum of Ethnology, Japan: Academic Staff</Title>
         <Url>http://www.minpaku.ac.jp/english/staff/ikeya/</Url>
         <ClickUrl>http://www.minpaku.ac.jp/english/staff/ikeya/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: Take the Cursive Test</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/12/take-cursive-test.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/12/take-cursive-test.html</ClickUrl>
     </Result>
     <Result>
         <Title>Tibeto-logic: The Monkey &amp;amp; the Croc / Turtle</Title>
@@ -237,25 +252,10 @@
         <ClickUrl>http://tibeto-logic.blogspot.com/2007/03/who-was-that-white-lama.html</ClickUrl>
     </Result>
     <Result>
-        <Title>靈媒師いずな | Go2Seek Web</Title>
-        <Url>http://www.go2seek.com/web/%E9%9D%88%E5%AA%92%E5%B8%AB%E3%81%84%E3%81%9A%E3%81%AA/7</Url>
-        <ClickUrl>http://www.go2seek.com/web/%E9%9D%88%E5%AA%92%E5%B8%AB%E3%81%84%E3%81%9A%E3%81%AA/7</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KauaiEclectic: Musings: Difficult or Impossible Choices</Title>
-        <Url>http://kauaieclectic.blogspot.com/2009/09/musings-difficult-or-impossible-choices.html</Url>
-        <ClickUrl>http://kauaieclectic.blogspot.com/2009/09/musings-difficult-or-impossible-choices.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Hiraga Gennai eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/Hiraga-Gennai-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/Hiraga-Gennai-pdf.html</ClickUrl>
+        <Title>Tibeto-logic: The Paw This Time</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/08/paw-this-time-3rd-episode.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/08/paw-this-time-3rd-episode.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:59 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:59 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:56 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:56 PST 2010 -->

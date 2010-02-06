@@ -1,10 +1,9 @@
-#<Net::HTTPOK:0x402f0680>
 <?xml version='1.0' encoding='UTF-8'?>
 <ResultSet
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="131"
+    totalResultsAvailable="129"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -118,6 +117,11 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=123</ClickUrl>
     </Result>
     <Result>
+        <Title>Identify Response</Title>
+        <Url>http://celestial.eprints.org/oai/.unknown?verb=Identify</Url>
+        <ClickUrl>http://celestial.eprints.org/oai/.unknown?verb=Identify</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
@@ -176,6 +180,11 @@
         <Title>Browse by Year where Division is &quot;中国学園大学&quot; - Chugoku Gakuen ...</Title>
         <Url>http://chugoku.lib.okayama-u.ac.jp/view/divisions/U1/</Url>
         <ClickUrl>http://chugoku.lib.okayama-u.ac.jp/view/divisions/U1/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Year where Division is &quot;中国短期大学&quot; - Chugoku Gakuen ...</Title>
+        <Url>http://chugoku.lib.okayama-u.ac.jp/view/divisions/U2/</Url>
+        <ClickUrl>http://chugoku.lib.okayama-u.ac.jp/view/divisions/U2/</ClickUrl>
     </Result>
     <Result>
         <Title>Browse by Country - Registry of Open Access Repositories</Title>
@@ -238,11 +247,6 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 中国学園大学</Title>
-        <Url>http://search.livedoor.com/search/?q=%C3%E6%B9%F1%B3%D8%B1%E0%C2%E7%B3%D8&amp;c=ld_weather_sl&amp;lr=lang_ja</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%C3%E6%B9%F1%B3%D8%B1%E0%C2%E7%B3%D8&amp;c=ld_weather_sl&amp;lr=lang_ja</ClickUrl>
-    </Result>
-    <Result>
         <Title>Dnavi - 書誌情報</Title>
         <Url>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000019393&amp;KEYWD=000000019393&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</Url>
         <ClickUrl>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000019393&amp;KEYWD=000000019393&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</ClickUrl>
@@ -252,11 +256,6 @@
         <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Felib.doshisha.ac.jp%2Fcgi-bin%2Fretrieve%2Fsr_detail.cgi%253FU_CHARSET%253Dutf-8%2526CGILANG%253Djapanese%2526ID%253DTB10285304%2526SUNO%253D%2526HTMLFILE%253Dsr_sform.html%2526SRC_BODY%253D1%2526PID%253D%2526CHILD%253D&amp;theme=</Url>
         <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Felib.doshisha.ac.jp%2Fcgi-bin%2Fretrieve%2Fsr_detail.cgi%253FU_CHARSET%253Dutf-8%2526CGILANG%253Djapanese%2526ID%253DTB10285304%2526SUNO%253D%2526HTMLFILE%253Dsr_sform.html%2526SRC_BODY%253D1%2526PID%253D%2526CHILD%253D&amp;theme=</ClickUrl>
     </Result>
-    <Result>
-        <Title>Items where Subject is &quot;500:技術.工学&quot; - Chugoku Gakuen ...</Title>
-        <Url>http://chugoku.lib.okayama-u.ac.jp/view/subjects/5.html</Url>
-        <ClickUrl>http://chugoku.lib.okayama-u.ac.jp/view/subjects/5.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:10 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:10 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:40 PST 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:40 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4437"
+    totalResultsAvailable="4453"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -217,6 +217,11 @@
         <ClickUrl>http://www.yamanashi.ac.jp/modules/employ_info/index.php?page=article&amp;storyid=24</ClickUrl>
     </Result>
     <Result>
+        <Title>国立大学法人 山梨大学 - 平成20年度国家試験結果(保健師・看護師・助産師&lt;wbr&gt;)</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/information/index.php?page=article&amp;storyid=18</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/information/index.php?page=article&amp;storyid=18</ClickUrl>
+    </Result>
+    <Result>
         <Title>[知識人という言葉] 「知識人」という単語の由来を教えてください。 いつから存在してるのか、誰が考案したのか等を ...</Title>
         <Url>http://q.hatena.ne.jp/1229348610</Url>
         <ClickUrl>http://q.hatena.ne.jp/1229348610</ClickUrl>
@@ -237,6 +242,11 @@
         <ClickUrl>http://www.yamanashi.ac.jp/modules/myalbum/</ClickUrl>
     </Result>
     <Result>
+        <Title>国立大学法人 山梨大学 - 採用情報</Title>
+        <Url>http://www.yamanashi.ac.jp/modules/employ_top/</Url>
+        <ClickUrl>http://www.yamanashi.ac.jp/modules/employ_top/</ClickUrl>
+    </Result>
+    <Result>
         <Title>国立大学法人 山梨大学 - 在学生の方へ</Title>
         <Url>http://www.yamanashi.ac.jp/modules/students_top/</Url>
         <ClickUrl>http://www.yamanashi.ac.jp/modules/students_top/</ClickUrl>
@@ -246,16 +256,6 @@
         <Url>http://www.yamanashi.ac.jp/modules/community_top/</Url>
         <ClickUrl>http://www.yamanashi.ac.jp/modules/community_top/</ClickUrl>
     </Result>
-    <Result>
-        <Title>山梨県の図書館情報 - 山梨の情報サイト@Yamanashi</Title>
-        <Url>http://search.yamanashi-i.com/special/library.html</Url>
-        <ClickUrl>http://search.yamanashi-i.com/special/library.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国立大学法人 山梨大学 - 学部・大学院・附属施設</Title>
-        <Url>http://www.yamanashi.ac.jp/modules/institution_top/</Url>
-        <ClickUrl>http://www.yamanashi.ac.jp/modules/institution_top/</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:49 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:49 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:31 PST 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:31 PST 2010 -->

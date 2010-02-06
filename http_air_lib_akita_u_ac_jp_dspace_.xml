@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="512"
+    totalResultsAvailable="507"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,9 +27,19 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋田大学: ロービジョン用教育漢字筆順学習ソフトウェアの開発とその試用</Title>
+        <Url>http://hdl.handle.net/10295/228</Url>
+        <ClickUrl>http://hdl.handle.net/10295/228</ClickUrl>
     </Result>
     <Result>
         <Title>秋田大学: 1604年のマーストンとシェイクスピア -「変装した支配者」劇をめぐって-</Title>
@@ -82,24 +92,9 @@
         <ClickUrl>http://hdl.handle.net/10295/672</ClickUrl>
     </Result>
     <Result>
-        <Title>秋田大学: CGを利用した西馬音内盆踊りの学習 -CGによる学習と実地講師による指導の比較</Title>
-        <Url>http://hdl.handle.net/10295/1596</Url>
-        <ClickUrl>http://hdl.handle.net/10295/1596</ClickUrl>
-    </Result>
-    <Result>
         <Title>秋田大学: 樹状細胞クロストークによる新規免疫賦活機構の解明</Title>
         <Url>http://hdl.handle.net/10295/1564</Url>
         <ClickUrl>http://hdl.handle.net/10295/1564</ClickUrl>
-    </Result>
-    <Result>
-        <Title>秋田大学: フィールドインターンシップ型授業報告</Title>
-        <Url>http://hdl.handle.net/10295/1588</Url>
-        <ClickUrl>http://hdl.handle.net/10295/1588</ClickUrl>
-    </Result>
-    <Result>
-        <Title>秋田大学: 幼稚園教育における「集団」の意味 -3歳児の園生活への「適応」をめぐって-</Title>
-        <Url>http://hdl.handle.net/10295/1590</Url>
-        <ClickUrl>http://hdl.handle.net/10295/1590</ClickUrl>
     </Result>
     <Result>
         <Title>秋田大学: 一大学の看護学生の地域看護学実習Ⅰにおける家庭訪問の学びの過&lt;wbr&gt;程と内容</Title>
@@ -117,6 +112,11 @@
         <ClickUrl>http://hdl.handle.net/10295/1562</ClickUrl>
     </Result>
     <Result>
+        <Title>DuraSpace Blog &quot; Blog Archive &quot; DSpace Community Continues to ...</Title>
+        <Url>http://expertvoices.nsdl.org/duraspace/2009/12/01/dspace-community-continues-to-grow/</Url>
+        <ClickUrl>http://expertvoices.nsdl.org/duraspace/2009/12/01/dspace-community-continues-to-grow/</ClickUrl>
+    </Result>
+    <Result>
         <Title>|秋田大学附属図書館</Title>
         <Url>http://www.lib.akita-u.ac.jp/freedb.htm</Url>
         <ClickUrl>http://www.lib.akita-u.ac.jp/freedb.htm</ClickUrl>
@@ -125,11 +125,6 @@
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Browse Japan (ROAR)</Title>
@@ -157,6 +152,11 @@
         <ClickUrl>http://hdl.handle.net/10295/370</ClickUrl>
     </Result>
     <Result>
+        <Title>秋田大学: Exploring Test-Wiseness of Japanese Senior High School ...</Title>
+        <Url>http://hdl.handle.net/10295/195</Url>
+        <ClickUrl>http://hdl.handle.net/10295/195</ClickUrl>
+    </Result>
+    <Result>
         <Title>秋田大学: 糖尿病クリニカルパス適用において食事指導を行った7症例の検討</Title>
         <Url>http://hdl.handle.net/10295/297</Url>
         <ClickUrl>http://hdl.handle.net/10295/297</ClickUrl>
@@ -180,11 +180,6 @@
         <Title>秋田大学: Multifractal Analysis for Quantifying the Morphology of ...</Title>
         <Url>http://hdl.handle.net/10295/1084</Url>
         <ClickUrl>http://hdl.handle.net/10295/1084</ClickUrl>
-    </Result>
-    <Result>
-        <Title>秋田大学: 自己像を遊ぶ</Title>
-        <Url>http://hdl.handle.net/10295/1525</Url>
-        <ClickUrl>http://hdl.handle.net/10295/1525</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -232,11 +227,6 @@
         <ClickUrl>http://www.opendoar.org/find.php?rSoftWareName=DSpace&amp;format=titles&amp;step=50</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Browse Research Institutional or Departmental (ROAR)</Title>
         <Url>http://roar.eprints.org/index.php?prev=Prev&amp;type=institutional&amp;action=home&amp;page=all</Url>
         <ClickUrl>http://roar.eprints.org/index.php?prev=Prev&amp;type=institutional&amp;action=home&amp;page=all</ClickUrl>
@@ -247,15 +237,25 @@
         <ClickUrl>http://roar.eprints.org/index.php?action=browse+-+Institutional+Archives+Registry&amp;prev=Prev&amp;page=4</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter%3E%2C&amp;prev=Prev&amp;page=3</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter%3E%2C&amp;prev=Prev&amp;page=3</ClickUrl>
-    </Result>
-    <Result>
         <Title>地域アカデミー|国立大学法人 秋田大学</Title>
         <Url>http://www.pcix.akita-u.ac.jp/public/pu_area.html</Url>
         <ClickUrl>http://www.pcix.akita-u.ac.jp/public/pu_area.html</ClickUrl>
     </Result>
+    <Result>
+        <Title>社会貢献|国立大学法人 秋田大学</Title>
+        <Url>http://www.pcix.akita-u.ac.jp/public/pu_exhibition.html</Url>
+        <ClickUrl>http://www.pcix.akita-u.ac.jp/public/pu_exhibition.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>講義レポート|国立大学法人 秋田大学</Title>
+        <Url>http://www.pcix.akita-u.ac.jp/public/pu_area_report.html</Url>
+        <ClickUrl>http://www.pcix.akita-u.ac.jp/public/pu_area_report.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>企業の方へ|国立大学法人 秋田大学</Title>
+        <Url>http://www.akita-u.ac.jp/honbu/company/index.html</Url>
+        <ClickUrl>http://www.akita-u.ac.jp/honbu/company/index.html</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:50 PST 2010 -->
-<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:50 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:21 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:21 PST 2010 -->

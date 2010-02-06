@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="7938"
+    totalResultsAvailable="7883"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -72,9 +72,19 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BF%9D%E8%AD%B7%E8%82%B2%E6%88%90%E6%9D%A1%E4%BE%8B</ClickUrl>
     </Result>
     <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>体育 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E4%BD%93%E8%82%B2</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E4%BD%93%E8%82%B2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Registered Archives</Title>
@@ -137,6 +147,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
     </Result>
     <Result>
+        <Title>share key - アニゲーム</Title>
+        <Url>http://www.ani-game.com/ag/key/share+key.html</Url>
+        <ClickUrl>http://www.ani-game.com/ag/key/share+key.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
@@ -145,6 +160,11 @@
         <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
     </Result>
     <Result>
         <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
@@ -182,14 +202,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
     </Result>
     <Result>
         <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
@@ -207,14 +227,14 @@
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
-    </Result>
-    <Result>
         <Title>Yokohama National University Repository: Item 10131/1314</Title>
         <Url>http://hdl.handle.net/10131/1314</Url>
         <ClickUrl>http://hdl.handle.net/10131/1314</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Yokohama National University Repository: Item 10131/2564</Title>
+        <Url>http://hdl.handle.net/10131/2564</Url>
+        <ClickUrl>http://hdl.handle.net/10131/2564</ClickUrl>
     </Result>
     <Result>
         <Title>Yokohama National University Repository: Item 10131/1394</Title>
@@ -222,29 +242,9 @@
         <ClickUrl>http://hdl.handle.net/10131/1394</ClickUrl>
     </Result>
     <Result>
-        <Title>Yokohama National University Repository: Item 10131/1614</Title>
-        <Url>http://hdl.handle.net/10131/1614</Url>
-        <ClickUrl>http://hdl.handle.net/10131/1614</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Yokohama National University Repository: Item 10131/2899</Title>
-        <Url>http://hdl.handle.net/10131/2899</Url>
-        <ClickUrl>http://hdl.handle.net/10131/2899</ClickUrl>
-    </Result>
-    <Result>
         <Title>Yokohama National University Repository: Item 10131/2357</Title>
         <Url>http://hdl.handle.net/10131/2357</Url>
         <ClickUrl>http://hdl.handle.net/10131/2357</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Yokohama National University Repository: Item 10131/3918</Title>
-        <Url>http://hdl.handle.net/10131/3918</Url>
-        <ClickUrl>http://hdl.handle.net/10131/3918</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Yokohama National University Repository: Item 10131/2180</Title>
-        <Url>http://hdl.handle.net/10131/2180</Url>
-        <ClickUrl>http://hdl.handle.net/10131/2180</ClickUrl>
     </Result>
     <Result>
         <Title>Yokohama National University Repository: Item 10131/2406</Title>
@@ -252,10 +252,10 @@
         <ClickUrl>http://hdl.handle.net/10131/2406</ClickUrl>
     </Result>
     <Result>
-        <Title>Yokohama National University Repository: Item 10131/1579</Title>
-        <Url>http://hdl.handle.net/10131/1579</Url>
-        <ClickUrl>http://hdl.handle.net/10131/1579</ClickUrl>
+        <Title>Yokohama National University Repository: Item 10131/1614</Title>
+        <Url>http://hdl.handle.net/10131/1614</Url>
+        <ClickUrl>http://hdl.handle.net/10131/1614</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:40 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:40 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:17 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:17 PST 2010 -->

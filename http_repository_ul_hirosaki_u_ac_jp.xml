@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="3377"
+    totalResultsAvailable="3368"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,6 +52,11 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
         <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
@@ -72,11 +77,6 @@
         <ClickUrl>http://www.hirosaki-u.ac.jp/hupress/</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
         <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
         <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
@@ -90,6 +90,11 @@
         <Title>Hirosaki University Repository for Academic Resources</Title>
         <Url>http://hdl.handle.net/10129/465</Url>
         <ClickUrl>http://hdl.handle.net/10129/465</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/761</Url>
+        <ClickUrl>http://hdl.handle.net/10129/761</ClickUrl>
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
@@ -123,13 +128,13 @@
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
-        <Url>http://hdl.handle.net/10129/576</Url>
-        <ClickUrl>http://hdl.handle.net/10129/576</ClickUrl>
+        <Url>http://hdl.handle.net/10129/217</Url>
+        <ClickUrl>http://hdl.handle.net/10129/217</ClickUrl>
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
-        <Url>http://hdl.handle.net/10129/217</Url>
-        <ClickUrl>http://hdl.handle.net/10129/217</ClickUrl>
+        <Url>http://hdl.handle.net/10129/576</Url>
+        <ClickUrl>http://hdl.handle.net/10129/576</ClickUrl>
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
@@ -143,13 +148,13 @@
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
-        <Url>http://hdl.handle.net/10129/266</Url>
-        <ClickUrl>http://hdl.handle.net/10129/266</ClickUrl>
+        <Url>http://hdl.handle.net/10129/563</Url>
+        <ClickUrl>http://hdl.handle.net/10129/563</ClickUrl>
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
-        <Url>http://hdl.handle.net/10129/563</Url>
-        <ClickUrl>http://hdl.handle.net/10129/563</ClickUrl>
+        <Url>http://hdl.handle.net/10129/266</Url>
+        <ClickUrl>http://hdl.handle.net/10129/266</ClickUrl>
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
@@ -203,11 +208,6 @@
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
-        <Url>http://hdl.handle.net/10129/1127</Url>
-        <ClickUrl>http://hdl.handle.net/10129/1127</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Hirosaki University Repository for Academic Resources</Title>
         <Url>http://hdl.handle.net/10129/1793</Url>
         <ClickUrl>http://hdl.handle.net/10129/1793</ClickUrl>
     </Result>
@@ -228,11 +228,6 @@
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
-        <Url>http://hdl.handle.net/10129/1796</Url>
-        <ClickUrl>http://hdl.handle.net/10129/1796</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Hirosaki University Repository for Academic Resources</Title>
         <Url>http://hdl.handle.net/10129/1797</Url>
         <ClickUrl>http://hdl.handle.net/10129/1797</ClickUrl>
     </Result>
@@ -240,6 +235,11 @@
         <Title>Hirosaki University Repository for Academic Resources</Title>
         <Url>http://hdl.handle.net/10129/1792</Url>
         <ClickUrl>http://hdl.handle.net/10129/1792</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Hirosaki University Repository for Academic Resources</Title>
+        <Url>http://hdl.handle.net/10129/1796</Url>
+        <ClickUrl>http://hdl.handle.net/10129/1796</ClickUrl>
     </Result>
     <Result>
         <Title>Hirosaki University Repository for Academic Resources</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://hdl.handle.net/10129/1799</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:43 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:43 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:49 PST 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:49 PST 2010 -->

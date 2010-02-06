@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="67705"
+    totalResultsAvailable="67309"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -53,8 +53,8 @@
     </Result>
     <Result>
         <Title>Institute of Low Temperature Science, Hokkaido University</Title>
-        <Url>http://www.lowtem.hokudai.ac.jp/english</Url>
-        <ClickUrl>http://www.lowtem.hokudai.ac.jp/english</ClickUrl>
+        <Url>http://www.lowtem.hokudai.ac.jp/english/</Url>
+        <ClickUrl>http://www.lowtem.hokudai.ac.jp/english/</ClickUrl>
     </Result>
     <Result>
         <Title>ガ島通信</Title>
@@ -147,6 +147,11 @@
         <ClickUrl>http://www.juris.hokudai.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>定義 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9</ClickUrl>
+    </Result>
+    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
@@ -155,6 +160,11 @@
         <Title>ギョウジャニンニク - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>プロも描いてる 神田明神の痛絵馬2010 「ちょー上手い」 - アキバBlog</Title>
+        <Url>http://blog.livedoor.jp/geek/archives/50959152.html</Url>
+        <ClickUrl>http://blog.livedoor.jp/geek/archives/50959152.html</ClickUrl>
     </Result>
     <Result>
         <Title>帝国大学 - Wikipedia</Title>
@@ -170,6 +180,16 @@
         <Title>Korsakov (town) - Wikipedia, the free encyclopedia</Title>
         <Url>http://en.wikipedia.org/wiki/Korsakov_(town)</Url>
         <ClickUrl>http://en.wikipedia.org/wiki/Korsakov_(town)</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>「反日台湾」を強調したNHKスペシャルー「シリーズJAPAN&lt;wbr&gt;デビュー」</Title>
@@ -236,26 +256,6 @@
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Wandering across the Arctic : Stoat</Title>
-        <Url>http://scienceblogs.com/stoat/2009/04/wandering_across_the_arctic.php</Url>
-        <ClickUrl>http://scienceblogs.com/stoat/2009/04/wandering_across_the_arctic.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Новая страница 2</Title>
-        <Url>http://www.jurassic.ru/_enews.htm</Url>
-        <ClickUrl>http://www.jurassic.ru/_enews.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>HOKKAIDO UNIVERSITY Sustainability Weeks 2009</Title>
-        <Url>http://www.sustain.hokudai.ac.jp/sw2009/</Url>
-        <ClickUrl>http://www.sustain.hokudai.ac.jp/sw2009/</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:37 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:37 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:46 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:46 PST 2010 -->

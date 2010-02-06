@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1176"
+    totalResultsAvailable="1161"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -25,6 +25,11 @@
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>九州工業大学附属図書館</Title>
@@ -72,11 +77,6 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
         <Url>http://hdl.handle.net/10228/756</Url>
         <ClickUrl>http://hdl.handle.net/10228/756</ClickUrl>
@@ -93,18 +93,8 @@
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/438</Url>
-        <ClickUrl>http://hdl.handle.net/10228/438</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
         <Url>http://hdl.handle.net/10228/876</Url>
         <ClickUrl>http://hdl.handle.net/10228/876</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/302</Url>
-        <ClickUrl>http://hdl.handle.net/10228/302</ClickUrl>
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
@@ -123,11 +113,6 @@
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/731</Url>
-        <ClickUrl>http://hdl.handle.net/10228/731</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
         <Url>http://hdl.handle.net/10228/324</Url>
         <ClickUrl>http://hdl.handle.net/10228/324</ClickUrl>
     </Result>
@@ -135,6 +120,11 @@
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
         <Url>http://hdl.handle.net/10228/439</Url>
         <ClickUrl>http://hdl.handle.net/10228/439</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
+        <Url>http://hdl.handle.net/10228/438</Url>
+        <ClickUrl>http://hdl.handle.net/10228/438</ClickUrl>
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
@@ -168,6 +158,11 @@
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
+        <Url>http://hdl.handle.net/10228/304</Url>
+        <ClickUrl>http://hdl.handle.net/10228/304</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
         <Url>http://hdl.handle.net/10228/774</Url>
         <ClickUrl>http://hdl.handle.net/10228/774</ClickUrl>
     </Result>
@@ -183,18 +178,13 @@
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/304</Url>
-        <ClickUrl>http://hdl.handle.net/10228/304</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
         <Url>http://hdl.handle.net/10228/670</Url>
         <ClickUrl>http://hdl.handle.net/10228/670</ClickUrl>
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/966</Url>
-        <ClickUrl>http://hdl.handle.net/10228/966</ClickUrl>
+        <Url>http://hdl.handle.net/10228/480</Url>
+        <ClickUrl>http://hdl.handle.net/10228/480</ClickUrl>
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
@@ -213,18 +203,13 @@
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/314</Url>
-        <ClickUrl>http://hdl.handle.net/10228/314</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/929</Url>
-        <ClickUrl>http://hdl.handle.net/10228/929</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
         <Url>http://hdl.handle.net/10228/440</Url>
         <ClickUrl>http://hdl.handle.net/10228/440</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
+        <Url>http://hdl.handle.net/10228/302</Url>
+        <ClickUrl>http://hdl.handle.net/10228/302</ClickUrl>
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
@@ -238,13 +223,13 @@
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/305</Url>
-        <ClickUrl>http://hdl.handle.net/10228/305</ClickUrl>
+        <Url>http://hdl.handle.net/10228/924</Url>
+        <ClickUrl>http://hdl.handle.net/10228/924</ClickUrl>
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
-        <Url>http://hdl.handle.net/10228/924</Url>
-        <ClickUrl>http://hdl.handle.net/10228/924</ClickUrl>
+        <Url>http://hdl.handle.net/10228/305</Url>
+        <ClickUrl>http://hdl.handle.net/10228/305</ClickUrl>
     </Result>
     <Result>
         <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
@@ -256,6 +241,21 @@
         <Url>http://hdl.handle.net/10228/436</Url>
         <ClickUrl>http://hdl.handle.net/10228/436</ClickUrl>
     </Result>
+    <Result>
+        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
+        <Url>http://hdl.handle.net/10228/303</Url>
+        <ClickUrl>http://hdl.handle.net/10228/303</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
+        <Url>http://hdl.handle.net/10228/864</Url>
+        <ClickUrl>http://hdl.handle.net/10228/864</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kyushu Institute of Technology of Academic Repository ...</Title>
+        <Url>http://hdl.handle.net/10228/1170</Url>
+        <ClickUrl>http://hdl.handle.net/10228/1170</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:35 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:35 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:13 PST 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:13 PST 2010 -->

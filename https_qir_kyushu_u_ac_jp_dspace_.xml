@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="52770"
+    totalResultsAvailable="51907"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,9 +17,19 @@
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Kyushu University Library</Title>
         <Url>http://www.lib.kyushu-u.ac.jp/english/</Url>
         <ClickUrl>http://www.lib.kyushu-u.ac.jp/english/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
@@ -82,6 +92,16 @@
         <ClickUrl>http://hdl.handle.net/2324/8085</ClickUrl>
     </Result>
     <Result>
+        <Title>江戸初期の光学製品輸入について : Kyushu University Institutional Repository (QIR)</Title>
+        <Url>http://hdl.handle.net/2324/2844</Url>
+        <ClickUrl>http://hdl.handle.net/2324/2844</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ein Ostindianisches Sendschreiben : Andreas Cleyers Brief an ...</Title>
+        <Url>http://hdl.handle.net/2324/2856</Url>
+        <ClickUrl>http://hdl.handle.net/2324/2856</ClickUrl>
+    </Result>
+    <Result>
         <Title>ジャック・マリタンの国家観と主権否認論 : Kyushu University Institutional ...</Title>
         <Url>http://hdl.handle.net/2324/1327</Url>
         <ClickUrl>http://hdl.handle.net/2324/1327</ClickUrl>
@@ -95,11 +115,6 @@
         <Title>行政行為の将来 : 行為形式論は「インフォーマルな行政活動」の興隆から学習できる&lt;wbr&gt;か? : Kyushu ...</Title>
         <Url>http://hdl.handle.net/2324/2170</Url>
         <ClickUrl>http://hdl.handle.net/2324/2170</ClickUrl>
-    </Result>
-    <Result>
-        <Title>アメリカの大学図書館および公共図書館における電子情報サービス&lt;wbr&gt;とその導入 : Kyushu University ...</Title>
-        <Url>http://hdl.handle.net/2324/2927</Url>
-        <ClickUrl>http://hdl.handle.net/2324/2927</ClickUrl>
     </Result>
     <Result>
         <Title>SIGMA: A Text Database Management System : Kyushu University ...</Title>
@@ -127,19 +142,9 @@
         <ClickUrl>http://hdl.handle.net/2324/12534</ClickUrl>
     </Result>
     <Result>
-        <Title>自治体の訴訟組織法制の再構築 : Kyushu University Institutional Repository (QIR)</Title>
-        <Url>http://hdl.handle.net/2324/12453</Url>
-        <ClickUrl>http://hdl.handle.net/2324/12453</ClickUrl>
-    </Result>
-    <Result>
         <Title>他者の信念を記述すること : 人類学における一つの擬似問題とその解消試案 : Kyushu University ...</Title>
         <Url>http://hdl.handle.net/2324/10531</Url>
         <ClickUrl>http://hdl.handle.net/2324/10531</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SIGMA - AN INFORMATION SYSTEM FOR RESEARCHERS USE : Kyushu ...</Title>
-        <Url>http://hdl.handle.net/2324/13339</Url>
-        <ClickUrl>http://hdl.handle.net/2324/13339</ClickUrl>
     </Result>
     <Result>
         <Title>雰囲気の現象学に向けて : ボランティア活動の中で体験されたある小学校の雰囲気を踏まえて&lt;wbr&gt; : Kyushu ...</Title>
@@ -175,6 +180,11 @@
         <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
     </Result>
     <Result>
         <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
@@ -222,6 +232,16 @@
         <ClickUrl>http://hdl.handle.net/2324/2217</ClickUrl>
     </Result>
     <Result>
+        <Title>Diffusion coefficients of aromatic compounds in supercritical ...</Title>
+        <Url>http://hdl.handle.net/2324/12528</Url>
+        <ClickUrl>http://hdl.handle.net/2324/12528</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Correlation of phase equilibria for water plus hydrocarbon ...</Title>
+        <Url>http://hdl.handle.net/2324/12524</Url>
+        <ClickUrl>http://hdl.handle.net/2324/12524</ClickUrl>
+    </Result>
+    <Result>
         <Title>川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
@@ -236,26 +256,6 @@
         <Url>http://www.flc.kyushu-u.ac.jp/~michel/index.html</Url>
         <ClickUrl>http://www.flc.kyushu-u.ac.jp/~michel/index.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>クント管内での噴水の形成 : Kyushu University Institutional Repository (QIR)</Title>
-        <Url>http://hdl.handle.net/2324/3561</Url>
-        <ClickUrl>http://hdl.handle.net/2324/3561</ClickUrl>
-    </Result>
-    <Result>
-        <Title>디지털 영상 전송 시스템을 이용한 원격진료 : Kyushu University Institutional ...</Title>
-        <Url>http://hdl.handle.net/2324/8536</Url>
-        <ClickUrl>http://hdl.handle.net/2324/8536</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学内各種データベースとのゆるやかな結合による統合検索 : Kyushu University Institutional ...</Title>
-        <Url>http://hdl.handle.net/2324/6159</Url>
-        <ClickUrl>http://hdl.handle.net/2324/6159</ClickUrl>
-    </Result>
-    <Result>
-        <Title>台湾における訴願法の運用について(一) : Kyushu University Institutional ...</Title>
-        <Url>http://hdl.handle.net/2324/8735</Url>
-        <ClickUrl>http://hdl.handle.net/2324/8735</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:06 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:06 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:07 PST 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:07 PST 2010 -->

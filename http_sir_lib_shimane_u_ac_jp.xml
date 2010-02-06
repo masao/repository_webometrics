@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8619"
+    totalResultsAvailable="8606"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -57,14 +57,14 @@
         <ClickUrl>http://www.library.pref.osaka.jp/central/saiban09_alist.html</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii Search - Location</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Location</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Location</ClickUrl>
-    </Result>
-    <Result>
         <Title>CiNii - Seasonal Variation in the Activity of Melatonin ...</Title>
         <Url>http://ci.nii.ac.jp/naid/40016423159</Url>
         <ClickUrl>http://ci.nii.ac.jp/naid/40016423159</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - nutrient</Title>
+        <Url>http://ci.nii.ac.jp/keyword/nutrient</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/nutrient</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii Search - eelgrass</Title>
@@ -77,9 +77,9 @@
         <ClickUrl>http://ci.nii.ac.jp/naid/110006940128</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Major and trace element chemistry of the garnets ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940185</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940185</ClickUrl>
+        <Title>CiNii - James HUTTON (1726-1797) 2 : Theory of the Earth ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940024</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940024</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii - Studies on the Effect of Temperature during the ...</Title>
@@ -87,14 +87,9 @@
         <ClickUrl>http://ci.nii.ac.jp/naid/110000997281</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - James HUTTON (1726-1797) 2 : Theory of the Earth ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940024</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940024</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Estimation of Nutrient Loading from Watershed and ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000994169</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000994169</ClickUrl>
+        <Title>CiNii - Late Quaternary sediments of the Yumigahama sandbar ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940208</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940208</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii - The Deep Weathering Crust of Akana Granodiorite</Title>
@@ -102,19 +97,9 @@
         <ClickUrl>http://ci.nii.ac.jp/naid/110006934130</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - New occurrences of the K-Ah(Akahoya) Tephra from the ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940126</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940126</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Late Quaternary sediments of the Yumigahama sandbar ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940208</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940208</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - On the Characteristics of a Monorail Type Carrier on ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000997277</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000997277</ClickUrl>
+        <Title>CiNii - Estimation of Nutrient Loading from Watershed and ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000994169</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000994169</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii - Reprint of &quot;San-in Michi-no-ki&quot;: A Books of Travel ...</Title>
@@ -122,9 +107,9 @@
         <ClickUrl>http://ci.nii.ac.jp/naid/110006937092</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Studies on the Dielectric Properties of Organic ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006934028</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006934028</ClickUrl>
+        <Title>CiNii - On the Characteristics of a Monorail Type Carrier on ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000997277</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000997277</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii - Natural history of the Nakano-umi and Shinji Lakes ...</Title>
@@ -132,9 +117,9 @@
         <ClickUrl>http://ci.nii.ac.jp/naid/110006940088</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Studies on the Dielectric Properties of Organic ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006934002</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006934002</ClickUrl>
+        <Title>CiNii - Note on the Vocabulary of &quot;Saiyakuki&quot; by Ono-Ranzan</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006936941</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006936941</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii - Petrograohy of the Sangun metamorphic rocks in the ...</Title>
@@ -142,9 +127,9 @@
         <ClickUrl>http://ci.nii.ac.jp/naid/110006940007</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Whole-rock elemental abundances in sandstones and ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940181</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940181</ClickUrl>
+        <Title>CiNii - Studies on the Dielectric Properties of Organic ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006934002</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006934002</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii - Notes on Genitive Case in Present-Day English</Title>
@@ -152,9 +137,14 @@
         <ClickUrl>http://ci.nii.ac.jp/naid/110006934257</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - The Effect of Fasting on the Concentration of Free ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000997163</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000997163</ClickUrl>
+        <Title>CiNii - Whole-rock elemental abundances in sandstones and ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940181</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940181</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii - Major and trace element chemistry of the garnets ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940185</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940185</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii - Teaching of Foundations for Reading Comprehension of ...</Title>
@@ -162,14 +152,19 @@
         <ClickUrl>http://ci.nii.ac.jp/naid/110006933670</ClickUrl>
     </Result>
     <Result>
+        <Title>CiNii - The Effect of Fasting on the Concentration of Free ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000997163</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000997163</ClickUrl>
+    </Result>
+    <Result>
         <Title>CiNii - Geochemical implication for the maximum flooding of ...</Title>
         <Url>http://ci.nii.ac.jp/naid/110006940154</Url>
         <ClickUrl>http://ci.nii.ac.jp/naid/110006940154</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Some mechanical properties of the Siwalik sandstones ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940164</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940164</ClickUrl>
+        <Title>CiNii - New occurrences of the K-Ah(Akahoya) Tephra from the ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006940126</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006940126</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii - Cropping System of Rice of Taichiro Nakai, Rono (a ...</Title>
@@ -227,6 +222,11 @@
         <ClickUrl>http://ci.nii.ac.jp/keyword/phytoassay</ClickUrl>
     </Result>
     <Result>
+        <Title>CiNii Search - Forest soil</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Forest+soil</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Forest+soil</ClickUrl>
+    </Result>
+    <Result>
         <Title>CiNii Search - Glacial Age</Title>
         <Url>http://ci.nii.ac.jp/keyword/Glacial+Age</Url>
         <ClickUrl>http://ci.nii.ac.jp/keyword/Glacial+Age</ClickUrl>
@@ -247,15 +247,15 @@
         <ClickUrl>http://ci.nii.ac.jp/keyword/Oryza+sativa</ClickUrl>
     </Result>
     <Result>
+        <Title>CiNii Search - Lake Nakaumi</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Lake+Nakaumi</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Lake+Nakaumi</ClickUrl>
+    </Result>
+    <Result>
         <Title>CiNii Search - regeneration</Title>
         <Url>http://ci.nii.ac.jp/keyword/regeneration</Url>
         <ClickUrl>http://ci.nii.ac.jp/keyword/regeneration</ClickUrl>
     </Result>
-    <Result>
-        <Title>CiNii Search - Book-Reading</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Book-Reading</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Book-Reading</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:02 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:02 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:01 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:01 PST 2010 -->

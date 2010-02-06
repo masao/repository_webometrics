@@ -104,12 +104,12 @@ if $0 == __FILE__
       month = lines[21..-1]
       #p month
       #p month[0][-1]
-      #p month[12][-1]
+      #p month[11][-1]
       size = month[0][-1].to_i
       growth_rate1 = size / ( Date.today - date ).to_f
-      growth_rate2 = ( size - month[12][-1].to_i ) / 365.0
+      growth_rate2 = ( size - month[11][-1].to_i ) / 365.0
       growth_rate2 = 0 if growth_rate2 < 0
-      growth_rate3 = ( size - month[6][-1].to_i ) / 182.5
+      growth_rate3 = ( size - month[5][-1].to_i ) / 182.5
       growth_rate3 = 0 if growth_rate3 < 0
       #puts "size: #{ size }"
       #puts "growth_rate: #{ growth_rate1 }"

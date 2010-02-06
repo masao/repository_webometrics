@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1538"
+    totalResultsAvailable="1532"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,6 +27,11 @@
         <ClickUrl>http://www.sapmed.ac.jp/libr/</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
@@ -37,9 +42,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -52,24 +57,19 @@
         <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=2</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=2</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=109</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=109</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Identify Response</Title>
+        <Url>http://celestial.eprints.org/oai/.unknown?verb=Identify</Url>
+        <ClickUrl>http://celestial.eprints.org/oai/.unknown?verb=Identify</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -135,6 +135,11 @@
         <Title>Items where Year is 2009 - Registry of Open Access Repositories</Title>
         <Url>http://roar.eprints.org/view/year/2009.html</Url>
         <ClickUrl>http://roar.eprints.org/view/year/2009.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/dspace.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
     </Result>
     <Result>
         <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
@@ -233,11 +238,6 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-4-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-4-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-6-1</Url>
         <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-6-1</ClickUrl>
     </Result>
@@ -248,14 +248,14 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
         <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-5&amp;</Url>
         <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-5&amp;</ClickUrl>
     </Result>
+    <Result>
+        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
+        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</Url>
+        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:46 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:46 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:27 PST 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:27 PST 2010 -->

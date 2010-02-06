@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2137"
+    totalResultsAvailable="2172"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -32,19 +32,29 @@
         <ClickUrl>http://www2.lib.hiroshima-cu.ac.jp/opac/index.html</ClickUrl>
     </Result>
     <Result>
+        <Title>ベルテルスマン - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%86%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%86%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3</ClickUrl>
+    </Result>
+    <Result>
         <Title>広島市立大学附属図書館</Title>
         <Url>http://www2.lib.hiroshima-cu.ac.jp/</Url>
         <ClickUrl>http://www2.lib.hiroshima-cu.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>人生がベータ版</Title>
-        <Url>http://d.hatena.ne.jp/beta_magnus/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/beta_magnus/</ClickUrl>
+        <Title>ウィリアム・ペティ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%9A%E3%83%86%E3%82%A3</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%9A%E3%83%86%E3%82%A3</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
         <Title>社会情報学部図書館トップページ</Title>
@@ -97,9 +107,9 @@
         <ClickUrl>http://blog.livedoor.jp/k_guncontrol/archives/50632371.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
+        <Title>映画評論0(その3):防衛省OB太田述正アングロサクソン文明&lt;wbr&gt;と軍事研究ブログ</Title>
+        <Url>http://blog.ohtan.net/archives/51459495.html</Url>
+        <ClickUrl>http://blog.ohtan.net/archives/51459495.html</ClickUrl>
     </Result>
     <Result>
         <Title>広島大学学術情報リポジトリ リンク</Title>
@@ -148,13 +158,18 @@
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=78</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=78</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=71</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=71</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=78</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=78</ClickUrl>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=72</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=72</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -168,23 +183,18 @@
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=72</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=72</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=73</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=73</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=75</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=75</ClickUrl>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=69</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=69</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=69</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=69</ClickUrl>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=75</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=75</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -217,14 +227,19 @@
         <ClickUrl>http://www.frestres.com/engsearch.php?title=%E3%82%8F%E3%81%8C%E9%97%98%E4%BA%89+raw&amp;action=search</ClickUrl>
     </Result>
     <Result>
-        <Title>張井歩汰夫 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=%E5%BC%B5%E4%BA%95%E6%AD%A9%E6%B1%B0%E5%A4%AB&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%BC%B5%E4%BA%95%E6%AD%A9%E6%B1%B0%E5%A4%AB&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
         <Title>the hare s gift 日本語訳 - results - www.purimblog.net</Title>
         <Url>http://www.purimblog.net/engsearch.php?title=the+hare+s+gift+%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3&amp;action=search</Url>
         <ClickUrl>http://www.purimblog.net/engsearch.php?title=the+hare+s+gift+%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>the weeping camel 日本語訳 - results - www.purimblog.net</Title>
+        <Url>http://www.purimblog.net/engsearch.php?title=the+weeping+camel+%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3&amp;action=search</Url>
+        <ClickUrl>http://www.purimblog.net/engsearch.php?title=the+weeping+camel+%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%A8%B3&amp;action=search</ClickUrl>
+    </Result>
+    <Result>
+        <Title>角波 720 断面係数 - results - www.frestres.com</Title>
+        <Url>http://www.frestres.com/engsearch.php?title=%E8%A7%92%E6%B3%A2%E3%80%80720%E3%80%80%E6%96%AD%E9%9D%A2%E4%BF%82%E6%95%B0&amp;action=search</Url>
+        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E8%A7%92%E6%B3%A2%E3%80%80720%E3%80%80%E6%96%AD%E9%9D%A2%E4%BF%82%E6%95%B0&amp;action=search</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 食品添加物の心臓収縮性への影響</Title>
@@ -241,21 +256,6 @@
         <Url>http://www.purimblog.net/engsearch.php?title=%E5%8F%82%E6%B2%B3%E5%AE%88%E5%A4%A7%E6%B1%9F%E5%AE%9A%E5%9F%BA%E5%87%BA%E5%AE%B6%E3%81%9B%E3%82%8B%E8%AA%9E&amp;action=search</Url>
         <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%8F%82%E6%B2%B3%E5%AE%88%E5%A4%A7%E6%B1%9F%E5%AE%9A%E5%9F%BA%E5%87%BA%E5%AE%B6%E3%81%9B%E3%82%8B%E8%AA%9E&amp;action=search</ClickUrl>
     </Result>
-    <Result>
-        <Title>Dialogue and Research Monitor | 2007 | Track 2: Governmental ...</Title>
-        <Url>http://www.jcie.or.jp/drm/2007/track2.html</Url>
-        <ClickUrl>http://www.jcie.or.jp/drm/2007/track2.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>参河守大江定基出家せる語 第二 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=%E5%8F%82%E6%B2%B3%E5%AE%88%E5%A4%A7%E6%B1%9F%E5%AE%9A%E5%9F%BA%E5%87%BA%E5%AE%B6%E3%81%9B%E3%82%8B%E8%AA%9E%E3%80%80%E7%AC%AC%E4%BA%8C&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%8F%82%E6%B2%B3%E5%AE%88%E5%A4%A7%E6%B1%9F%E5%AE%9A%E5%9F%BA%E5%87%BA%E5%AE%B6%E3%81%9B%E3%82%8B%E8%AA%9E%E3%80%80%E7%AC%AC%E4%BA%8C&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>marktankosich.com - My Writing</Title>
-        <Url>http://marktankosich.com/pb/wp_311400ed/wp_311400ed.html</Url>
-        <ClickUrl>http://marktankosich.com/pb/wp_311400ed/wp_311400ed.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:09 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:09 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:58 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:58 PST 2010 -->

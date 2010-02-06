@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="38307"
+    totalResultsAvailable="38134"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -60,6 +60,16 @@
         <Title>E-TOPIA:教育情報ポータルサイト</Title>
         <Url>http://library.u-gakugei.ac.jp/etopia/</Url>
         <ClickUrl>http://library.u-gakugei.ac.jp/etopia/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Registered Archives</Title>
@@ -137,6 +147,11 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
     </Result>
     <Result>
+        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
@@ -172,14 +187,14 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
         <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
     </Result>
     <Result>
         <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
@@ -195,11 +210,6 @@
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
         <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
         <Title>宗教的価値を扱う学習の市民的資質育成における原理的限界 : アメリカ合衆国の教師用指導書の実態を手がかりとして&lt;wbr&gt;: 東京学芸 ...</Title>
@@ -237,11 +247,6 @@
         <ClickUrl>http://hdl.handle.net/2309/89267</ClickUrl>
     </Result>
     <Result>
-        <Title>幼児の系列化の初期発達過程に関する研究 : 系列絵カードマッチング課題と棒通し課題による検討&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/65495</Url>
-        <ClickUrl>http://hdl.handle.net/2309/65495</ClickUrl>
-    </Result>
-    <Result>
         <Title>E-TOPIA 東京学芸大学リポジトリ 平成18年度CSI委託事業報告交流会ポスターセッション用資料&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
         <Url>http://hdl.handle.net/2309/60102</Url>
         <ClickUrl>http://hdl.handle.net/2309/60102</ClickUrl>
@@ -251,11 +256,6 @@
         <Url>http://hdl.handle.net/2309/89268</Url>
         <ClickUrl>http://hdl.handle.net/2309/89268</ClickUrl>
     </Result>
-    <Result>
-        <Title>東京都あきるの市産Stegodon miensisの産出層準とそのフィッショントラック年代&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/35451</Url>
-        <ClickUrl>http://hdl.handle.net/2309/35451</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:54 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:54 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:07 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:07 PST 2010 -->

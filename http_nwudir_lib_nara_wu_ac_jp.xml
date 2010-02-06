@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="19093"
+    totalResultsAvailable="18582"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -62,11 +62,6 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
-    </Result>
-    <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
@@ -117,6 +112,11 @@
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
@@ -125,6 +125,11 @@
         <Title>奈良女子大学附属図書館 Welcome to Nara Women&apos;s University Library</Title>
         <Url>http://www.lib.nara-wu.ac.jp/libhp/gzdb.html</Url>
         <ClickUrl>http://www.lib.nara-wu.ac.jp/libhp/gzdb.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
@@ -167,6 +172,11 @@
         <ClickUrl>http://www.lib.nara-wu.ac.jp/libhp/index_eng.html</ClickUrl>
     </Result>
     <Result>
+        <Title>読書日記</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/memb/hayashi/2009.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/memb/hayashi/2009.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
         <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
         <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
@@ -175,6 +185,16 @@
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=58</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=58</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Identify Response</Title>
+        <Url>http://celestial.eprints.org/oai/.unknown?verb=Identify</Url>
+        <ClickUrl>http://celestial.eprints.org/oai/.unknown?verb=Identify</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -236,26 +256,6 @@
         <Url>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1260521867849</Url>
         <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1260521867849</ClickUrl>
     </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1260496745110</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1260496745110</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1260565260221</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1260565260221</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1234972216939</Url>
-        <ClickUrl>http://www.lib.nara-wu.ac.jp/webopac/newsrh.do?system=1234972216939</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:52 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:57:52 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:23 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:23 PST 2010 -->

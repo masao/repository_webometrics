@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="70732"
+    totalResultsAvailable="70761"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -98,8 +98,8 @@
     </Result>
     <Result>
         <Title>RIEB, Kobe University -Library-</Title>
-        <Url>http://www.rieb.kobe-u.ac.jp/rieblib</Url>
-        <ClickUrl>http://www.rieb.kobe-u.ac.jp/rieblib</ClickUrl>
+        <Url>http://www.rieb.kobe-u.ac.jp/rieblib/index.html</Url>
+        <ClickUrl>http://www.rieb.kobe-u.ac.jp/rieblib/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>神戸大学 医学研究科・医学部</Title>
@@ -212,6 +212,11 @@
         <ClickUrl>http://www.ashiya-city-library.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Kobe University - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Kobe_University</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Kobe_University</ClickUrl>
+    </Result>
+    <Result>
         <Title>神戸大学トップページ / アクセス・キャンパスマップ / 六甲台地区 / 神大文理農学部前</Title>
         <Url>http://www.kobe-u.ac.jp/info/access/rokko/bun-ri-nou.htm</Url>
         <ClickUrl>http://www.kobe-u.ac.jp/info/access/rokko/bun-ri-nou.htm</ClickUrl>
@@ -220,11 +225,6 @@
         <Title>KOBE UNIVERSITY LAW</Title>
         <Url>http://www.law.kobe-u.ac.jp/KLS.htm</Url>
         <ClickUrl>http://www.law.kobe-u.ac.jp/KLS.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/</ClickUrl>
     </Result>
     <Result>
         <Title>まとめサイト@筋トレ質問スレ</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:11 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:11 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:44 PST 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:44 PST 2010 -->

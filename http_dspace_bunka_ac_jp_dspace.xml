@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="55"
+    totalResultsAvailable="56"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -47,9 +47,9 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=94</ClickUrl>
     </Result>
     <Result>
-        <Title>文化学園図書館:トップページ</Title>
-        <Url>http://bunkalib.mega-heart.net/whatnew_backno.php</Url>
-        <ClickUrl>http://bunkalib.mega-heart.net/whatnew_backno.php</ClickUrl>
+        <Title>文化学園図書館:ホームページ</Title>
+        <Url>http://bunkalib.mega-heart.net/index.php</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/index.php</ClickUrl>
     </Result>
     <Result>
         <Title>文化学園図書館:ホームページ</Title>
@@ -80,6 +80,11 @@
         <Title>大学機関リポジトリ</Title>
         <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文化学園図書館:マイクロ資料</Title>
+        <Url>http://bunkalib.mega-heart.net/info/microdata.html</Url>
+        <ClickUrl>http://bunkalib.mega-heart.net/info/microdata.html</ClickUrl>
     </Result>
     <Result>
         <Title>文化学園図書館:アクセス(小平)</Title>
@@ -251,11 +256,6 @@
         <Url>http://maruta.be/culture/cyugoku</Url>
         <ClickUrl>http://maruta.be/culture/cyugoku</ClickUrl>
     </Result>
-    <Result>
-        <Title>文化 Culture | マイカテゴリ:</Title>
-        <Url>http://maruta.be/culture/hokkaido</Url>
-        <ClickUrl>http://maruta.be/culture/hokkaido</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:36 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:35 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:12 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:12 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="101420"
+    totalResultsAvailable="100251"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -52,11 +52,6 @@
         <ClickUrl>http://www.liste-hygiene.org/haccp.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
-        <Url>http://repositories.webometrics.info/top400_rep.asp</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep.asp</ClickUrl>
-    </Result>
-    <Result>
         <Title>Information Security Group</Title>
         <Url>http://www.avoine.net/rfid/</Url>
         <ClickUrl>http://www.avoine.net/rfid/</ClickUrl>
@@ -82,6 +77,11 @@
         <ClickUrl>http://konchudb.agr.agr.kyushu-u.ac.jp/mokuroku/</ClickUrl>
     </Result>
     <Result>
+        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>日本産昆虫目録データベース MOKUROKU</Title>
         <Url>http://konchudb.agr.agr.kyushu-u.ac.jp/mokuroku/index-j.html</Url>
         <ClickUrl>http://konchudb.agr.agr.kyushu-u.ac.jp/mokuroku/index-j.html</ClickUrl>
@@ -90,6 +90,11 @@
         <Title>Kyushu University Library</Title>
         <Url>http://www.lib.kyushu-u.ac.jp/english/</Url>
         <ClickUrl>http://www.lib.kyushu-u.ac.jp/english/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
     </Result>
     <Result>
         <Title>Moxibustion – Wikipedia</Title>
@@ -251,11 +256,6 @@
         <Url>http://konchudb.agr.agr.kyushu-u.ac.jp/dji/</Url>
         <ClickUrl>http://konchudb.agr.agr.kyushu-u.ac.jp/dji/</ClickUrl>
     </Result>
-    <Result>
-        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_es.asp</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_es.asp</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:07 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:07 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:09 PST 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:09 PST 2010 -->

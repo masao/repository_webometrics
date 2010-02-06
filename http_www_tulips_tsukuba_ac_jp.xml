@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="63429"
+    totalResultsAvailable="62801"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -132,6 +132,11 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB</ClickUrl>
     </Result>
     <Result>
+        <Title>SURE: Shizuoka University REpository: Home</Title>
+        <Url>http://ir.lib.shizuoka.ac.jp/</Url>
+        <ClickUrl>http://ir.lib.shizuoka.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Digital Librarian: Japan</Title>
         <Url>http://www.digital-librarian.com/japan.html</Url>
         <ClickUrl>http://www.digital-librarian.com/japan.html</ClickUrl>
@@ -187,7 +192,7 @@
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球国 - 维基百科,自由的百科全书</Title>
+        <Title>琉球國 - 維基百科,自由的百科全書</Title>
         <Url>http://zh.wikipedia.org/wiki/%E7%90%89%E7%90%83%E5%9B%BD</Url>
         <ClickUrl>http://zh.wikipedia.org/wiki/%E7%90%89%E7%90%83%E5%9B%BD</ClickUrl>
     </Result>
@@ -251,11 +256,6 @@
         <Url>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95</ClickUrl>
     </Result>
-    <Result>
-        <Title>Libweb - Directory of Libraries in Japan</Title>
-        <Url>http://lists.webjunction.org/libweb/Asia_Japan.html</Url>
-        <ClickUrl>http://lists.webjunction.org/libweb/Asia_Japan.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:47 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:46:47 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:21 PST 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:21 PST 2010 -->

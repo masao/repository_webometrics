@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4219"
+    totalResultsAvailable="4220"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -42,6 +42,11 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E9%AD%94%E6%96%B9%E9%99%A3</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>阿Q正伝 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E9%98%BFQ%E6%AD%A3%E4%BC%9D</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E9%98%BFQ%E6%AD%A3%E4%BC%9D</ClickUrl>
@@ -72,6 +77,11 @@
         <ClickUrl>http://hdl.handle.net/10140/580</ClickUrl>
     </Result>
     <Result>
+        <Title>Iwate University Repository: 学校週5日制における知的障害児の余暇生活に関する調査研究 ...</Title>
+        <Url>http://hdl.handle.net/10140/334</Url>
+        <ClickUrl>http://hdl.handle.net/10140/334</ClickUrl>
+    </Result>
+    <Result>
         <Title>Iwate University Repository: 栄養と行動に関する研究 - とくに機能的低血糖症について -</Title>
         <Url>http://hdl.handle.net/10140/569</Url>
         <ClickUrl>http://hdl.handle.net/10140/569</ClickUrl>
@@ -82,14 +92,19 @@
         <ClickUrl>http://hdl.handle.net/10140/541</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 「学力」とはなにか - 研究ノオト(1) -</Title>
-        <Url>http://hdl.handle.net/10140/1484</Url>
-        <ClickUrl>http://hdl.handle.net/10140/1484</ClickUrl>
-    </Result>
-    <Result>
         <Title>Iwate University Repository: 学習障害(LD)児の現状と課題に関する一考察 - 通所指導教室の ...</Title>
         <Url>http://hdl.handle.net/10140/1596</Url>
         <ClickUrl>http://hdl.handle.net/10140/1596</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Iwate University Repository: BUTTERFLIES TAKEN IN BOHOL ...</Title>
+        <Url>http://hdl.handle.net/10140/2434</Url>
+        <ClickUrl>http://hdl.handle.net/10140/2434</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Iwate University Repository: 学生の貧血に関する一考察</Title>
+        <Url>http://hdl.handle.net/10140/1374</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1374</ClickUrl>
     </Result>
     <Result>
         <Title>Iwate University Repository: 学問を語る言葉-高津春繁『言語学概論』のテクスト分析から&lt;wbr&gt;-</Title>
@@ -105,16 +120,6 @@
         <Title>Iwate University Repository: 1825(文政8)年の西蝦夷地古宇(フルウ)場所におけるアイ&lt;wbr&gt;ヌの ...</Title>
         <Url>http://hdl.handle.net/10140/3034</Url>
         <ClickUrl>http://hdl.handle.net/10140/3034</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: 差押禁止債権を原資とする預金債権の差押え</Title>
-        <Url>http://hdl.handle.net/10140/2777</Url>
-        <ClickUrl>http://hdl.handle.net/10140/2777</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: 学生の貧血に関する一考察</Title>
-        <Url>http://hdl.handle.net/10140/1374</Url>
-        <ClickUrl>http://hdl.handle.net/10140/1374</ClickUrl>
     </Result>
     <Result>
         <Title>Iwate University Repository: 1935年前後における北方教育運動の一断面 - 吉田農の一論稿から -</Title>
@@ -157,11 +162,6 @@
         <ClickUrl>http://hdl.handle.net/10140/561</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学芸学部における英語科カリキュラムの構想</Title>
-        <Url>http://hdl.handle.net/10140/961</Url>
-        <ClickUrl>http://hdl.handle.net/10140/961</ClickUrl>
-    </Result>
-    <Result>
         <Title>Iwate University Repository: 家庭における原毛の取り扱い(第2報) - フリースの洗毛方法と ...</Title>
         <Url>http://hdl.handle.net/10140/1541</Url>
         <ClickUrl>http://hdl.handle.net/10140/1541</ClickUrl>
@@ -182,19 +182,19 @@
         <ClickUrl>http://hdl.handle.net/10140/2540</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
+        <Title>大神島 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E5%B3%B6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E5%B3%B6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
         <Title>Iwate University Repository: 土地紛争裁決状</Title>
@@ -237,25 +237,25 @@
         <ClickUrl>http://hdl.handle.net/10140/384</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学習者の立場から科学専門用語を見る - 外国語由来の用語に関する問題 -</Title>
-        <Url>http://hdl.handle.net/10140/485</Url>
-        <ClickUrl>http://hdl.handle.net/10140/485</ClickUrl>
-    </Result>
-    <Result>
         <Title>Iwate University Repository: 修正FIACSによる授業分析結果の検討 - 授業・「分数のかけ算 ...</Title>
         <Url>http://hdl.handle.net/10140/578</Url>
         <ClickUrl>http://hdl.handle.net/10140/578</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: ON SUBSEMIGROUPS OF n(2 ...</Title>
-        <Url>http://hdl.handle.net/10140/945</Url>
-        <ClickUrl>http://hdl.handle.net/10140/945</ClickUrl>
+        <Title>Iwate University Repository: 学習者の立場から科学専門用語を見る - 外国語由来の用語に関する問題 -</Title>
+        <Url>http://hdl.handle.net/10140/485</Url>
+        <ClickUrl>http://hdl.handle.net/10140/485</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学校週5日制における知的障害児の余暇生活に関する調査研究 ...</Title>
-        <Url>http://hdl.handle.net/10140/334</Url>
-        <ClickUrl>http://hdl.handle.net/10140/334</ClickUrl>
+        <Title>Iwate University Repository: コンピュータの動作原理に関する学習の実践</Title>
+        <Url>http://hdl.handle.net/10140/478</Url>
+        <ClickUrl>http://hdl.handle.net/10140/478</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Iwate University Repository: SOME PROPERTIES OF D-AFFINE ...</Title>
+        <Url>http://hdl.handle.net/10140/963</Url>
+        <ClickUrl>http://hdl.handle.net/10140/963</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:26 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:26 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:34 PST 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:34 PST 2010 -->

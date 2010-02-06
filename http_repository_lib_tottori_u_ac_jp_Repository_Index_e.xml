@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="142"
+    totalResultsAvailable="140"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,6 +27,11 @@
         <ClickUrl>http://lib.med.tottori-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>鳥取大学医学図書館</Title>
+        <Url>http://lib.med.tottori-u.ac.jp/homepage.html</Url>
+        <ClickUrl>http://lib.med.tottori-u.ac.jp/homepage.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=111</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=111</ClickUrl>
@@ -37,19 +42,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Tractive Force Surface of River Bank due to Overflow</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001351/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001351/en</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>鳥取大学医学図書館</Title>
-        <Url>http://lib.med.tottori-u.ac.jp/HOMEPAGE.html</Url>
-        <ClickUrl>http://lib.med.tottori-u.ac.jp/HOMEPAGE.html</ClickUrl>
     </Result>
     <Result>
         <Title>大学機関リポジトリ</Title>
@@ -85,6 +80,11 @@
         <Title>JAIRO | 新規人工染色体ベクターを用いたDNA-PKcs遺伝子発現制御&lt;wbr&gt;系の構築</Title>
         <Url>http://jairo.nii.ac.jp/0112/00001815</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001815</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 1 Summaries of Doctor Theses</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000946</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000946</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 部落問題と差別意識との関連について</Title>
@@ -147,19 +147,14 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00000964/en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | SEM・SAM用画像処理システムⅡ-ソフトウェア&lt;wbr&gt;-</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001613/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001613/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 乾燥地の灌漑農地における塩類動態に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001797/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001797/en</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 4 研究活動(1996年4月~1997年3月) 4.1 研究活動概要 4.2 共同研究 4.3 研究課題 ...</Title>
         <Url>http://jairo.nii.ac.jp/0112/00000932/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00000932/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 脳血管障害患者に対する水中運動を利用した運動療法の効果</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001935</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001935</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | メキシコの沙漠土壌の物理性に関する研究</Title>
@@ -167,9 +162,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001819</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 関節軟骨細胞のプロテオグリカン代謝</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001910</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001910</ClickUrl>
+        <Title>JAIRO | 黒毛和種去勢牛の理想肥育における粗飼料の有効利用に関する研究&lt;wbr&gt; : 第1報 粗飼料の給与割合が飼料効率と肉質 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000598</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000598</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 遠隔病理診断(テレパソロジー)の現状と展望</Title>
@@ -177,14 +172,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00001911</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Sensitivity and Specificity of Denaturing HPLC to ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001859</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001859</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Recent Advances in Ultrasound Imaging of Breast Lesions</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001858</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001858</ClickUrl>
+        <Title>JAIRO | Cycloartenol α-methyl ferulic acid (S-2185)の一般薬理作用 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001944</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001944</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 常温下高K持続心筋保護液中Ca, Mg濃度の心筋保護効果に及ぼす影響について ラット摘出心working ...</Title>
@@ -256,6 +246,16 @@
         <Url>http://jairo.nii.ac.jp/0112/00000861/en</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0112/00000861/en</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIRO | Effects of Estrogen Replacement Therapy on the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000848/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000848/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Mismatch Repair Deficiency in Patients with Double ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000866/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000866/en</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:50 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:50 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:32 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:32 PST 2010 -->

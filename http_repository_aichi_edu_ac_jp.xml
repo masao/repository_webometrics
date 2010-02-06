@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1096"
+    totalResultsAvailable="1119"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -62,6 +62,16 @@
         <ClickUrl>http://hdl.handle.net/10424/421</ClickUrl>
     </Result>
     <Result>
+        <Title>DSpace at 愛知教育大学: 赤人三七八番歌の表現方法 ―故太政大臣藤原家の山池を詠む歌をめぐって―</Title>
+        <Url>http://hdl.handle.net/10424/679</Url>
+        <ClickUrl>http://hdl.handle.net/10424/679</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at 愛知教育大学: すさみゆく昔男 ―伊勢物語九六~一一四段に見る自暴自棄的荒廃―</Title>
+        <Url>http://hdl.handle.net/10424/677</Url>
+        <ClickUrl>http://hdl.handle.net/10424/677</ClickUrl>
+    </Result>
+    <Result>
         <Title>DSpace at 愛知教育大学: 六道絵の図像構成に関する研究 ―六道・立山・山中他界―</Title>
         <Url>http://hdl.handle.net/10424/781</Url>
         <ClickUrl>http://hdl.handle.net/10424/781</ClickUrl>
@@ -92,14 +102,14 @@
         <ClickUrl>http://hdl.handle.net/10424/1566</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at 愛知教育大学: 広汎性発達障害を早期に疑われる幼児への発達支援 第1報 ―療育機関等から保育園・幼稚園 ...</Title>
-        <Url>http://hdl.handle.net/10424/1294</Url>
-        <ClickUrl>http://hdl.handle.net/10424/1294</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at 愛知教育大学: アスペルガー障害の診断を受けた不登校男児におけるプレイセラピ&lt;wbr&gt;ーの経過 ―「積み木制作 ...</Title>
         <Url>http://hdl.handle.net/10424/1296</Url>
         <ClickUrl>http://hdl.handle.net/10424/1296</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at 愛知教育大学: 広汎性発達障害を早期に疑われる幼児への発達支援 第1報 ―療育機関等から保育園・幼稚園 ...</Title>
+        <Url>http://hdl.handle.net/10424/1294</Url>
+        <ClickUrl>http://hdl.handle.net/10424/1294</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at 愛知教育大学: A Renormalization Approach to Level ...</Title>
@@ -110,11 +120,6 @@
         <Title>DSpace at 愛知教育大学: 無限なるものの先行性 ―デカルト「第三省察」における神の第一存在証明の考察―</Title>
         <Url>http://hdl.handle.net/10424/1695</Url>
         <ClickUrl>http://hdl.handle.net/10424/1695</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at 愛知教育大学: 1950年代のシュタージ拉致・殺人事件 ―リンゼとビアレクの場合―</Title>
-        <Url>http://hdl.handle.net/10424/1393</Url>
-        <ClickUrl>http://hdl.handle.net/10424/1393</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at 愛知教育大学: 「美月の夢」の教材としての価値 ―「沼田さん」との関わりに注目して―</Title>
@@ -162,14 +167,19 @@
         <ClickUrl>http://hdl.handle.net/10424/256</ClickUrl>
     </Result>
     <Result>
+        <Title>DSpace at 愛知教育大学: 聴取の意識を「音の羅列から意味のある音の結びつき」へ転換させ&lt;wbr&gt;る能動型鑑賞活動への試み ...</Title>
+        <Url>http://hdl.handle.net/10424/158</Url>
+        <ClickUrl>http://hdl.handle.net/10424/158</ClickUrl>
+    </Result>
+    <Result>
         <Title>DSpace at 愛知教育大学: 赤人三七八番追考 ―故太政大臣藤原家の山池を詠む歌は讃美の歌か―</Title>
         <Url>http://hdl.handle.net/10424/681</Url>
         <ClickUrl>http://hdl.handle.net/10424/681</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at 愛知教育大学: 吉本隆明の初期思想 ―東京府化学工業学校から米沢高等工業学校まで―</Title>
-        <Url>http://hdl.handle.net/10424/907</Url>
-        <ClickUrl>http://hdl.handle.net/10424/907</ClickUrl>
+        <Title>DSpace at 愛知教育大学: Das Tarifsystem der japanischen Eisenbahnen</Title>
+        <Url>http://hdl.handle.net/10424/1685</Url>
+        <ClickUrl>http://hdl.handle.net/10424/1685</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at 愛知教育大学: 初年次教育を在学3年生対象の意識調査から考える ― アンケート調査から明らかになった事 ...</Title>
@@ -212,21 +222,6 @@
         <ClickUrl>http://hdl.handle.net/10424/285</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at 愛知教育大学: 伊勢物語の相補的解釈 ―一章段内の部分単位での考察―</Title>
-        <Url>http://hdl.handle.net/10424/673</Url>
-        <ClickUrl>http://hdl.handle.net/10424/673</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at 愛知教育大学: 慶大蔵『伊勢物語繪詞』について ―新出狩使本資料の紹介と検討―</Title>
-        <Url>http://hdl.handle.net/10424/674</Url>
-        <ClickUrl>http://hdl.handle.net/10424/674</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at 愛知教育大学: RFプラズマCVDによるアモルファスカーボン薄膜の作製</Title>
-        <Url>http://hdl.handle.net/10424/647</Url>
-        <ClickUrl>http://hdl.handle.net/10424/647</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at 愛知教育大学: Rubyによる学習教材の開発</Title>
         <Url>http://hdl.handle.net/10424/271</Url>
         <ClickUrl>http://hdl.handle.net/10424/271</ClickUrl>
@@ -242,9 +237,9 @@
         <ClickUrl>http://hdl.handle.net/10424/908</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at 愛知教育大学: 聴取の意識を「音の羅列から意味のある音の結びつき」へ転換させ&lt;wbr&gt;る能動型鑑賞活動への試み ...</Title>
-        <Url>http://hdl.handle.net/10424/158</Url>
-        <ClickUrl>http://hdl.handle.net/10424/158</ClickUrl>
+        <Title>DSpace at 愛知教育大学: 伊勢物語の相補的解釈 ―一章段内の部分単位での考察―</Title>
+        <Url>http://hdl.handle.net/10424/673</Url>
+        <ClickUrl>http://hdl.handle.net/10424/673</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at 愛知教育大学: 赤人九二三-九二五番歌の表現方法 ―吉野讃歌第一歌群に見る三重の&amp;lt;絞り込み&amp;gt;―</Title>
@@ -256,6 +251,11 @@
         <Url>http://hdl.handle.net/10424/912</Url>
         <ClickUrl>http://hdl.handle.net/10424/912</ClickUrl>
     </Result>
+    <Result>
+        <Title>DSpace at 愛知教育大学: 伊勢物語におけるソ/コ系指示語の使い分け(続)</Title>
+        <Url>http://hdl.handle.net/10424/675</Url>
+        <ClickUrl>http://hdl.handle.net/10424/675</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:27 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:27 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:01 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:01 PST 2010 -->

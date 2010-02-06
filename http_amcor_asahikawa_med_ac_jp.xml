@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2829"
+    totalResultsAvailable="2835"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -37,6 +37,11 @@
         <ClickUrl>http://acesv.asahikawa-med.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>サモエド53〜</Title>
+        <Url>http://www.vladimirshursky.com/</Url>
+        <ClickUrl>http://www.vladimirshursky.com/</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
@@ -47,6 +52,11 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>水曜日 投稿!今ドキ早口</Title>
+        <Url>http://www.tania-ksiegarnia.info/</Url>
+        <ClickUrl>http://www.tania-ksiegarnia.info/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
         <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
@@ -55,11 +65,6 @@
         <Title>Ranking Web of World Repositories: Directory of Repositories</Title>
         <Url>http://repositories.webometrics.info/directory_rep.asp</Url>
         <ClickUrl>http://repositories.webometrics.info/directory_rep.asp</ClickUrl>
-    </Result>
-    <Result>
-        <Title>阪神タイガースについて</Title>
-        <Url>http://www.mascardiandnash.com/</Url>
-        <ClickUrl>http://www.mascardiandnash.com/</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -75,11 +80,6 @@
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
         <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/status</Url>
-        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories: Japan</Title>
@@ -107,19 +107,19 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
-    </Result>
-    <Result>
         <Title>Asahikawa Medical College Infomation Processing Center Home Page</Title>
         <Url>http://www.asahikawa-med.ac.jp/ipc/</Url>
         <ClickUrl>http://www.asahikawa-med.ac.jp/ipc/</ClickUrl>
     </Result>
     <Result>
-        <Title>うつ病を患って入院し回</Title>
-        <Url>http://www.zzwowgold.com/utuyamaio.html</Url>
-        <ClickUrl>http://www.zzwowgold.com/utuyamaio.html</ClickUrl>
+        <Title>軽自動車税</Title>
+        <Url>http://www.cosmetiques-beaute.net/kyuapo.html</Url>
+        <ClickUrl>http://www.cosmetiques-beaute.net/kyuapo.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>長谷川の作品の出版は姉</Title>
+        <Url>http://www.realdealhomebiz.com/hasegawano.html</Url>
+        <ClickUrl>http://www.realdealhomebiz.com/hasegawano.html</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -130,6 +130,21 @@
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>hiroya aoki - スポーツ選人</Title>
+        <Url>http://www.spo-p.com/sp/HIROYA/hiroya+aoki.html</Url>
+        <ClickUrl>http://www.spo-p.com/sp/HIROYA/hiroya+aoki.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Edit Archive Record</Title>
@@ -147,14 +162,14 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
     </Result>
     <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
-    </Result>
-    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
@@ -167,6 +182,11 @@
         <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
@@ -177,6 +197,11 @@
         <ClickUrl>http://www.gzgmwx.com/inguri.html</ClickUrl>
     </Result>
     <Result>
+        <Title>セレクトレバーが一直線に</Title>
+        <Url>http://www.yp4mankato.org/serekuto.html</Url>
+        <ClickUrl>http://www.yp4mankato.org/serekuto.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>国立大学法人 旭川医科大学大学院医学系研究科</Title>
         <Url>http://www.asahikawa-med.ac.jp/dept/gsm/</Url>
         <ClickUrl>http://www.asahikawa-med.ac.jp/dept/gsm/</ClickUrl>
@@ -185,16 +210,6 @@
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ZARD グロリアス マインド</Title>
-        <Url>http://www.host-events.com/osuteingus.html</Url>
-        <ClickUrl>http://www.host-events.com/osuteingus.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Registered Archives</Title>
@@ -215,11 +230,6 @@
         <Title>OpenDOAR - Open Access Repositories: Asia</Title>
         <Url>http://opendoar.org/find.php?cID=Asia&amp;title=Asia</Url>
         <ClickUrl>http://opendoar.org/find.php?cID=Asia&amp;title=Asia</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
     </Result>
     <Result>
         <Title>Browse Research Institutional or Departmental (ROAR)</Title>
@@ -246,16 +256,6 @@
         <Url>http://www.haotsu.jp/takahasiseika.html</Url>
         <ClickUrl>http://www.haotsu.jp/takahasiseika.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>Herb&amp;amp;Rose農薬な</Title>
-        <Url>http://www.wynajemsprzetu.info/herb.html</Url>
-        <ClickUrl>http://www.wynajemsprzetu.info/herb.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>aiko 愛のしぐさ</Title>
-        <Url>http://www.arilaripi.org/angounouze.html</Url>
-        <ClickUrl>http://www.arilaripi.org/angounouze.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:47 PST 2010 -->
-<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:34:47 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:28 PST 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:28 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="7258"
+    totalResultsAvailable="7236"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -142,6 +142,11 @@
         <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/access/yoshida-ap.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
         <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
@@ -251,11 +256,6 @@
         <Url>http://www.kmle.co.kr/search.php?Search=albuminocholia</Url>
         <ClickUrl>http://www.kmle.co.kr/search.php?Search=albuminocholia</ClickUrl>
     </Result>
-    <Result>
-        <Title>Celestial - Edit Archive Record</Title>
-        <Url>http://celestial.eprints.org/repository?repository=1201</Url>
-        <ClickUrl>http://celestial.eprints.org/repository?repository=1201</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:11 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:11 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:13 PST 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:13 PST 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="800"
+    totalResultsAvailable="789"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -67,19 +67,9 @@
         <ClickUrl>http://www.sap.hokkyodai.ac.jp/~yosino/</ClickUrl>
     </Result>
     <Result>
-        <Title>ACADEMIC RESOURCE GUIDE [まぐまぐ!]</Title>
-        <Url>http://archive.mag2.com/0000005669/20081103195618000.html</Url>
-        <ClickUrl>http://archive.mag2.com/0000005669/20081103195618000.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>CiNii Search - neutralization</Title>
         <Url>http://ci.nii.ac.jp/keyword/neutralization</Url>
         <ClickUrl>http://ci.nii.ac.jp/keyword/neutralization</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - education level</Title>
-        <Url>http://ci.nii.ac.jp/keyword/education+level</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/education+level</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii Search - Sodium Chloride</Title>
@@ -256,6 +246,16 @@
         <Url>http://ci.nii.ac.jp/naid/110007224771</Url>
         <ClickUrl>http://ci.nii.ac.jp/naid/110007224771</ClickUrl>
     </Result>
+    <Result>
+        <Title>CiNii - The Dynamism of Schumann&apos;s Harmonic Expression - From ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007224765</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007224765</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii - The Complements of &quot;Concordance to the Poems of TU FU (IV)&quot;</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007224770</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007224770</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:22 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:58:22 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:56 PST 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:56 PST 2010 -->

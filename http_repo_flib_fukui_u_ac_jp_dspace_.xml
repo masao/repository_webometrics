@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="656"
+    totalResultsAvailable="658"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -32,6 +32,11 @@
         <ClickUrl>http://karin30.flib.fukui-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Repository List</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>福井大学附属図書館</Title>
         <Url>http://karin30.flib.fukui-u.ac.jp/Welcome.html</Url>
         <ClickUrl>http://karin30.flib.fukui-u.ac.jp/Welcome.html</ClickUrl>
@@ -42,19 +47,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>福井大学附属図書館 | ホーム</Title>
-        <Url>http://www.flib.u-fukui.ac.jp/</Url>
-        <ClickUrl>http://www.flib.u-fukui.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>press - DRF wiki</Title>
@@ -82,11 +77,6 @@
         <ClickUrl>http://maps.repository66.org/repository66dotorg-maps.kml</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Repositories: University of Fukui</Title>
         <Url>http://www.opendoar.org/find.php?search=University+of+Fukui&amp;title=University+of+Fukui</Url>
         <ClickUrl>http://www.opendoar.org/find.php?search=University+of+Fukui&amp;title=University+of+Fukui</ClickUrl>
@@ -110,6 +100,11 @@
         <Title>福井大学教育地域科学部紀要</Title>
         <Url>http://www.flib.fukui-u.ac.jp/kiyo/kiyo-top.html</Url>
         <ClickUrl>http://www.flib.fukui-u.ac.jp/kiyo/kiyo-top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Facial Expression Recognition Based on</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00000888</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00000888</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -137,19 +132,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0039/00001420/en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Four New Species of the Genus Neseuthia SCOTT, 1922 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0039/00001062/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0039/00001062/en</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2009/9/14 归档 - 给朋友 - --==即物穷理,格物致知==--</Title>
-        <Url>http://www.dracker.cn/blog/index.php?go=showday_2009-9-14</Url>
-        <ClickUrl>http://www.dracker.cn/blog/index.php?go=showday_2009-9-14</ClickUrl>
     </Result>
     <Result>
         <Title>IESR Full Record</Title>
@@ -162,9 +147,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0039/00001203/en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | High magnetic field ESR measurements of SrCu2(PO4)2</Title>
-        <Url>http://jairo.nii.ac.jp/0039/00000263/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0039/00000263/en</ClickUrl>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/dspace.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
     </Result>
     <Result>
         <Title>Browse by Country - Registry of Open Access Repositories</Title>
@@ -192,11 +177,6 @@
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>FAQ</Title>
-        <Url>http://www.flib.fukui-u.ac.jp/repository/FAQ.html</Url>
-        <ClickUrl>http://www.flib.fukui-u.ac.jp/repository/FAQ.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>福井大学附属図書館 | 総合図書館 - 利用ガイド</Title>
         <Url>http://www.flib.fukui-u.ac.jp/lib_sogou/index.html</Url>
         <ClickUrl>http://www.flib.fukui-u.ac.jp/lib_sogou/index.html</ClickUrl>
@@ -210,11 +190,6 @@
         <Title>福井大学附属図書館 | 広報誌(図書館forum)</Title>
         <Url>http://www.flib.fukui-u.ac.jp/lib_common/forum.html</Url>
         <ClickUrl>http://www.flib.fukui-u.ac.jp/lib_common/forum.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>福井大学附属図書館 | ニュース</Title>
-        <Url>http://www.flib.u-fukui.ac.jp/news/detail.html?id=264</Url>
-        <ClickUrl>http://www.flib.u-fukui.ac.jp/news/detail.html?id=264</ClickUrl>
     </Result>
     <Result>
         <Title>福井大学附属図書館 | 総合図書館 - カレンダー</Title>
@@ -242,6 +217,11 @@
         <ClickUrl>http://www.f-gh.jp/fcmtosyokan/</ClickUrl>
     </Result>
     <Result>
+        <Title>福井大学附属図書館 | ホーム</Title>
+        <Url>http://www.flib.u-fukui.ac.jp/index.html</Url>
+        <ClickUrl>http://www.flib.u-fukui.ac.jp/index.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | Raman Scattering Characterization of Annealed ...</Title>
         <Url>http://jairo.nii.ac.jp/0039/00001326</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0039/00001326</ClickUrl>
@@ -256,6 +236,26 @@
         <Url>http://jairo.nii.ac.jp/0039/00001402</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0039/00001402</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIRO | Marked improvements in electrical and optical ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001022</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001022</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Preparation and Electrochemical Properties of Cathode ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001420</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001420</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Production of anti-cancer agent cordycepin from the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001238</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001238</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Implementation of a New Backtrack Free Path</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00000887</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00000887</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:35 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:47:35 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:44 PST 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:44 PST 2010 -->

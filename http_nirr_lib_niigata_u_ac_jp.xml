@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="153"
+    totalResultsAvailable="150"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -25,6 +25,11 @@
         <Title>研究紀要/新潟青陵大学図書館</Title>
         <Url>http://lib.n-seiryo.ac.jp/kiyo/index.html</Url>
         <ClickUrl>http://lib.n-seiryo.ac.jp/kiyo/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Home: 新潟大学学術リポジトリ Nuar</Title>
+        <Url>http://dspace.lib.niigata-u.ac.jp:8080/dspace/</Url>
+        <ClickUrl>http://dspace.lib.niigata-u.ac.jp:8080/dspace/</ClickUrl>
     </Result>
     <Result>
         <Title>DRF5 - DRF wiki</Title>
@@ -112,19 +117,9 @@
         <ClickUrl>http://lib.niigata-cn.ac.jp/link.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 保育系短大生における施設実習後の施設イメージの変化</Title>
-        <Url>http://jairo.nii.ac.jp/0130/00000142</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0130/00000142</ClickUrl>
-    </Result>
-    <Result>
         <Title>ShaRe 共同リポジトリ一覧</Title>
         <Url>http://www.lib.hiroshima-u.ac.jp/share/list.html</Url>
         <ClickUrl>http://www.lib.hiroshima-u.ac.jp/share/list.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ホーム: 新潟大学学術リポジトリ Nuar</Title>
-        <Url>http://dspace.lib.niigata-u.ac.jp/dspace/?lang=ja</Url>
-        <ClickUrl>http://dspace.lib.niigata-u.ac.jp/dspace/?lang=ja</ClickUrl>
     </Result>
     <Result>
         <Title>データベース</Title>
@@ -145,11 +140,6 @@
         <Title>IRDBコンテンツ分析システム | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=129</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=129</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - Ab_imo_pectoreのブックマーク</Title>
-        <Url>http://b.hatena.ne.jp/Ab_imo_pectore/?with_favorites=1</Url>
-        <ClickUrl>http://b.hatena.ne.jp/Ab_imo_pectore/?with_favorites=1</ClickUrl>
     </Result>
     <Result>
         <Title>一括検索 -医療事故報告-</Title>
@@ -192,11 +182,6 @@
         <ClickUrl>http://nuhw.blog-niigata.net/nuhwlibrary/2009/06/post-babd.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | NiRRで始めた機関リポジトリ</Title>
-        <Url>http://jairo.nii.ac.jp/0129/00000203</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0129/00000203</ClickUrl>
-    </Result>
-    <Result>
         <Title>一括検索 -tensile test-</Title>
         <Url>http://seonum.com/rank/tensile+test.html</Url>
         <ClickUrl>http://seonum.com/rank/tensile+test.html</ClickUrl>
@@ -215,6 +200,11 @@
         <Title>2009-12-09 - Laetare anima mea</Title>
         <Url>http://d.hatena.ne.jp/Ab_imo_pectore/20091209</Url>
         <ClickUrl>http://d.hatena.ne.jp/Ab_imo_pectore/20091209</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - Ab_imo_pectoreのブックマーク - 530 件中 21 - 40 件目</Title>
+        <Url>http://b.hatena.ne.jp/Ab_imo_pectore/?with_favorites=1&amp;of=20</Url>
+        <ClickUrl>http://b.hatena.ne.jp/Ab_imo_pectore/?with_favorites=1&amp;of=20</ClickUrl>
     </Result>
     <Result>
         <Title>[drf:1041] 新潟県地域共同リポジトリ試験公 開のお知らせ</Title>
@@ -256,6 +246,16 @@
         <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CD%F0%CE%AE%A5%E2%A5%C7%A5%EB%A4%CF</Url>
         <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CD%F0%CE%AE%A5%E2%A5%C7%A5%EB%A4%CF</ClickUrl>
     </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 発音は Pronunciationは</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%AF%B2%BB%A4%CF+Pronunciation%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%AF%B2%BB%A4%CF+Pronunciation%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 発表は Presentationは</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%AF%C9%BD%A4%CF+Presentation%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%AF%C9%BD%A4%CF+Presentation%A4%CF</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:42 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Sat Jan 30 19:45:41 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:46 PST 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:46 PST 2010 -->
