@@ -54,6 +54,11 @@ if $0 == __FILE__
       format = v.intern
    }
    opt.parse!(ARGV)
+   if ARGV.empty?
+      puts "Usage: #$0 [--format wiki] zougen_*.tsv"
+      exit
+   end
+
    data = []
    names = []
    ARGV.each do |f|
