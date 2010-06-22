@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="14"
+    firstResultPosition="1"
+    totalResultsReturned="14">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=152</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=152</ClickUrl>
+    </Result>
+    <Result>
+        <Title>徳島大学附属図書館 -University Library The University of Tokushima-</Title>
+        <Url>http://cms.db.tokushima-u.ac.jp/cgi-bin/toURL?EID=166822</Url>
+        <ClickUrl>http://cms.db.tokushima-u.ac.jp/cgi-bin/toURL?EID=166822</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | On the Construction of a Special Divisor of Some ...</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000011</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000011</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | アミアンの庭とダイヤの房飾り : 『三銃士』の粉本</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000419</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000419</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | レーザー治療</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000218</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000218</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 高橋赤水『古今学話』翻刻・訳註(下)</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000365</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000365</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 児童虐待事例のつくられかた : D.スミス「Kは精神病だ」の分析方法を基軸として</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000139</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000139</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Visual C++によるXMLプログラミング</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000386</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000386</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Caイオンにより酵母ミトコンドリアに誘導される透過性遷移とシ&lt;wbr&gt;トクロムcの放出(第30回例会一般講演抄録)</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000221</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000221</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 医学教育の相互行為分析 : 「OSCE」における実践の論理</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000141</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000141</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Zeta Functions of Finite Groups and Arithmetically ...</Title>
+        <Url>http://jairo.nii.ac.jp/0154/00000046</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0154/00000046</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=152</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=152</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:20 PDT 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:20 PDT 2010 -->

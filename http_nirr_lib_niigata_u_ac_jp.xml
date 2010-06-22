@@ -3,10 +3,20 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="150"
+    totalResultsAvailable="140"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>新潟大学附属図書館 トップページ</Title>
+        <Url>http://www.lib.niigata-u.ac.jp/</Url>
+        <ClickUrl>http://www.lib.niigata-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
@@ -22,14 +32,29 @@
         <ClickUrl>http://lib.n-seiryo.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>新潟国際情報大学/情報センター 図書館</Title>
+        <Url>http://www.nuis.ac.jp/ic/library/libc1.html</Url>
+        <ClickUrl>http://www.nuis.ac.jp/ic/library/libc1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>新潟医療福祉大学図書館</Title>
+        <Url>http://www.nuhw.ac.jp/~library/</Url>
+        <ClickUrl>http://www.nuhw.ac.jp/~library/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
         <Title>研究紀要/新潟青陵大学図書館</Title>
         <Url>http://lib.n-seiryo.ac.jp/kiyo/index.html</Url>
         <ClickUrl>http://lib.n-seiryo.ac.jp/kiyo/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Home: 新潟大学学術リポジトリ Nuar</Title>
-        <Url>http://dspace.lib.niigata-u.ac.jp:8080/dspace/</Url>
-        <ClickUrl>http://dspace.lib.niigata-u.ac.jp:8080/dspace/</ClickUrl>
     </Result>
     <Result>
         <Title>DRF5 - DRF wiki</Title>
@@ -42,9 +67,24 @@
         <ClickUrl>http://www.lib.niigata-u.ac.jp/ALAN/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ</Title>
-        <Url>http://www.lib.niigata-u.ac.jp/News/nh-news-oshirase.html</Url>
-        <ClickUrl>http://www.lib.niigata-u.ac.jp/News/nh-news-oshirase.html</ClickUrl>
+        <Title>Home: 新潟大学学術リポジトリ Nuar</Title>
+        <Url>http://dspace.lib.niigata-u.ac.jp:8080/dspace/</Url>
+        <ClickUrl>http://dspace.lib.niigata-u.ac.jp:8080/dspace/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -tensile test-</Title>
+        <Url>http://seonum.com/rank/tensile+test.html</Url>
+        <ClickUrl>http://seonum.com/rank/tensile+test.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Home: 新潟大学学術リポジトリ Nuar</Title>
+        <Url>http://dspace.lib.niigata-u.ac.jp:8080/dspace/?locale=en</Url>
+        <ClickUrl>http://dspace.lib.niigata-u.ac.jp:8080/dspace/?locale=en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>データベース</Title>
+        <Url>http://www.lib.niigata-u.ac.jp/joho/nh-joho-db.html</Url>
+        <ClickUrl>http://www.lib.niigata-u.ac.jp/joho/nh-joho-db.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -53,63 +93,13 @@
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=128</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=128</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=127</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=127</ClickUrl>
     </Result>
     <Result>
-        <Title>Home: 新潟大学学術リポジトリ Nuar</Title>
-        <Url>http://dspace.lib.niigata-u.ac.jp/dspace/</Url>
-        <ClickUrl>http://dspace.lib.niigata-u.ac.jp/dspace/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>お知らせ</Title>
-        <Url>http://www.lib.niigata-u.ac.jp/Bunkan/whatsnew.html</Url>
-        <ClickUrl>http://www.lib.niigata-u.ac.jp/Bunkan/whatsnew.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ホーム: 新潟大学学術リポジトリ Nuar</Title>
-        <Url>http://dspace.lib.niigata-u.ac.jp:8080/dspace/?lang=ja</Url>
-        <ClickUrl>http://dspace.lib.niigata-u.ac.jp:8080/dspace/?lang=ja</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 実習記録</Title>
-        <Url>http://search.livedoor.com/search/?q=%BC%C2%BD%AC%B5%AD%CF%BF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%BC%C2%BD%AC%B5%AD%CF%BF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 中世考古学</Title>
-        <Url>http://search.livedoor.com/search/?q=%C3%E6%C0%A4%B9%CD%B8%C5%B3%D8</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%C3%E6%C0%A4%B9%CD%B8%C5%B3%D8</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : アビリティ・特性</Title>
-        <Url>http://search.livedoor.com/search/?q=%A5%A2%A5%D3%A5%EA%A5%C6%A5%A3%A1%A6%C6%C3%C0%AD</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%A5%A2%A5%D3%A5%EA%A5%C6%A5%A3%A1%A6%C6%C3%C0%AD</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[機関リポジトリ] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA]</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA]</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 感情的は Emotionalは</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B4%B6%BE%F0%C5%AA%A4%CF+Emotional%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B4%B6%BE%F0%C5%AA%A4%CF+Emotional%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : リカレント教育【recurrent education】</Title>
-        <Url>http://search.livedoor.com/search/?q=%A5%EA%A5%AB%A5%EC%A5%F3%A5%C8%B6%B5%B0%E9%A1%DArecurrent+education%A1%DB</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%A5%EA%A5%AB%A5%EC%A5%F3%A5%C8%B6%B5%B0%E9%A1%DArecurrent+education%A1%DB</ClickUrl>
-    </Result>
-    <Result>
-        <Title>新潟青陵大学・新潟青陵大学短期大学部 図書館</Title>
-        <Url>http://202.223.235.8/</Url>
-        <ClickUrl>http://202.223.235.8/</ClickUrl>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=128</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=128</ClickUrl>
     </Result>
     <Result>
         <Title>リンク集</Title>
@@ -117,14 +107,74 @@
         <ClickUrl>http://lib.niigata-cn.ac.jp/link.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>その他のリンク</Title>
+        <Url>http://www.nagaoka-ct.ac.jp/lib/rink.htm</Url>
+        <ClickUrl>http://www.nagaoka-ct.ac.jp/lib/rink.htm</ClickUrl>
+    </Result>
+    <Result>
         <Title>ShaRe 共同リポジトリ一覧</Title>
         <Url>http://www.lib.hiroshima-u.ac.jp/share/list.html</Url>
         <ClickUrl>http://www.lib.hiroshima-u.ac.jp/share/list.html</ClickUrl>
     </Result>
     <Result>
-        <Title>データベース</Title>
-        <Url>http://www.lib.niigata-u.ac.jp/joho/nh-joho-db.html</Url>
-        <ClickUrl>http://www.lib.niigata-u.ac.jp/joho/nh-joho-db.html</ClickUrl>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>新潟青陵大学・新潟青陵大学短期大学部 図書館</Title>
+        <Url>http://202.223.235.8/</Url>
+        <ClickUrl>http://202.223.235.8/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>坂之上介護福祉研究会 (資料編):103 地域研究</Title>
+        <Url>http://jpflege.exblog.jp/i44/</Url>
+        <ClickUrl>http://jpflege.exblog.jp/i44/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 新潟県における「在宅療養支援診療所」の診療実態からみる「地域&lt;wbr&gt;ケア体制整備」の課題</Title>
+        <Url>http://jairo.nii.ac.jp/0130/00000255</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0130/00000255</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 新潟県長岡産変形菌(2007-2008)</Title>
+        <Url>http://jairo.nii.ac.jp/0128/00000076</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0128/00000076</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 長岡工業高等専門学校における極軌道衛星からのAPT&lt;wbr&gt;(AUTOMATIC PICTURE ...</Title>
+        <Url>http://jairo.nii.ac.jp/0128/00000077</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0128/00000077</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 服薬継続における「自己決定の尊重」と看護:当事者の語りをとお&lt;wbr&gt;して考える</Title>
+        <Url>http://jairo.nii.ac.jp/0130/00000211</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0130/00000211</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ポリマー 種類 - 見積り君</Title>
+        <Url>http://www.mitumorikun.com/ddr/5284.html</Url>
+        <ClickUrl>http://www.mitumorikun.com/ddr/5284.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>情報検索 | 新潟医療福祉大学図書館</Title>
+        <Url>http://www.nuhw.ac.jp/~library/search.html</Url>
+        <ClickUrl>http://www.nuhw.ac.jp/~library/search.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2009-12-09 - Laetare anima mea</Title>
+        <Url>http://d.hatena.ne.jp/Ab_imo_pectore/20091209</Url>
+        <ClickUrl>http://d.hatena.ne.jp/Ab_imo_pectore/20091209</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>研究/活動業績(随時更新)</Title>
+        <Url>http://www.geocities.jp/dayswamp/kenkyu-gyoseki.html</Url>
+        <ClickUrl>http://www.geocities.jp/dayswamp/kenkyu-gyoseki.html</ClickUrl>
     </Result>
     <Result>
         <Title>IRDBコンテンツ分析システム | IR</Title>
@@ -142,120 +192,70 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=129</ClickUrl>
     </Result>
     <Result>
+        <Title>ホーム: 新潟大学学術リポジトリ Nuar</Title>
+        <Url>http://dspace.lib.niigata-u.ac.jp:8080/dspace/?lang=ja</Url>
+        <ClickUrl>http://dspace.lib.niigata-u.ac.jp:8080/dspace/?lang=ja</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Home: 新潟大学学術リポジトリ Nuar</Title>
+        <Url>http://dspace.lib.niigata-u.ac.jp:8080/dspace/?lang=en</Url>
+        <ClickUrl>http://dspace.lib.niigata-u.ac.jp:8080/dspace/?lang=en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - Ab_imo_pectoreのブックマーク - 577 件中 61 - 80 件目</Title>
+        <Url>http://b.hatena.ne.jp/Ab_imo_pectore/?with_favorites=1&amp;of=60</Url>
+        <ClickUrl>http://b.hatena.ne.jp/Ab_imo_pectore/?with_favorites=1&amp;of=60</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -性能照査-</Title>
+        <Url>http://seonum.com/rank/%E6%80%A7%E8%83%BD%E7%85%A7%E6%9F%BB.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E6%80%A7%E8%83%BD%E7%85%A7%E6%9F%BB.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -大腿四頭筋-</Title>
+        <Url>http://seonum.com/rank/%E5%A4%A7%E8%85%BF%E5%9B%9B%E9%A0%AD%E7%AD%8B.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%A4%A7%E8%85%BF%E5%9B%9B%E9%A0%AD%E7%AD%8B.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -大学 栄養士-</Title>
+        <Url>http://seonum.com/rank/%E5%A4%A7%E5%AD%A6+%E6%A0%84%E9%A4%8A%E5%A3%AB.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%A4%A7%E5%AD%A6+%E6%A0%84%E9%A4%8A%E5%A3%AB.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>一括検索 -医療事故報告-</Title>
         <Url>http://seonum.com/rank/%E5%8C%BB%E7%99%82%E4%BA%8B%E6%95%85%E5%A0%B1%E5%91%8A.html</Url>
         <ClickUrl>http://seonum.com/rank/%E5%8C%BB%E7%99%82%E4%BA%8B%E6%95%85%E5%A0%B1%E5%91%8A.html</ClickUrl>
     </Result>
     <Result>
-        <Title>村松正吾 のウェブ検索結果 @search:@nifty</Title>
-        <Url>http://search.nifty.com/websearch/search?select=1002&amp;cflg=%8C%9F%8D%F5&amp;Text=%91%BA%8F%BC%90%B3%8C%E1&amp;chartype=0</Url>
-        <ClickUrl>http://search.nifty.com/websearch/search?select=1002&amp;cflg=%8C%9F%8D%F5&amp;Text=%91%BA%8F%BC%90%B3%8C%E1&amp;chartype=0</ClickUrl>
+        <Title>一括検索 -管理栄養士 大学-</Title>
+        <Url>http://seonum.com/rank/%E7%AE%A1%E7%90%86%E6%A0%84%E9%A4%8A%E5%A3%AB+%E5%A4%A7%E5%AD%A6.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E7%AE%A1%E7%90%86%E6%A0%84%E9%A4%8A%E5%A3%AB+%E5%A4%A7%E5%AD%A6.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 服薬継続における「自己決定の尊重」と看護:当事者の語りをとお&lt;wbr&gt;して考える</Title>
-        <Url>http://jairo.nii.ac.jp/0130/00000211/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0130/00000211/en</ClickUrl>
+        <Title>[機関リポジトリ] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
+        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA]</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA]</ClickUrl>
     </Result>
     <Result>
-        <Title>図書館便り@ブックワームの独り言: 図書館活用術</Title>
-        <Url>http://nuhw.blog-niigata.net/nuhwlibrary/cat5278929/index.html</Url>
-        <ClickUrl>http://nuhw.blog-niigata.net/nuhwlibrary/cat5278929/index.html</ClickUrl>
+        <Title>一括検索 -医療ソーシャルワーカー-</Title>
+        <Url>http://seonum.com/rank/%E5%8C%BB%E7%99%82%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AB%E3%83%BC.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%8C%BB%E7%99%82%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%AF%E3%83%BC%E3%82%AB%E3%83%BC.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Advanced Search: 新潟大学学術リポジトリ Nuar</Title>
-        <Url>http://dspace.lib.niigata-u.ac.jp:8080/dspace/advanced-search?location=10191/120</Url>
-        <ClickUrl>http://dspace.lib.niigata-u.ac.jp:8080/dspace/advanced-search?location=10191/120</ClickUrl>
+        <Title>一括検索 -バスケットボール 指導者-</Title>
+        <Url>http://seonum.com/rank/%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB+%E6%8C%87%E5%B0%8E%E8%80%85.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB+%E6%8C%87%E5%B0%8E%E8%80%85.html</ClickUrl>
     </Result>
     <Result>
-        <Title>高橋歩 批判 - 夢人</Title>
-        <Url>http://www.pson-wd.com/psn/%B9%E2%B6%B6%CA%E2/%B9%E2%B6%B6%CA%E2+%C8%E3%C8%BD.html</Url>
-        <ClickUrl>http://www.pson-wd.com/psn/%B9%E2%B6%B6%CA%E2/%B9%E2%B6%B6%CA%E2+%C8%E3%C8%BD.html</ClickUrl>
+        <Title>新潟国際情報大学/情報センター 図書館</Title>
+        <Url>https://www.nuis.ac.jp/ic/library/libc1.html</Url>
+        <ClickUrl>https://www.nuis.ac.jp/ic/library/libc1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>図書館便り@ブックワームの独り言: 2009年6月</Title>
-        <Url>http://nuhw.blog-niigata.net/nuhwlibrary/2009/06/index.html</Url>
-        <ClickUrl>http://nuhw.blog-niigata.net/nuhwlibrary/2009/06/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館便り@ブックワームの独り言: 学術機関リポジトリ</Title>
-        <Url>http://nuhw.blog-niigata.net/nuhwlibrary/2009/06/post-babd.html</Url>
-        <ClickUrl>http://nuhw.blog-niigata.net/nuhwlibrary/2009/06/post-babd.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -tensile test-</Title>
-        <Url>http://seonum.com/rank/tensile+test.html</Url>
-        <ClickUrl>http://seonum.com/rank/tensile+test.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -pattern法-</Title>
-        <Url>http://seonum.com/rank/pattern%E6%B3%95.html</Url>
-        <ClickUrl>http://seonum.com/rank/pattern%E6%B3%95.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - Ab_imo_pectoreのブックマーク - 2009年12月22日</Title>
-        <Url>http://b.hatena.ne.jp/Ab_imo_pectore/20091222</Url>
-        <ClickUrl>http://b.hatena.ne.jp/Ab_imo_pectore/20091222</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2009-12-09 - Laetare anima mea</Title>
-        <Url>http://d.hatena.ne.jp/Ab_imo_pectore/20091209</Url>
-        <ClickUrl>http://d.hatena.ne.jp/Ab_imo_pectore/20091209</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - Ab_imo_pectoreのブックマーク - 530 件中 21 - 40 件目</Title>
-        <Url>http://b.hatena.ne.jp/Ab_imo_pectore/?with_favorites=1&amp;of=20</Url>
-        <ClickUrl>http://b.hatena.ne.jp/Ab_imo_pectore/?with_favorites=1&amp;of=20</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[drf:1041] 新潟県地域共同リポジトリ試験公 開のお知らせ</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drfml/msg01034.html</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drfml/msg01034.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言</Title>
-        <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
-        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - ホーム: 新潟県地域共同リポジトリ</Title>
-        <Url>http://b.hatena.ne.jp/entry/nirr.lib.niigata-u.ac.jp/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/entry/nirr.lib.niigata-u.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>クラシック音楽界隈のTwitterアカウントまとめ&lt;wbr&gt;(随時更新中。) - Laetare anima mea</Title>
-        <Url>http://d.hatena.ne.jp/Ab_imo_pectore/20090617/1245278870</Url>
-        <ClickUrl>http://d.hatena.ne.jp/Ab_imo_pectore/20090617/1245278870</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 法制度は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CB%A1%C0%A9%C5%D9%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CB%A1%C0%A9%C5%D9%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 歩行時は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CA%E2%B9%D4%BB%FE%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CA%E2%B9%D4%BB%FE%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 乱流モデルは</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CD%F0%CE%AE%A5%E2%A5%C7%A5%EB%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%CD%F0%CE%AE%A5%E2%A5%C7%A5%EB%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 発音は Pronunciationは</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%AF%B2%BB%A4%CF+Pronunciation%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%AF%B2%BB%A4%CF+Pronunciation%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 発表は Presentationは</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%AF%C9%BD%A4%CF+Presentation%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%AF%C9%BD%A4%CF+Presentation%A4%CF</ClickUrl>
+        <Title>学生に薦める本「2010年職員版」を公開しました。&lt;wbr&gt;(2010/06/09) </Title>
+        <Url>http://www.nuis.ac.jp/ic/library/toppage.html</Url>
+        <ClickUrl>http://www.nuis.ac.jp/ic/library/toppage.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:46 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:46 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:51 PDT 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:51 PDT 2010 -->

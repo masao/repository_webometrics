@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8606"
+    totalResultsAvailable="9562"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,19 +12,9 @@
         <ClickUrl>http://www.lib.shimane-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>島根大学学術情報リポジトリ SWANスワン</Title>
+        <Title>島根大学学術情報リポジトリ SWAN−スワン−</Title>
         <Url>http://www.lib.shimane-u.ac.jp/0/collection/repo/</Url>
         <ClickUrl>http://www.lib.shimane-u.ac.jp/0/collection/repo/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成19年度 平成18年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>島根大学附属図書館</Title>
-        <Url>http://www.lib.shimane-u.ac.jp/index.asp?id=71</Url>
-        <ClickUrl>http://www.lib.shimane-u.ac.jp/index.asp?id=71</ClickUrl>
     </Result>
     <Result>
         <Title>ブルーベリーについての研究、調査、報告など</Title>
@@ -32,19 +22,114 @@
         <ClickUrl>http://www16.plala.or.jp/luckyhit/kenkyuu.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成19年度 平成18年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - BaTiO_3</Title>
+        <Url>http://ci.nii.ac.jp/keyword/BaTiO_3</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/BaTiO_3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Article - The Studies on the Copper-Poisoned Soils(Part ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000997441</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000997441</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Article - A Study of the Shinsen jikyo</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006934374</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006934374</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Article - The Change of the Mother : Child Interaction ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006934386</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006934386</ClickUrl>
+    </Result>
+    <Result>
+        <Title>島根大学附属図書館</Title>
+        <Url>http://www.lib.shimane-u.ac.jp/index.asp?id=71</Url>
+        <ClickUrl>http://www.lib.shimane-u.ac.jp/index.asp?id=71</ClickUrl>
+    </Result>
+    <Result>
+        <Title>朝鮮について</Title>
+        <Url>http://home.hiroshima-u.ac.jp/er/Etc_KO.html</Url>
+        <ClickUrl>http://home.hiroshima-u.ac.jp/er/Etc_KO.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>フランス降伏・ヴィシー政権・反共フランス人義勇兵&lt;wbr&gt;:Vichy France;鳥飼行博研究室</Title>
+        <Url>http://www.geocities.jp/torikai007/1939/france-jew.html</Url>
+        <ClickUrl>http://www.geocities.jp/torikai007/1939/france-jew.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>島根大学研究紀要論文全文データベース</Title>
         <Url>http://www.lib.shimane-u.ac.jp/0/kiyo/</Url>
         <ClickUrl>http://www.lib.shimane-u.ac.jp/0/kiyo/</ClickUrl>
     </Result>
     <Result>
-        <Title>press - DRF wiki</Title>
-        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?press</Url>
-        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
+        <Title>CiNii Search - KF</Title>
+        <Url>http://ci.nii.ac.jp/keyword/KF</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/KF</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - On &quot;Taka-zu Ema, Hirahama Hachimangu&quot;</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000463358</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000463358</ClickUrl>
+        <Title>CiNii Search - Mill</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Mill</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Mill</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - joint</Title>
+        <Url>http://ci.nii.ac.jp/keyword/joint</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/joint</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Brd U</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Brd+U</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Brd+U</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - sports</Title>
+        <Url>http://ci.nii.ac.jp/keyword/sports</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/sports</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - vector</Title>
+        <Url>http://ci.nii.ac.jp/keyword/vector</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/vector</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - BaTiO3</Title>
+        <Url>http://ci.nii.ac.jp/keyword/BaTiO3</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/BaTiO3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - tatami</Title>
+        <Url>http://ci.nii.ac.jp/keyword/tatami</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/tatami</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - market</Title>
+        <Url>http://ci.nii.ac.jp/keyword/market</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/market</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - mother</Title>
+        <Url>http://ci.nii.ac.jp/keyword/mother</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/mother</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - KURODA</Title>
+        <Url>http://ci.nii.ac.jp/keyword/KURODA</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/KURODA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - metric</Title>
+        <Url>http://ci.nii.ac.jp/keyword/metric</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/metric</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - action</Title>
+        <Url>http://ci.nii.ac.jp/keyword/action</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/action</ClickUrl>
     </Result>
     <Result>
         <Title>CiNii Search - Padina</Title>
@@ -52,210 +137,125 @@
         <ClickUrl>http://ci.nii.ac.jp/keyword/Padina</ClickUrl>
     </Result>
     <Result>
+        <Title>Molecular Science Home Page</Title>
+        <Url>http://www.med.shimane-u.ac.jp/lms/Activity_.htm</Url>
+        <ClickUrl>http://www.med.shimane-u.ac.jp/lms/Activity_.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>press - DRF wiki</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?press</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - teleost</Title>
+        <Url>http://ci.nii.ac.jp/keyword/teleost</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/teleost</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - BaTi2O5</Title>
+        <Url>http://ci.nii.ac.jp/keyword/BaTi2O5</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/BaTi2O5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ブログ-島根大学附属図書館</Title>
+        <Url>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=all</Url>
+        <ClickUrl>http://lisa.lib.shimane-u.ac.jp/blog/blog.asp?disp=all</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - ureyite</Title>
+        <Url>http://ci.nii.ac.jp/keyword/ureyite</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/ureyite</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - olivine</Title>
+        <Url>http://ci.nii.ac.jp/keyword/olivine</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/olivine</ClickUrl>
+    </Result>
+    <Result>
         <Title>大阪府立中央図書館 ミニ展示「もっと知ろう裁判員制度」裁判員制度に関する雑誌記事&lt;wbr&gt;一覧 2008年</Title>
         <Url>http://www.library.pref.osaka.jp/central/saiban09_alist.html</Url>
         <ClickUrl>http://www.library.pref.osaka.jp/central/saiban09_alist.html</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Seasonal Variation in the Activity of Melatonin ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/40016423159</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/40016423159</ClickUrl>
+        <Title>CiNii Search - juvenile</Title>
+        <Url>http://ci.nii.ac.jp/keyword/juvenile</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/juvenile</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii Search - nutrient</Title>
-        <Url>http://ci.nii.ac.jp/keyword/nutrient</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/nutrient</ClickUrl>
+        <Title>CiNii Search - pimiento</Title>
+        <Url>http://ci.nii.ac.jp/keyword/pimiento</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/pimiento</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii Search - eelgrass</Title>
-        <Url>http://ci.nii.ac.jp/keyword/eelgrass</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/eelgrass</ClickUrl>
+        <Title>CiNii Search - isochron</Title>
+        <Url>http://ci.nii.ac.jp/keyword/isochron</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/isochron</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Three types of gamets from the metamorphic xenoliths ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940128</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940128</ClickUrl>
+        <Title>CiNii Search - Gobiidae</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Gobiidae</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Gobiidae</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - James HUTTON (1726-1797) 2 : Theory of the Earth ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940024</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940024</ClickUrl>
+        <Title>CiNii Search - cam clay</Title>
+        <Url>http://ci.nii.ac.jp/keyword/cam+clay</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/cam+clay</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Studies on the Effect of Temperature during the ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000997281</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000997281</ClickUrl>
+        <Title>CiNii Search - Cam-clay</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Cam-clay</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Cam-clay</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Late Quaternary sediments of the Yumigahama sandbar ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940208</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940208</ClickUrl>
+        <Title>CiNii Search - Parallel</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Parallel</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Parallel</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - The Deep Weathering Crust of Akana Granodiorite</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006934130</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006934130</ClickUrl>
+        <Title>CiNii Search - geodesic</Title>
+        <Url>http://ci.nii.ac.jp/keyword/geodesic</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/geodesic</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Estimation of Nutrient Loading from Watershed and ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000994169</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000994169</ClickUrl>
+        <Title>CiNii Search - shokunin</Title>
+        <Url>http://ci.nii.ac.jp/keyword/shokunin</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/shokunin</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Reprint of &quot;San-in Michi-no-ki&quot;: A Books of Travel ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006937092</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006937092</ClickUrl>
+        <Title>CiNii Search - SEM-EDXA</Title>
+        <Url>http://ci.nii.ac.jp/keyword/SEM-EDXA</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/SEM-EDXA</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - On the Characteristics of a Monorail Type Carrier on ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000997277</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000997277</ClickUrl>
+        <Title>CiNii Search - Policies</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Policies</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Policies</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Natural history of the Nakano-umi and Shinji Lakes ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940088</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940088</ClickUrl>
+        <Title>CiNii Search - law case</Title>
+        <Url>http://ci.nii.ac.jp/keyword/law+case</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/law+case</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Note on the Vocabulary of &quot;Saiyakuki&quot; by Ono-Ranzan</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006936941</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006936941</ClickUrl>
+        <Title>CiNii Article - A Fundamental Study of the Impact Sound on a ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000997063</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000997063</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Petrograohy of the Sangun metamorphic rocks in the ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940007</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940007</ClickUrl>
+        <Title>CiNii Article - Middle Miocenemolluscan assemblages from ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006939965</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006939965</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Studies on the Dielectric Properties of Organic ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006934002</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006934002</ClickUrl>
+        <Title>CiNii Article - Problems of Educational Administration in ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110006933922</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110006933922</ClickUrl>
     </Result>
     <Result>
-        <Title>CiNii - Notes on Genitive Case in Present-Day English</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006934257</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006934257</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Whole-rock elemental abundances in sandstones and ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940181</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940181</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Major and trace element chemistry of the garnets ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940185</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940185</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Teaching of Foundations for Reading Comprehension of ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006933670</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006933670</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - The Effect of Fasting on the Concentration of Free ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000997163</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000997163</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Geochemical implication for the maximum flooding of ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940154</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940154</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - New occurrences of the K-Ah(Akahoya) Tephra from the ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940126</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940126</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Cropping System of Rice of Taichiro Nakai, Rono (a ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940297</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940297</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - The Holocene Environmental Change of the Estuary of ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000994193</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000994193</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Protoliths of the metamorphic clasts from the ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006940139</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006940139</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Ji-jiu-pian(急就篇) of the Han(漢) era</Title>
-        <Url>http://ci.nii.ac.jp/naid/110000463380</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110000463380</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - The View of the Education for the Mentally ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006933744</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006933744</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Distance from White Horse to Horse : The Meaning of ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006934274</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006934274</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Seasonal Variation in the Activity of Melatonin ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006967344</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006967344</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii - Rsearch on the Writings by the Yamamoto Family ...</Title>
-        <Url>http://ci.nii.ac.jp/naid/110006936966</Url>
-        <ClickUrl>http://ci.nii.ac.jp/naid/110006936966</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - Water Film</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Water+Film</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Water+Film</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - Orthotropy</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Orthotropy</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Orthotropy</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - phytoassay</Title>
-        <Url>http://ci.nii.ac.jp/keyword/phytoassay</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/phytoassay</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - Forest soil</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Forest+soil</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Forest+soil</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - Glacial Age</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Glacial+Age</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Glacial+Age</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - translation</Title>
-        <Url>http://ci.nii.ac.jp/keyword/translation</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/translation</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - Lie algebra</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Lie+algebra</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Lie+algebra</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - Oryza sativa</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Oryza+sativa</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Oryza+sativa</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - Lake Nakaumi</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Lake+Nakaumi</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Lake+Nakaumi</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - regeneration</Title>
-        <Url>http://ci.nii.ac.jp/keyword/regeneration</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/regeneration</ClickUrl>
+        <Title>CiNii Article - Effect of Pre-Chilling on the Growth and ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110000463408</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110000463408</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:01 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:01 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:23 PDT 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:22 PDT 2010 -->

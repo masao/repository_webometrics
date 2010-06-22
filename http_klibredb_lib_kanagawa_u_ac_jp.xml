@@ -3,10 +3,25 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1286"
+    totalResultsAvailable="1465"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>T-Enami.org - Home</Title>
+        <Url>http://www.t-enami.org/</Url>
+        <ClickUrl>http://www.t-enami.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Collection: T. ENAMI 江南 信國 JAPAN</Title>
+        <Url>http://www.flickr.com/photos/24443965@N08/collections/72157613882959896/</Url>
+        <ClickUrl>http://www.flickr.com/photos/24443965@N08/collections/72157613882959896/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Biblumliteraria</Title>
+        <Url>http://biblumliteraria.blogspot.com/</Url>
+        <ClickUrl>http://biblumliteraria.blogspot.com/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
@@ -17,9 +32,24 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>T-Enami.org - Home</Title>
+        <Url>http://www.t-enami.org/home</Url>
+        <ClickUrl>http://www.t-enami.org/home</ClickUrl>
+    </Result>
+    <Result>
         <Title>西周 (啓蒙家) - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E8%A5%BF%E5%91%A8_(%E5%95%93%E8%92%99%E5%AE%B6)</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E8%A5%BF%E5%91%A8_(%E5%95%93%E8%92%99%E5%AE%B6)</ClickUrl>
+    </Result>
+    <Result>
+        <Title>taronの日記</Title>
+        <Url>http://d.hatena.ne.jp/taron/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/taron/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>神奈川大学図書館</Title>
+        <Url>http://www.kanagawa-u.ac.jp/library/</Url>
+        <ClickUrl>http://www.kanagawa-u.ac.jp/library/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
@@ -27,44 +57,104 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>KANAGAWA University Repository: アラブにおける剣道指導の諸問題 : 日本文化とアラブ文化の ...</Title>
-        <Url>http://hdl.handle.net/10487/3909</Url>
-        <ClickUrl>http://hdl.handle.net/10487/3909</ClickUrl>
+        <Title>KANAGAWA University Repository: 古典逍遙 : 神奈川大学図書館貴重書目録</Title>
+        <Url>http://hdl.handle.net/10487/5163</Url>
+        <ClickUrl>http://hdl.handle.net/10487/5163</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 近代日本の地方都市における士族と産業の担い手の数量的研究</Title>
+        <Url>http://hdl.handle.net/10487/4950</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4950</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔005〕頭書増補訓蒙図彙 巻之五 器用</Title>
+        <Url>http://hdl.handle.net/10487/4487</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4487</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔005〕唐土訓蒙図彙 巻之五 人物之下</Title>
+        <Url>http://hdl.handle.net/10487/4495</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4495</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔001〕唐土訓蒙図彙 巻之一 天文</Title>
+        <Url>http://hdl.handle.net/10487/4491</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4491</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: Lexicon technicum : or an ...</Title>
+        <Url>http://hdl.handle.net/10487/4481</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4481</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔010〕唐土訓蒙図彙 巻之十 器用之四</Title>
+        <Url>http://hdl.handle.net/10487/4500</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4500</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔004〕頭書増補訓蒙図彙 巻之四 身體 衣服 宝貨 器用</Title>
+        <Url>http://hdl.handle.net/10487/4486</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4486</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔002〕唐土訓蒙図彙 巻之二 地理</Title>
+        <Url>http://hdl.handle.net/10487/4492</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4492</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔011〕唐土訓蒙図彙 巻之十一 草木之上</Title>
+        <Url>http://hdl.handle.net/10487/4501</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4501</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔006〕唐土訓蒙図彙 巻之六 人事</Title>
+        <Url>http://hdl.handle.net/10487/4496</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4496</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔000〕唐土訓蒙図彙 総目録</Title>
+        <Url>http://hdl.handle.net/10487/4490</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4490</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔003〕頭書増補訓蒙図彙 巻之三 人物</Title>
+        <Url>http://hdl.handle.net/10487/4485</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4485</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔008〕唐土訓蒙図彙 巻之八 器用之二</Title>
+        <Url>http://hdl.handle.net/10487/4498</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4498</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔009〕唐土訓蒙図彙 巻之九 器用之三</Title>
+        <Url>http://hdl.handle.net/10487/4499</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4499</ClickUrl>
+    </Result>
+    <Result>
+        <Title>スロベニアの歴史 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%99%E3%83%8B%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AD%E3%83%99%E3%83%8B%E3%82%A2%E3%81%AE%E6%AD%B4%E5%8F%B2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NED-WLT : ケースメソッドの学習(14):やっと見つけた教科書</Title>
+        <Url>http://nedwlt.exblog.jp/12606835/</Url>
+        <ClickUrl>http://nedwlt.exblog.jp/12606835/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>美人は美人と思われると思われるから美人 | 科学技術のアネクドート</Title>
+        <Url>http://sci-tech.jugem.jp/?eid=1522</Url>
+        <ClickUrl>http://sci-tech.jugem.jp/?eid=1522</ClickUrl>
     </Result>
     <Result>
         <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac</ClickUrl>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac/topmnu.do</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/topmnu.do</ClickUrl>
     </Result>
     <Result>
-        <Title>はるうられ 全CG - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=%E3%81%AF%E3%82%8B%E3%81%86%E3%82%89%E3%82%8C+%E5%85%A8%EF%BC%A3%EF%BC%A7&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E3%81%AF%E3%82%8B%E3%81%86%E3%82%89%E3%82%8C+%E5%85%A8%EF%BC%A3%EF%BC%A7&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>あ eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/ref/%E3%81%82-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/ref/%E3%81%82-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Best Reader</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Keyword Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsrk.do</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsrk.do</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</ClickUrl>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
@@ -72,69 +162,59 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>oshima introduction to academic writing eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/oshima-introduction-to-academic-writing-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/oshima-introduction-to-academic-writing-pdf.html</ClickUrl>
+        <Title>Arsenio Sanz | Enseñanza de lengua</Title>
+        <Url>http://hispanismo.cervantes.es/hispanistas_ficha.asp?DOCN=9355</Url>
+        <ClickUrl>http://hispanismo.cervantes.es/hispanistas_ficha.asp?DOCN=9355</ClickUrl>
     </Result>
     <Result>
-        <Title>送f2000 ac - results - www.lookrapid.com</Title>
-        <Url>http://www.lookrapid.com/engsearch.php?title=%E9%80%81f2000+ac&amp;action=search</Url>
-        <ClickUrl>http://www.lookrapid.com/engsearch.php?title=%E9%80%81f2000+ac&amp;action=search</ClickUrl>
+        <Title>WebOPAC TopMenu</Title>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac</ClickUrl>
     </Result>
     <Result>
-        <Title>人褄 性 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E4%BA%BA%E8%A4%84+%E6%80%A7&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E4%BA%BA%E8%A4%84+%E6%80%A7&amp;action=search</ClickUrl>
+        <Title>KANAGAWA University Repository: 〔013〕唐土訓蒙図彙 巻之十三 禽獸</Title>
+        <Url>http://hdl.handle.net/10487/4503</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4503</ClickUrl>
     </Result>
     <Result>
-        <Title>安部智子 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=%E5%AE%89%E9%83%A8%E6%99%BA%E5%AD%90&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%AE%89%E9%83%A8%E6%99%BA%E5%AD%90&amp;action=search</ClickUrl>
+        <Title>KANAGAWA University Repository: 〔003〕唐土訓蒙図彙 巻之三 宮里</Title>
+        <Url>http://hdl.handle.net/10487/4493</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4493</ClickUrl>
     </Result>
     <Result>
-        <Title>はるうられ 全CG - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=%E3%81%AF%E3%82%8B%E3%81%86%E3%82%89%E3%82%8C+%E5%85%A8CG&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E3%81%AF%E3%82%8B%E3%81%86%E3%82%89%E3%82%8C+%E5%85%A8CG&amp;action=search</ClickUrl>
+        <Title>KANAGAWA University Repository: 21世紀国際貿易港湾発展の研究(一)</Title>
+        <Url>http://hdl.handle.net/10487/5239</Url>
+        <ClickUrl>http://hdl.handle.net/10487/5239</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Cell Cycle and Chromosomes in Plants: So Many Kinds ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003460/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003460/en</ClickUrl>
+        <Title>あ eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/ref/%E3%81%82-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/ref/%E3%81%82-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Le Charivari (samedi 9 septembre 1871)</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003099/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003099/en</ClickUrl>
+        <Title>1987 AB5 eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/1987-AB5-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/1987-AB5-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>ドラベ-ス隠しキャラ - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E3%83%89%E3%83%A9%E3%83%99%EF%BC%8D%E3%82%B9%E9%9A%A0%E3%81%97%E3%82%AD%E3%83%A3%E3%83%A9&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E3%83%89%E3%83%A9%E3%83%99%EF%BC%8D%E3%82%B9%E9%9A%A0%E3%81%97%E3%82%AD%E3%83%A3%E3%83%A9&amp;action=search</ClickUrl>
+        <Title>puredata eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/puredata-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/puredata-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>糟糖の妻クラブ 104話 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E7%B3%9F%E7%B3%96%E3%81%AE%E5%A6%BB%E3%82%AF%E3%83%A9%E3%83%96+%EF%BC%91%EF%BC%90%EF%BC%94%E8%A9%B1&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E7%B3%9F%E7%B3%96%E3%81%AE%E5%A6%BB%E3%82%AF%E3%83%A9%E3%83%96+%EF%BC%91%EF%BC%90%EF%BC%94%E8%A9%B1&amp;action=search</ClickUrl>
+        <Title>first law eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/first-law-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/first-law-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>ゴミステーション ゴミ収集庫 宇部 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E3%82%B4%E3%83%9F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%82%B4%E3%83%9F%E5%8F%8E%E9%9B%86%E5%BA%AB%E3%80%80%E5%AE%87%E9%83%A8&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E3%82%B4%E3%83%9F%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%80%80%E3%82%B4%E3%83%9F%E5%8F%8E%E9%9B%86%E5%BA%AB%E3%80%80%E5%AE%87%E9%83%A8&amp;action=search</ClickUrl>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>stella z theodoulou eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/stella-z-theodoulou-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/stella-z-theodoulou-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>acer aspire schematic eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/acer-aspire-schematic-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/acer-aspire-schematic-pdf.html</ClickUrl>
+        <Title>WebOPAC New Acquisition Information</Title>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do?system=1264753398532</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do?system=1264753398532</ClickUrl>
     </Result>
     <Result>
         <Title>WebOPAC Simple Search</Title>
@@ -142,120 +222,40 @@
         <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1264661120646</ClickUrl>
     </Result>
     <Result>
-        <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1264661120641</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1264661120641</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Simple Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1258912812151</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1258912812151</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1260556376502</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1260556376502</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1260556376502</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1260556376502</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Best Reader</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1260485660915</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1260485660915</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Best Reader</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1260485627849</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1260485627849</ClickUrl>
-    </Result>
-    <Result>
         <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do?system=1260507943315</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do?system=1260507943315</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Keyword Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsrk.do?system=1260485788376</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsrk.do?system=1260485788376</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC New Acquisition Information</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do?system=1260572053959</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do?system=1260572053959</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Simple Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260485562160</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260485562160</ClickUrl>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do?system=1250068783189</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/newsrh.do?system=1250068783189</ClickUrl>
     </Result>
     <Result>
         <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1260853299060</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1260853299060</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1260820294697</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1260820294697</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Simple Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260556469074</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260556469074</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Simple Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1264661230133</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1264661230133</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1260556513101</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1260556513101</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1260556457495</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1260556457495</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Simple Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260002635472</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260002635472</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Simple Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260556457501</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260556457501</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Keyword Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsrk.do?system=1264486745764</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsrk.do?system=1264486745764</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC TopMenu</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1260486067732</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1260486067732</ClickUrl>
-    </Result>
-    <Result>
-        <Title>WebOPAC Simple Search</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260487469065</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1260487469065</ClickUrl>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1272370710320</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/svcmnu.do?system=1272370710320</ClickUrl>
     </Result>
     <Result>
         <Title>WebOPAC Best Reader</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1260522870446</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1260522870446</ClickUrl>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1254139285896</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1254139285896</ClickUrl>
     </Result>
     <Result>
-        <Title>WebOPAC Best Reader</Title>
-        <Url>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1260486604479</Url>
-        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/bessrh.do?system=1260486604479</ClickUrl>
+        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WebOPAC TopMenu</Title>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1275399530565</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1275399530565</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WebOPAC Simple Search</Title>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1275048500582</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catsre.do?system=1275048500582</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WebOPAC TopMenu</Title>
+        <Url>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1275765899600</Url>
+        <ClickUrl>http://libopac.kanagawa-u.ac.jp/webopac/catmnu.do?system=1275765899600</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:22 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:22 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:30 PDT 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:30 PDT 2010 -->

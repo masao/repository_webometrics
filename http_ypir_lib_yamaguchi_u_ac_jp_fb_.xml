@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="12"
+    firstResultPosition="1"
+    totalResultsReturned="12">
+        <Result>
+        <Title>JAIRO | 市街地空間の形成過程における中小百貨店の役割 : 業態店としての百貨店の空間構造を中心として</Title>
+        <Url>http://jairo.nii.ac.jp/0142/00000144</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0142/00000144</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Lyrical BalladsにおけるPrefaceに関する考察 : Humanity救済への情熱</Title>
+        <Url>http://jairo.nii.ac.jp/0142/00000071</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0142/00000071</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=142</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=142</ClickUrl>
+    </Result>
+    <Result>
+        <Title>yamaguchi&amp;amp;universityの情報満載 - リンケージ.com</Title>
+        <Url>http://www.kensaku.xii.jp/search/yamaguchi/university/</Url>
+        <ClickUrl>http://www.kensaku.xii.jp/search/yamaguchi/university/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | より戦略的な経営組織を目指して : 新しい組織体に関する一考察</Title>
+        <Url>http://jairo.nii.ac.jp/0142/00000124</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0142/00000124</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Effects of Physical Training on Electrocardio ...</Title>
+        <Url>http://jairo.nii.ac.jp/0142/00000083</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0142/00000083</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 訳注 「玉臺新詠序」訳注(2)</Title>
+        <Url>http://jairo.nii.ac.jp/0142/00000003</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0142/00000003</ClickUrl>
+    </Result>
+    <Result>
+        <Title>検索 épage=1</Title>
+        <Url>http://www.o355.net/j/search_q=%C3%A9page=1</Url>
+        <ClickUrl>http://www.o355.net/j/search_q=%C3%A9page=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>検索 épage=7</Title>
+        <Url>http://www.o355.net/j/search_q=%C3%A9page=7</Url>
+        <ClickUrl>http://www.o355.net/j/search_q=%C3%A9page=7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>検索 èpage=11</Title>
+        <Url>http://www.o355.net/j/search_q=%C3%A8page=11</Url>
+        <ClickUrl>http://www.o355.net/j/search_q=%C3%A8page=11</ClickUrl>
+    </Result>
+    <Result>
+        <Title>検索 épage=11</Title>
+        <Url>http://www.o355.net/j/search_q=%C3%A9page=11</Url>
+        <ClickUrl>http://www.o355.net/j/search_q=%C3%A9page=11</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福祉といえば - 山口福祉文化大学|山口福祉文化大学</Title>
+        <Url>http://nayami.se-shop.net/50/keyword/%E5%B1%B1%E5%8F%A3%E7%A6%8F%E7%A5%89%E6%96%87%E5%8C%96%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://nayami.se-shop.net/50/keyword/%E5%B1%B1%E5%8F%A3%E7%A6%8F%E7%A5%89%E6%96%87%E5%8C%96%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:04 PDT 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:04 PDT 2010 -->

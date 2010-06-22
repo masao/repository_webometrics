@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="10"
+    firstResultPosition="1"
+    totalResultsReturned="10">
+        <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=146</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=146</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[脱窒 ] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/detail.php?word=%E8%84%B1%E7%AA%92%E3%80%80&amp;source=all&amp;p=6</Url>
+        <ClickUrl>http://gjtb.net/detail/detail.php?word=%E8%84%B1%E7%AA%92%E3%80%80&amp;source=all&amp;p=6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 偏差の二乗に関する一考察</Title>
+        <Url>http://jairo.nii.ac.jp/0146/00000244</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0146/00000244</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | A Cognitive Approach to Subjective Expressions in ...</Title>
+        <Url>http://jairo.nii.ac.jp/0146/00000092</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0146/00000092</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 競技ロボット操作用赤外線リモコンの開発</Title>
+        <Url>http://jairo.nii.ac.jp/0146/00000374</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0146/00000374</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 学習英和辞典における類義語の語義比較 : 動詞編</Title>
+        <Url>http://jairo.nii.ac.jp/0146/00000134</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0146/00000134</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 会計業務従事者の倫理学習</Title>
+        <Url>http://jairo.nii.ac.jp/0146/00000562</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0146/00000562</ClickUrl>
+    </Result>
+    <Result>
+        <Title>検索 épage=7</Title>
+        <Url>http://www.o355.net/j/search_q=%C3%A9page=7</Url>
+        <ClickUrl>http://www.o355.net/j/search_q=%C3%A9page=7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>検索 èpage=10</Title>
+        <Url>http://www.o355.net/j/search_q=%C3%A8page=10</Url>
+        <ClickUrl>http://www.o355.net/j/search_q=%C3%A8page=10</ClickUrl>
+    </Result>
+    <Result>
+        <Title>検索 èpage=11</Title>
+        <Url>http://www.o355.net/j/search_q=%C3%A8page=11</Url>
+        <ClickUrl>http://www.o355.net/j/search_q=%C3%A8page=11</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:09 PDT 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:09 PDT 2010 -->

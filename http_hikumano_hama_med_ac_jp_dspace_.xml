@@ -3,23 +3,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="365"
+    totalResultsAvailable="1289"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>浜松医科大学附属図書館</Title>
-        <Url>http://www2.hama-med.ac.jp/w3a/toshokan/homepage.html</Url>
-        <ClickUrl>http://www2.hama-med.ac.jp/w3a/toshokan/homepage.html</ClickUrl>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -27,14 +22,49 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>浜松医科大学附属図書館</Title>
+        <Url>http://www2.hama-med.ac.jp/w3a/toshokan/homepage.html</Url>
+        <ClickUrl>http://www2.hama-med.ac.jp/w3a/toshokan/homepage.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>HamaMed-Repository: 20 学位論文</Title>
-        <Url>http://hdl.handle.net/10271/3</Url>
-        <ClickUrl>http://hdl.handle.net/10271/3</ClickUrl>
+        <Title>HamaMed-Repository: シンポジウム:関口文法と現代言語学</Title>
+        <Url>http://hdl.handle.net/10271/836</Url>
+        <ClickUrl>http://hdl.handle.net/10271/836</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HamaMed-Repository: 地域における健康危機管理におけるボランティア等による支援体制&lt;wbr&gt;に関する研究 (平成 ...</Title>
+        <Url>http://hdl.handle.net/10271/849</Url>
+        <ClickUrl>http://hdl.handle.net/10271/849</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HamaMed-Repository: A new enzyme-linked immunosorbent assay ...</Title>
+        <Url>http://hdl.handle.net/10271/274</Url>
+        <ClickUrl>http://hdl.handle.net/10271/274</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>HamaMed-Repository: 螢光を用いた胎便吸引症候群(MAS)の特異的診断法に関する研&lt;wbr&gt;究</Title>
@@ -47,54 +77,34 @@
         <ClickUrl>http://hdl.handle.net/10271/109</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>双方向型医学系サブジェクトリポジトリ技術基盤の形成</Title>
-        <Url>https://infonavi.sapmed.ac.jp/ir/</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>HamaMed-Repository: 胎児発育における血液凝固能の変動</Title>
-        <Url>http://hdl.handle.net/10271/159</Url>
-        <ClickUrl>http://hdl.handle.net/10271/159</ClickUrl>
-    </Result>
-    <Result>
-        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
-        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
-        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=80</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=80</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewfeed.php?page=156</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewfeed.php?page=156</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project ...</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>機関リポジトリ Archive - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/cat6/</Url>
+        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The effects of prolonged low-flow sevoflurane ...</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00001596</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00001596</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Loss of claudin-1 expression correlates with ...</Title>
@@ -107,19 +117,14 @@
         <ClickUrl>http://jairo.nii.ac.jp/0081/00000209</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Measurement of placental oxygenation by ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000329</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000329</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 培養内皮細胞の高分子物質取り込みに及ぼす壁せん断応力の影響</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000522</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000522</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | An Examination of the Human Soul that Dwells within ...</Title>
         <Url>http://jairo.nii.ac.jp/0081/00000741</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0081/00000741</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Irradiation in Adulthood as a New Model ofSchizophrenia</Title>
+        <Url>http://jairo.nii.ac.jp/0081/00000806</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0081/00000806</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 胎盤における凝固線溶物質,特にpalacental plasminogen activator (PPA ...</Title>
@@ -132,130 +137,125 @@
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=80</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=80</ClickUrl>
+        <Title>浜松医科大学 | 静岡県 大学一覧 学校JP</Title>
+        <Url>http://www.schooljp.net/e2200043.html</Url>
+        <ClickUrl>http://www.schooljp.net/e2200043.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 多次元ARモデルによる腹壁変位信号からの胎動信号の判別</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000518/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000518/en</ClickUrl>
+        <Title>CD-ROM、DVD-ROM|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_cd.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_cd.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 格支配形容詞の前置詞化の可能性 「形容詞」vollの「前置詞性」を手掛かりとして</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000141/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000141/en</ClickUrl>
+        <Title>視聴覚資料|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_av.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_av.html</ClickUrl>
     </Result>
     <Result>
-        <Title>お知らせ</Title>
-        <Url>http://www2.hama-med.ac.jp/w3a/toshokan/oshirase.html</Url>
-        <ClickUrl>http://www2.hama-med.ac.jp/w3a/toshokan/oshirase.html</ClickUrl>
+        <Title>卒業生の方へ|国立大学法人 浜松医科大学</Title>
+        <Url>http://www.hama-med.ac.jp/uni_alumnus.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/uni_alumnus.html</ClickUrl>
     </Result>
     <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</ClickUrl>
+        <Title>新着図書リスト|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_new.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_new.html</ClickUrl>
     </Result>
     <Result>
-        <Title>郡山女子大学図書館 - リンク集 - HamaMed-Repository: 浜松医医科大学学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=239</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=239</ClickUrl>
+        <Title>平成19年度~20年度 受入資料の抄録版|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_av20.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_av20.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Dissertation</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/e-guide/edis.html</ClickUrl>
+        <Title>浜松医科大学紀要一般教育|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_kiyo.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_kiyo.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 機関リポジトリ Archive</Title>
-        <Url>http://www.openaccessjapan.com/cat6/</Url>
-        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
+        <Title>連絡先・所在地|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_basho.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_basho.html</ClickUrl>
     </Result>
     <Result>
-        <Title>2008-03-23 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080323/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080323/</ClickUrl>
+        <Title>館内の紹介|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_kannai.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_kannai.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 進行胃癌に対する長期 Tegafur 投与(1年以上)症例の検討</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000043</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000043</ClickUrl>
+        <Title>お知らせ|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_topics.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_topics.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 選択的セロトニン再吸収抑止物質(SSRI)のLC&lt;wbr&gt;/MSならびにLC/MS/MSによる迅速測定</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00001720</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00001720</ClickUrl>
+        <Title>割開胸腹去綱膜見諸器本位|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_04.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_04.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | sinusoidal heart rate patternとovershoot accelerationの ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000137</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000137</ClickUrl>
+        <Title>心被心嚢図、縦割心見心室|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_06.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_06.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | アメリカにおける労働者協同組合法について</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000210</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000210</ClickUrl>
+        <Title>学生用推薦図書|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_gakusei.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_gakusei.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 教室に知ける最近17年間の肺癌剖検例 : 肺癌383例の臨床病理学的解析</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000738</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000738</ClickUrl>
+        <Title>去脳蓋出全脳翻之見下面所起十対神経及脳動血脈|浜松医科大学附&lt;wbr&gt;属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_03.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_03.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Expression and functional role of β-adrenoceptors in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000799</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000799</ClickUrl>
+        <Title>乳糜諸道腸間膜連属|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_08.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_08.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 消化器癌転移における plasminogen activator の役割(&amp;lt;特集&amp;gt;第36回日消外会総会 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000042</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000042</ClickUrl>
+        <Title>喉頭気管肺連属之前面|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_05.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_05.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Interindividual uniformity and variety of the ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000330</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000330</ClickUrl>
+        <Title>奥書|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_10.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_10.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Clinicogenetic study of mutations in LRRK2 exon 41 in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000049</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000049</ClickUrl>
+        <Title>尿之諸器並男子陰具之ノ連属|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_07.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_07.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 手術中における外科医のストレス評価の試み : 自律神経活動と血圧変化</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000476</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000476</ClickUrl>
+        <Title>サイトマップ|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_sitemap.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_sitemap.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | An examination of the roles of education and training ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000742</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000742</ClickUrl>
+        <Title>胃十二指腸膵膵管総管連属|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_09.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_09.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | ANTI-ENDOTHELIAL CELL ANTIBODIES IN PATIENTS WITH ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000050</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000050</ClickUrl>
+        <Title>鋸截去脳蓋剥脳膜見脳及鎌状管|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_mibu_02.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_mibu_02.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 壁せん断応力による培養内皮細胞への代謝依存的な高分子物質取り&lt;wbr&gt;込み変化と細胞内顆粒との関係</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000521</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000521</ClickUrl>
+        <Title>シラバス掲載図書|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_syllabus.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_syllabus.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 肺癌剖検例より見たリンパ節生検の臨床病理 : 病理</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000737</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000737</ClickUrl>
+        <Title>米国医学図書館分類法|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_find_nlm.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_find_nlm.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 子宮頚癌におけるurokinase-type plasminogen activatorの局在とリンパ節 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000088</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000088</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Perinatal Asphyxia Reduces Dentate Granule Cells and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0081/00000805</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0081/00000805</ClickUrl>
+        <Title>ガイダンスのご案内|浜松医科大学附属図書館</Title>
+        <Url>http://www.hama-med.ac.jp/toshokan_guidance.html</Url>
+        <ClickUrl>http://www.hama-med.ac.jp/toshokan_guidance.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:47 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:47 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:06 PDT 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:06 PDT 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="202"
+    totalResultsAvailable="322"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -33,8 +33,18 @@
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>東京女子医科大学図書館_東医療センター図書室</Title>
@@ -48,43 +58,38 @@
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=66&amp;</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=66&amp;</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=73&amp;</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=73&amp;</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2&amp;submenu=1</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php?menu=2&amp;submenu=1</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php?menu=2&amp;submenu=1</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2&amp;submenu=1</ClickUrl>
     </Result>
     <Result>
         <Title>大学機関リポジトリ</Title>
@@ -93,103 +98,8 @@
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[機関リポジトリ] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA]</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA]</ClickUrl>
-    </Result>
-    <Result>
-        <Title>東京女子医科大学図書館_河田町分室</Title>
-        <Url>http://www.twmu.ac.jp/U/facilities/f04lib_kawada.html</Url>
-        <ClickUrl>http://www.twmu.ac.jp/U/facilities/f04lib_kawada.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 東京女子医科大学学術リポジトリTwinkleの紹介</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008929</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008929</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Inhibition of mitochondrial remodeling by ...</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008923</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008923</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 東京女子医科大学学術リポジトリTwinkleの紹介</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008926</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008926</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | EXPERIENCES IN YAG LASER THERAPY OF HEMANGIOMA</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008573</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008573</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Twinkle 誕生!-キラリと輝くコンテンツ- 東京女子医科大学学術リポジトリの紹介</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008925</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008925</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 表紙,目次,奥付等</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008765</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008765</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 表紙、目次、奥付等</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008557</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008557</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 大動脈壁の加齢変容</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00007702</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00007702</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 中学生の健康問題への意識と課題の実態調査-大東町立中学校教員&lt;wbr&gt;への質問紙調査を通して-</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008776</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008776</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 悪性腫瘍に対する全身温熱化学療法の現状</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00004857</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00004857</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 医のこころを実践する力を育むカリキュラム</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008510</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008510</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 表紙、目次、奥付等</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008599</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008599</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | (研究支援報告)女子医大勤務に心が復帰できた喜び</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008509</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008509</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=108</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=108</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -197,65 +107,155 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php?menu=2</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_name_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_name_up.php?menu=2</ClickUrl>
+        <Title>東京女子医科大学図書館_河田町分室</Title>
+        <Url>http://www.twmu.ac.jp/U/facilities/f04lib_kawada.html</Url>
+        <ClickUrl>http://www.twmu.ac.jp/U/facilities/f04lib_kawada.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_name_dn.php?menu=2</ClickUrl>
+        <Title>JAIRO | トコフェロール欠乏食で飼育した成熟マウス赤血球のジアルル酸溶&lt;wbr&gt;血</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00002452</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00002452</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php?menu=2</ClickUrl>
+        <Title>JAIRO | 表紙,目次,奥付等</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008743</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008743</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2</ClickUrl>
+        <Title>JAIRO | サル骨半規管のコンピューターによる三次元再構成と計測</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00009320</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00009320</ClickUrl>
     </Result>
     <Result>
-        <Title>日本語雑誌(ト)</Title>
-        <Url>http://libaikan.aichi-nurs.ac.jp/journal/%93%FA%96{%8C%EA%8EG%8E%8F%81i%83g%81j.html</Url>
-        <ClickUrl>http://libaikan.aichi-nurs.ac.jp/journal/%93%FA%96{%8C%EA%8EG%8E%8F%81i%83g%81j.html</ClickUrl>
+        <Title>JAIRO | (未来医学事典)内視鏡の進歩-最新の機器と今後-</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008885</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008885</ClickUrl>
     </Result>
     <Result>
-        <Title>日本語雑誌(ト)</Title>
-        <Url>http://libaikan.aichi-nurs.ac.jp/journal/%E6%97%A5%E6%9C%AC%E8%AA%9E%E9%9B%91%E8%AA%8C%EF%BC%88%E3%83%88%EF%BC%89.html</Url>
-        <ClickUrl>http://libaikan.aichi-nurs.ac.jp/journal/%E6%97%A5%E6%9C%AC%E8%AA%9E%E9%9B%91%E8%AA%8C%EF%BC%88%E3%83%88%EF%BC%89.html</ClickUrl>
+        <Title>JAIRO | エステル化を行わない血中パルプロ酸のHPLCによる迅速測定法</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00006238</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00006238</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : related:http://www.geocities&lt;wbr&gt;.co.jp ...</Title>
-        <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Fwww.geocities.co.jp%2FCollegeLife-Club%2F2999%2F&amp;theme=</Url>
-        <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Fwww.geocities.co.jp%2FCollegeLife-Club%2F2999%2F&amp;theme=</ClickUrl>
+        <Title>JAIRO | 視覚生理におけるPattern認識の現況</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00012503</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00012503</ClickUrl>
     </Result>
     <Result>
-        <Title>東京女子医科大学図書館ホームページ</Title>
-        <Url>http://www.twmu.jp/U/facilities/f04library.html</Url>
-        <ClickUrl>http://www.twmu.jp/U/facilities/f04library.html</ClickUrl>
+        <Title>JAIRO | テュートリアル課題 からだが熱い</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00009528</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00009528</ClickUrl>
     </Result>
     <Result>
-        <Title>東京女子医科大学図書館_看護専門学校分室</Title>
-        <Url>http://twmu.ac.jp/U/facilities/f04lib_kansen.html</Url>
-        <ClickUrl>http://twmu.ac.jp/U/facilities/f04lib_kansen.html</ClickUrl>
+        <Title>JAIRO | 膝関節造影法よりみた変形性膝関節症の研究</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00001511</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00001511</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 大東町の食文化の変遷と住民の生活の質の変化に関する研究&lt;wbr&gt;(第二報)-壮年期世代の伝統食の伝承に関する認識&lt;wbr&gt;-</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008775</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008775</ClickUrl>
+        <Title>JAIRO | 先天性心疾患(不完全心内膜床欠損症)に, 両側大腿骨頭壊死, 橋本病を合併したインスリン非依存型糖尿病の1症例</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00009221</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00009221</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 人間関係教育を包含するテュートリアル教育</Title>
-        <Url>http://jairo.nii.ac.jp/0109/00008794</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0109/00008794</ClickUrl>
+        <Title>JAIRO | 微小電極法による猫の網膜機能に関する研究 : 第Ⅱ報 網膜のスペクトル感度について</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00009832</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00009832</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | テュートリアル課題 せきが止まらない</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00000099</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00000099</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 頸部食道癌手術患者に併発した腹部症状を伴える脊髄症</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00011893</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00011893</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | T2乳癌症例の予後解析と亜分類の試み</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00009098</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00009098</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 2-[Bis-dimethylaminomethyl&lt;wbr&gt;-methyl]-pyridineの合成</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00009850</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00009850</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 表紙、目次、奥付等</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008560</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008560</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | NT-proBNP測定用試薬『エクルーシスproBNP』の基&lt;wbr&gt;礎性能評価と臨床的意義</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00009400</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00009400</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | テュートリアル課題 トイレの回数が多い</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008859</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008859</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 診断が困難であった膵嚢胞腺癌の1例</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00007817</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00007817</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 小腸クローン病の1例</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00007976</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00007976</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Renal manifestations of metabolic syndrome in type 2 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008918</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008918</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中学生の健康問題への意識と課題の実態調査-大東町立中学校教員&lt;wbr&gt;への質問紙調査を通して-</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008776</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008776</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | (未来医学事典)週3回4時間の血液透析から慢性腎不全患者さん&lt;wbr&gt;を解放する</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008886</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008886</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | (シンポジウム あなたも私も元気に生きる) 笑われ療法士</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008805</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008805</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | テュートリアル課題 お腹の赤ちゃんは大丈夫?</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00000107</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00000107</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 悪性関節リウマチについて</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00001408</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00001408</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | (未来医学事典)注射針の最新動向と未来技術</Title>
         <Url>http://jairo.nii.ac.jp/0109/00008822</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0109/00008822</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIRO | (未来医学事典)体内構造を透かし見て目標血管を特定する&lt;wbr&gt;~大血管ナビゲーションシステム~</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008900</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008900</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 表紙,目次,奥付等</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008765</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008765</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | (医工連携の展望&amp;lt;特集&amp;gt;)スーパー特区と未来医療</Title>
+        <Url>http://jairo.nii.ac.jp/0109/00008907</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0109/00008907</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:23 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:23 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:31 PDT 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:31 PDT 2010 -->

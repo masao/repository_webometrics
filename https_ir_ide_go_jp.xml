@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1517"
+    totalResultsAvailable="1406"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,14 +17,19 @@
         <ClickUrl>http://www.opendoar.org/find.php</ClickUrl>
     </Result>
     <Result>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/</Url>
         <ClickUrl>http://celestial.eprints.org/</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+        <Title>Pakistani American - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Pakistani_American</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Pakistani_American</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -37,9 +42,9 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>遺伝子組み換え作物 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E7%B5%84%E3%81%BF%E6%8F%9B%E3%81%88%E4%BD%9C%E7%89%A9</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E7%B5%84%E3%81%BF%E6%8F%9B%E3%81%88%E4%BD%9C%E7%89%A9</ClickUrl>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -47,29 +52,19 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>Ranking Web of World Repositories: Top 400 Institutional ...</Title>
+        <Url>http://repositories.webometrics.info/top400_rep_inst.asp?offset=300</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst.asp?offset=300</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
-        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find</Url>
-        <ClickUrl>http://www.opendoar.org/find</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Eldis - an Eldis Resource</Title>
-        <Url>http://www.eldis.org/go/display&amp;type=Document&amp;id=41026</Url>
-        <ClickUrl>http://www.eldis.org/go/display&amp;type=Document&amp;id=41026</ClickUrl>
+        <Title>Pakistani Canadian - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Pakistani_Canadian</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Pakistani_Canadian</ClickUrl>
     </Result>
     <Result>
         <Title>Free databases in Japan 日本の無料文献データベース</Title>
@@ -77,14 +72,44 @@
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/freedb2d.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>articles</Title>
-        <Url>http://www.singleglobalcurrency.org/articles.html</Url>
-        <ClickUrl>http://www.singleglobalcurrency.org/articles.html</ClickUrl>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find</Url>
+        <ClickUrl>http://www.opendoar.org/find</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ルワンダ虐殺 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AF%E3%83%B3%E3%83%80%E8%99%90%E6%AE%BA</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AF%E3%83%B3%E3%83%80%E8%99%90%E6%AE%BA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
         <Title>Matsuura Toshiyuki ・ス・ス・スY・ス・ス・スK</Title>
         <Url>http://web.keio.jp/~matsuura.toshiyuki/</Url>
         <ClickUrl>http://web.keio.jp/~matsuura.toshiyuki/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>articles</Title>
+        <Url>http://www.singleglobalcurrency.org/articles.html</Url>
+        <ClickUrl>http://www.singleglobalcurrency.org/articles.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
+        <Url>http://repositories.webometrics.info/top400_rep.asp?offset=-1</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep.asp?offset=-1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://opendoar.org/find/php</Url>
+        <ClickUrl>http://opendoar.org/find/php</ClickUrl>
     </Result>
     <Result>
         <Title>Taiwan&apos;s trade and FDI policies and their effect on ...</Title>
@@ -97,74 +122,29 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
-        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+        <Title>Analyzing the Battlefield - Science - Thomson Reuters</Title>
+        <Url>http://intelligentinformationforlife.com/scientific/iifl/kubo/</Url>
+        <ClickUrl>http://intelligentinformationforlife.com/scientific/iifl/kubo/</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
-        <Url>http://repositories.webometrics.info/top400_rep.asp?offset=-1</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep.asp?offset=-1</ClickUrl>
+        <Title>MACHIKITA Tomohiro - Institute of Developing Economies</Title>
+        <Url>http://www.ide.go.jp/English/Researchers/machikita_tomohiro_en01.html</Url>
+        <ClickUrl>http://www.ide.go.jp/English/Researchers/machikita_tomohiro_en01.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web of World Repositories: Top 400 Institutional ...</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_inst.asp?offset=300</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst.asp?offset=300</ClickUrl>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
     </Result>
     <Result>
-        <Title>Indian Patent Policy and Publich Health : implications from ...</Title>
-        <Url>http://hdl.handle.net/2344/140</Url>
-        <ClickUrl>http://hdl.handle.net/2344/140</ClickUrl>
+        <Title>pandagon.net</Title>
+        <Url>http://pandagon.net/index.php/site/comments/bamboo_review_food_inc/</Url>
+        <ClickUrl>http://pandagon.net/index.php/site/comments/bamboo_review_food_inc/</ClickUrl>
     </Result>
     <Result>
-        <Title>Social cleavages and electoral support in Turkey -- toward ...</Title>
-        <Url>http://hdl.handle.net/2344/110</Url>
-        <ClickUrl>http://hdl.handle.net/2344/110</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Constitutional Review and the Parliamentary Opposition in ...</Title>
-        <Url>http://hdl.handle.net/2344/134</Url>
-        <ClickUrl>http://hdl.handle.net/2344/134</ClickUrl>
-    </Result>
-    <Result>
-        <Title>The politics of amendment in the Turkish legislature ...</Title>
-        <Url>http://hdl.handle.net/2344/143</Url>
-        <ClickUrl>http://hdl.handle.net/2344/143</ClickUrl>
-    </Result>
-    <Result>
-        <Title>How did the crisis affect small and medium-sized enterprises ...</Title>
-        <Url>http://hdl.handle.net/2344/114</Url>
-        <ClickUrl>http://hdl.handle.net/2344/114</ClickUrl>
-    </Result>
-    <Result>
-        <Title>The transmission of information in the transacting of primary ...</Title>
-        <Url>http://hdl.handle.net/2344/241</Url>
-        <ClickUrl>http://hdl.handle.net/2344/241</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Crisis in Japan and the Way Out: A Counterargument to ...</Title>
-        <Url>http://hdl.handle.net/2344/116</Url>
-        <ClickUrl>http://hdl.handle.net/2344/116</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Exchange Rate Stabilization and IMF High Interest Rate Policy ...</Title>
-        <Url>http://hdl.handle.net/2344/117</Url>
-        <ClickUrl>http://hdl.handle.net/2344/117</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Industrialization Policies of Korea and Taiwan and Their ...</Title>
-        <Url>http://hdl.handle.net/2344/124</Url>
-        <ClickUrl>http://hdl.handle.net/2344/124</ClickUrl>
+        <Title>ツチ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%84%E3%83%81</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%84%E3%83%81</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -172,19 +152,24 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
     </Result>
     <Result>
-        <Title>進化する大人たちへ</Title>
-        <Url>http://d.hatena.ne.jp/eurospace/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/eurospace/</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術研究リポジトリ - ジェトロ・アジア経済研究所</Title>
         <Url>http://www.ide.go.jp/Japanese/Library/Ir/</Url>
         <ClickUrl>http://www.ide.go.jp/Japanese/Library/Ir/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find.php?search=&amp;clID=26&amp;ctID=&amp;rtID=&amp;cID=&amp;lID=&amp;rSoftWareName=&amp;submit=Search&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;rID=&amp;ctrl=new&amp;p=1</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=&amp;clID=26&amp;ctID=&amp;rtID=&amp;cID=&amp;lID=&amp;rSoftWareName=&amp;submit=Search&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;rID=&amp;ctrl=new&amp;p=1</ClickUrl>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/)</Url>
+        <ClickUrl>http://celestial.eprints.org/)</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ayako Obashi - Keio University</Title>
+        <Url>http://www.gs.econ.keio.ac.jp/~aobashi/</Url>
+        <ClickUrl>http://www.gs.econ.keio.ac.jp/~aobashi/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
+        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Edit Archive Record</Title>
@@ -192,39 +177,9 @@
         <ClickUrl>http://celestial.eprints.org/repository?repository=874</ClickUrl>
     </Result>
     <Result>
-        <Title>Asia Regional Integration Center - Trade and Investment</Title>
-        <Url>http://aric.adb.org/fta.php?id=1&amp;ssid=3&amp;title=ASEAN+Free+Trade+Area</Url>
-        <ClickUrl>http://aric.adb.org/fta.php?id=1&amp;ssid=3&amp;title=ASEAN+Free+Trade+Area</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan (ROAR)</Title>
-        <Url>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</Url>
-        <ClickUrl>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse DSpace (ROAR)</Title>
-        <Url>http://roar.eprints.org/?country=&amp;version=dspace&amp;type=&amp;order=name&amp;submit=Filter</Url>
-        <ClickUrl>http://roar.eprints.org/?country=&amp;version=dspace&amp;type=&amp;order=name&amp;submit=Filter</ClickUrl>
-    </Result>
-    <Result>
         <Title>Asia Regional Integration Center - Infrastructure and ...</Title>
         <Url>http://aric.adb.org/initiativetable.php?iid=29&amp;ssid=1&amp;title=Greater+Mekong+Subregion+(GMS)+Program</Url>
         <ClickUrl>http://aric.adb.org/initiativetable.php?iid=29&amp;ssid=1&amp;title=Greater+Mekong+Subregion+(GMS)+Program</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Value Chain Dynamics and Growth of Local Firms:The Case of ...</Title>
-        <Url>http://hdl.handle.net/2344/778</Url>
-        <ClickUrl>http://hdl.handle.net/2344/778</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[Book review] &quot;The Economics of Involuntary Resettlement ...</Title>
-        <Url>http://hdl.handle.net/2344/248</Url>
-        <ClickUrl>http://hdl.handle.net/2344/248</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Unlocking the Potential of Zambian Micro, Small and Medium ...</Title>
-        <Url>http://hdl.handle.net/2344/725</Url>
-        <ClickUrl>http://hdl.handle.net/2344/725</ClickUrl>
     </Result>
     <Result>
         <Title>[書評] 朴明林著『朝鮮戦争の勃発と起源』: Academic Research Repository at the ...</Title>
@@ -232,30 +187,75 @@
         <ClickUrl>http://hdl.handle.net/2344/680</ClickUrl>
     </Result>
     <Result>
-        <Title>Who Eats the Most? :Quantitative Analysis of Pork Barrel ...</Title>
-        <Url>http://hdl.handle.net/2344/633</Url>
-        <ClickUrl>http://hdl.handle.net/2344/633</ClickUrl>
+        <Title>[書評] Denny Roy, Taiwan: A Political History: Academic ...</Title>
+        <Url>http://hdl.handle.net/2344/639</Url>
+        <ClickUrl>http://hdl.handle.net/2344/639</ClickUrl>
     </Result>
     <Result>
-        <Title>Sustainable Development and Poverty Reduction under Mubarak&apos;s ...</Title>
-        <Url>http://hdl.handle.net/2344/733</Url>
-        <ClickUrl>http://hdl.handle.net/2344/733</ClickUrl>
+        <Title>Value Chain Dynamics and Growth of Local Firms:The Case of ...</Title>
+        <Url>http://hdl.handle.net/2344/778</Url>
+        <ClickUrl>http://hdl.handle.net/2344/778</ClickUrl>
     </Result>
     <Result>
-        <Title>Transport Sector and Regional Price Differentials: A SCGE ...</Title>
-        <Url>http://hdl.handle.net/2344/333</Url>
-        <ClickUrl>http://hdl.handle.net/2344/333</ClickUrl>
+        <Title>Unlocking the Potential of Zambian Micro, Small and Medium ...</Title>
+        <Url>http://hdl.handle.net/2344/725</Url>
+        <ClickUrl>http://hdl.handle.net/2344/725</ClickUrl>
     </Result>
     <Result>
-        <Title>NEW ROLE OF COOPERATIVES IN ETHIOPIA: THE CASE OF ETHIOPIAN ...</Title>
-        <Url>http://hdl.handle.net/2344/797</Url>
-        <ClickUrl>http://hdl.handle.net/2344/797</ClickUrl>
+        <Title>[書評] 『経済転型的代価:中国城市失業、貧困、収入差距的経験分析』&lt;wbr&gt;(李実・佐藤宏主編 中国財政経済出版社 ...</Title>
+        <Url>http://hdl.handle.net/2344/627</Url>
+        <ClickUrl>http://hdl.handle.net/2344/627</ClickUrl>
     </Result>
     <Result>
-        <Title>Winner-Take-All Contention of Innovation under Globalization ...</Title>
-        <Url>http://hdl.handle.net/2344/153</Url>
-        <ClickUrl>http://hdl.handle.net/2344/153</ClickUrl>
+        <Title>Is It Worthwhile for Indonesia to Rush into a Free Trade Deal ...</Title>
+        <Url>http://hdl.handle.net/2344/531</Url>
+        <ClickUrl>http://hdl.handle.net/2344/531</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Organizational Capability of Local Societies in Rural ...</Title>
+        <Url>http://hdl.handle.net/2344/159</Url>
+        <ClickUrl>http://hdl.handle.net/2344/159</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ARRIDE - Institute of Developing Economies</Title>
+        <Url>http://www.ide.go.jp/English/Library/Ir/</Url>
+        <ClickUrl>http://www.ide.go.jp/English/Library/Ir/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Transport Development and the Evolution of Economic Geography ...</Title>
+        <Url>http://hdl.handle.net/2344/185</Url>
+        <ClickUrl>http://hdl.handle.net/2344/185</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
+        <Url>http://www.dap.ndl.go.jp/ca/modules/ca/item.php?itemid=1064</Url>
+        <ClickUrl>http://www.dap.ndl.go.jp/ca/modules/ca/item.php?itemid=1064</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:00 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:00 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:20 PDT 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:20 PDT 2010 -->

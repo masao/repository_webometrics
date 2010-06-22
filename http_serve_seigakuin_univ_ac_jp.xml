@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="859"
+    totalResultsAvailable="2352"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>聖学院大学</Title>
-        <Url>http://www.seigakuin.jp/</Url>
-        <ClickUrl>http://www.seigakuin.jp/</ClickUrl>
+        <Url>http://www.seigakuin.jp/index.htm</Url>
+        <ClickUrl>http://www.seigakuin.jp/index.htm</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -22,14 +22,49 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>聖学院大学総合図書館</Title>
+        <Url>http://seiglib.seigakuin-univ.ac.jp/</Url>
+        <ClickUrl>http://seiglib.seigakuin-univ.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>聖学院大学:大学案内:交通手段</Title>
         <Url>http://www.seigakuin.jp/info/access.htm</Url>
         <ClickUrl>http://www.seigakuin.jp/info/access.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>CiNii Article - Soho Tokutomi and the &quot;Gospel of Power ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110004847449</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110004847449</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - values</Title>
+        <Url>http://ci.nii.ac.jp/keyword/values</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/values</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - errors</Title>
+        <Url>http://ci.nii.ac.jp/keyword/errors</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/errors</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - coal mine</Title>
+        <Url>http://ci.nii.ac.jp/keyword/coal+mine</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/coal+mine</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Importance</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Importance</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Importance</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - multicultural society</Title>
+        <Url>http://ci.nii.ac.jp/keyword/multicultural+society</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/multicultural+society</ClickUrl>
     </Result>
     <Result>
         <Title>聖学院大学:受験生の方へ</Title>
@@ -42,29 +77,14 @@
         <ClickUrl>http://www.seigakuin.jp/info/bus.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学 大学からのお知らせ</Title>
-        <Url>http://www.seigakuin.jp/news/oshirase.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/news/oshirase.htm</ClickUrl>
+        <Title>聖学院大学:受験生の方へ:教員情報:アイウエオ順一覧</Title>
+        <Url>http://www.seigakuin-univ.ac.jp/scr/faculty/index.asp</Url>
+        <ClickUrl>http://www.seigakuin-univ.ac.jp/scr/faculty/index.asp</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:大学案内:大学概要:自己点検・評価活動</Title>
-        <Url>http://www.seigakuin.jp/guide/accreditation.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/guide/accreditation.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>archives</Title>
-        <Url>http://www.h7.dion.ne.jp/~pensiero/archives/index.html</Url>
-        <ClickUrl>http://www.h7.dion.ne.jp/~pensiero/archives/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:在学生の方へ</Title>
-        <Url>http://www.seigakuin.jp/02student/</Url>
-        <ClickUrl>http://www.seigakuin.jp/02student/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:サイトマップ</Title>
-        <Url>http://www.seigakuin.jp/sitemap.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/sitemap.htm</ClickUrl>
+        <Title>CiNii Search - evil</Title>
+        <Url>http://ci.nii.ac.jp/keyword/evil</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/evil</ClickUrl>
     </Result>
     <Result>
         <Title>聖学院大学:大学案内:大学概要:学長からのメッセージ</Title>
@@ -77,59 +97,34 @@
         <ClickUrl>http://www.seigakuin.jp/guide/index.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:学生生活:生涯学習について</Title>
-        <Url>http://www.seigakuin.jp/admin_univ/ll_learn.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/admin_univ/ll_learn.htm</ClickUrl>
+        <Title>聖学院大学 大学からのお知らせ</Title>
+        <Url>http://www.seigakuin.jp/news/oshirase.htm</Url>
+        <ClickUrl>http://www.seigakuin.jp/news/oshirase.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>それは歴史にカかないでっ 3 download - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E3%81%9D%E3%82%8C%E3%81%AF%E6%AD%B4%E5%8F%B2%E3%81%AB%E3%82%AB%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7%E3%81%A3+3+download&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E3%81%9D%E3%82%8C%E3%81%AF%E6%AD%B4%E5%8F%B2%E3%81%AB%E3%82%AB%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7%E3%81%A3+3+download&amp;action=search</ClickUrl>
+        <Title>聖学院大学 欧米文化学科 GPプログラム</Title>
+        <Url>http://www.seigakuin-univ.ac.jp/Conts/gp/oubei2009/</Url>
+        <ClickUrl>http://www.seigakuin-univ.ac.jp/Conts/gp/oubei2009/</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:一般の方へ</Title>
-        <Url>http://www.seigakuin.jp/04general/</Url>
-        <ClickUrl>http://www.seigakuin.jp/04general/</ClickUrl>
+        <Title>聖学院大学:大学案内:大学概要:自己点検・評価活動</Title>
+        <Url>http://www.seigakuin.jp/guide/accreditation.htm</Url>
+        <ClickUrl>http://www.seigakuin.jp/guide/accreditation.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:卒業生の方へ</Title>
-        <Url>http://www.seigakuin.jp/03graduate/</Url>
-        <ClickUrl>http://www.seigakuin.jp/03graduate/</ClickUrl>
+        <Title>archives</Title>
+        <Url>http://www.h7.dion.ne.jp/~pensiero/archives/index.html</Url>
+        <ClickUrl>http://www.h7.dion.ne.jp/~pensiero/archives/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:一般の方へ:生涯学習について:聖学院大学公開講座</Title>
-        <Url>http://www.seigakuin.jp/04general/openc.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/04general/openc.htm</ClickUrl>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:大学案内:大学の特色/取り組み:GPA制度</Title>
-        <Url>http://www.seigakuin.jp/guide/study_gpa.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/guide/study_gpa.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:受験生の方へ:課外活動について</Title>
-        <Url>http://www.seigakuin.jp/02student/extra_ccl.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/02student/extra_ccl.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>河島茂生_[デジタル・ナルシス_西垣通研究室ウェブサイト&lt;wbr&gt;]</Title>
-        <Url>http://www.digital-narcis.org/kawashima/index.htm</Url>
-        <ClickUrl>http://www.digital-narcis.org/kawashima/index.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:受験生の方へ:学部・学科紹介:学部案内</Title>
-        <Url>http://www.seigakuin.jp/01exam/faculty/index.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/01exam/faculty/index.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>pensie_log: 論文が大学リポジトリでPDF化</Title>
-        <Url>http://blogs.dion.ne.jp/pensiero/archives/8396052.html</Url>
-        <ClickUrl>http://blogs.dion.ne.jp/pensiero/archives/8396052.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=90</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=90</ClickUrl>
+        <Title>聖学院大学:受験生の方へ:教員情報:アイウエオ順一覧</Title>
+        <Url>http://www.seigakuin-univ.ac.jp/scr/faculty/index.asp?slct=3</Url>
+        <ClickUrl>http://www.seigakuin-univ.ac.jp/scr/faculty/index.asp?slct=3</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
@@ -137,29 +132,19 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>閃き ティビティ - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E9%96%83%E3%81%8D%E3%80%80%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%96%83%E3%81%8D%E3%80%80%E3%83%86%E3%82%A3%E3%83%93%E3%83%86%E3%82%A3&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:学生生活:キャンパスツアー:キャンパスツアー</Title>
-        <Url>http://www.seigakuin.jp/tour/</Url>
-        <ClickUrl>http://www.seigakuin.jp/tour/</ClickUrl>
-    </Result>
-    <Result>
         <Title>多重債務整理・過払い返還・任意整理・民事再生・破産 菊池司法書士事務所</Title>
         <Url>http://blog.livedoor.jp/kabarai5/</Url>
         <ClickUrl>http://blog.livedoor.jp/kabarai5/</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学</Title>
-        <Url>https://www.seigakuin.jp/index.htm</Url>
-        <ClickUrl>https://www.seigakuin.jp/index.htm</ClickUrl>
+        <Title>聖学院大学:在学生の方へ</Title>
+        <Url>http://www.seigakuin.jp/02student/</Url>
+        <ClickUrl>http://www.seigakuin.jp/02student/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>聖学院大学:一般の方へ</Title>
+        <Url>http://www.seigakuin.jp/04general/</Url>
+        <ClickUrl>http://www.seigakuin.jp/04general/</ClickUrl>
     </Result>
     <Result>
         <Title>聖学院大学:学生生活</Title>
@@ -167,34 +152,89 @@
         <ClickUrl>http://www.seigakuin.jp/admin_univ/</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学</Title>
-        <Url>http://www.seigakuin.jp/privacy.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/privacy.htm</ClickUrl>
+        <Title>聖学院大学:卒業生の方へ</Title>
+        <Url>http://www.seigakuin.jp/03graduate/</Url>
+        <ClickUrl>http://www.seigakuin.jp/03graduate/</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:このサイトについて</Title>
-        <Url>http://www.seigakuin.jp/website.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/website.htm</ClickUrl>
+        <Title>聖学院大学:サイトマップ</Title>
+        <Url>http://www.seigakuin.jp/sitemap.htm</Url>
+        <ClickUrl>http://www.seigakuin.jp/sitemap.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学</Title>
-        <Url>http://www.seigakuin.jp/seig_privacy.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/seig_privacy.htm</ClickUrl>
+        <Title>CiNii Search - LIE</Title>
+        <Url>http://ci.nii.ac.jp/keyword/LIE</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/LIE</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 新渡戸稲造のアメリカ観とクエーカー主義</Title>
-        <Url>http://jairo.nii.ac.jp/0091/00000135</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0091/00000135</ClickUrl>
+        <Title>CiNii Search - God</Title>
+        <Url>http://ci.nii.ac.jp/keyword/God</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/God</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学</Title>
-        <Url>http://www.seigakuin.jp/news/index.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/news/index.htm</ClickUrl>
+        <Title>CiNii Search - bank</Title>
+        <Url>http://ci.nii.ac.jp/keyword/bank</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/bank</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:在学生の方へ:交通手段:バスのご案内</Title>
-        <Url>http://www.seigakuin.jp/02student/bus.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/02student/bus.htm</ClickUrl>
+        <Title>CiNii Search - call</Title>
+        <Url>http://ci.nii.ac.jp/keyword/call</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/call</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Post</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Post</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Post</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - MK-4</Title>
+        <Url>http://ci.nii.ac.jp/keyword/MK-4</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/MK-4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - axis</Title>
+        <Url>http://ci.nii.ac.jp/keyword/axis</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/axis</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - help</Title>
+        <Url>http://ci.nii.ac.jp/keyword/help</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/help</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - worry</Title>
+        <Url>http://ci.nii.ac.jp/keyword/worry</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/worry</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Ontology</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Ontology</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Ontology</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - Frank</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Frank</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Frank</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - being</Title>
+        <Url>http://ci.nii.ac.jp/keyword/being</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/being</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - bonds</Title>
+        <Url>http://ci.nii.ac.jp/keyword/bonds</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/bonds</ClickUrl>
+    </Result>
+    <Result>
+        <Title>聖学院大学:大学案内:大学概要:聖学院の歴史</Title>
+        <Url>http://www.seigakuin.jp/guide/history.htm</Url>
+        <ClickUrl>http://www.seigakuin.jp/guide/history.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - questionnaire</Title>
+        <Url>http://ci.nii.ac.jp/keyword/questionnaire</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/questionnaire</ClickUrl>
     </Result>
     <Result>
         <Title>聖学院大学:大学案内:大学の特色/取り組み:資格取得</Title>
@@ -202,60 +242,20 @@
         <ClickUrl>http://www.seigakuin.jp/guide/licenses.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:卒業生の方へ:学長からのメッセージ</Title>
-        <Url>http://www.seigakuin.jp/03graduate/msg.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/03graduate/msg.htm</ClickUrl>
+        <Title>CiNii Search - growth</Title>
+        <Url>http://ci.nii.ac.jp/keyword/growth</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/growth</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:大学案内:大学概要:施設案内・キャンパスマップ</Title>
-        <Url>http://www.seigakuin.jp/guide/campusmap.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/guide/campusmap.htm</ClickUrl>
+        <Title>CiNii Search - axis 5</Title>
+        <Url>http://ci.nii.ac.jp/keyword/axis+5</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/axis+5</ClickUrl>
     </Result>
     <Result>
-        <Title>聖学院大学:受験生の方へ:奨学金制度</Title>
-        <Url>http://www.seigakuin.jp/01exam/sch_ship.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/01exam/sch_ship.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:一般の方へ:大学の特色/取り組み:大学の特色</Title>
-        <Url>http://www.seigakuin.jp/04general/trait.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/04general/trait.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:一般の方へ:交通手段</Title>
-        <Url>http://www.seigakuin.jp/04general/access.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/04general/access.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:大学案内:大学概要:学部長からのメッセージ</Title>
-        <Url>http://www.seigakuin.jp/guide/msg_gakubu.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/guide/msg_gakubu.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:学生生活:キャンパスツアー:学生ホール</Title>
-        <Url>http://www.seigakuin.jp/tour/campus_lounge.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/tour/campus_lounge.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:在学生の方へ:生涯学習について</Title>
-        <Url>http://www.seigakuin.jp/02student/ll_learn.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/02student/ll_learn.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:一般の方へ:生涯学習について</Title>
-        <Url>http://www.seigakuin.jp/04general/ll_learn.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/04general/ll_learn.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学新型インフルエンザへの対応について</Title>
-        <Url>http://www.seigakuin.jp/news/topicsarchives.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/news/topicsarchives.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>聖学院大学:在学生の方へ:施設案内・キャンパスマップ</Title>
-        <Url>http://www.seigakuin.jp/02student/campusmap.htm</Url>
-        <ClickUrl>http://www.seigakuin.jp/02student/campusmap.htm</ClickUrl>
+        <Title>CiNii Search - Making</Title>
+        <Url>http://ci.nii.ac.jp/keyword/Making</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/Making</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:04 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:04 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:22 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:22 PDT 2010 -->

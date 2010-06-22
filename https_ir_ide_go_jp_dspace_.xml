@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="279"
+    totalResultsAvailable="285"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,19 +22,19 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find</Url>
-        <ClickUrl>http://www.opendoar.org/find</ClickUrl>
-    </Result>
-    <Result>
         <Title>Free databases in Japan 日本の無料文献データベース</Title>
         <Url>http://www.asahi-net.or.jp/~gb4k-ktr/freedb2d.htm</Url>
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/freedb2d.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
-        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find</Url>
+        <ClickUrl>http://www.opendoar.org/find</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://opendoar.org/find/php</Url>
+        <ClickUrl>http://opendoar.org/find/php</ClickUrl>
     </Result>
     <Result>
         <Title>学術研究リポジトリ - ジェトロ・アジア経済研究所</Title>
@@ -42,17 +42,17 @@
         <ClickUrl>http://www.ide.go.jp/Japanese/Library/Ir/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find.php?search=&amp;clID=26&amp;ctID=&amp;rtID=&amp;cID=&amp;lID=&amp;rSoftWareName=&amp;submit=Search&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;rID=&amp;ctrl=new&amp;p=1</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=&amp;clID=26&amp;ctID=&amp;rtID=&amp;cID=&amp;lID=&amp;rSoftWareName=&amp;submit=Search&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;rID=&amp;ctrl=new&amp;p=1</ClickUrl>
+        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
+        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
     </Result>
     <Result>
-        <Title>Juristische Volltexte - Sammlung wissenschaftlicher ...</Title>
-        <Url>http://www.vifa-recht.de/volltexte/index.php?st=1</Url>
-        <ClickUrl>http://www.vifa-recht.de/volltexte/index.php?st=1</ClickUrl>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
         <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
         <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
     </Result>
@@ -62,14 +62,9 @@
         <ClickUrl>http://www.dap.ndl.go.jp/ca/modules/ca/item.php?itemid=1064</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Repositories: Asia</Title>
-        <Url>http://opendoar.org/find.php?cID=Asia&amp;title=Asia</Url>
-        <ClickUrl>http://opendoar.org/find.php?cID=Asia&amp;title=Asia</ClickUrl>
+        <Url>http://www.opendoar.org/find.php?cID=Asia&amp;title=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?cID=Asia&amp;title=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
@@ -93,6 +88,11 @@
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php?search=&amp;clID=26&amp;ctID=&amp;rtID=&amp;cID=&amp;lID=&amp;rSoftWareName=&amp;submit=Search&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;rID=&amp;ctrl=new&amp;p=1</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=&amp;clID=26&amp;ctID=&amp;rtID=&amp;cID=&amp;lID=&amp;rSoftWareName=&amp;submit=Search&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;rID=&amp;ctrl=new&amp;p=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
         <Url>http://www.opendoar.org/find.php?search=&amp;clID=24&amp;ctID=&amp;rtID=&amp;cID=&amp;lID=25&amp;rSoftWareName=&amp;submit=Search&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;rID=&amp;ctrl=new&amp;p=1</Url>
         <ClickUrl>http://www.opendoar.org/find.php?search=&amp;clID=24&amp;ctID=&amp;rtID=&amp;cID=&amp;lID=25&amp;rSoftWareName=&amp;submit=Search&amp;format=summary&amp;step=20&amp;sort=r.rName&amp;rID=&amp;ctrl=new&amp;p=1</ClickUrl>
     </Result>
@@ -102,44 +102,24 @@
         <ClickUrl>http://www.opendoar.org/find.php?search=Institute+of+Developing+Economies+-+Japan+External+Trade+Organization&amp;title=Institute+of+Developing+Economies+-+Japan+External+Trade+Organization</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find.php/about.html</Url>
-        <ClickUrl>http://www.opendoar.org/find.php/about.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=45</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=45</ClickUrl>
-    </Result>
-    <Result>
         <Title>Juristische Volltexte - Sammlung wissenschaftlicher ...</Title>
-        <Url>http://www.vifa-recht.de/volltexte/index.php?st=1&amp;op=latter&amp;letter=A</Url>
-        <ClickUrl>http://www.vifa-recht.de/volltexte/index.php?st=1&amp;op=latter&amp;letter=A</ClickUrl>
+        <Url>http://www.vifa-recht.de/volltexte/index.php?st=1</Url>
+        <ClickUrl>http://www.vifa-recht.de/volltexte/index.php?st=1</ClickUrl>
     </Result>
     <Result>
-        <Title>図書館 - 地域別に探す - 途上国一般・その他</Title>
-        <Url>http://opac.ide.go.jp/region/japanese/intl/index.html</Url>
-        <ClickUrl>http://opac.ide.go.jp/region/japanese/intl/index.html</ClickUrl>
+        <Title>IESR Full Record</Title>
+        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310282-21224</Url>
+        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310282-21224</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_81.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_81.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館 - 地域別に探す - ラテンアメリカ</Title>
-        <Url>http://opac.ide.go.jp/region/japanese/latin_america/index.html</Url>
-        <ClickUrl>http://opac.ide.go.jp/region/japanese/latin_america/index.html</ClickUrl>
+        <Title>GR3 : Cartographie des bases existantes - Cost</Title>
+        <Url>http://www.revues.org/cost/index.php?title=GR3_:_Cartographie_des_bases_existantes&amp;redirect=no</Url>
+        <ClickUrl>http://www.revues.org/cost/index.php?title=GR3_:_Cartographie_des_bases_existantes&amp;redirect=no</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find.php/images/about.html</Url>
-        <ClickUrl>http://www.opendoar.org/find.php/images/about.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Legal Full Text - Virtual Law Library - Virtuelle ...</Title>
-        <Url>http://www.vifa-recht.de/en/fulltext/index.php?st=1</Url>
-        <ClickUrl>http://www.vifa-recht.de/en/fulltext/index.php?st=1</ClickUrl>
+        <Url>http://www.opendoar.org/find.php/tools/index.html</Url>
+        <ClickUrl>http://www.opendoar.org/find.php/tools/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>GR3 : Cartographie des bases existantes - Cost</Title>
@@ -148,13 +128,58 @@
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find.php/images/tools/images/favicon.ico</Url>
-        <ClickUrl>http://www.opendoar.org/find.php/images/tools/images/favicon.ico</ClickUrl>
+        <Url>http://www.opendoar.org/find.php/tools/images/index.html</Url>
+        <ClickUrl>http://www.opendoar.org/find.php/tools/images/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>IESR Full Record</Title>
-        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310282-21224</Url>
-        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310282-21224</ClickUrl>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find/tools/recentdata.php</Url>
+        <ClickUrl>http://www.opendoar.org/find/tools/recentdata.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>機関リポジトリ Archive - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/cat6/</Url>
+        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find/tools/tools/index.html</Url>
+        <ClickUrl>http://www.opendoar.org/find/tools/tools/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館 - 地域別に探す - ラテンアメリカ</Title>
+        <Url>http://opac.ide.go.jp/region/japanese/latin_america</Url>
+        <ClickUrl>http://opac.ide.go.jp/region/japanese/latin_america</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館 - 地域別に探す - 途上国一般・その他</Title>
+        <Url>http://opac.ide.go.jp/region/japanese/intl/index.html</Url>
+        <ClickUrl>http://opac.ide.go.jp/region/japanese/intl/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館 - 地域別に探す - 東アジア</Title>
+        <Url>http://opac.ide.go.jp/region/japanese/east_asia/index.html</Url>
+        <ClickUrl>http://opac.ide.go.jp/region/japanese/east_asia/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_81.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_81.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | [書評] Ann B. Stahl, Making History in Banda ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000164</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000164</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ARRIDE 研修</Title>
+        <Url>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.pdf</Url>
+        <ClickUrl>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.pdf</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php/images/tools/images/tools/recentdata.php</Url>
+        <ClickUrl>http://www.opendoar.org/find.php/images/tools/images/tools/recentdata.php</ClickUrl>
     </Result>
     <Result>
         <Title>機関リポジトリ参考リンク集</Title>
@@ -162,9 +187,59 @@
         <ClickUrl>http://www.lib.tottori-u.ac.jp/irp_link.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIRO | [書評] Vernon W. Ruttan, Technology, Growth, and ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000174</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000174</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Experience of the National Rainbow Coalition ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000695</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000695</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Cuban Economy: A Current Evaluation and Proposals ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000696</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000696</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 鉱業のメキシカナイゼーション-その成果と問題点-</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000556</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000556</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Separation of Control and Cash-Flow Rights of State ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000698</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000698</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 民族系物流企業の勃興</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000396</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000396</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | [書評] Stephen L. Parente and Edward C. Prescott ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000177</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000177</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Taiwan&apos;s Multidimensional Transformation in the 1990s ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000109</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000109</ClickUrl>
+    </Result>
+    <Result>
         <Title>JAIRO | Political conditions for fair elections</Title>
         <Url>http://jairo.nii.ac.jp/0046/00000639</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0046/00000639</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 開発戦略としてのPro-Poor Growth -貧困層への雇用創出-</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000410</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000410</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | What Explains Real and Nominal Exchange Rate ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000691</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000691</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | NEW ROLE OF COOPERATIVES IN ETHIOPIA: THE CASE OF ...</Title>
@@ -172,90 +247,15 @@
         <ClickUrl>http://jairo.nii.ac.jp/0046/00000635</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | The causal relationships in mean and variance between ...</Title>
-        <Url>http://jairo.nii.ac.jp/0046/00000638</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0046/00000638</ClickUrl>
+        <Title>JAIRO | 地域社会の組織力と地方行政体--東南アジア農村における小規模&lt;wbr&gt;金融組織の形成過程を比較して--</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000531</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000531</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Industrialization in Indonesia since the 1970s</Title>
-        <Url>http://jairo.nii.ac.jp/0046/00000645</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0046/00000645</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=45</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=45</ClickUrl>
-    </Result>
-    <Result>
-        <Title>電子ジャーナル情報</Title>
-        <Url>http://www.dab.hi-ho.ne.jp/cirrus/Sites/Repositories.htm</Url>
-        <ClickUrl>http://www.dab.hi-ho.ne.jp/cirrus/Sites/Repositories.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>機関リポジトリについて</Title>
-        <Url>http://cogsci.l.chiba-u.ac.jp/~tutiya/Talks/102306IR_TDC.pdf</Url>
-        <ClickUrl>http://cogsci.l.chiba-u.ac.jp/~tutiya/Talks/102306IR_TDC.pdf</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Dnavi - 書誌情報</Title>
-        <Url>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000014499&amp;KEYWD=000000014499&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</Url>
-        <ClickUrl>http://dnavi.ndl.go.jp/bnnv/servlet/bnnv_user_info_bibliography.jsp?SYUBETU_FLG=1&amp;META_ID=000000014499&amp;KEYWD=000000014499&amp;CUR_PAGE=0&amp;CUR_NO=1&amp;ALL_COUNT=1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館 - 地域別に探す - 東南アジア</Title>
-        <Url>http://opac.ide.go.jp/region/japanese/southeast_asia/index.html</Url>
-        <ClickUrl>http://opac.ide.go.jp/region/japanese/southeast_asia/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find.php/images/images/tools/faq.html</Url>
-        <ClickUrl>http://www.opendoar.org/find.php/images/images/tools/faq.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find.php/tools/images/images/rss1data.php</Url>
-        <ClickUrl>http://www.opendoar.org/find.php/tools/images/images/rss1data.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ARRIDE研修</Title>
-        <Url>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.doc</Url>
-        <ClickUrl>http://www.nii.ac.jp/hrd/ja/portal/h18/files/15-2_ide-jetro.doc</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://www.opendoar.org/find.php/tools/images/images/tools/index.html</Url>
-        <ClickUrl>http://www.opendoar.org/find.php/tools/images/images/tools/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 機関リポジトリ Archive</Title>
-        <Url>http://www.openaccessjapan.com/cat6/</Url>
-        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_1=0</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_1=0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_2=0</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_2=0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_4=1</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_4=1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_1=2</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_1=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CA1626 - 動向レビュー:日本における機関リポジトリの展開:学術情報流通&lt;wbr&gt;と蓄積の変容 / 逸村裕 | カレント ...</Title>
-        <Url>http://current.ndl.go.jp/ca1626?quicktabs_4=3</Url>
-        <ClickUrl>http://current.ndl.go.jp/ca1626?quicktabs_4=3</ClickUrl>
+        <Title>JAIRO | [書評] Scott Straus, The Order of Genocide: Race, Power ...</Title>
+        <Url>http://jairo.nii.ac.jp/0046/00000657</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0046/00000657</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:59 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:59 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:19 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:19 PDT 2010 -->

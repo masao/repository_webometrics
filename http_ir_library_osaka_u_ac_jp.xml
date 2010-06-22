@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="6935"
+    totalResultsAvailable="8812"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -13,18 +13,13 @@
     </Result>
     <Result>
         <Title>社団法人日本医学放射線学会-Japan Radiological Society</Title>
-        <Url>http://www.radiology.or.jp/</Url>
-        <ClickUrl>http://www.radiology.or.jp/</ClickUrl>
+        <Url>http://www.radiology.jp/</Url>
+        <ClickUrl>http://www.radiology.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka University Library</Title>
+        <Title>大阪大学附属図書館</Title>
         <Url>http://www.library.osaka-u.ac.jp/</Url>
         <ClickUrl>http://www.library.osaka-u.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -32,9 +27,24 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>やたがらすナビ—古典文学(国文学・中国文学・中国哲学&lt;wbr&gt;)ポータルサイト—</Title>
+        <Url>http://yatanavi.hp.infoseek.co.jp/</Url>
+        <ClickUrl>http://yatanavi.hp.infoseek.co.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -42,9 +52,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+        <Title>Japanese Law Blog</Title>
+        <Url>http://japaneselaw.blogspot.com/</Url>
+        <ClickUrl>http://japaneselaw.blogspot.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>運 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%81%8B</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%81%8B</ClickUrl>
     </Result>
     <Result>
         <Title>大阪大学 生命科学図書館</Title>
@@ -57,9 +72,9 @@
         <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/main/</ClickUrl>
     </Result>
     <Result>
-        <Title>Japanese Law Blog</Title>
-        <Url>http://japaneselaw.blogspot.com/</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/</ClickUrl>
+        <Title>すゞはらひ</Title>
+        <Url>http://www.voiceblog.jp/clarte9/</Url>
+        <ClickUrl>http://www.voiceblog.jp/clarte9/</ClickUrl>
     </Result>
     <Result>
         <Title>国内大学個人文庫</Title>
@@ -67,184 +82,9 @@
         <ClickUrl>http://www.fitweb.or.jp/~taka/pcollect.html</ClickUrl>
     </Result>
     <Result>
-        <Title>すゞはらひ</Title>
-        <Url>http://www.voiceblog.jp/clarte9/</Url>
-        <ClickUrl>http://www.voiceblog.jp/clarte9/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>内陸アジア言語の研究</Title>
-        <Url>http://www.let.osaka-u.ac.jp/toyosi/sial/index-j.html</Url>
-        <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/sial/index-j.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Portal:歴史学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>インドアでインド ― Armchair Indologist ―</Title>
-        <Url>http://rivertop.exblog.jp/</Url>
-        <ClickUrl>http://rivertop.exblog.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
-        <Title>インターネット上の基礎知識 NDC 490-499,800-999</Title>
-        <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC800-829.html</Url>
-        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC800-829.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>中央ユーラシア学研究会・中央アジア学フォーラム</Title>
-        <Url>http://www.let.osaka-u.ac.jp/toyosi/caf/caf-j.html</Url>
-        <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/caf/caf-j.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Abita Qur</Title>
-        <Url>http://dmatsui.cocolog-nifty.com/abitaqur/</Url>
-        <ClickUrl>http://dmatsui.cocolog-nifty.com/abitaqur/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>アジア学関連WWWページ集</Title>
-        <Url>http://www.let.osaka-u.ac.jp/toyosi/main/asianlink.html</Url>
-        <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/main/asianlink.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大阪大学理工学図書館</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>まさおのChangeLogメモ</Title>
-        <Url>http://masao.jpn.org/d/</Url>
-        <ClickUrl>http://masao.jpn.org/d/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Japanese Law Blog: &quot;Like lay judges, court interpreter system ...</Title>
-        <Url>http://japaneselaw.blogspot.com/2009/05/like-lay-judges-court-interpreter.html</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/2009/05/like-lay-judges-court-interpreter.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Osaka University Main Library</Title>
-        <Url>http://www.library.osaka-u.ac.jp/guide/honkan.htm</Url>
-        <ClickUrl>http://www.library.osaka-u.ac.jp/guide/honkan.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Exhibition</Title>
-        <Url>http://wsv.library.osaka-u.ac.jp/tenji/e-exhb.htm</Url>
-        <ClickUrl>http://wsv.library.osaka-u.ac.jp/tenji/e-exhb.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>言語戦争 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E6%88%A6%E4%BA%89</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E6%88%A6%E4%BA%89</ClickUrl>
-    </Result>
-    <Result>
-        <Title>旧制中等教育学校 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E6%97%A7%E5%88%B6%E4%B8%AD%E7%AD%89%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%97%A7%E5%88%B6%E4%B8%AD%E7%AD%89%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Sightsong: 下村兼史『或日の干潟』</Title>
-        <Url>http://pub.ne.jp/Sightsong/?entry_id=2180415</Url>
-        <ClickUrl>http://pub.ne.jp/Sightsong/?entry_id=2180415</ClickUrl>
-    </Result>
-    <Result>
-        <Title>リンク集 デジタル奈良絵本</Title>
-        <Url>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</Url>
-        <ClickUrl>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成19年度 平成18年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Osaka University Science and Engineering Library</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/english/index.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/english/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DRF International Conference 2008 (DRFIC2008)</Title>
-        <Url>https://www.tulips.tsukuba.ac.jp/DRFIC2008/posters_entry_en.php</Url>
-        <ClickUrl>https://www.tulips.tsukuba.ac.jp/DRFIC2008/posters_entry_en.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>対人社会心理学研究</Title>
-        <Url>http://syasin.hus.osaka-u.ac.jp/jjisp/index.html</Url>
-        <ClickUrl>http://syasin.hus.osaka-u.ac.jp/jjisp/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Japanese Law Blog: Separate Surnames</Title>
-        <Url>http://japaneselaw.blogspot.com/2009/10/separate-surnames.html</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/2009/10/separate-surnames.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Japanese Law Blog: &quot;More Lawyers Needed</Title>
-        <Url>http://japaneselaw.blogspot.com/2008/07/more-lawyers-needed.html</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/2008/07/more-lawyers-needed.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Japanese Law Blog: Execution Broadcast</Title>
-        <Url>http://japaneselaw.blogspot.com/2008/04/execution-broadcast.html</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/2008/04/execution-broadcast.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Japanese Law Blog: &quot;Citizen judges in court</Title>
-        <Url>http://japaneselaw.blogspot.com/2009/05/citizen-judges-in-court.html</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/2009/05/citizen-judges-in-court.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Japanese Law Blog: The Death Penalty in Japan</Title>
-        <Url>http://japaneselaw.blogspot.com/2008/03/death-penalty-in-japan.html</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/2008/03/death-penalty-in-japan.html</ClickUrl>
+        <Title>Japanese settlement in the Federated States of Micronesia ...</Title>
+        <Url>http://en.wikipedia.org/wiki/Japanese_settlement_in_the_Federated_States_of_Micronesia</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Japanese_settlement_in_the_Federated_States_of_Micronesia</ClickUrl>
     </Result>
     <Result>
         <Title>Japanese Law Blog: Age of Majority in Japan</Title>
@@ -252,10 +92,170 @@
         <ClickUrl>http://japaneselaw.blogspot.com/2009/07/age-of-majority-in-japan.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Japanese Law Blog: Business Trip and Karoshi</Title>
-        <Url>http://japaneselaw.blogspot.com/2008/05/business-trip-and-karoshi.html</Url>
-        <ClickUrl>http://japaneselaw.blogspot.com/2008/05/business-trip-and-karoshi.html</ClickUrl>
+        <Title>内陸アジア言語の研究</Title>
+        <Url>http://www.let.osaka-u.ac.jp/toyosi/sial/index-j.html</Url>
+        <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/sial/index-j.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>インターネット上の基礎知識 NDC 490-499,800-999</Title>
+        <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC800-829.html</Url>
+        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC800-829.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大阪大学理工学図書館</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>D | Indologica</Title>
+        <Url>http://www.indologica.de/drupal/?q=node/63</Url>
+        <ClickUrl>http://www.indologica.de/drupal/?q=node/63</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japanese Law Blog: Separate Surnames</Title>
+        <Url>http://japaneselaw.blogspot.com/2009/10/separate-surnames.html</Url>
+        <ClickUrl>http://japaneselaw.blogspot.com/2009/10/separate-surnames.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japanese Law Blog: &quot;Citizen judges in court</Title>
+        <Url>http://japaneselaw.blogspot.com/2009/05/citizen-judges-in-court.html</Url>
+        <ClickUrl>http://japaneselaw.blogspot.com/2009/05/citizen-judges-in-court.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japanese Law Blog: &quot;New organ donation bill seeks to abolish ...</Title>
+        <Url>http://japaneselaw.blogspot.com/2009/04/new-organ-donation-bill-seeks-to.html</Url>
+        <ClickUrl>http://japaneselaw.blogspot.com/2009/04/new-organ-donation-bill-seeks-to.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>中央ユーラシア学研究会・中央アジア学フォーラム</Title>
+        <Url>http://www.let.osaka-u.ac.jp/toyosi/caf/caf-j.html</Url>
+        <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/caf/caf-j.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka University Main Library</Title>
+        <Url>http://www.library.osaka-u.ac.jp/guide/honkan.htm</Url>
+        <ClickUrl>http://www.library.osaka-u.ac.jp/guide/honkan.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>旧制中等教育学校 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%97%A7%E5%88%B6%E4%B8%AD%E7%AD%89%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%97%A7%E5%88%B6%E4%B8%AD%E7%AD%89%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アジア学関連WWWページ集</Title>
+        <Url>http://www.let.osaka-u.ac.jp/toyosi/main/asianlink.html</Url>
+        <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/main/asianlink.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DRF International Conference 2008 (DRFIC2008)</Title>
+        <Url>https://www.tulips.tsukuba.ac.jp/DRFIC2008/posters_entry_en.php</Url>
+        <ClickUrl>https://www.tulips.tsukuba.ac.jp/DRFIC2008/posters_entry_en.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japanese Law Blog: Selection of Supreme Court Justices</Title>
+        <Url>http://japaneselaw.blogspot.com/2009/11/selection-of-supreme-court-justices.html</Url>
+        <ClickUrl>http://japaneselaw.blogspot.com/2009/11/selection-of-supreme-court-justices.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>La Traviata | No-sword</Title>
+        <Url>http://no-sword.jp/blog/2009/06/la_traviata.html</Url>
+        <ClickUrl>http://no-sword.jp/blog/2009/06/la_traviata.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Exhibition</Title>
+        <Url>http://wsv.library.osaka-u.ac.jp/tenji/e-exhb.htm</Url>
+        <ClickUrl>http://wsv.library.osaka-u.ac.jp/tenji/e-exhb.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>法律雑誌(Web Access to Law Journals)</Title>
+        <Url>http://www.law.osaka-u.ac.jp/~kado/lr/lawjnl.htm</Url>
+        <ClickUrl>http://www.law.osaka-u.ac.jp/~kado/lr/lawjnl.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>須田国太郎 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%A0%88%E7%94%B0%E5%9B%BD%E5%A4%AA%E9%83%8E</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%A0%88%E7%94%B0%E5%9B%BD%E5%A4%AA%E9%83%8E</ClickUrl>
+    </Result>
+    <Result>
+        <Title>観世元滋 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%A6%B3%E4%B8%96%E5%85%83%E6%BB%8B</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%A6%B3%E4%B8%96%E5%85%83%E6%BB%8B</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>外交と安全保障をクロフネが考えてみた。 東京地検、小沢幹事長を不起訴処分 ほかグローバルインテリジェンス(5/21)</Title>
+        <Url>http://gaikoanzenhosyo.blog4.fc2.com/blog-entry-981.html</Url>
+        <ClickUrl>http://gaikoanzenhosyo.blog4.fc2.com/blog-entry-981.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>言語戦争 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E6%88%A6%E4%BA%89</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E6%88%A6%E4%BA%89</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ウイグル文字 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%B0%E3%83%AB%E6%96%87%E5%AD%97</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%82%B0%E3%83%AB%E6%96%87%E5%AD%97</ClickUrl>
+    </Result>
+    <Result>
+        <Title>対人社会心理学研究</Title>
+        <Url>http://syasin.hus.osaka-u.ac.jp/jjisp/index.html</Url>
+        <ClickUrl>http://syasin.hus.osaka-u.ac.jp/jjisp/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成19年度 平成18年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/debrief/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ishkawa .pdf Ebook Free Download</Title>
+        <Url>http://www.pdf-search-engine.com/ishkawa-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/ishkawa-pdf.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:31 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:31 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:53 PDT 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:53 PDT 2010 -->

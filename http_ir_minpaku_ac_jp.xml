@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="339"
+    totalResultsAvailable="1704"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,14 +17,24 @@
         <ClickUrl>http://www.minpaku.ac.jp/english/</ClickUrl>
     </Result>
     <Result>
+        <Title>Bön - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/B%C3%B6n</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/B%C3%B6n</ClickUrl>
+    </Result>
+    <Result>
         <Title>Sarod - Wikipedia, the free encyclopedia</Title>
         <Url>http://en.wikipedia.org/wiki/Sarod</Url>
         <ClickUrl>http://en.wikipedia.org/wiki/Sarod</ClickUrl>
     </Result>
     <Result>
-        <Title>Quests of the Dragon and Bird Clan</Title>
-        <Url>http://sambali.blogspot.com/</Url>
-        <ClickUrl>http://sambali.blogspot.com/</ClickUrl>
+        <Title>Brahmavihara - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Brahmavihara</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Brahmavihara</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Terma (Buddhism &amp;amp; Bon) - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Terma_(Buddhism_&amp;_Bon)</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Terma_(Buddhism_&amp;_Bon)</ClickUrl>
     </Result>
     <Result>
         <Title>Tibeto-logic</Title>
@@ -32,14 +42,19 @@
         <ClickUrl>http://tibeto-logic.blogspot.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>Aṅkuśa - Wikipedia, the free encyclopedia</Title>
-        <Url>http://en.wikipedia.org/wiki/A%E1%B9%85ku%C5%9Ba</Url>
-        <ClickUrl>http://en.wikipedia.org/wiki/A%E1%B9%85ku%C5%9Ba</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Evenki language - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Evenki_language</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Evenki_language</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Aṅkuśa - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/A%E1%B9%85ku%C5%9Ba</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/A%E1%B9%85ku%C5%9Ba</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -47,29 +62,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>Madras Music Academy - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Madras_Music_Academy</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Madras_Music_Academy</ClickUrl>
+    </Result>
+    <Result>
         <Title>シイラ - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A4%E3%83%A9</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A4%E3%83%A9</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: Do Dampa&apos;s Droids Dare Dream of Desire?</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/03/do-dampas-droids-dare-dream-of-desire.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/03/do-dampas-droids-dare-dream-of-desire.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: Losar eCard</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/01/losar-ecard.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/01/losar-ecard.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: Tibschol Downloadable</Title>
-        <Url>http://tibeto-logic.blogspot.com/2008/12/tibschol-downloadable.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2008/12/tibschol-downloadable.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: An Inaugural Lecture on Tibet&apos;s (Creative) Dark Age</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/04/lecture-on-tibets-creative-dark-age.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/04/lecture-on-tibets-creative-dark-age.html</ClickUrl>
     </Result>
     <Result>
         <Title>Koreans in Singapore - Wikipedia, the free encyclopedia</Title>
@@ -77,54 +77,19 @@
         <ClickUrl>http://en.wikipedia.org/wiki/Koreans_in_Singapore</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: The Tingri Hundred</Title>
-        <Url>http://tibeto-logic.blogspot.com/2008/12/tingri-hundred.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2008/12/tingri-hundred.html</ClickUrl>
+        <Title>Tibeto-logic: Tibschol Downloadable</Title>
+        <Url>http://tibeto-logic.blogspot.com/2008/12/tibschol-downloadable.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2008/12/tibschol-downloadable.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: What Do Tibetans Want?</Title>
-        <Url>http://tibeto-logic.blogspot.com/2008/04/what-do-tibetans-want.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2008/04/what-do-tibetans-want.html</ClickUrl>
+        <Title>Center for Orang Asli Concerns</Title>
+        <Url>http://www.coac.org.my/codenavia/portals/coacv2/code/main/main_art.php?parentID=11419746785760&amp;artID=11447928906637</Url>
+        <ClickUrl>http://www.coac.org.my/codenavia/portals/coacv2/code/main/main_art.php?parentID=11419746785760&amp;artID=11447928906637</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: The Mysterious Whitehead</Title>
-        <Url>http://tibeto-logic.blogspot.com/2006/12/mysterious-whitehead_21.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2006/12/mysterious-whitehead_21.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: The Question of Indianness</Title>
-        <Url>http://tibeto-logic.blogspot.com/2008/11/question-of-indianness.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2008/11/question-of-indianness.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: Tibet Mirror Revivified</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/05/tibetan-mirror-revivified.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/05/tibetan-mirror-revivified.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: The Rubin&apos;s Situ Panchen Lectures</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/05/rubins-situ-panchen-lectures.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/05/rubins-situ-panchen-lectures.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: Death, Rebirth and Being Human in Tibetan Buddhism</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/04/death-rebirth-and-being-human-in.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/04/death-rebirth-and-being-human-in.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: The Tibetan Olympics of 1695. The Nine Men&apos;s ...</Title>
-        <Url>http://tibeto-logic.blogspot.com/2008/05/tibetan-olympics-of-1695-nine-mens.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2008/05/tibetan-olympics-of-1695-nine-mens.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: Padampa&apos;s Animal Kingdom — Part One</Title>
-        <Url>http://tibeto-logic.blogspot.com/2008/10/padampas-animal-kingdom-part-one.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2008/10/padampas-animal-kingdom-part-one.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: Happy New Year (This time it&apos;s for real!)</Title>
-        <Url>http://tibeto-logic.blogspot.com/2008/02/happy-new-year-this-time-its-for-real.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2008/02/happy-new-year-this-time-its-for-real.html</ClickUrl>
+        <Title>Zhang-Zhung language - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Zhang-Zhung_language</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Zhang-Zhung_language</ClickUrl>
     </Result>
     <Result>
         <Title>Tibeto-logic: Greetings Tibeto-logicians Everywhere</Title>
@@ -132,84 +97,29 @@
         <ClickUrl>http://tibeto-logic.blogspot.com/2007/12/greetings-tibeto-logicians-everywhere.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: Dr. Heather Stoddard, Paris Tibetologist, on ...</Title>
-        <Url>http://tibeto-logic.blogspot.com/2008/03/dr-heather-stoddard-paris-tibetologist.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2008/03/dr-heather-stoddard-paris-tibetologist.html</ClickUrl>
+        <Title>Minpaku Repository: Ranked Societies of the Alaskan Pacific Rim</Title>
+        <Url>http://hdl.handle.net/10502/291</Url>
+        <ClickUrl>http://hdl.handle.net/10502/291</ClickUrl>
     </Result>
     <Result>
-        <Title>sarod: Definition from Answers.com</Title>
-        <Url>http://www.answers.com/topic/sarod</Url>
-        <ClickUrl>http://www.answers.com/topic/sarod</ClickUrl>
+        <Title>Minpaku Repository: Ethnologists and Programming</Title>
+        <Url>http://hdl.handle.net/10502/493</Url>
+        <ClickUrl>http://hdl.handle.net/10502/493</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: Men of Stone</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/04/men-of-stone.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/04/men-of-stone.html</ClickUrl>
+        <Title>Minpaku Repository: 9. The Real Fire</Title>
+        <Url>http://hdl.handle.net/10502/1720</Url>
+        <ClickUrl>http://hdl.handle.net/10502/1720</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: Take the Cursive Test</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/12/take-cursive-test.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/12/take-cursive-test.html</ClickUrl>
+        <Title>Minpaku Repository: SER no.036; 序文</Title>
+        <Url>http://hdl.handle.net/10502/1523</Url>
+        <ClickUrl>http://hdl.handle.net/10502/1523</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: Bon Bibliography Downloadable</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/11/bon-bibliography-downloadable.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/11/bon-bibliography-downloadable.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: A Prayer for the Happiness of Tibet</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/06/prayer-for-happiness-of-tibet.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/06/prayer-for-happiness-of-tibet.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Quests of the Dragon and Bird Clan: The Balance of Nature</Title>
-        <Url>http://sambali.blogspot.com/2010/01/balance-of-nature.html</Url>
-        <ClickUrl>http://sambali.blogspot.com/2010/01/balance-of-nature.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国立民族学博物館、国立民族学博物館学術情報リポジトリを試験公&lt;wbr&gt;開(2009-03-23) - ACADEMIC ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20090410/1239375061</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20090410/1239375061</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Search Results For bambote</Title>
-        <Url>http://www.mixcat.com/search.php?q=bambote&amp;start=30</Url>
-        <ClickUrl>http://www.mixcat.com/search.php?q=bambote&amp;start=30</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Search Results For bambote</Title>
-        <Url>http://www.mixcat.com/search.php?q=bambote&amp;start=35</Url>
-        <ClickUrl>http://www.mixcat.com/search.php?q=bambote&amp;start=35</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Tibeto-logic: August 2007</Title>
-        <Url>http://tibeto-logic.blogspot.com/2007_08_01_archive.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2007_08_01_archive.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KauaiEclectic: September 2009</Title>
-        <Url>http://kauaieclectic.blogspot.com/2009_09_01_archive.html</Url>
-        <ClickUrl>http://kauaieclectic.blogspot.com/2009_09_01_archive.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Cinema No Mundo ásia .pdf Ebook Download</Title>
-        <Url>http://www.pdf-search-engine.com/cinema-no-mundo-%C3%A1sia-pdf.html</Url>
-        <ClickUrl>http://www.pdf-search-engine.com/cinema-no-mundo-%C3%A1sia-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Dengeses - Wikipédia</Title>
-        <Url>http://fr.wikipedia.org/wiki/Dengeses</Url>
-        <ClickUrl>http://fr.wikipedia.org/wiki/Dengeses</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Courses and Publications Page</Title>
-        <Url>http://gunston.gmu.edu/dhaines1/home.htm</Url>
-        <ClickUrl>http://gunston.gmu.edu/dhaines1/home.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=134</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=134</ClickUrl>
+        <Title>Bön: Definition from Answers.com</Title>
+        <Url>http://www.answers.com/topic/bon-religion-in-encyclopedia-1</Url>
+        <ClickUrl>http://www.answers.com/topic/bon-religion-in-encyclopedia-1</ClickUrl>
     </Result>
     <Result>
         <Title>Japanese expatriates in Singapore - Wikipedia, the free ...</Title>
@@ -217,19 +127,74 @@
         <ClickUrl>http://en.wikipedia.org/wiki/Japanese_expatriates_in_Singapore</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+        <Title>Tibeto-logic: The Mysterious Whitehead</Title>
+        <Url>http://tibeto-logic.blogspot.com/2006/12/mysterious-whitehead_21.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2006/12/mysterious-whitehead_21.html</ClickUrl>
     </Result>
     <Result>
-        <Title>青柳姉妹 sister - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E9%9D%92%E6%9F%B3%E5%A7%89%E5%A6%B9+sister&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%9D%92%E6%9F%B3%E5%A7%89%E5%A6%B9+sister&amp;action=search</ClickUrl>
+        <Title>Tibeto-logic: The Rubin&apos;s Situ Panchen Lectures</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/05/rubins-situ-panchen-lectures.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/05/rubins-situ-panchen-lectures.html</ClickUrl>
     </Result>
     <Result>
-        <Title>雷神信仰の変遷 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E9%9B%B7%E7%A5%9E%E4%BF%A1%E4%BB%B0%E3%81%AE%E5%A4%89%E9%81%B7&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%9B%B7%E7%A5%9E%E4%BF%A1%E4%BB%B0%E3%81%AE%E5%A4%89%E9%81%B7&amp;action=search</ClickUrl>
+        <Title>Tibeto-logic: A Prayer for the Happiness of Tibet</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/06/prayer-for-happiness-of-tibet.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/06/prayer-for-happiness-of-tibet.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: Free Losar E-card Advice for the Iron Tiger Year</Title>
+        <Url>http://tibeto-logic.blogspot.com/2010/02/free-losar-e-card-for-iron-tiger-year.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2010/02/free-losar-e-card-for-iron-tiger-year.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: Buddha&apos;s Life Relics Found in Antwerp</Title>
+        <Url>http://tibeto-logic.blogspot.com/2010/01/buddhas-life-relics-found-in-antwerp.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2010/01/buddhas-life-relics-found-in-antwerp.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: April 2009</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009_04_01_archive.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009_04_01_archive.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Minpaku Repository: Economies and Personhood: Demand Sharing ...</Title>
+        <Url>http://hdl.handle.net/10502/915</Url>
+        <ClickUrl>http://hdl.handle.net/10502/915</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Minpaku Repository: Split Ergative Patterns in Transitive and ...</Title>
+        <Url>http://hdl.handle.net/10502/768</Url>
+        <ClickUrl>http://hdl.handle.net/10502/768</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Minpaku Repository: Logros y azares de la cristianización ...</Title>
+        <Url>http://hdl.handle.net/10502/1215</Url>
+        <ClickUrl>http://hdl.handle.net/10502/1215</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Minpaku Repository: LIVING ON THE PERIPHERY; Development and ...</Title>
+        <Url>http://hdl.handle.net/10502/2061</Url>
+        <ClickUrl>http://hdl.handle.net/10502/2061</ClickUrl>
+    </Result>
+    <Result>
+        <Title>sarod: Definition from Answers.com</Title>
+        <Url>http://www.answers.com/topic/sarod</Url>
+        <ClickUrl>http://www.answers.com/topic/sarod</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Bön - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/?title=B%C3%B6n</Url>
+        <ClickUrl>http://en.wikipedia.org/?title=B%C3%B6n</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: February 2008</Title>
+        <Url>http://tibeto-logic.blogspot.com/2008_02_01_archive.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2008_02_01_archive.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: May 2008</Title>
+        <Url>http://tibeto-logic.blogspot.com/2008_05_01_archive.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2008_05_01_archive.html</ClickUrl>
     </Result>
     <Result>
         <Title>National Museum of Ethnology, Japan: Academic Staff</Title>
@@ -237,9 +202,34 @@
         <ClickUrl>http://www.minpaku.ac.jp/english/staff/ikeya/</ClickUrl>
     </Result>
     <Result>
+        <Title>Tibeto-logic: A New Clue</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/08/new-clue.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/08/new-clue.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: Bell Envy</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/06/bell-envy.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/06/bell-envy.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: Losar eCard</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/01/losar-ecard.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/01/losar-ecard.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: Take the Cursive Test</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/12/take-cursive-test.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/12/take-cursive-test.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>Tibeto-logic: The Monkey &amp;amp; the Croc / Turtle</Title>
         <Url>http://tibeto-logic.blogspot.com/2009/08/monkey-croc-turtle.html</Url>
         <ClickUrl>http://tibeto-logic.blogspot.com/2009/08/monkey-croc-turtle.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: Yaks, a Few Useful Bits</Title>
+        <Url>http://tibeto-logic.blogspot.com/2008/03/yaks-few-useful-bits.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2008/03/yaks-few-useful-bits.html</ClickUrl>
     </Result>
     <Result>
         <Title>Tibeto-logic: Swat&apos;s Good Feng-shui</Title>
@@ -247,15 +237,25 @@
         <ClickUrl>http://tibeto-logic.blogspot.com/2009/10/swats-good-feng-shui.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: Who Was That White Lama?</Title>
-        <Url>http://tibeto-logic.blogspot.com/2007/03/who-was-that-white-lama.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2007/03/who-was-that-white-lama.html</ClickUrl>
+        <Title>Tibeto-logic: Lobsang Rampa Good to Think?</Title>
+        <Url>http://tibeto-logic.blogspot.com/2007/02/lobsang-rampa-good-to-think.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2007/02/lobsang-rampa-good-to-think.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Tibeto-logic: The Paw This Time</Title>
-        <Url>http://tibeto-logic.blogspot.com/2009/08/paw-this-time-3rd-episode.html</Url>
-        <ClickUrl>http://tibeto-logic.blogspot.com/2009/08/paw-this-time-3rd-episode.html</ClickUrl>
+        <Title>Tibeto-logic: Transmigration and Occupation</Title>
+        <Url>http://tibeto-logic.blogspot.com/2007/03/transmigration-and-occupation.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2007/03/transmigration-and-occupation.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: Bon Bibliography Downloadable</Title>
+        <Url>http://tibeto-logic.blogspot.com/2009/11/bon-bibliography-downloadable.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2009/11/bon-bibliography-downloadable.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Tibeto-logic: The Innermost Treasury and Zhangzhung Language</Title>
+        <Url>http://tibeto-logic.blogspot.com/2010/04/innermost-treasury-and-zhangzhung.html</Url>
+        <ClickUrl>http://tibeto-logic.blogspot.com/2010/04/innermost-treasury-and-zhangzhung.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:56 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:56 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:00 PDT 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:00 PDT 2010 -->

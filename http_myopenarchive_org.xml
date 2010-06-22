@@ -3,28 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="3371"
+    totalResultsAvailable="3883"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>To broaden awareness and understanding of Open Access — Open ...</Title>
-        <Url>http://www.openaccessweek.org/</Url>
-        <ClickUrl>http://www.openaccessweek.org/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>About OA week — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/about-the-week/</Url>
-        <ClickUrl>http://www.openaccessweek.org/about-the-week/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>My Open Archive (MyOpenArchive) on Twitter</Title>
-        <Url>http://twitter.com/MyOpenArchive</Url>
-        <ClickUrl>http://twitter.com/MyOpenArchive</ClickUrl>
-    </Result>
-    <Result>
-        <Title>About the OA movement — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/about-the-oa-movement/</Url>
-        <ClickUrl>http://www.openaccessweek.org/about-the-oa-movement/</ClickUrl>
+        <Title>Import citations into your digital library using the Mendeley ...</Title>
+        <Url>http://www.mendeley.com/import/</Url>
+        <ClickUrl>http://www.mendeley.com/import/</ClickUrl>
     </Result>
     <Result>
         <Title>My Open Archive</Title>
@@ -32,64 +17,44 @@
         <ClickUrl>http://www.myopenarchive.org/</ClickUrl>
     </Result>
     <Result>
+        <Title>COAR - Confederation of Open Access Repositories</Title>
+        <Url>http://coar-repositories.org/</Url>
+        <ClickUrl>http://coar-repositories.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Twitter研究会公式サイト</Title>
+        <Url>http://homepage3.nifty.com/toremoro/study/twitterconf.html</Url>
+        <ClickUrl>http://homepage3.nifty.com/toremoro/study/twitterconf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>かたつむりは電子図書館の夢をみるか</Title>
+        <Url>http://d.hatena.ne.jp/min2-fly/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/min2-fly/</ClickUrl>
+    </Result>
+    <Result>
         <Title>教育フォルダ</Title>
         <Url>http://www.na.rim.or.jp/~rin/edu/</Url>
         <ClickUrl>http://www.na.rim.or.jp/~rin/edu/</ClickUrl>
     </Result>
     <Result>
-        <Title>Downloadable resources - English — Open Access Week - October ...</Title>
-        <Url>http://www.openaccessweek.org/downloadable-resources-english/</Url>
-        <ClickUrl>http://www.openaccessweek.org/downloadable-resources-english/</ClickUrl>
+        <Title>研究論文管理ツールを提供するMendeley、アーリーステー&lt;wbr&gt;ジで$2Mの資金を調達</Title>
+        <Url>http://jp.techcrunch.com/archives/20090225mendeley-snags-2-million-in-early-stage-funding-for-research-paper-management-tool/</Url>
+        <ClickUrl>http://jp.techcrunch.com/archives/20090225mendeley-snags-2-million-in-early-stage-funding-for-research-paper-management-tool/</ClickUrl>
     </Result>
     <Result>
-        <Title>Mobile Libraries: arXiview: arXiv For The iPhone</Title>
-        <Url>http://mobile-libraries.blogspot.com/2009/04/arxiview-arxiv-for-iphone.html</Url>
-        <ClickUrl>http://mobile-libraries.blogspot.com/2009/04/arxiview-arxiv-for-iphone.html</ClickUrl>
+        <Title>My Open Archive (MyOpenArchive) on Twitter</Title>
+        <Url>http://twitter.com/MyOpenArchive</Url>
+        <ClickUrl>http://twitter.com/MyOpenArchive</ClickUrl>
     </Result>
     <Result>
-        <Title>satzz online beta</Title>
-        <Url>http://d.hatena.ne.jp/satzz/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/satzz/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>List of participants — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/list-of-participants-growing-daily/</Url>
-        <ClickUrl>http://www.openaccessweek.org/list-of-participants-growing-daily/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Downloadable resources - International — Open Access Week ...</Title>
-        <Url>http://www.openaccessweek.org/downloadable-resources-international/</Url>
-        <ClickUrl>http://www.openaccessweek.org/downloadable-resources-international/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Keita Bando - LinkedIn</Title>
+        <Title>Keita Bando - Japan | LinkedIn</Title>
         <Url>http://jp.linkedin.com/in/keitabando</Url>
         <ClickUrl>http://jp.linkedin.com/in/keitabando</ClickUrl>
     </Result>
     <Result>
-        <Title>坂東慶太のブログ</Title>
-        <Url>http://d.hatena.ne.jp/keitabando/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/keitabando/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国際学術情報流通基盤整備事業 イベント情報 SPARC Japanセミナー【Open Access Day特別セミナー ...</Title>
-        <Url>http://www.nii.ac.jp/sparc/event/2008/20081014.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/sparc/event/2008/20081014.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>YouTube - SPARC Japan セミナー2008 【Open Access Day 特別セミナー】坂東慶太1/3</Title>
-        <Url>http://www.youtube.com/watch?v=lOgkiVlpIsw</Url>
-        <ClickUrl>http://www.youtube.com/watch?v=lOgkiVlpIsw</ClickUrl>
-    </Result>
-    <Result>
-        <Title>The Alliance of German Science Organisations and open-access ...</Title>
-        <Url>http://www.openaccessweek.org/2009/07/08/open_access_week_in_germany/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/07/08/open_access_week_in_germany/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>California Academy Sciences&apos; Exhibit &quot;Science in Action ...</Title>
-        <Url>http://www.openaccessweek.org/2009/10/26/california-academy-sciences-science-in-action-exhibit-open-access-and-medical-research/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/10/26/california-academy-sciences-science-in-action-exhibit-open-access-and-medical-research/</ClickUrl>
+        <Title>Spectrum &amp;gt; Mobile Learning, Libraries, And Technologies ...</Title>
+        <Url>http://mobile-libraries.blogspot.com/2009/04/arxiview-arxiv-for-iphone.html</Url>
+        <ClickUrl>http://mobile-libraries.blogspot.com/2009/04/arxiview-arxiv-for-iphone.html</ClickUrl>
     </Result>
     <Result>
         <Title>Twitter研究会のプレゼン資料を公開します。&lt;wbr&gt;: Tomo&apos;s HotLine</Title>
@@ -97,54 +62,9 @@
         <ClickUrl>http://toremoro.tea-nifty.com/tomos_hotline/2009/12/twitter-f3f1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Event in a box — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/event-in-a-box/</Url>
-        <ClickUrl>http://www.openaccessweek.org/event-in-a-box/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>bytesforall_readers : Message: FROM JAPAN: &quot;Open access, self ...</Title>
-        <Url>http://tech.groups.yahoo.com/group/bytesforall_readers/message/13328</Url>
-        <ClickUrl>http://tech.groups.yahoo.com/group/bytesforall_readers/message/13328</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Netherland OA Week Activities — Open Access Week - October 19 ...</Title>
-        <Url>http://www.openaccessweek.org/2009/10/05/netherland-oa-week-activities/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/10/05/netherland-oa-week-activities/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>100th Open Access Mandate Reached! — Open Access Week ...</Title>
-        <Url>http://www.openaccessweek.org/2009/10/19/100th-open-access-mandate-reached/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/10/19/100th-open-access-mandate-reached/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>New social tagging project for real time OA developments ...</Title>
-        <Url>http://www.openaccessweek.org/2009/05/04/new-social-tagging-project-for-real-time-oa-developments/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/05/04/new-social-tagging-project-for-real-time-oa-developments/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Week日本語版サイト、開設|STI Updates|情報管理Web</Title>
-        <Url>http://johokanri.jp/stiupdates/education/2009/07/003375.html</Url>
-        <ClickUrl>http://johokanri.jp/stiupdates/education/2009/07/003375.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>未発表の学術論文を投稿・共有する「My Open Archive」、正式サービス開始 - japan.internet ...</Title>
-        <Url>http://japan.internet.com/linuxtoday/20080516/5.html</Url>
-        <ClickUrl>http://japan.internet.com/linuxtoday/20080516/5.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>毎日新聞(3月22日)の科学面記事「学術論文のオープンアクセ&lt;wbr&gt;ス」にMy Open Archiveについて言及して頂きました ...</Title>
-        <Url>http://d.hatena.ne.jp/keitabando/20090322/1237680077</Url>
-        <ClickUrl>http://d.hatena.ne.jp/keitabando/20090322/1237680077</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Day at University Corporation for Atmospheric ...</Title>
-        <Url>http://www.openaccessweek.org/2009/10/06/open-access-day-at-university-corporation-for-atmospheric-research-ucar-october-22/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/10/06/open-access-day-at-university-corporation-for-atmospheric-research-ucar-october-22/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>生活環境化学の部屋(新潟県立大版・県短版)</Title>
-        <Url>http://www.ecosci.jp/student/</Url>
-        <ClickUrl>http://www.ecosci.jp/student/</ClickUrl>
+        <Title>satzz online beta</Title>
+        <Url>http://d.hatena.ne.jp/satzz/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/satzz/</ClickUrl>
     </Result>
     <Result>
         <Title>YouTube - SPARC Japan セミナー2008 【Open Access Day 特別セミナー】坂東慶太2/3</Title>
@@ -152,74 +72,39 @@
         <ClickUrl>http://www.youtube.com/watch?v=547W-QPy7As</ClickUrl>
     </Result>
     <Result>
-        <Title>未発表学術論文の投稿・共有サイト、発進|STI Updates|情報管理Web</Title>
-        <Url>http://johokanri.jp/news/?p=454</Url>
-        <ClickUrl>http://johokanri.jp/news/?p=454</ClickUrl>
+        <Title>YouTube - SPARC Japan セミナー2008 【Open Access Day 特別セミナー】坂東慶太1/3</Title>
+        <Url>http://www.youtube.com/watch?v=lOgkiVlpIsw</Url>
+        <ClickUrl>http://www.youtube.com/watch?v=lOgkiVlpIsw</ClickUrl>
     </Result>
     <Result>
-        <Title>生活環境化学の部屋(新潟県立大版・県短版)</Title>
-        <Url>http://www2d.biglobe.ne.jp/~chem_env/student/</Url>
-        <ClickUrl>http://www2d.biglobe.ne.jp/~chem_env/student/</ClickUrl>
+        <Title>国際学術情報流通基盤整備事業 イベント情報 SPARC Japanセミナー【Open Access Day特別セミナー ...</Title>
+        <Url>http://www.nii.ac.jp/sparc/event/2008/20081014.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/sparc/event/2008/20081014.html</ClickUrl>
     </Result>
     <Result>
-        <Title>バイオ関連トピックス</Title>
-        <Url>http://www2d.biglobe.ne.jp/~chem_env/pdb/BioTopics.html</Url>
-        <ClickUrl>http://www2d.biglobe.ne.jp/~chem_env/pdb/BioTopics.html</ClickUrl>
+        <Title>Open Access Week日本語版サイト、開設|STI Updates|情報管理Web</Title>
+        <Url>http://johokanri.jp/stiupdates/education/2009/07/003375.html</Url>
+        <ClickUrl>http://johokanri.jp/stiupdates/education/2009/07/003375.html</ClickUrl>
     </Result>
     <Result>
-        <Title>講義の軌跡/2008年度版</Title>
-        <Url>http://www2d.biglobe.ne.jp/~chem_env/kougi/locus2008.html</Url>
-        <ClickUrl>http://www2d.biglobe.ne.jp/~chem_env/kougi/locus2008.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>オープンアクセスの認識と理解を広げるために — オープンアクセス週間 – 2009年10月19〜23日</Title>
+        <Title>2010年10月18〜24日 — オープンアクセス・ウィーク</Title>
         <Url>http://www.openaccessweek.jp/</Url>
         <ClickUrl>http://www.openaccessweek.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>OA Week in Japan — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/2009/07/07/oa-week-in-japan/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/07/07/oa-week-in-japan/</ClickUrl>
+        <Title>About OA week — Open Access Week - October 18-24, 2010</Title>
+        <Url>http://www.openaccessweek.org/about-the-week</Url>
+        <ClickUrl>http://www.openaccessweek.org/about-the-week</ClickUrl>
     </Result>
     <Result>
-        <Title>OA Week Events in Japan — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/2009/09/29/oa-week-events-in-japan/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/09/29/oa-week-events-in-japan/</ClickUrl>
+        <Title>吉田光男 (YOSHIDA Mitsuo) - 自然言語処理グループ</Title>
+        <Url>http://www.mibel.cs.tsukuba.ac.jp/~ceekz/</Url>
+        <ClickUrl>http://www.mibel.cs.tsukuba.ac.jp/~ceekz/</ClickUrl>
     </Result>
     <Result>
-        <Title>Yale ISP Celebrates Open Access Week with New Research — Open ...</Title>
-        <Url>http://www.openaccessweek.org/2009/10/23/yale-isp-celebrates-open-access-week-with-new-research/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/10/23/yale-isp-celebrates-open-access-week-with-new-research/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Week - the Challenge From the Wellcome Trust ...</Title>
-        <Url>http://www.openaccessweek.org/2009/10/26/open-access-week-the-challenge-from-the-wellcome-trust/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/10/26/open-access-week-the-challenge-from-the-wellcome-trust/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Trinity University is First Small, Liberal Arts University to ...</Title>
-        <Url>http://www.openaccessweek.org/2009/10/26/trinity-university-is-first-small-liberal-arts-university-to-endorse-open-access-for-sharing-scholarly-work/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/10/26/trinity-university-is-first-small-liberal-arts-university-to-endorse-open-access-for-sharing-scholarly-work/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>£2 million more for Wellcome Trust author fund — Open Access ...</Title>
-        <Url>http://www.openaccessweek.org/2009/10/20/2-million-more-for-wellcome-trust-author-fund/</Url>
-        <ClickUrl>http://www.openaccessweek.org/2009/10/20/2-million-more-for-wellcome-trust-author-fund/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>My Open ArchiveにもTwitterのwidgetを貼ってみまし&lt;wbr&gt;た。それはそれとして、大学や図書館で ...</Title>
-        <Url>http://d.hatena.ne.jp/keitabando/20090605/1244152583</Url>
-        <ClickUrl>http://d.hatena.ne.jp/keitabando/20090605/1244152583</ClickUrl>
-    </Result>
-    <Result>
-        <Title>未発表学術論文投稿サイトが OpenID に対応 - japan.internet.com Webビジネス</Title>
-        <Url>http://japan.internet.com/busnews/20080605/1.html</Url>
-        <ClickUrl>http://japan.internet.com/busnews/20080605/1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>サイエンス・コモンズ紹介ビデオをCCLに基づいて翻訳して頂い&lt;wbr&gt;たのでご紹介 - 坂東慶太のブログ</Title>
-        <Url>http://d.hatena.ne.jp/keitabando/20081216/1229399729</Url>
-        <ClickUrl>http://d.hatena.ne.jp/keitabando/20081216/1229399729</ClickUrl>
+        <Title>未発表の学術論文を投稿・共有する「My Open Archive」、正式サービス開始 - japan.internet ...</Title>
+        <Url>http://japan.internet.com/linuxtoday/20080516/5.html</Url>
+        <ClickUrl>http://japan.internet.com/linuxtoday/20080516/5.html</ClickUrl>
     </Result>
     <Result>
         <Title>Open Access Week 2009 セミナー「Open Access &quot;Friday &amp;amp; Night&quot; 2009 ...</Title>
@@ -227,9 +112,9 @@
         <ClickUrl>http://www.openaccessweek.jp/2009/09/24/267/</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access &quot;Friday &amp;amp; Night (+ Shinya)&quot; 2009の様子が分かるフォトギャラリー公開 ...</Title>
-        <Url>http://www.openaccessweek.jp/2009/10/28/341/</Url>
-        <ClickUrl>http://www.openaccessweek.jp/2009/10/28/341/</ClickUrl>
+        <Title>学位論文のサマリーを公開して社会還元をするのはいかが&lt;wbr&gt;? - 発声練習</Title>
+        <Url>http://d.hatena.ne.jp/next49/20100111/p3</Url>
+        <ClickUrl>http://d.hatena.ne.jp/next49/20100111/p3</ClickUrl>
     </Result>
     <Result>
         <Title>YouTube - SPARC Japan セミナー2008 【Open Access Day 特別セミナー】坂東慶太3/3</Title>
@@ -237,25 +122,140 @@
         <ClickUrl>http://www.youtube.com/watch?v=NC-FDSzyXAs</ClickUrl>
     </Result>
     <Result>
-        <Title>Sample program tracks — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/sample-program-tracks/</Url>
-        <ClickUrl>http://www.openaccessweek.org/sample-program-tracks/</ClickUrl>
+        <Title>About the OA movement — Open Access Week - October 18-24, 2010</Title>
+        <Url>http://www.openaccessweek.org/about-the-oa-movement</Url>
+        <ClickUrl>http://www.openaccessweek.org/about-the-oa-movement</ClickUrl>
     </Result>
     <Result>
-        <Title>西洋史マガジンですと!?がんばって! - 発声練習</Title>
-        <Url>http://d.hatena.ne.jp/next49/20091203/p3</Url>
-        <ClickUrl>http://d.hatena.ne.jp/next49/20091203/p3</ClickUrl>
+        <Title>まさおのChangeLogメモ / 2008-01</Title>
+        <Url>http://masao.jpn.org/d/2008-01.html</Url>
+        <ClickUrl>http://masao.jpn.org/d/2008-01.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Day — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/tag/open-access-day/</Url>
-        <ClickUrl>http://www.openaccessweek.org/tag/open-access-day/</ClickUrl>
+        <Title>Library Resources - World University</Title>
+        <Url>http://worlduniversity.wikia.com/wiki/Library_Resources</Url>
+        <ClickUrl>http://worlduniversity.wikia.com/wiki/Library_Resources</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Week — Open Access Week - October 19-23, 2009</Title>
-        <Url>http://www.openaccessweek.org/category/open-access-week/</Url>
-        <ClickUrl>http://www.openaccessweek.org/category/open-access-week/</ClickUrl>
+        <Title>MENCERDASKAN BANGSA – AN INQUIRY INTO THE PHENOMENON OF TAMAN</Title>
+        <Url>http://www.myopenarchive.org/documents/download_pdf/119</Url>
+        <ClickUrl>http://www.myopenarchive.org/documents/download_pdf/119</ClickUrl>
+    </Result>
+    <Result>
+        <Title>生活環境化学の部屋(新潟県立大版)</Title>
+        <Url>http://www.ecosci.jp/student/</Url>
+        <ClickUrl>http://www.ecosci.jp/student/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>&quot; 12/5のtwitter研究会で話しました! 「twitterとbot」 &quot; 騒がしい未来 &quot; Blog Archive</Title>
+        <Url>http://takasumasakazu.net/2009/12/twitterconf/</Url>
+        <ClickUrl>http://takasumasakazu.net/2009/12/twitterconf/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - yutakafukui&apos;s bookmarks</Title>
+        <Url>http://b.hatena.ne.jp/yfukui/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/yfukui/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Upload by MyOpenArchive</Title>
+        <Url>http://www.myopenarchive.org/documents/view/440</Url>
+        <ClickUrl>http://www.myopenarchive.org/documents/view/440</ClickUrl>
+    </Result>
+    <Result>
+        <Title>未発表学術論文投稿サイトが OpenID に対応 - japan.internet.com Webビジネス</Title>
+        <Url>http://japan.internet.com/busnews/20080605/1.html</Url>
+        <ClickUrl>http://japan.internet.com/busnews/20080605/1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Workshop of Application of Repository Infrastructure for ...</Title>
+        <Url>http://d.hatena.ne.jp/min2-fly/20090908/1252363212</Url>
+        <ClickUrl>http://d.hatena.ne.jp/min2-fly/20090908/1252363212</ClickUrl>
+    </Result>
+    <Result>
+        <Title>情報探索デスク</Title>
+        <Url>http://www.fitweb.or.jp/~taka/resdesk.html</Url>
+        <ClickUrl>http://www.fitweb.or.jp/~taka/resdesk.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>My Open ArchiveにもTwitterのwidgetを貼ってみまし&lt;wbr&gt;た。それはそれとして、大学や図書館で ...</Title>
+        <Url>http://d.hatena.ne.jp/keitabando/20090605/1244152583</Url>
+        <ClickUrl>http://d.hatena.ne.jp/keitabando/20090605/1244152583</ClickUrl>
+    </Result>
+    <Result>
+        <Title>秋元@サイボウズラボ・プログラマー・ブログ: オープン・ウェブ・アウォード開催 - ソーシャルサービスの推薦求む</Title>
+        <Url>http://labs.cybozu.co.jp/blog/akky/archives/2007/11/open-web-awards-2007.html</Url>
+        <ClickUrl>http://labs.cybozu.co.jp/blog/akky/archives/2007/11/open-web-awards-2007.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>インド・ムンバイと名古屋、カクタスコミュニケーションズとMy&lt;wbr&gt; Open Archive、交友を深めるお食事会してきました ...</Title>
+        <Url>http://d.hatena.ne.jp/keitabando/20091125/1259098381</Url>
+        <ClickUrl>http://d.hatena.ne.jp/keitabando/20091125/1259098381</ClickUrl>
+    </Result>
+    <Result>
+        <Title>毎日新聞(3月22日)の科学面記事「学術論文のオープンアクセ&lt;wbr&gt;ス」にMy Open Archiveについて言及して頂きました ...</Title>
+        <Url>http://d.hatena.ne.jp/keitabando/20090322/1237680077</Url>
+        <ClickUrl>http://d.hatena.ne.jp/keitabando/20090322/1237680077</ClickUrl>
+    </Result>
+    <Result>
+        <Title>About OA week — Open Access Week - October 18-24, 2010</Title>
+        <Url>http://www.openaccessweek.org/about-the-%20week/</Url>
+        <ClickUrl>http://www.openaccessweek.org/about-the-%20week/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>VoIP by Association, Ex: DIDX and the Marathon Race: June 2009</Title>
+        <Url>http://suzanne.supertec.com/2009_06_01_archive.html</Url>
+        <ClickUrl>http://suzanne.supertec.com/2009_06_01_archive.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>AUBG Library</Title>
+        <Url>http://www.aubg.bg/library/openaccess2009.htm</Url>
+        <ClickUrl>http://www.aubg.bg/library/openaccess2009.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Keita Bando - Managing Director, My Open Archive | Mendeley</Title>
+        <Url>http://www.mendeley.com/profiles/keita-bando/</Url>
+        <ClickUrl>http://www.mendeley.com/profiles/keita-bando/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ceekz::Hatena::Diary</Title>
+        <Url>http://d.hatena.ne.jp/ceekz/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/ceekz/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>I&apos;ll</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/ircuresill/</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/ircuresill/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>バイオ関連トピックス</Title>
+        <Url>http://www.ecosci.jp/pdb/BioTopics.html</Url>
+        <ClickUrl>http://www.ecosci.jp/pdb/BioTopics.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>VoIP by Association, Ex: DIDX and the Marathon Race: Open ...</Title>
+        <Url>http://suzanne.supertec.com/2009/06/open-access-self-archiving-academic.html</Url>
+        <ClickUrl>http://suzanne.supertec.com/2009/06/open-access-self-archiving-academic.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>卒業論文、修士論文の公開について。指導教員と相談してね&lt;wbr&gt;! - 発声練習</Title>
+        <Url>http://d.hatena.ne.jp/next49/20080809/p1</Url>
+        <ClickUrl>http://d.hatena.ne.jp/next49/20080809/p1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>My Open Archive | 宣伝PR ツールとして利用法@『早稲田祭2009』</Title>
+        <Url>http://www.myopenarchive.org/documents/view/437</Url>
+        <ClickUrl>http://www.myopenarchive.org/documents/view/437</ClickUrl>
+    </Result>
+    <Result>
+        <Title>オープンアクセスの日もオープンアクセスな夜も大成功 - 坂東慶太のブログ</Title>
+        <Url>http://d.hatena.ne.jp/keitabando/20081015/1224079498</Url>
+        <ClickUrl>http://d.hatena.ne.jp/keitabando/20081015/1224079498</ClickUrl>
+    </Result>
+    <Result>
+        <Title>サイエンス・コモンズ紹介ビデオをCCLに基づいて翻訳して頂い&lt;wbr&gt;たのでご紹介 - 坂東慶太のブログ</Title>
+        <Url>http://d.hatena.ne.jp/keitabando/20081216/1229399729</Url>
+        <ClickUrl>http://d.hatena.ne.jp/keitabando/20081216/1229399729</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:18 PST 2010 -->
-<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:18 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:35 PDT 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:34 PDT 2010 -->

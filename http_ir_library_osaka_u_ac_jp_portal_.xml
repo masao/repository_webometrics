@@ -3,18 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2601"
+    totalResultsAvailable="2908"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>Osaka University Library</Title>
+        <Title>大阪大学附属図書館</Title>
         <Url>http://www.library.osaka-u.ac.jp/</Url>
         <ClickUrl>http://www.library.osaka-u.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -22,9 +17,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>大阪大学東洋史学研究室</Title>
@@ -37,19 +32,14 @@
         <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/sial/index-j.html</ClickUrl>
     </Result>
     <Result>
+        <Title>大阪大学理工学図書館</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Portal:歴史学 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>インドアでインド ― Armchair Indologist ―</Title>
-        <Url>http://rivertop.exblog.jp/</Url>
-        <ClickUrl>http://rivertop.exblog.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
         <Title>中央ユーラシア学研究会・中央アジア学フォーラム</Title>
@@ -57,14 +47,19 @@
         <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/caf/caf-j.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Osaka University Main Library</Title>
+        <Url>http://www.library.osaka-u.ac.jp/guide/honkan.htm</Url>
+        <ClickUrl>http://www.library.osaka-u.ac.jp/guide/honkan.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
         <Title>アジア学関連WWWページ集</Title>
         <Url>http://www.let.osaka-u.ac.jp/toyosi/main/asianlink.html</Url>
         <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/main/asianlink.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大阪大学理工学図書館</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
@@ -72,169 +67,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka University Main Library</Title>
-        <Url>http://www.library.osaka-u.ac.jp/guide/honkan.htm</Url>
-        <ClickUrl>http://www.library.osaka-u.ac.jp/guide/honkan.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>リンク集 デジタル奈良絵本</Title>
-        <Url>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</Url>
-        <ClickUrl>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>卒業論文、修士論文の公開について。指導教員と相談してね&lt;wbr&gt;! - 発声練習</Title>
-        <Url>http://d.hatena.ne.jp/next49/20080809/p1</Url>
-        <ClickUrl>http://d.hatena.ne.jp/next49/20080809/p1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Osaka University Library E-Journals</Title>
-        <Url>http://www.library.osaka-u.ac.jp/others/zassi-1.htm</Url>
-        <ClickUrl>http://www.library.osaka-u.ac.jp/others/zassi-1.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - ncnrのブックマーク</Title>
-        <Url>http://b.hatena.ne.jp/ncnr/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/ncnr/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Alloy Phase Diagrams 検索システムの利用方法</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/db_alloyguide.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/db_alloyguide.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>理工学図書館へのアクセス</Title>
         <Url>http://suita.library.osaka-u.ac.jp/intro_access.html</Url>
         <ClickUrl>http://suita.library.osaka-u.ac.jp/intro_access.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>理工学図書館の耐震・改修工事に関するお知らせ</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/construction08_09.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/construction08_09.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Osaka University Knowledge Archive</Title>
-        <Url>http://www.library.osaka-u.ac.jp/others/ouir/ouiridx.htm</Url>
-        <ClickUrl>http://www.library.osaka-u.ac.jp/others/ouir/ouiridx.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories: Osaka University</Title>
-        <Url>http://www.opendoar.org/find.php?search=Osaka+University&amp;title=Osaka+University</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=Osaka+University&amp;title=Osaka+University</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Osaka University Repository</Title>
-        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Osaka+University+Repository&amp;title=SUPPRESS</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Osaka+University+Repository&amp;title=SUPPRESS</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学学術情報リポジトリの愛称募集</Title>
-        <Url>http://repository.kulib.kyoto-u.ac.jp/koubo/</Url>
-        <ClickUrl>http://repository.kulib.kyoto-u.ac.jp/koubo/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>工学部学科図書室・関連研究所の利用案内</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/lib_gse.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/lib_gse.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Portal:歴史学 - はなもく Wikipedia</Title>
-        <Url>http://www.hanamoku.jp/wikipedia/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
-        <ClickUrl>http://www.hanamoku.jp/wikipedia/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>とりあえず20のIR Search Engine</Title>
-        <Url>http://rollyo.com/asoshina/aaaaaieieair/</Url>
-        <ClickUrl>http://rollyo.com/asoshina/aaaaaieieair/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>土木のデータ</Title>
-        <Url>http://homepage2.nifty.com/uyan/sub-index/data.html</Url>
-        <ClickUrl>http://homepage2.nifty.com/uyan/sub-index/data.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
-        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
-        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 平成18年度組登場</Title>
-        <Url>http://www.openaccessjapan.com/archives/2007/02/18_1.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2007/02/18_1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_81.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_81.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IESR Full Record</Title>
-        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310593-5547</Url>
-        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1219310593-5547</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大阪大学中国文化フォーラム</Title>
-        <Url>http://www.law.osaka-u.ac.jp/~c-forum/</Url>
-        <ClickUrl>http://www.law.osaka-u.ac.jp/~c-forum/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>機関リポジトリ参考リンク集</Title>
-        <Url>http://www.lib.tottori-u.ac.jp/irp_link.htm</Url>
-        <ClickUrl>http://www.lib.tottori-u.ac.jp/irp_link.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>理工学図書館開館カレンダー Library Calendar</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/schedule.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/schedule.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>蔵書検索</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/opac_top.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/opac_top.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>卒業生・学外の方へのご案内</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/guide_outside.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/guide_outside.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>貸出ランキング</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/intro_ranking.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/intro_ranking.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>館内資料の利用方法</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/guide_material.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/guide_material.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>館内設備の案内</Title>
-        <Url>http://suita.library.osaka-u.ac.jp/intro_facility.html</Url>
-        <ClickUrl>http://suita.library.osaka-u.ac.jp/intro_facility.html</ClickUrl>
     </Result>
     <Result>
         <Title>貸出・返却</Title>
@@ -242,20 +77,185 @@
         <ClickUrl>http://suita.library.osaka-u.ac.jp/guide_circulation.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Portal:歴史学 - 韓国辞書、ウィキペディア</Title>
-        <Url>http://wiki.wowkorea.jp/?word=Portal%3A%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
-        <ClickUrl>http://wiki.wowkorea.jp/?word=Portal%3A%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+        <Title>卒業論文、修士論文の公開について。指導教員と相談してね&lt;wbr&gt;! - 発声練習</Title>
+        <Url>http://d.hatena.ne.jp/next49/20080809/p1</Url>
+        <ClickUrl>http://d.hatena.ne.jp/next49/20080809/p1</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | CT Detected Radiation Damage of the Liver and Pancreas</Title>
-        <Url>http://jairo.nii.ac.jp/0030/00010639</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0030/00010639</ClickUrl>
+        <Title>リンク集 デジタル奈良絵本</Title>
+        <Url>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</Url>
+        <ClickUrl>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | The Keynesian Multiplier Effect Reconsidered</Title>
-        <Url>http://jairo.nii.ac.jp/0030/00010653</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0030/00010653</ClickUrl>
+        <Title>Osaka University Library E-Journals</Title>
+        <Url>http://www.library.osaka-u.ac.jp/others/zassi-1.htm</Url>
+        <ClickUrl>http://www.library.osaka-u.ac.jp/others/zassi-1.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
+        <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - ncnrのブックマーク</Title>
+        <Url>http://b.hatena.ne.jp/ncnr/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/ncnr/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大阪大学中国文化フォーラム</Title>
+        <Url>http://www.law.osaka-u.ac.jp/~c-forum/</Url>
+        <ClickUrl>http://www.law.osaka-u.ac.jp/~c-forum/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>貸出ランキング</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/intro_ranking.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/intro_ranking.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大阪大学附属図書館/サイトマップ</Title>
+        <Url>http://www.library.osaka-u.ac.jp/guide/sitemap.htm</Url>
+        <ClickUrl>http://www.library.osaka-u.ac.jp/guide/sitemap.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>貸出ランキング</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/ranking/index.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/ranking/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>gakui</Title>
+        <Url>http://www.let.osaka-u.ac.jp/toyosi/main/gakui.html</Url>
+        <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/main/gakui.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Yahoo!カテゴリ - 全リスト</Title>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20060728/complete_listing/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20060728/complete_listing/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>4月からここが変わりました!</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/renewal.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/renewal.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>蔵書検索</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/opac_top.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/opac_top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Alloy Phase Diagrams 検索システムの利用方法</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/db_alloyguide.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/db_alloyguide.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>卒業生・学外の方へのご案内</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/guide_outside.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/guide_outside.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>館内設備のご案内</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/intro_facility.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/intro_facility.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>理工学図書館の耐震・改修工事に関するお知らせ</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/construction08_09.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/construction08_09.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>土木のデータ</Title>
+        <Url>http://homepage2.nifty.com/uyan/sub-index/data.html</Url>
+        <ClickUrl>http://homepage2.nifty.com/uyan/sub-index/data.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka University Knowledge Archive</Title>
+        <Url>http://wsv.library.osaka-u.ac.jp/others/ouir/ouiridx.htm</Url>
+        <ClickUrl>http://wsv.library.osaka-u.ac.jp/others/ouir/ouiridx.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>博士学位論文要旨 鈴木宏節「突厥可汗国の王権と展開」</Title>
+        <Url>http://www.let.osaka-u.ac.jp/toyosi/members/OB&amp;OG/suzuki-summary.html</Url>
+        <ClickUrl>http://www.let.osaka-u.ac.jp/toyosi/members/OB&amp;OG/suzuki-summary.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>インドアでインド ― Armchair Indologist ― : received</Title>
+        <Url>http://rivertop.exblog.jp/12089296/</Url>
+        <ClickUrl>http://rivertop.exblog.jp/12089296/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>機関リポジトリ Archive - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/cat6/</Url>
+        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>理工系資料の調べ方</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/link2.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/link2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教職員の方へ(よくあるQ&amp;amp;A)</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/staff.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/staff.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電子ブック</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/eb_top.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/eb_top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>データベース</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/db_top.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/db_top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電子ジャーナル</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/ej_top.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/ej_top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>工学部学科図書室・関連研究所の利用案内</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/lib_gse.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/lib_gse.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学外の方へ(よくあるQ&amp;amp;A)</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/outside.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/outside.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学生の方へ(よくあるQ&amp;amp;A)</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/student.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/student.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>パソコンの利用</Title>
+        <Url>http://suita.library.osaka-u.ac.jp/guide_pc.html</Url>
+        <ClickUrl>http://suita.library.osaka-u.ac.jp/guide_pc.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:30 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:30 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:52 PDT 2010 -->
+<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:52 PDT 2010 -->

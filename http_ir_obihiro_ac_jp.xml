@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2065"
+    totalResultsAvailable="2275"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,19 +17,14 @@
         <ClickUrl>http://celestial.eprints.org/</ClickUrl>
     </Result>
     <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -37,29 +32,24 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>帯広畜産大学附属図書館</Title>
         <Url>http://www.obihiro.ac.jp/~library/</Url>
         <ClickUrl>http://www.obihiro.ac.jp/~library/</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>犬猫の主要な病気リンク集</Title>
+        <Url>http://sanovet.blog.bbiq.jp/blog/</Url>
+        <ClickUrl>http://sanovet.blog.bbiq.jp/blog/</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
-        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>動物医療センター診療案内 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/facility/vhospital.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/facility/vhospital.html</ClickUrl>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
         <Title>受験生の皆様へ&amp;gt;目次 -帯広畜産大学-</Title>
@@ -67,49 +57,19 @@
         <ClickUrl>http://www.obihiro.ac.jp/nyusi/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>ちくだいを訪問される方へ -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/facility/map-index.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/facility/map-index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>教員一覧 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/ichiran/index-unit.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/ichiran/index-unit.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
         <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
-        <Title> -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/topic.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/topic.html</ClickUrl>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>地域の皆様へ -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/kouza/index.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/kouza/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>公募・採用情報 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/vacancy/index.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/vacancy/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Edit Archive Record</Title>
-        <Url>http://celestial.eprints.org/repository?repository=1038</Url>
-        <ClickUrl>http://celestial.eprints.org/repository?repository=1038</ClickUrl>
-    </Result>
-    <Result>
-        <Title>AWF - Australian Wagyu Forum</Title>
-        <Url>http://www.australianwagyuforum.com.au/Predicting%20Wagyu%20Performance.html</Url>
-        <ClickUrl>http://www.australianwagyuforum.com.au/Predicting%20Wagyu%20Performance.html</ClickUrl>
+        <Title>ちくだいを訪問される方へ -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/facility/map-index.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/facility/map-index.html</ClickUrl>
     </Result>
     <Result>
         <Title>Ussuri Brown Bear - Wikipedia, the free encyclopedia</Title>
@@ -117,44 +77,14 @@
         <ClickUrl>http://en.wikipedia.org/wiki/Ussuri_Brown_Bear</ClickUrl>
     </Result>
     <Result>
-        <Title>Research Publications 2008 : Faculty of Science, Mahidol ...</Title>
-        <Url>http://www.sc.mahidol.ac.th/research/pub2008.htm</Url>
-        <ClickUrl>http://www.sc.mahidol.ac.th/research/pub2008.htm</ClickUrl>
+        <Title>犬猫の主要な病気リンク集</Title>
+        <Url>http://sanovet.blog.bbiq.jp/</Url>
+        <ClickUrl>http://sanovet.blog.bbiq.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>非リンク eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/ref/%E9%9D%9E%E3%83%AA%E3%83%B3%E3%82%AF-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/ref/%E9%9D%9E%E3%83%AA%E3%83%B3%E3%82%AF-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>プロジェクト研究 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/project/index.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/project/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学科の講座・研究室 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/u-graduate/vm_apn.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/u-graduate/vm_apn.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>福田 健二 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/ichiran/fukuda_kenji.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/ichiran/fukuda_kenji.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学部教育 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/u-graduate/</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/u-graduate/</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>大学紹介ビデオ -帯広畜産大学-</Title>
@@ -162,84 +92,39 @@
         <ClickUrl>http://www.obihiro.ac.jp/kokai/dvd.html</ClickUrl>
     </Result>
     <Result>
-        <Title>運営組織図・機構図 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/daigaku/kikou.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/daigaku/kikou.html</ClickUrl>
+        <Title>動物医療センター診療案内 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/facility/vhospital.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/facility/vhospital.html</ClickUrl>
     </Result>
     <Result>
-        <Title>帯広畜産大学概要 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/daigaku/outline.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/daigaku/outline.html</ClickUrl>
+        <Title>公募・採用情報 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/vacancy/index.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/vacancy/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>アドバンス制教育課程 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/u-graduate/advance.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/u-graduate/advance.html</ClickUrl>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/)</Url>
+        <ClickUrl>http://celestial.eprints.org/)</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1038</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1038</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
+        <Title>Ranking Web of World Repositories: Top 400 Repositories</Title>
+        <Url>http://repositories.webometrics.info/top400_rep.asp?offset=200</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep.asp?offset=200</ClickUrl>
     </Result>
     <Result>
-        <Title>別科(草地畜産専修)教育について -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/2year/index.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/2year/index.html</ClickUrl>
+        <Title>AWF - Australian Wagyu Forum</Title>
+        <Url>http://www.australianwagyuforum.com.au/Predicting%20Wagyu%20Performance.html</Url>
+        <ClickUrl>http://www.australianwagyuforum.com.au/Predicting%20Wagyu%20Performance.html</ClickUrl>
     </Result>
     <Result>
-        <Title>受験生の皆さんへ -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/nyusi/under33.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/nyusi/under33.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大学の理念 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/daigaku/rinen.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/daigaku/rinen.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>科目等履修生の募集案内 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/kouza/kamoku.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/kouza/kamoku.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>構内案内図 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/facility/map.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/facility/map.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>帯広畜産大学 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/photo/prac-index.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/photo/prac-index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>動物医療センター -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/facility/hospital.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/facility/hospital.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>辻修 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/ichiran/tsuji_osamu.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/ichiran/tsuji_osamu.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>渡邊 芳之 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/ichiran/watanabe_yoshiyuki.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/ichiran/watanabe_yoshiyuki.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ジャガイモ、大豆の植え付け -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/photo/prac/potato/index.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/photo/prac/potato/index.html</ClickUrl>
+        <Title>商材 eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/%E5%95%86%E6%9D%90-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/%E5%95%86%E6%9D%90-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>口田研究室 ~牛肉評価の部屋~</Title>
@@ -247,15 +132,130 @@
         <ClickUrl>http://www.obihiro.ac.jp/~kuchida/</ClickUrl>
     </Result>
     <Result>
-        <Title>リンク集 -帯広畜産大学-</Title>
-        <Url>http://www.obihiro.ac.jp/link.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/link.html</ClickUrl>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教員一覧 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/ichiran/index-unit.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/ichiran/index-unit.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>渡邊 芳之 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/ichiran/watanabe_yoshiyuki.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/ichiran/watanabe_yoshiyuki.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>地域の皆様へ -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/kouza/index.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/kouza/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>平成21年度大学説明会(オープンキャンパス) -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/nyusi/open2009/index.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/nyusi/open2009/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>構内案内図 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/facility/map.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/facility/map.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>受験生の皆さんへ -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/nyusi/under33.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/nyusi/under33.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>動物医療センター -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/facility/hospital.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/facility/hospital.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title> -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/topic.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/topic.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>プロジェクト研究 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/project/index.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/project/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帯広畜産大学概要 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/daigaku/outline.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/daigaku/outline.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学科の講座・研究室 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/u-graduate/vm_apn.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/u-graduate/vm_apn.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>辻修 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/ichiran/tsuji_osamu.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/ichiran/tsuji_osamu.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>谷 昌幸 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/ichiran/tani_masayuki.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/ichiran/tani_masayuki.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>石井 利明 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/ichiran/ishii_toshiaki.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/ichiran/ishii_toshiaki.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>サイトマップ -帯広畜産大学-</Title>
         <Url>http://www.obihiro.ac.jp/sitemap.html</Url>
         <ClickUrl>http://www.obihiro.ac.jp/sitemap.html</ClickUrl>
     </Result>
+    <Result>
+        <Title>帯広畜産大学 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/inquiry.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/inquiry.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -tensile test-</Title>
+        <Url>http://seonum.com/rank/tensile+test.html</Url>
+        <ClickUrl>http://seonum.com/rank/tensile+test.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>就職指導・進路相談 -帯広畜産大学-</Title>
+        <Url>http://www.obihiro.ac.jp/current/job.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/current/job.html</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:09 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:09 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:26 PDT 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:26 PDT 2010 -->

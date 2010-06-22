@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="55"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>城西大学</Title>
+        <Url>http://www.josai.ac.jp/</Url>
+        <ClickUrl>http://www.josai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館</Title>
+        <Url>http://libopac.josai.ac.jp/</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学</Title>
+        <Url>https://www.josai.ac.jp/</Url>
+        <ClickUrl>https://www.josai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館</Title>
+        <Url>http://libopac.josai.ac.jp/tosho.htm</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/tosho.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館|データベース・リンク集|データベース&lt;wbr&gt;|国内データベース一覧</Title>
+        <Url>http://libopac.josai.ac.jp/search/infolinks/kokunai.htm</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/search/infolinks/kokunai.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=105</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=105</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館|データベース・リンク集|情報リンク集</Title>
+        <Url>http://libopac.josai.ac.jp/search/infolink.htm</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/search/infolink.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館|データベース・リンク集|データベース&lt;wbr&gt;|カテゴリ別案内</Title>
+        <Url>http://libopac.josai.ac.jp/search/infolinks/category.html</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/search/infolinks/category.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>MUPN 城西大学で中国経済</Title>
+        <Url>http://www.mupn.com/josai/index.htm</Url>
+        <ClickUrl>http://www.mupn.com/josai/index.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | A Study on the Optimum Bucket Size for Master ...</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004489</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004489</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Research on the Influencing Factors of the Marketing ...</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004488</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004488</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「東芝問題」の再検討 : ここ10 年におけるインターネット上の紛争と法的対応について</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004483</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004483</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「城西大学経営紀要」第6号表紙・目次・標題紙・執筆者紹介・編&lt;wbr&gt;集委員・奥付・Contents・裏表紙</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004480</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004480</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Josai Journal of Business Administration Vol.6&amp;amp;7 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004486</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004486</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中国における教育市場の変化 : 現状, 特徴と問題点</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004482</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004482</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | カルシウムレスポンシブル亜鉛関連ナノ粒子を用いた時間制御型新&lt;wbr&gt;規歯周病治療法の開発</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004442</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004442</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 韓流メディア文化の現在[ポスター]</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004456</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004456</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 2010年度講座のご案内[パンフレット]</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004455</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004455</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 骨・軟骨代謝におけるポリアミンのモジュレーター機能解析</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004443</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004443</ClickUrl>
+    </Result>
+    <Result>
+        <Title>MUPN 中国経済論 張紀潯 略歴</Title>
+        <Url>http://www.mupn.com/josai/rireki01.htm</Url>
+        <ClickUrl>http://www.mupn.com/josai/rireki01.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>MUPN 国際政治論 森田昌幸 略歴</Title>
+        <Url>http://www.mupn.com/josai/rireki04.htm</Url>
+        <ClickUrl>http://www.mupn.com/josai/rireki04.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : JURA</Title>
+        <Url>http://search.livedoor.com/search/?q=JURA</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=JURA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館|What&apos;s New|過去掲載分</Title>
+        <Url>http://libopac.josai.ac.jp/top/whatsold.htm</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/top/whatsold.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=105</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=105</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 『シンベリン』,皮肉な遊戯</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00003337/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00003337/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 経営学部における人材開発のための数学的手法の指導研究</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004404/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004404/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館|図書館資料案内|学内発行物|修士・博士論文</Title>
+        <Url>http://libopac.josai.ac.jp/search/gakunai/ronbun/ronbun.htm</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/search/gakunai/ronbun/ronbun.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館|図書館資料案内|学内発行物|紀要・雑誌等</Title>
+        <Url>http://libopac.josai.ac.jp/search/gakunai/magazine/denshi.htm</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/search/gakunai/magazine/denshi.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 城西健康市民大学受講生の運動習慣形成における健康・体力に及ぼ&lt;wbr&gt;す影響について (第2報) : 歩行調査について</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004497</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004497</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「知る」ことと「信じる」こと</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004484</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004484</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 教訓躾方 女今川姫小松(3) : 書誌・翻刻(近世女性史資料(15))</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004478</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004478</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「国際文化研究所紀要」第15号表紙,裏表紙,目次&lt;wbr&gt;,標題紙,奥付</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004479</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004479</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 第44回城西大学薬学部生涯教育講座 [講演要旨集]</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004460</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004460</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | プライベートクラウドと経営情報システムに関する一考察</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004463</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004463</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | サラシア・レティキュラータ(Salacia reticulata)の食品機能性評価に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004491</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004491</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 薬剤師による在宅活動と事例紹介</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004459</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004459</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「城西大学研究年報. 自然科学編」表紙</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004153</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004153</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Saint-Simon and Henry Ford : The Prototype of ...</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004490</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004490</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | さきたま学講座 : 郷土と文化[ポスター]</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004394</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004394</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西大学 水田記念図書館|利用案内|機関リポジトリ(JURA&lt;wbr&gt;)規程集</Title>
+        <Url>http://libopac.josai.ac.jp/guide/kitei_jura.htm</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/guide/kitei_jura.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | &amp;lt;研究ノート&amp;gt;嘉永版『俳諧一茶発句集』入集の句(二&lt;wbr&gt;)</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004221/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004221/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「城西大学経済経営紀要」表紙</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00003885/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00003885/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 平成20年度コンピュータリテラシーについて ‐Office2007への対応‐</Title>
+        <Url>http://jairo.nii.ac.jp/0106/00004408/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0106/00004408/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>城西情報科学研究</Title>
+        <Url>http://libopac.josai.ac.jp/search/gakunai/magazine/InfoBull/20/20-ContentsH.htm</Url>
+        <ClickUrl>http://libopac.josai.ac.jp/search/gakunai/magazine/InfoBull/20/20-ContentsH.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言</Title>
+        <Url>http://liblog.seesaa.net/archives/20100303.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/archives/20100303.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
+        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:27 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:27 PDT 2010 -->

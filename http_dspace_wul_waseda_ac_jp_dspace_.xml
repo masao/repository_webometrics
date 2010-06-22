@@ -3,15 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="7297"
+    totalResultsAvailable="2492"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
-    </Result>
-    <Result>
         <Title>List of Japanese prefectures by population - Wikipedia, the ...</Title>
         <Url>http://en.wikipedia.org/wiki/List_of_Japanese_prefectures_by_population</Url>
         <ClickUrl>http://en.wikipedia.org/wiki/List_of_Japanese_prefectures_by_population</ClickUrl>
@@ -22,39 +17,74 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 高美書店史料の発送簿調査から</Title>
-        <Url>http://hdl.handle.net/2065/28858</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28858</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: Easy Issue for Me, Hard Issue ...</Title>
-        <Url>http://hdl.handle.net/2065/28907</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28907</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: Ranking vs. Rating: Re-examining ...</Title>
-        <Url>http://hdl.handle.net/2065/28908</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28908</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: グローバルコミュニティとアジア・太平洋</Title>
-        <Url>http://hdl.handle.net/2065/28341</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28341</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 機能性リポソームとナノシートを用いたナノ医療の展開</Title>
-        <Url>http://hdl.handle.net/2065/28342</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28342</ClickUrl>
-    </Result>
-    <Result>
         <Title>Demographics of Imperial Japan - Wikipedia, the free encyclopedia</Title>
         <Url>http://en.wikipedia.org/wiki/Demographics_of_Imperial_Japan</Url>
         <ClickUrl>http://en.wikipedia.org/wiki/Demographics_of_Imperial_Japan</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
-        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+        <Title>Demographics of Japan before Meiji Restoration - Wikipedia ...</Title>
+        <Url>http://en.wikipedia.org/wiki/Demographics_of_Japan_before_Meiji_Restoration</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Demographics_of_Japan_before_Meiji_Restoration</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 海外で活動する日本人日本語教師に望まれる資質の構造化&lt;wbr&gt;-海外教育 ...</Title>
+        <Url>http://hdl.handle.net/2065/28938</Url>
+        <ClickUrl>http://hdl.handle.net/2065/28938</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 日本ODAと人間の安全保障</Title>
+        <Url>http://hdl.handle.net/2065/13033</Url>
+        <ClickUrl>http://hdl.handle.net/2065/13033</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 終戦前滞日ドイツ人の体験(4) : 「終戦前滞日ドイツ人 ...</Title>
+        <Url>http://hdl.handle.net/2065/6064</Url>
+        <ClickUrl>http://hdl.handle.net/2065/6064</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: シュティフターの『ヴィティコー』について</Title>
+        <Url>http://hdl.handle.net/2065/8598</Url>
+        <ClickUrl>http://hdl.handle.net/2065/8598</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 大阪労働者階級の形成−戦後の金属労働者を事例に−</Title>
+        <Url>http://hdl.handle.net/2065/9891</Url>
+        <ClickUrl>http://hdl.handle.net/2065/9891</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 弓道における引分け動作の筋活動様式 (英文)</Title>
+        <Url>http://hdl.handle.net/2065/4131</Url>
+        <ClickUrl>http://hdl.handle.net/2065/4131</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 考え続ける為の思考の芽を育む教育-私にとって総合活動型日本語&lt;wbr&gt;教育とは何か-</Title>
+        <Url>http://hdl.handle.net/2065/3626</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3626</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: JSL児童生徒が授業に参加するために必要な「ことばの力」とは&lt;wbr&gt;何か ...</Title>
+        <Url>http://hdl.handle.net/2065/5762</Url>
+        <ClickUrl>http://hdl.handle.net/2065/5762</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 法・実定道徳・功利原理-ベンサム功利主義の構想-</Title>
+        <Url>http://hdl.handle.net/2065/9471</Url>
+        <ClickUrl>http://hdl.handle.net/2065/9471</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 日中対照研究の可能性</Title>
+        <Url>http://hdl.handle.net/2065/3549</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3549</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 大学競泳用プールにおける地域中高齢者を対象とした水泳プログラ&lt;wbr&gt;ムの開発</Title>
+        <Url>http://hdl.handle.net/2065/4128</Url>
+        <ClickUrl>http://hdl.handle.net/2065/4128</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 聴解活動における協働-語彙の拡大の視点から-</Title>
+        <Url>http://hdl.handle.net/2065/3660</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3660</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at Waseda University: 男子バスケットボール競技アテネオリンピック報告</Title>
@@ -62,19 +92,54 @@
         <ClickUrl>http://hdl.handle.net/2065/4132</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 理工系留学生のための物理の専門語-高校教科書の索引調査に基づ&lt;wbr&gt;く選定-</Title>
-        <Url>http://hdl.handle.net/2065/5832</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5832</ClickUrl>
+        <Title>DSpace at Waseda University: &amp;lt;LIND&amp;gt;のサジェストペディア</Title>
+        <Url>http://hdl.handle.net/2065/3429</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3429</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: オンデマンドによる大学入学前導入教育「文章表現」の試み200&lt;wbr&gt;3 ...</Title>
-        <Url>http://hdl.handle.net/2065/3564</Url>
-        <ClickUrl>http://hdl.handle.net/2065/3564</ClickUrl>
+        <Title>DSpace at Waseda University: 日本語教育実践研究(7)-漢字教育実践研究-</Title>
+        <Url>http://hdl.handle.net/2065/3646</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3646</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 招魂する地名-ジュリアン・グラックと土地の名-</Title>
-        <Url>http://hdl.handle.net/2065/8470</Url>
-        <ClickUrl>http://hdl.handle.net/2065/8470</ClickUrl>
+        <Title>DSpace at Waseda University: Congratulations!: A Cross ...</Title>
+        <Url>http://hdl.handle.net/2065/6097</Url>
+        <ClickUrl>http://hdl.handle.net/2065/6097</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 42ヶ月間の運動継続による中高年者の唾液分泌型免疫グロブリン&lt;wbr&gt;Aの変化</Title>
+        <Url>http://hdl.handle.net/2065/4124</Url>
+        <ClickUrl>http://hdl.handle.net/2065/4124</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 日本語教育実践研究(7)-「漢字指導」の実践-</Title>
+        <Url>http://hdl.handle.net/2065/3617</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3617</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 日本語教育実践研究(7)-漢字指導Cクラス-</Title>
+        <Url>http://hdl.handle.net/2065/3580</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3580</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 総合活動型日本語教育におけるゼロビギナーへの試み</Title>
+        <Url>http://hdl.handle.net/2065/3394</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3394</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 海外の日本語教育の印象</Title>
+        <Url>http://hdl.handle.net/2065/3419</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3419</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 対等な関係性と相互学習をめざした地域日本語教育-「お話しグル&lt;wbr&gt;ープ ...</Title>
+        <Url>http://hdl.handle.net/2065/5768</Url>
+        <ClickUrl>http://hdl.handle.net/2065/5768</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 人間の質的差と「論理」の前提</Title>
+        <Url>http://hdl.handle.net/2065/3418</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3418</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at Waseda University: 初中級クラスの一事例に見る語彙学習の問題</Title>
@@ -82,119 +147,29 @@
         <ClickUrl>http://hdl.handle.net/2065/3610</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 理工系留学生のための化学の専門連語-高校教科書の調査に基づく&lt;wbr&gt;選定-</Title>
-        <Url>http://hdl.handle.net/2065/5826</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5826</ClickUrl>
+        <Title>DSpace at Waseda University: 日本語母語話者のEメールにおける「断り」−「待遇 ...</Title>
+        <Url>http://hdl.handle.net/2065/3559</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3559</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: &amp;lt;LIND&amp;gt;のサジェストペディア</Title>
-        <Url>http://hdl.handle.net/2065/3429</Url>
-        <ClickUrl>http://hdl.handle.net/2065/3429</ClickUrl>
+        <Title>DSpace at Waseda University: 民事訴訟法学の過去及び現在</Title>
+        <Url>http://hdl.handle.net/2065/1637</Url>
+        <ClickUrl>http://hdl.handle.net/2065/1637</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: アダルト・プロベーションについて</Title>
-        <Url>http://hdl.handle.net/2065/6236</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6236</ClickUrl>
+        <Title>DSpace at Waseda University: 現代漢語における「無主句」と「存現結構」について</Title>
+        <Url>http://hdl.handle.net/2065/3432</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3432</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 謙遜表現の使用条件について</Title>
-        <Url>http://hdl.handle.net/2065/5478</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5478</ClickUrl>
+        <Title>DSpace at Waseda University: 公開会社における定時株主総会の意義と機能‐定時株主総会の正常&lt;wbr&gt;化に ...</Title>
+        <Url>http://hdl.handle.net/2065/5109</Url>
+        <ClickUrl>http://hdl.handle.net/2065/5109</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 合意形成としての評価 : 総合活動型日本語教育における教師論のために</Title>
-        <Url>http://hdl.handle.net/2065/2799</Url>
-        <ClickUrl>http://hdl.handle.net/2065/2799</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: ベラスケス作《彫刻家モンタニェースの肖像》をめぐる諸問題 ...</Title>
-        <Url>http://hdl.handle.net/2065/8531</Url>
-        <ClickUrl>http://hdl.handle.net/2065/8531</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: フランス刑法と罪刑法定主義</Title>
-        <Url>http://hdl.handle.net/2065/6354</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6354</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 国松さんと幸作さんの昔話 : 二風谷・平取 : 二谷国松さんの民話(4)</Title>
-        <Url>http://hdl.handle.net/2065/5589</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5589</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 重要語の実習教案の分析</Title>
-        <Url>http://hdl.handle.net/2065/5752</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5752</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 小野梓の法思想</Title>
-        <Url>http://hdl.handle.net/2065/6324</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6324</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: サダモさんのユーカラ. 2R : 村焼き国焼き2R</Title>
-        <Url>http://hdl.handle.net/2065/5595</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5595</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: &amp;lt;別の世界&amp;gt;を切り出す記憶像-ムージル『静かなヴェローニカの&lt;wbr&gt;誘惑 ...</Title>
-        <Url>http://hdl.handle.net/2065/8478</Url>
-        <ClickUrl>http://hdl.handle.net/2065/8478</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 企業行動と生産物の耐久性</Title>
-        <Url>http://hdl.handle.net/2065/9617</Url>
-        <ClickUrl>http://hdl.handle.net/2065/9617</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 日本語教育クレオール試論</Title>
-        <Url>http://hdl.handle.net/2065/5812</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5812</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: インド憲法における後進階級の保護規定について</Title>
-        <Url>http://hdl.handle.net/2065/6256</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6256</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 中学生のストレスコーピングに関する研究 : 学校ストレス研究への ...</Title>
-        <Url>http://hdl.handle.net/2065/5706</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5706</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 専門連語の構造―形式面の量的構成を中心に―</Title>
-        <Url>http://hdl.handle.net/2065/3515</Url>
-        <ClickUrl>http://hdl.handle.net/2065/3515</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 色彩表現におけるメトニミーとシネクドキの統合</Title>
-        <Url>http://hdl.handle.net/2065/5864</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5864</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 「凶相」の「好漢」-《水滸伝》における人物の容貌描写について&lt;wbr&gt;-</Title>
-        <Url>http://hdl.handle.net/2065/8473</Url>
-        <ClickUrl>http://hdl.handle.net/2065/8473</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: ワテケさんとサダモさん : 沙流方言 会話・単語 : 会話III ...</Title>
-        <Url>http://hdl.handle.net/2065/3027</Url>
-        <ClickUrl>http://hdl.handle.net/2065/3027</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: サダモさんのユーカラ. 2 : 村焼き国焼き2</Title>
-        <Url>http://hdl.handle.net/2065/5594</Url>
-        <ClickUrl>http://hdl.handle.net/2065/5594</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: Deleted Truth: An Exercise in a ...</Title>
-        <Url>http://hdl.handle.net/2065/6098</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6098</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at Waseda University: 談話における「意図」の諸相 -依頼の談話を例として-</Title>
-        <Url>http://hdl.handle.net/2065/3465</Url>
-        <ClickUrl>http://hdl.handle.net/2065/3465</ClickUrl>
+        <Title>DSpace at Waseda University: 日本語教育実践研究(6)-日本語の「機能文型」に基づく文法教&lt;wbr&gt;育の可能性-</Title>
+        <Url>http://hdl.handle.net/2065/3614</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3614</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at Waseda University: 会話の「待遇表現」の考察-学習者が産出した会話の分析から&lt;wbr&gt;-</Title>
@@ -202,54 +177,79 @@
         <ClickUrl>http://hdl.handle.net/2065/5802</ClickUrl>
     </Result>
     <Result>
+        <Title>DSpace at Waseda University: 自律的学習についての考察-実践(16)日本語特別クラスを通し&lt;wbr&gt;て-</Title>
+        <Url>http://hdl.handle.net/2065/5758</Url>
+        <ClickUrl>http://hdl.handle.net/2065/5758</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 談話における「意図」の諸相 -依頼の談話を例として-</Title>
+        <Url>http://hdl.handle.net/2065/3465</Url>
+        <ClickUrl>http://hdl.handle.net/2065/3465</ClickUrl>
+    </Result>
+    <Result>
         <Title>DSpace at Waseda University: 日本語の待遇表現教育における「自己表現」学習の意義</Title>
         <Url>http://hdl.handle.net/2065/5817</Url>
         <ClickUrl>http://hdl.handle.net/2065/5817</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 周作人『老虎橋雜詩』試論(上) : 「雑誌」という形式をめぐって</Title>
-        <Url>http://hdl.handle.net/2065/6068</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6068</ClickUrl>
+        <Title>DSpace at Waseda University: Mappings From the Source Domain ...</Title>
+        <Url>http://hdl.handle.net/2065/12192</Url>
+        <ClickUrl>http://hdl.handle.net/2065/12192</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 公共性の構図・序説</Title>
-        <Url>http://hdl.handle.net/2065/6633</Url>
-        <ClickUrl>http://hdl.handle.net/2065/6633</ClickUrl>
+        <Title>DSpace at Waseda University: 教養と発明の人 --ジェイムズ・フィーガンさんを送る--</Title>
+        <Url>http://hdl.handle.net/2065/29211</Url>
+        <ClickUrl>http://hdl.handle.net/2065/29211</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 言語は語る-ベンヤミンとハイデガーの場合-</Title>
-        <Url>http://hdl.handle.net/2065/8465</Url>
-        <ClickUrl>http://hdl.handle.net/2065/8465</ClickUrl>
+        <Title>DSpace at Waseda University: 凡例</Title>
+        <Url>http://hdl.handle.net/2065/29224</Url>
+        <ClickUrl>http://hdl.handle.net/2065/29224</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 書物という架け橋-角田柳作と早稲田大学図書館-</Title>
-        <Url>http://hdl.handle.net/2065/28849</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28849</ClickUrl>
+        <Title>DSpace at Waseda University: D・ヒュームの経験論的人間学の研究(26)-ヒュームの共感論&lt;wbr&gt;(8)-</Title>
+        <Url>http://hdl.handle.net/2065/10026</Url>
+        <ClickUrl>http://hdl.handle.net/2065/10026</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: リテラシー史研究会について</Title>
-        <Url>http://hdl.handle.net/2065/28859</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28859</ClickUrl>
+        <Title>DSpace at Waseda University: 市川雅 略歴</Title>
+        <Url>http://hdl.handle.net/2065/29225</Url>
+        <ClickUrl>http://hdl.handle.net/2065/29225</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 冷戦のメディア、日本テレビ放送網 -正力マイクロ・ウェーヴ網を ...</Title>
-        <Url>http://hdl.handle.net/2065/28868</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28868</ClickUrl>
+        <Title>DSpace at Waseda University: 基調報告研究ノート 早稲田大学・ペンシルヴァニア大学共同 ...</Title>
+        <Url>http://hdl.handle.net/2065/13003</Url>
+        <ClickUrl>http://hdl.handle.net/2065/13003</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 研究ノート 企業犯罪の抑止とコンプライアンス・プログラムに関する ...</Title>
-        <Url>http://hdl.handle.net/2065/13005</Url>
-        <ClickUrl>http://hdl.handle.net/2065/13005</ClickUrl>
+        <Title>DSpace at Waseda University: 法的統一体および集合的統一体の刑事責任(抄訳)</Title>
+        <Url>http://hdl.handle.net/2065/13006</Url>
+        <ClickUrl>http://hdl.handle.net/2065/13006</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 第7回「世界教育会議」と大島正徳 -戦間期国際交流史研究の視点から-</Title>
-        <Url>http://hdl.handle.net/2065/13061</Url>
-        <ClickUrl>http://hdl.handle.net/2065/13061</ClickUrl>
+        <Title>DSpace at Waseda University: 馬車と鹿肉 -近世ロンドンにおける社交世界の展開-</Title>
+        <Url>http://hdl.handle.net/2065/28899</Url>
+        <ClickUrl>http://hdl.handle.net/2065/28899</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at Waseda University: 安井息軒と中村敬宇 -安井息軒研究序説-</Title>
-        <Url>http://hdl.handle.net/2065/28880</Url>
-        <ClickUrl>http://hdl.handle.net/2065/28880</ClickUrl>
+        <Title>DSpace at Waseda University: Webブラウザを用いたネットワーク型映像編集システムの提案と&lt;wbr&gt;実装</Title>
+        <Url>http://hdl.handle.net/2065/10775</Url>
+        <ClickUrl>http://hdl.handle.net/2065/10775</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 平成20年度CSI委託事業(領域1)</Title>
+        <Url>http://hdl.handle.net/2065/28922</Url>
+        <ClickUrl>http://hdl.handle.net/2065/28922</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 平成20年度CSI委託事業(領域2)</Title>
+        <Url>http://hdl.handle.net/2065/28923</Url>
+        <ClickUrl>http://hdl.handle.net/2065/28923</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at Waseda University: 教育活動プログラム -中国人民大学との共同設置科目-</Title>
+        <Url>http://hdl.handle.net/2065/29196</Url>
+        <ClickUrl>http://hdl.handle.net/2065/29196</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at Waseda University: 企業的統一体に関する訴訟法:デンマークの見解</Title>
@@ -257,5 +257,5 @@
         <ClickUrl>http://hdl.handle.net/2065/13004</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:40 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:40 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:58 PDT 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:58 PDT 2010 -->

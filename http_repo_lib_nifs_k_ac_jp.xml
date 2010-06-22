@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="275"
+    totalResultsAvailable="433"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,9 +17,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -27,14 +27,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+        <Title>鹿屋体育大学附属図書館</Title>
+        <Url>http://www.lib.nifs-k.ac.jp/HPBU/</Url>
+        <ClickUrl>http://www.lib.nifs-k.ac.jp/HPBU/</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -43,148 +43,18 @@
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>鹿屋体育大学附属図書館</Title>
-        <Url>http://www.lib.nifs-k.ac.jp/HPBU/</Url>
-        <ClickUrl>http://www.lib.nifs-k.ac.jp/HPBU/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories</Title>
-        <Url>http://opendoar.org/find.php?rID=1447&amp;format=full</Url>
-        <ClickUrl>http://opendoar.org/find.php?rID=1447&amp;format=full</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse e-Theses (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?country=&amp;version=&amp;type=theses&amp;order=recordcount&amp;submit=Filter&amp;prev=Prev&amp;page=9</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?country=&amp;version=&amp;type=theses&amp;order=recordcount&amp;submit=Filter&amp;prev=Prev&amp;page=9</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - National Institute of Fitness and Sports in Kanoya ...</Title>
-        <Url>http://www.opendoar.org/find.php?format=full&amp;search=National+Institute+of+Fitness+and+Sports+in+Kanoya+Repository&amp;title=SUPPRESS</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=National+Institute+of+Fitness+and+Sports+in+Kanoya+Repository&amp;title=SUPPRESS</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories: National Institute of ...</Title>
-        <Url>http://www.opendoar.org/find.php?search=National+Institute+of+Fitness+and+Sports+in+Kanoya&amp;title=National+Institute+of+Fitness+and+Sports+in+Kanoya</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?search=National+Institute+of+Fitness+and+Sports+in+Kanoya&amp;title=National+Institute+of+Fitness+and+Sports+in+Kanoya</ClickUrl>
-    </Result>
-    <Result>
-        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
-        <Url>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</Url>
-        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - education level</Title>
-        <Url>http://ci.nii.ac.jp/keyword/education+level</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/education+level</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - embryonic stem cell</Title>
-        <Url>http://ci.nii.ac.jp/keyword/embryonic+stem+cell</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/embryonic+stem+cell</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - embryonic stem cells</Title>
-        <Url>http://ci.nii.ac.jp/keyword/embryonic+stem+cells</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/embryonic+stem+cells</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CiNii Search - Community organization</Title>
-        <Url>http://ci.nii.ac.jp/keyword/Community+organization</Url>
-        <ClickUrl>http://ci.nii.ac.jp/keyword/Community+organization</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=88</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=88</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Identify Response</Title>
-        <Url>http://celestial.eprints.org/oai/.unknown?verb=Identify</Url>
-        <ClickUrl>http://celestial.eprints.org/oai/.unknown?verb=Identify</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>電子ジャーナル(和雑誌)</Title>
-        <Url>http://www.tsc.u-tokai.ac.jp/ctosho/lib/link/ej-j.htm</Url>
-        <ClickUrl>http://www.tsc.u-tokai.ac.jp/ctosho/lib/link/ej-j.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Edit Archive Record</Title>
-        <Url>http://celestial.eprints.org/repository?repository=1722</Url>
-        <ClickUrl>http://celestial.eprints.org/repository?repository=1722</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repositórios livres para publicação científica (PesquisarEF)</Title>
-        <Url>http://sites.google.com/site/pesquisaref/websites-complementares/repositorios-livres-para-publicacao-cientifica</Url>
-        <ClickUrl>http://sites.google.com/site/pesquisaref/websites-complementares/repositorios-livres-para-publicacao-cientifica</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IESR Full Record</Title>
-        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1234138524-6243</Url>
-        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1234138524-6243</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Items where Year is 2009 - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/year/2009.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/year/2009.html</ClickUrl>
+        <Url>http://www.opendoar.org/find.php?rID=1447</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?rID=1447</ClickUrl>
     </Result>
     <Result>
         <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
@@ -197,24 +67,124 @@
         <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
-        <Url>http://roar.eprints.org/view/software/other/other.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/software/other/other.html</ClickUrl>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
     </Result>
     <Result>
-        <Title>『研究論文集』教育系・文系の九州地区国立大学間連携論文集</Title>
+        <Title>電子ジャーナル(和雑誌)</Title>
+        <Url>http://www.tsc.u-tokai.ac.jp/ctosho/lib/link/ej-j.htm</Url>
+        <ClickUrl>http://www.tsc.u-tokai.ac.jp/ctosho/lib/link/ej-j.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>National Institute of Fitness and Sports in Kanoya Repository ...</Title>
+        <Url>http://roar.eprints.org/898/</Url>
+        <ClickUrl>http://roar.eprints.org/898/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://opendoar.org/find.php?rID=1447&amp;format=full</Url>
+        <ClickUrl>http://opendoar.org/find.php?rID=1447&amp;format=full</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Old Jujutsu .pdf Ebook Free Download</Title>
+        <Url>http://www.pdf-search-engine.com/old-jujutsu-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/old-jujutsu-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1722</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1722</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=http%3A%2F%2Frepo.lib.nifs-k.ac.jp%2Fdspace-oai%2Frequest</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=http%3A%2F%2Frepo.lib.nifs-k.ac.jp%2Fdspace-oai%2Frequest</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - National Institute of Fitness and Sports in Kanoya ...</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=National+Institute+of+Fitness+and+Sports+in+Kanoya+Repository&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=National+Institute+of+Fitness+and+Sports+in+Kanoya+Repository&amp;title=SUPPRESS</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: National Institute of ...</Title>
+        <Url>http://www.opendoar.org/find.php?search=National+Institute+of+Fitness+and+Sports+in+Kanoya&amp;title=National+Institute+of+Fitness+and+Sports+in+Kanoya</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=National+Institute+of+Fitness+and+Sports+in+Kanoya&amp;title=National+Institute+of+Fitness+and+Sports+in+Kanoya</ClickUrl>
+    </Result>
+    <Result>
+        <Title>森一郎 プロフィール - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E6%A3%AE%E4%B8%80%E9%83%8E/32488/</Url>
+        <ClickUrl>http://spysee.jp/%E6%A3%AE%E4%B8%80%E9%83%8E/32488/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>pensees eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/pensees-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/pensees-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=88</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=88</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IESR Full Record</Title>
+        <Url>http://iesr.ac.uk/service/iesrsrch?iesrid=1234138524-6243</Url>
+        <ClickUrl>http://iesr.ac.uk/service/iesrsrch?iesrid=1234138524-6243</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Items where Year is 2008 - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/year/2008.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/year/2008.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/other.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/other.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Repositórios livres para publicação científica (PesquisarEF)</Title>
+        <Url>http://sites.google.com/site/pesquisaref/websites-complementares/repositorios-livres-para-publicacao-cientifica</Url>
+        <ClickUrl>http://sites.google.com/site/pesquisaref/websites-complementares/repositorios-livres-para-publicacao-cientifica</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - female athletes</Title>
+        <Url>http://ci.nii.ac.jp/keyword/female+athletes</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/female+athletes</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Download Free Book Online Philosophy In Kendo PDF \(•o•)/</Title>
+        <Url>http://book-online.net/pdf/ph/philosophy-in-kendo/</Url>
+        <ClickUrl>http://book-online.net/pdf/ph/philosophy-in-kendo/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Search - runner</Title>
+        <Url>http://ci.nii.ac.jp/keyword/runner</Url>
+        <ClickUrl>http://ci.nii.ac.jp/keyword/runner</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2010-01-30 - The Light Blue Blades 2010 -Mileage makes champions-</Title>
+        <Url>http://d.hatena.ne.jp/tsurui/20100130</Url>
+        <ClickUrl>http://d.hatena.ne.jp/tsurui/20100130</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』−教育系・文系の九州地区国立大学間連携論文集−</Title>
+        <Url>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/newarticles.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>『研究論文集』−教育系・文系の九州地区国立大学間連携論文集−</Title>
         <Url>http://wwwsoc.nii.ac.jp/ecrk/contribute_rule.html</Url>
         <ClickUrl>http://wwwsoc.nii.ac.jp/ecrk/contribute_rule.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 戦術の基礎</Title>
-        <Url>http://search.livedoor.com/search/?q=%C0%EF%BD%D1%A4%CE%B4%F0%C1%C3</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%C0%EF%BD%D1%A4%CE%B4%F0%C1%C3</ClickUrl>
+        <Title>livedoor ウェブ検索 検索結果 : 後ろ受身</Title>
+        <Url>http://search.livedoor.com/search/?q=%B8%E5%A4%ED%BC%F5%BF%C8</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%B8%E5%A4%ED%BC%F5%BF%C8</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor ウェブ検索 検索結果 : 研究活動開始</Title>
@@ -222,40 +192,70 @@
         <ClickUrl>http://search.livedoor.com/search/?q=%B8%A6%B5%E6%B3%E8%C6%B0%B3%AB%BB%CF</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 長距離選手一覧</Title>
-        <Url>http://search.livedoor.com/search/?q=%C4%B9%B5%F7%CE%A5%C1%AA%BC%EA%B0%EC%CD%F7</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%C4%B9%B5%F7%CE%A5%C1%AA%BC%EA%B0%EC%CD%F7</ClickUrl>
+        <Title>一括検索 -ライフサイクルプログラム-</Title>
+        <Url>http://seonum.com/rank/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : クラスター分析について</Title>
-        <Url>http://search.livedoor.com/search/?q=%A1%FC%A5%AF%A5%E9%A5%B9%A5%BF%A1%BC%CA%AC%C0%CF%A4%CB%A4%C4%A4%A4%A4%C6</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%A1%FC%A5%AF%A5%E9%A5%B9%A5%BF%A1%BC%CA%AC%C0%CF%A4%CB%A4%C4%A4%A4%A4%C6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 研究情報は 紀要論文は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B8%A6%B5%E6%BE%F0%CA%F3%A4%CF+%B5%AA%CD%D7%CF%C0%CA%B8%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B8%A6%B5%E6%BE%F0%CA%F3%A4%CF+%B5%AA%CD%D7%CF%C0%CA%B8%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - 学術機関リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/viewcat.php?cid=8</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - リンク集 - nifs-k repository: 鹿屋体育大学学術情報リポジトリ</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=263</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/modules/weblinks/singlelink.php?lid=263</ClickUrl>
+        <Title>北村尚浩 プロフィール - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E5%8C%97%E6%9D%91%E5%B0%9A%E6%B5%A9/1415386/</Url>
+        <ClickUrl>http://spysee.jp/%E5%8C%97%E6%9D%91%E5%B0%9A%E6%B5%A9/1415386/</ClickUrl>
     </Result>
     <Result>
         <Title>はてなアンテナ - 学術機関リポジトリ全文紀要</Title>
         <Url>http://a.hatena.ne.jp/jwu2/rss</Url>
         <ClickUrl>http://a.hatena.ne.jp/jwu2/rss</ClickUrl>
     </Result>
+    <Result>
+        <Title>JAIRO | 英語プロセス・ライティングにおけるピア評価</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000507</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000507</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 乳幼児の歯科異常に及ぼす母親の保育環境影響</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000506</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000506</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 平成20年度重点プロジェクト事業(海外派遣研究員等旅費&lt;wbr&gt;)報告 World Congress of ...</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000494</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000494</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Article - An Analysis of Spatio-Temporal Behavior of ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007098561</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007098561</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Article - Development of a &apos;New Sport&apos; for school ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007098547</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007098547</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 村田直樹客員教授を迎えて-濱田初幸ゼミナール研究会報告&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0089/00000469</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0089/00000469</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[SEP] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/SEP_all_1.html</Url>
+        <ClickUrl>http://gjtb.net/detail/SEP_all_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Article - Effects of intrinsic factors of learners on ...</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007407495</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007407495</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Article - 「武道とスポーツ」の概念に関する一試論</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007407502</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007407502</ClickUrl>
+    </Result>
+    <Result>
+        <Title>CiNii Article - 第85回鹿屋体育大学学術研究会報告 身体の形と力への興味</Title>
+        <Url>http://ci.nii.ac.jp/naid/110007407501</Url>
+        <ClickUrl>http://ci.nii.ac.jp/naid/110007407501</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:00 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:00 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:18 PDT 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:18 PDT 2010 -->

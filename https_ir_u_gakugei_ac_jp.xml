@@ -3,33 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="38134"
+    totalResultsAvailable="35405"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
-    </Result>
-    <Result>
         <Title>Celestial - Registered Archives</Title>
         <Url>http://celestial.eprints.org/</Url>
         <ClickUrl>http://celestial.eprints.org/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>東京学芸大学附属図書館ホームページ</Title>
-        <Url>http://library.u-gakugei.ac.jp/</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Home Page of Tokyo Gakugei University Library</Title>
-        <Url>http://library.u-gakugei.ac.jp/index-e.html</Url>
-        <ClickUrl>http://library.u-gakugei.ac.jp/index-e.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -37,9 +17,24 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Home Page of Tokyo Gakugei University Library</Title>
+        <Url>http://library.u-gakugei.ac.jp/index-e.html</Url>
+        <ClickUrl>http://library.u-gakugei.ac.jp/index-e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -52,119 +47,89 @@
         <ClickUrl>http://library.u-gakugei.ac.jp/etopia/index_p.html</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
-    </Result>
-    <Result>
         <Title>E-TOPIA:教育情報ポータルサイト</Title>
         <Url>http://library.u-gakugei.ac.jp/etopia/</Url>
         <ClickUrl>http://library.u-gakugei.ac.jp/etopia/</ClickUrl>
     </Result>
     <Result>
-        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+        <Title>感想 日本建築学会編『音楽空間への誘いコンサートホールの楽しみ』&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>週刊誌を読んで: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ef56.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ef56.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
-        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
+        <Title>小林よしのり「ゴー宣」天皇論追撃篇の感想その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-9c4c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-9c4c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
+        <Title>在特会が東京新聞に対し抗議行動: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</ClickUrl>
     </Result>
     <Result>
-        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
+        <Title>日比谷の普天間基地はいらない全国集会に6000人とか&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</ClickUrl>
     </Result>
     <Result>
-        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
+        <Title>明治民法の夫婦同氏の意義その4(夫婦別姓反対下書き&lt;wbr&gt;): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/10/post-1e21.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/10/post-1e21.html</ClickUrl>
     </Result>
     <Result>
-        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
+        <Title>「傍論を重視するのは俗論」と園部逸夫が述べたという&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-2ed7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-2ed7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
+        <Title>カード 組合活動-施設管理権関係判例: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/08/post-02c7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/08/post-02c7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
+        <Title>上司への質問書: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2aa7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2aa7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
+        <Title>カード 夫婦別姓旧慣習説を否定する学説-大藤修: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/08/post-4309.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/08/post-4309.html</ClickUrl>
     </Result>
     <Result>
-        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
+        <Title>団結否認権の確立Right to Work lawが必要だ 下書き1-(15): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-6.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-6.html</ClickUrl>
     </Result>
     <Result>
-        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
+        <Title>入手資料整理15: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-d764.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-d764.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Kyoiku University Repository: Home</Title>
-        <Url>http://ir.lib.osaka-kyoiku.ac.jp:8080/dspace/</Url>
-        <ClickUrl>http://ir.lib.osaka-kyoiku.ac.jp:8080/dspace/</ClickUrl>
+        <Title>李明博大統領、鉄道ストに対決姿勢: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-643f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-643f.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Portal:歴史学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+        <Title>Citizens United v. FEC-法人の言論の自由について: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/citizens-united.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/citizens-united.html</ClickUrl>
     </Result>
     <Result>
-        <Title>「登時」と「当時」と「輙時」 : 讚岐典侍日記のばあい: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/12974</Url>
-        <ClickUrl>http://hdl.handle.net/2309/12974</ClickUrl>
+        <Title>川西正彦の公共政策研究: 2005年11月</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
-        <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
+        <Title>外国人地方参政権付与合憲説の学者が違憲説に変更と産経が報道&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ff58.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ff58.html</ClickUrl>
     </Result>
     <Result>
         <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
@@ -172,34 +137,24 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
     </Result>
     <Result>
-        <Title>出生数試算のインチキ-皇室典範に関する有識者会議報告書反駁&lt;wbr&gt;-: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</ClickUrl>
+        <Title>オープンショップ運動・レイバーインジャンクション・ウェルフェ&lt;wbr&gt;アキャピタリズム黄金の1920年代の意義(3): 川西正彦の ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-cfd7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-cfd7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>川西正彦の公共政策研究: オープンショップ運動・レイバーインジャンクション・ロックナー&lt;wbr&gt;エイジ・ウェルフェアキャピタリズム ...</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</ClickUrl>
+        <Title>入手資料整理16: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-18d8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-18d8.html</ClickUrl>
     </Result>
     <Result>
-        <Title>エコのための深夜営業規制反対: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
+        <Title>これなら1年生議員でもよかった: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2b9c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2b9c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
+        <Title>東京学芸大学附属図書館ホームページ</Title>
+        <Url>https://library.u-gakugei.ac.jp/top.html</Url>
+        <ClickUrl>https://library.u-gakugei.ac.jp/top.html</ClickUrl>
     </Result>
     <Result>
         <Title>川西正彦の公共政策研究</Title>
@@ -207,55 +162,100 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+        <Title>Portal:歴史学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>宗教的価値を扱う学習の市民的資質育成における原理的限界 : アメリカ合衆国の教師用指導書の実態を手がかりとして&lt;wbr&gt;: 東京学芸 ...</Title>
-        <Url>http://hdl.handle.net/2309/1152</Url>
-        <ClickUrl>http://hdl.handle.net/2309/1152</ClickUrl>
+        <Title>Celestial - Registered Archives</Title>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
-        <Title>出産・子育て体験が親の成長と夫婦関係に与える影響&lt;wbr&gt;(6) : 家族形態別にみた生活の変化と夫婦関係: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/2988</Url>
-        <ClickUrl>http://hdl.handle.net/2309/2988</ClickUrl>
+        <Title>Osaka Kyoiku University Repository: Home</Title>
+        <Url>http://ir.lib.osaka-kyoiku.ac.jp:8080/dspace/</Url>
+        <ClickUrl>http://ir.lib.osaka-kyoiku.ac.jp:8080/dspace/</ClickUrl>
     </Result>
     <Result>
-        <Title>金属層を有する光導波路におけるTMモードの分散関係&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/2986</Url>
-        <ClickUrl>http://hdl.handle.net/2309/2986</ClickUrl>
+        <Title>団結否認権の確立Right to Work lawが必要だ 下書き1-(13): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-4.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-4.html</ClickUrl>
     </Result>
     <Result>
-        <Title>イタリア・コモにおけるシルク産業集積 : 揺れ動くサードイタリア: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/2806</Url>
-        <ClickUrl>http://hdl.handle.net/2309/2806</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>清末民初における地方自治と財政 : 県自治財政を中心に: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/2805</Url>
-        <ClickUrl>http://hdl.handle.net/2309/2805</ClickUrl>
+        <Title>日記 入手資料整理6: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-47eb.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-47eb.html</ClickUrl>
     </Result>
     <Result>
-        <Title>江戸及び東京を襲った巨大地震による大被害地域と現代の再開発地&lt;wbr&gt;域との関連性: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/1647</Url>
-        <ClickUrl>http://hdl.handle.net/2309/1647</ClickUrl>
+        <Title>11.14 日本解体阻止!!守るぞ日本!国民大行動に二千人: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/1114-3313.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/1114-3313.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA 東京学芸大学リポジトリ 平成19年度CSI委託事業報告交流会ポスターセッション用資料&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/89267</Url>
-        <ClickUrl>http://hdl.handle.net/2309/89267</ClickUrl>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA 東京学芸大学リポジトリ 平成18年度CSI委託事業報告交流会ポスターセッション用資料&lt;wbr&gt;: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/60102</Url>
-        <ClickUrl>http://hdl.handle.net/2309/60102</ClickUrl>
+        <Title>日記 入手資料整理3: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-ed7f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-ed7f.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-TOPIA 東京学芸大学リポジトリ 平成19年度CSI委託事業報告交流会ポスターセッション用スラ&lt;wbr&gt;イド: 東京学芸大学リポジトリ</Title>
-        <Url>http://hdl.handle.net/2309/89268</Url>
-        <ClickUrl>http://hdl.handle.net/2309/89268</ClickUrl>
+        <Title>カード リバタリアニズムと法規制 1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-233d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-233d.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>この際自民党総裁に稲田朋美という声も出ている: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-c68c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-c68c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>成人年齢引き下げ断乎反対: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/10/post-ea72.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/10/post-ea72.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>入手資料整理29: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ee12.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ee12.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>マサチューセッツ上院補選、共和党勝利: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-27bc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-27bc.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女子法定婚姻適齢引上げ絶対反対シリーズ「 明治11年の東京評判美人番付」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/08/post-031f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/08/post-031f.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>本日も頭上報告: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-e94c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-e94c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>西宮北口駅前「水曜デモ」と反対する主権回復を目指す会のもみあ&lt;wbr&gt;い映像: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-81cd.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-81cd.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Jim DeMint 上院議員のいうUAWがデトロイトの苦境の要因とする見解は基本&lt;wbr&gt;的に正しい: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/jim-demint-uaw-.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/jim-demint-uaw-.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>音のストリームで英語を聞いて、覚えて、使うサイト</Title>
+        <Url>http://www.eikaiwanopl.jp/stream/</Url>
+        <ClickUrl>http://www.eikaiwanopl.jp/stream/</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:07 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:07 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:28 PDT 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:27 PDT 2010 -->

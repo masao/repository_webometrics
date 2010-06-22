@@ -3,103 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8668"
+    totalResultsAvailable="10544"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>まさおのChangeLogメモ</Title>
-        <Url>http://masao.jpn.org/d/</Url>
-        <ClickUrl>http://masao.jpn.org/d/</ClickUrl>
-    </Result>
-    <Result>
         <Title>りぽじとりの中の人々</Title>
         <Url>http://tulipsr.seesaa.net/</Url>
         <ClickUrl>http://tulipsr.seesaa.net/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Journal</Title>
-        <Url>http://home.hiroshima-u.ac.jp/er/journal.html</Url>
-        <ClickUrl>http://home.hiroshima-u.ac.jp/er/journal.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=25</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=25</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Effect of Fullerene Encapsulation on Radial ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021182/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021182/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | New Solution to High-Field Transport in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020355/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020355/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Identification and characterization of murine DNAM-1 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020248/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020248/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | The Cauchy Problem for Strictly Hyperbolic Operators ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020280/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020280/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Surface breakdown dynamics of carbon nanocapsules</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020245/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020245/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Induction of sustained expression of proto-oncogene ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020343/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020343/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Bound for the Weierstrass weights of points on a ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020389/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020389/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Light-induced anelastic change in a-Si(H)</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020009/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020009/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Effect of 6-day intense Kendo training on lymphocyte ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021354/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021354/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Coherence of single spins coupled to a nuclear spin ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021209/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021209/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | &amp;lt;Originals&amp;gt;Level of Myoglobin Concentration in Human ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00001016/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00001016/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 〈Original Papers〉 Tectonically induced gravity ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020707/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020707/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
-        <Url>http://roar.eprints.org/view/software/dspace.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
     </Result>
     <Result>
         <Title>Browse by Country - Registry of Open Access Repositories</Title>
@@ -107,24 +17,24 @@
         <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Jet fragmentation and gauge/string duality</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020038</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020038</ClickUrl>
+        <Title>第7回 ARGカフェ&amp;amp;ARGフェスト 参加してきたよ!|SearcherSearcher</Title>
+        <Url>http://imuz.blog10.fc2.com/blog-entry-320.html</Url>
+        <ClickUrl>http://imuz.blog10.fc2.com/blog-entry-320.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Optical properties of novel semiconductor ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020306</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020306</ClickUrl>
+        <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
+        <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | &amp;lt;Originals&amp;gt;Bilateral Facilitation of Hand-motor ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020049</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020049</ClickUrl>
+        <Title>まさおのChangeLogメモ / 2010-01-31 / URL memo; Yet another ...</Title>
+        <Url>http://masao.jpn.org/d/2010-01-31.html</Url>
+        <ClickUrl>http://masao.jpn.org/d/2010-01-31.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Reduction in charged defects associated with oxygen ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020029</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020029</ClickUrl>
+        <Title>Tsukuba Repository (Tulips-R) - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/1310/</Url>
+        <ClickUrl>http://roar.eprints.org/1310/</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 好気培養における加圧の効果と応用</Title>
@@ -132,109 +42,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00011083</ClickUrl>
     </Result>
     <Result>
-        <Title>2006-04-02 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/20060402/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20060402/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 松岸地区における遊廓の成立と展開</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021215</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021215</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 生起相修飾成分の認定と分類</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020224</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020224</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 〈公開講座報告〉「知的障害者の体育指導」受講生の満足度に関す&lt;wbr&gt;る調査</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021042</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021042</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Digital Librariesへのアプローチ : 米国を中心とする取組み事例に基づく考察</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020896</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020896</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Promoting effect of MgO addition to Pt/Ni/CeO2/Al2O3 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020180</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020180</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Nuclear DISC1 regulates CRE-mediated gene ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021312</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021312</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Sum Rule of Hall Conductance in a Random Quantum ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00019870</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00019870</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Changes in the Chemical and Size Composition of ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020002</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020002</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | PERCEPTIONS OF LIS GRADUATE STUDENTS OF PEER LEARNING</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020497</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020497</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 抗癌剤含有アパタイトによる転移性骨腫瘍の局所治療に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020317</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020317</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 学術論文を機関リポジトリに登録することの効果:ZSプロジェク&lt;wbr&gt;トから見えてきたもの</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021347</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021347</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 《未知/主知》のアフリカ : 新興芸術派と阿部知二(荒木正純先生退職祈念)</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021206</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021206</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Correlation effects of carbon nanotubes at boundaries ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00019853</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00019853</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | ベンチュ語における同音異義語の音響的特徴について (城生佰太郎教授退職記念論文集 2009年 特別号)</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020802</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020802</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Evaluation of diaphragmatic hernia repair using PLGA ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021338</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021338</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Double shrink methodologies to determine the sample ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020030</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020030</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | Heterogeneous mutations in the human lipoprotein ...</Title>
         <Url>http://jairo.nii.ac.jp/0025/00020350</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0025/00020350</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Derived equivalences and Serre duality for Gorenstein ...</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021178</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021178</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 〈授業報告〉共通体育ハンドボール授業での投能力の向上について</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021057</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021057</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 利用価値の性質と学習動機づけに与える影響</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020216</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020216</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Inter-male Mating-like Behavior in the Domesticated ...</Title>
@@ -242,20 +52,210 @@
         <ClickUrl>http://jairo.nii.ac.jp/0025/00019879</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 〈論説〉台湾競争法とその法制・法運用の検討(秋山幹男教授、平&lt;wbr&gt;林英勝教授 退職記念論文集)</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021334</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021334</ClickUrl>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=25</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=25</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | &amp;lt;Appendix&amp;gt;Tsukuba English Studies vols.1-26 Indices</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00020459</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00020459</ClickUrl>
+        <Title>JAIRO | Study of the e+e- --&amp;gt; [mu]+[mu]-[gamma] reaction in ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00015512/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00015512/en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 「ただのブンガク」の日々と弟子未満のこと(荒木正純先生退職祈&lt;wbr&gt;念)</Title>
-        <Url>http://jairo.nii.ac.jp/0025/00021183</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0025/00021183</ClickUrl>
+        <Title>JAIRO | Global existence for a class of quasilinear ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00008896/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00008896/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Phase transition in classial Heisenberg models</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00009980/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00009980/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Negative Mental Health Factors in Children Orphaned ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021443/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021443/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Aminergic Modulation of the Myogenic Heart in the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00019887/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00019887/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Protecting the marine environment against oil ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00013196/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00013196/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Metal-oxide interaction in supported metal catalysts</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00015662/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00015662/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | On some pasting cylinders onto a manifold with ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00008929/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00008929/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Equity-Efficiency Bicriteria Location with Squared ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00018795/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00018795/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Objective Estimation of Word Intelligibility for ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022487/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022487/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Intrinsic dipole moment on the capped carbon nanotubes</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021586/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021586/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Effect of 6-day intense Kendo training on lymphocyte ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021354/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021354/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Superconductivity and antiferromagnetic order in the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00010128/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00010128/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Application of Collateralized Debt Obligation ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021874/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021874/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 〈Original Papers〉 Tectonically induced gravity ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00020707/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00020707/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Items where Year is 2006 - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/year/2006.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/year/2006.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/dspace.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The solubility of nucleobases in aqueous arginine ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022566/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022566/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Coronary Artery Spatial Distribution, Morphology, and ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022444/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022444/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Designing inclusive society : study of civil society ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022560/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022560/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Differential Geometry of Microlinear Frölicher Spaces II</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022206/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022206/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Structure changes of natively disordered Humanin in ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022450/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022450/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Minute Protrusions of Ascidian Tunic Cuticle : Some ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022520/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022520/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Flexibility and Sensitivity Enhancement in Optical ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022581/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022581/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | CdPd sulfide heterostructured nanoparticles with ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022503/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022503/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Discovery of Middle Triassic radiolarian fauna from ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022488/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022488/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Identification of Components Associated with Thermal ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00022539/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00022539/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | &amp;lt;Originals&amp;gt;Changes in Cognitive Function, Response ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021501/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021501/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Proteolytic cleavage of the rat heparan sulfate 6 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021938/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021938/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2006-04-02 - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
+        <Url>http://d.hatena.ne.jp/arg/20060402/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20060402/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | PERCEPTIONS OF LIS GRADUATE STUDENTS OF PEER LEARNING</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00020497</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00020497</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Sum Rule of Hall Conductance in a Random Quantum ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00019870</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00019870</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Promoting effect of MgO addition to Pt/Ni/CeO2/Al2O3 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00020180</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00020180</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 養液栽培における高糖度トマト生産の研究 : 育苗培地と裁植密度が収量・品質に及ぼす影響</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00005360</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00005360</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 言語音の知覚におけるREAと大脳半球優位性について</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00002344</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00002344</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Double shrink methodologies to determine the sample ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00020030</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00020030</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Correlation effects of carbon nanotubes at boundaries ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00019853</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00019853</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「日本人になる」ということ : 日本国籍取得者の視点から</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00010720</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00010720</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Derived equivalences and Serre duality for Gorenstein ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00021178</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00021178</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Mechanism of contraction to endothelin in isolated ...</Title>
+        <Url>http://jairo.nii.ac.jp/0025/00011447</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0025/00011447</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:20 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:20 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:41 PDT 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:41 PDT 2010 -->

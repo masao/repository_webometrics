@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="755"
+    totalResultsAvailable="900"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,149 +12,9 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=64</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 生命の自由・人命救助と民法理論-生命・身体への自己決定と私的&lt;wbr&gt;自治・序説-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001722</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001722</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 「α-Flowの紹介」</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002035</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002035</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | スロウファイア-明治大学中央図書館ミニ調査-</Title>
         <Url>http://jairo.nii.ac.jp/0065/00003955</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0065/00003955</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 「フィールドスタディ」の授業展開-「宮古島の社会と民俗文化」&lt;wbr&gt;の試み-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002021</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002021</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 那覇商業銀行の経営分析-戦前沖縄銀行史における同行の特色に関&lt;wbr&gt;して-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001035</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001035</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | モノドラマ・生の演劇化-エヴレイノフの演劇思想について&lt;wbr&gt;(2)-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000331</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000331</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 刑法判例の定点観測-一九九九年度-(一)</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000589</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000589</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | P&amp;amp;Gの日本進出と日本企業の競争戦略</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000230</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000230</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 緑地工学研究室〈Laboratory of Landscape Engineering〉</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000601</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000601</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 池雪蕾著『憂国志談大逆陰謀の末路』について</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002710</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002710</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 根保証契約における保証人の死亡-相続性の問題から根保証の確定&lt;wbr&gt;の問題へ-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000588</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000588</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 近世日本におけるハウトイン『自然誌』の利用</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001320</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001320</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | アジア的生産様式論再考(二)単一権力社会の生成</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002988</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002988</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 新図書館雑感</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001319</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001319</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Hiroshi Itohニューヨーク州立大学教授(アメリカ)の短期招請につい&lt;wbr&gt;て</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002521</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002521</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | オーデュボンのアメリカ自然誌</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001739</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001739</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 企業利益と課税所得との差異に関する一考察</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002436</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002436</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 聖母と皇帝に捧げられた教会-プラハの「カルロフの教会」に刻ま&lt;wbr&gt;れた歴史-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002020</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002020</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 英国の会計基準設定について-CCAB-ASC体制の解体とその&lt;wbr&gt;後の動向-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00003347</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00003347</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | コミュニケーション思想-テクスト・エクリチュール・ジェンダー&lt;wbr&gt;-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000419</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000419</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 「電子メイルの利用統計」</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002033</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002033</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 平家物語における死の問題 その二 穢土についての考察</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000420</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000420</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 従業員持株制度の商法上の問題点</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001738</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001738</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 米国ユニタリー・タックスにみる独立企業原則と定式分配&lt;wbr&gt;-NTAにおける定式統一の議論を中心に-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000634</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000634</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | ドイツの資本主義転化論と日本への影響-初期統制経済論の場合&lt;wbr&gt;-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001036</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001036</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 反芻動物の第一胃内における微生物の相互関係-放射性同位元素使&lt;wbr&gt;用による機構の解析-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000422</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000422</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 櫃石島集落の空間構成について</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002602</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002602</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 既婚婦人の経済責任と育児-19世紀イギリスの場合&lt;wbr&gt;-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00003904</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00003904</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 「批判的」管理論の展開「コンスタンツ」グループ(5&lt;wbr&gt;)-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002215</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002215</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 宗教改革期アントウェルペンの出版業者-『プランタン工房出版目&lt;wbr&gt;録』から-</Title>
@@ -162,100 +22,240 @@
         <ClickUrl>http://jairo.nii.ac.jp/0065/00003956</ClickUrl>
     </Result>
     <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=64</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=64</ClickUrl>
+        <Title>JAIRO | 社会的構成主義と組織論</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000163</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000163</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | わが民法における物権行為の独自性と有因性(一)</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001450/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001450/en</ClickUrl>
+        <Title>JAIRO | 大学図書館の利用教育を考える</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00005651</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00005651</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 『ブヴァールとペキュシェ』論考-反直線的な時間構成&lt;wbr&gt;-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000297/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000297/en</ClickUrl>
+        <Title>JAIRO | 鬼と子どもと地蔵-「子取ろ子取ろ」の起源伝説をめぐって&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001889</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001889</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | FASB会計基準書第33号「財務報告と価格変動」について</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00003676/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00003676/en</ClickUrl>
+        <Title>JAIRO | 森林伐採の意図と資源保続の恒常在高法について</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000620</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000620</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | A.M.カーターのマクロ分配モデルに関する一試論</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000956/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000956/en</ClickUrl>
+        <Title>JAIRO | イギリスのNigbourhood Watch-犯罪防止のための住民相互協力組織-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00003415</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00003415</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 冒険としての読書</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00005652</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00005652</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 代理の法的構成に関する覚書</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00004874</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00004874</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 政府開発援助(ODA)と国際協力ネットワーク-市民社会の発展&lt;wbr&gt;をもとめて-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001245</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001245</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 明治大学図書館情報学研究会紀要の発刊にあたって</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00005659</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00005659</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Gödel, Penrose, Dennett-意識,脳と諸科学の形式化</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002930</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002930</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中・近世移行期から近世における即位礼用途支出構造の変遷</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00003968</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00003968</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 米布互恵条約の締結とハワイ併合</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00003967</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00003967</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 生命の自由・人命救助と民法理論-生命・身体への自己決定と私的&lt;wbr&gt;自治・序説-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001722/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001722/en</ClickUrl>
+        <Url>http://jairo.nii.ac.jp/0065/00001722</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001722</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | デモクラシーの原イメージを求めて-大正演劇研究会編『大正の演&lt;wbr&gt;劇と都市』を読む-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000332/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000332/en</ClickUrl>
+        <Title>JAIRO | 図書館における人的資源の管理と支援</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001304</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001304</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 再びシステム論における一般性について-K. E. Boulding の所論に寄せて-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002674</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002674</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | A.M.カーターのマクロ分配モデルに関する一試論</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000956</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000956</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 巣立ち-1980年代アメリカにおける離家決定要因の分析&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002480</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002480</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 人類の歴史と国際法</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001500</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001500</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | インタラクティブ系博物館建設にあたっての諸課題-ティム・コー&lt;wbr&gt;ルトン著・染川香澄ほか訳『ハンズ・オンとこれ ...</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001758</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001758</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | メイエルホリドの俳優教育-ビオメハニカ再論-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001878</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001878</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「フィールドスタディ」の授業展開-「宮古島の社会と民俗文化」&lt;wbr&gt;の試み-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002021</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002021</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 献呈の辞</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001223</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001223</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「若紫」「紅葉賀」「花宴」巻の準拠・典拠についての諸注集成と&lt;wbr&gt;注解-源氏物語の準拠・典拠についての研究(3)-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000410</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000410</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 学校図書館における情報サービス</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00005657</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00005657</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 欧州・日本における拷問・処刑器具の比較的一考察-特別展覧会「&lt;wbr&gt;ヨーロッパ拷問展-人類の権利・自由を考える ...</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001757</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001757</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 2009年度の活動報告</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00005660</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00005660</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 亡命作家ハンス・ザールのオラトリオ『イェーマント』&lt;wbr&gt;-1938年のチューリヒ上演とその評価をめぐって&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00004115</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00004115</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 生涯教育と大学図書館</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001303</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001303</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 王鉄軍(WANG Tiejun)教授(西安交通大学、中国)の短期招請について</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002554</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002554</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ペルー紀行</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00003809</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00003809</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ニュース報道における共振性に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00003411</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00003411</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 固定資産の時価評価</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00003439</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00003439</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 荷田春満の仮名序研究をめぐって(上)-国学における反・文献学&lt;wbr&gt;の系譜-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000406</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000406</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 1次元Noether局所環内の整閉なGorenstein m-準素イデアルの構造と分布について</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000121</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000121</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 新しい世紀の幕明き-創立一二〇周年期年号発刊にあたって&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000585</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000585</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 戦世を越えるエスノグラフィー(楚辺編)-米軍用地接収による強&lt;wbr&gt;制移転村の住民自治と文化変容-</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000970</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000970</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「ロシア連邦の監査法」について</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001115</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001115</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 「α-Flowの紹介」</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002035/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002035/en</ClickUrl>
+        <Url>http://jairo.nii.ac.jp/0065/00002035</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002035</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 排出権に関する会計</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000231</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000231</ClickUrl>
+        <Title>JAIRO | 中国における証券市場の展開と課題</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002467</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002467</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 「うたかたの記」の実地踏査報告補遺</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002639</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002639</ClickUrl>
+        <Title>JAIRO | 我が国における野外教育に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00001880</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00001880</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | The Dynamics of Strategic Alliances</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000217/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000217/en</ClickUrl>
+        <Title>JAIRO | 和泉地区「2004・明治大学勝負の年は&amp;lt;和泉&amp;gt;から」</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002077</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002077</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 動産売買先取特権の実行と破産手続</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001721/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001721/en</ClickUrl>
+        <Title>JAIRO | 明治大学法学部機関誌の沿革(三・完)</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000451</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000451</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 契約と損害賠償責任(一)-「債権の効力」及び同一性理論を中心&lt;wbr&gt;に-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000546/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000546/en</ClickUrl>
+        <Title>JAIRO | 孫晋彦(Sohn, Jin-Eon)教授(東亜大学校工科大学、韓国)の短期招請に&lt;wbr&gt;ついて</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002559</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002559</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Hiroshi Itohニューヨーク州立大学教授(アメリカ)の短期招請につい&lt;wbr&gt;て</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002521/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002521/en</ClickUrl>
+        <Title>JAIRO | 旧民商法施行断行論(明治法律学校関係)の新資料四編</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000447</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000447</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 質量の高さ方向分布に不均等性を有する建物の地震荷重&lt;wbr&gt;-曲げせん断型均等フレームの弾塑性応答に基づく水平力分布&lt;wbr&gt;-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000114/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000114/en</ClickUrl>
+        <Title>JAIRO | Donald J. Calista博士(マリスト大学・米国)のアポイントメント・&lt;wbr&gt;プログラム招請について</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002563</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002563</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | スタンダールにおける相対主義的思考-その知的源泉と形成過程に&lt;wbr&gt;ついて-</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000408</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000408</ClickUrl>
+        <Title>JAIRO | 特許権の資産価値に関する一考察</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00000176</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00000176</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 児玉花外顕彰記念講演校歌誕生物語</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00001405</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00001405</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 「VPNを用いた学内ネットワークへの接続」</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00002074</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00002074</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | マーシャルにおける都市アメニティ保全の理論と政策</Title>
-        <Url>http://jairo.nii.ac.jp/0065/00000965</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0065/00000965</ClickUrl>
+        <Title>JAIRO | アジア的生産様式論と日本の中国史研究</Title>
+        <Url>http://jairo.nii.ac.jp/0065/00002964</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0065/00002964</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:35 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:35 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:53 PDT 2010 -->
+<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:53 PDT 2010 -->

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="2"
+    firstResultPosition="1"
+    totalResultsReturned="2">
+        <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=143</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=143</ClickUrl>
+    </Result>
+    <Result>
+        <Title>検索 èpage=10</Title>
+        <Url>http://www.o355.net/j/search_q=%C3%A8page=10</Url>
+        <ClickUrl>http://www.o355.net/j/search_q=%C3%A8page=10</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:06 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:06 PDT 2010 -->

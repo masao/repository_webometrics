@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="140"
+    totalResultsAvailable="193"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,6 +27,16 @@
         <ClickUrl>http://lib.med.tottori-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>鳥取大学医学図書館</Title>
         <Url>http://lib.med.tottori-u.ac.jp/homepage.html</Url>
         <ClickUrl>http://lib.med.tottori-u.ac.jp/homepage.html</ClickUrl>
@@ -37,14 +47,19 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=111</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | SR-2型土壌抵抗測定器による土壌剪断抵抗測定法の検討</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000112</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000112</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 数学における発見的論理と数学の学習指導 : G.ポリアとI.ラカトシュに学ぶ</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001647</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001647</ClickUrl>
     </Result>
     <Result>
         <Title>大学機関リポジトリ</Title>
@@ -52,9 +67,9 @@
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>鳥取大学附属図書館 - Tottori University Library</Title>
-        <Url>http://160.15.28.108/</Url>
-        <ClickUrl>http://160.15.28.108/</ClickUrl>
+        <Title>今井らい蔵 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E3%82%89%E3%81%84%E8%94%B5</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E3%82%89%E3%81%84%E8%94%B5</ClickUrl>
     </Result>
     <Result>
         <Title>鳥取大学附属図書館ホームページ(電子図書館)</Title>
@@ -67,99 +82,54 @@
         <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?itemid=3005</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 大正期における自由主義体育思想の研究(Ⅰ)</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001550</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001550</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | がんの疫学的研究 : 胃集団検診の評価(第2報)</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001816</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001816</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 新規人工染色体ベクターを用いたDNA-PKcs遺伝子発現制御&lt;wbr&gt;系の構築</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001815</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001815</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 1 Summaries of Doctor Theses</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000946</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000946</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 部落問題と差別意識との関連について</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001718</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001718</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 入眠状態およびレム睡眠時眼球運動の自動計測</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001808</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001808</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | ケヤキの利用材積と材質について</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001356</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001356</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Fluorescent Chromosome Banding in the Genus Epimedium</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001019</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001019</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | クヌギ採種林における種子生産</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001387</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001387</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 体育授業における走り高跳びの用器具の工夫について</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001081</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001081</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Bridging Gaps in Teaching Listening for Integrated ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000981</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000981</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 数学における発見的論理と数学の学習指導 : G.ポリアとI.ラカトシュに学ぶ</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001647</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001647</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=111</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=111</ClickUrl>
-    </Result>
-    <Result>
-        <Title>今井らい蔵 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E3%82%89%E3%81%84%E8%94%B5</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E3%82%89%E3%81%84%E8%94%B5</ClickUrl>
-    </Result>
-    <Result>
         <Title>データベース利用案内</Title>
         <Url>http://www.lib.tottori-u.ac.jp/databaselist201001.htm</Url>
         <ClickUrl>http://www.lib.tottori-u.ac.jp/databaselist201001.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 3 研究活動(2006年4月~2007年3月) 3.1 研究活動概要 3.2 共同研究 3.3 研究課題 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000964/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000964/en</ClickUrl>
+        <Title>JAIRO | On homotopy of a finite spectrum at the prime 3</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002237</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002237</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 4 研究活動(1996年4月~1997年3月) 4.1 研究活動概要 4.2 共同研究 4.3 研究課題 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000932/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000932/en</ClickUrl>
+        <Title>JAIRO | 森林管理における林分保有期間の最適決定に関するシステム論的考&lt;wbr&gt;察</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000712</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000712</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 脳血管障害患者に対する水中運動を利用した運動療法の効果</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001935</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001935</ClickUrl>
+        <Title>JAIRO | 教員免許更新講習への要望に関する調査報告 : 鳥取県における質問紙調査をもとに</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002342</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002342</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | メキシコの沙漠土壌の物理性に関する研究</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001819</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001819</ClickUrl>
+        <Title>JAIRO | On the E₂-term of the Novikov spectral sequence for a ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002253</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002253</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 留学生と児童が共に学ぶ異文化理解教育の実践 : 小学校における留学生の「正統的周辺参加」</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002334</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002334</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 若者たちの文化・労働と鳥取の現状</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002341</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002341</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Genomic Organization of the Human Arpp Gene</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000837</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000837</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 電着金属薄膜を用いた応力測定法とニ軸応力下におけるき裂進展挙&lt;wbr&gt;動に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002311</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002311</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 相互作用に着目した「比較・検討」段階の授業構想とその実践的検&lt;wbr&gt;討</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001655</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001655</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 黒毛和種去勢牛の理想肥育における粗飼料の有効利用に関する研究&lt;wbr&gt; : 第1報 粗飼料の給与割合が飼料効率と肉質 ...</Title>
@@ -167,19 +137,19 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00000598</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 遠隔病理診断(テレパソロジー)の現状と展望</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001911</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001911</ClickUrl>
+        <Title>JAIRO | がんの疫学的研究 : 胃集団検診の評価(第2報)</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001816</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001816</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Cycloartenol α-methyl ferulic acid (S-2185)の一般薬理作用 ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001944</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001944</ClickUrl>
+        <Title>JAIRO | 1 Summaries of Doctor Theses</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000946</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000946</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 常温下高K持続心筋保護液中Ca, Mg濃度の心筋保護効果に及ぼす影響について ラット摘出心working ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001818</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001818</ClickUrl>
+        <Title>JAIRO | 脳血管障害患者に対する水中運動を利用した運動療法の効果</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001935</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001935</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Assessment of Macular Function by Multifocal ...</Title>
@@ -187,75 +157,105 @@
         <ClickUrl>http://jairo.nii.ac.jp/0112/00000876</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | イギリスにおける混合農業の展開とその現代的意義</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000499</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000499</ClickUrl>
+        <Title>JAIRO | 新規人工染色体ベクターを用いたDNA-PKcs遺伝子発現制御&lt;wbr&gt;系の構築</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001815</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001815</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Angiotensin II and Fever in Rodents</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000916</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000916</ClickUrl>
+        <Title>JAIRO | レンブラントの歴史的肖像画 : ルフォーの委嘱による「三部作」について</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002041</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002041</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 1 Summaries of Doctor Theses</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000967</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000967</ClickUrl>
+        <Title>JAIRO | 侮蔑されたドクサの解放 : フッサールの生活世界の現象学</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001318</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001318</ClickUrl>
     </Result>
     <Result>
-        <Title>鳥取大学医学図書館</Title>
-        <Url>http://lib.med.tottori-u.ac.jp/enews/%20http://lib.med.tottori-u.ac.jp/homepage.html</Url>
-        <ClickUrl>http://lib.med.tottori-u.ac.jp/enews/%20http://lib.med.tottori-u.ac.jp/homepage.html</ClickUrl>
+        <Title>JAIRO | Vascular Leiomyoma of the Nasal Cavity: Case Report ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000850</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000850</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 健康体力指標に関する研究(第3報) : 運動量点数と喫煙・体格・体力・健康度の関係からみた運動効果の&lt;wbr&gt;検討</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001821/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001821/en</ClickUrl>
+        <Title>JAIRO | Immunohistochemical Detection of Occult Serosal ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000867</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000867</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Multiple Myeloma Presenting Symptoms in the Oral and ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000862/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000862/en</ClickUrl>
+        <Title>JAIRO | 入眠状態およびレム睡眠時眼球運動の自動計測</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001808</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001808</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Changes in Apoptosis-Related Genes (Bcl-2, Bax) in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000865/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000865/en</ClickUrl>
+        <Title>JAIRO | 関節軟骨細胞のプロテオグリカン代謝</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001910</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001910</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Experiential Education in the English Classroom</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000860/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000860/en</ClickUrl>
+        <Title>JAIRO | Sensitivity and Specificity of Denaturing HPLC to ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001859</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001859</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Angiotensin II and Fever in Rodents</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000916/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000916/en</ClickUrl>
+        <Title>JAIRO | 精神遅滞児の脳波トポグラフ的研究</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001809</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001809</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | A Case of Catamenial Pneumothorax Treated by Video ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000855/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000855/en</ClickUrl>
+        <Title>JAIRO | Cycloartenol α-methyl ferulic acid (S-2185)の一般薬理作用 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001944</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001944</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Changes in Cytokines at Extreme Surroundings in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000856/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000856/en</ClickUrl>
+        <Title>JAIRO | ブロンテ書簡研究(1)</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001945</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001945</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Slow and Fast Oscillation Electrooculography in ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000861/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000861/en</ClickUrl>
+        <Title>JAIRO | 知的障害者を対象とした高等教育保障の実践 : 「オープンカレッジin鳥取」の現状と課題</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002040</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002040</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Effects of Estrogen Replacement Therapy on the ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000848/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000848/en</ClickUrl>
+        <Title>JAIRO | BASIC言語学習支援システム</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001225</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001225</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Mismatch Repair Deficiency in Patients with Double ...</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000866/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000866/en</ClickUrl>
+        <Title>外国語部門 外国語教育の企画と大学教育の国際化推進</Title>
+        <Url>http://www.uec.tottori-u.ac.jp/~goto/goto.htm</Url>
+        <ClickUrl>http://www.uec.tottori-u.ac.jp/~goto/goto.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>和田 綾子</Title>
+        <Url>http://www.uec.tottori-u.ac.jp/~awada/wada.htm</Url>
+        <ClickUrl>http://www.uec.tottori-u.ac.jp/~awada/wada.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=111</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=111</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 地方小都市と自然災害 : 鳥取県中部を事例として : 第1報・その1 研究の概要と地震に関するアンケート調査</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001713/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001713/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 輸送モデルの非線形輸送費最適解とファジィモデル</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000553/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000553/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 看護の知</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002067/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002067/en</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:32 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:32 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:39 PDT 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:39 PDT 2010 -->

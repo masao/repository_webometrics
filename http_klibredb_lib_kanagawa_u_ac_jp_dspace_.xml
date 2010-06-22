@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="514"
+    totalResultsAvailable="791"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,14 +22,84 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>KANAGAWA University Repository: アラブにおける剣道指導の諸問題 : 日本文化とアラブ文化の ...</Title>
-        <Url>http://hdl.handle.net/10487/3909</Url>
-        <ClickUrl>http://hdl.handle.net/10487/3909</ClickUrl>
+        <Title>KANAGAWA University Repository: 古典逍遙 : 神奈川大学図書館貴重書目録</Title>
+        <Url>http://hdl.handle.net/10487/5163</Url>
+        <ClickUrl>http://hdl.handle.net/10487/5163</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</ClickUrl>
+        <Title>KANAGAWA University Repository: 近代日本の地方都市における士族と産業の担い手の数量的研究</Title>
+        <Url>http://hdl.handle.net/10487/4950</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4950</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔005〕頭書増補訓蒙図彙 巻之五 器用</Title>
+        <Url>http://hdl.handle.net/10487/4487</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4487</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔005〕唐土訓蒙図彙 巻之五 人物之下</Title>
+        <Url>http://hdl.handle.net/10487/4495</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4495</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔001〕唐土訓蒙図彙 巻之一 天文</Title>
+        <Url>http://hdl.handle.net/10487/4491</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4491</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: Lexicon technicum : or an ...</Title>
+        <Url>http://hdl.handle.net/10487/4481</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4481</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔010〕唐土訓蒙図彙 巻之十 器用之四</Title>
+        <Url>http://hdl.handle.net/10487/4500</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4500</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔004〕頭書増補訓蒙図彙 巻之四 身體 衣服 宝貨 器用</Title>
+        <Url>http://hdl.handle.net/10487/4486</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4486</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔002〕唐土訓蒙図彙 巻之二 地理</Title>
+        <Url>http://hdl.handle.net/10487/4492</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4492</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔011〕唐土訓蒙図彙 巻之十一 草木之上</Title>
+        <Url>http://hdl.handle.net/10487/4501</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4501</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔006〕唐土訓蒙図彙 巻之六 人事</Title>
+        <Url>http://hdl.handle.net/10487/4496</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4496</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔000〕唐土訓蒙図彙 総目録</Title>
+        <Url>http://hdl.handle.net/10487/4490</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4490</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔003〕頭書増補訓蒙図彙 巻之三 人物</Title>
+        <Url>http://hdl.handle.net/10487/4485</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4485</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔008〕唐土訓蒙図彙 巻之八 器用之二</Title>
+        <Url>http://hdl.handle.net/10487/4498</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4498</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 〔009〕唐土訓蒙図彙 巻之九 器用之三</Title>
+        <Url>http://hdl.handle.net/10487/4499</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4499</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
@@ -37,14 +107,24 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Cell Cycle and Chromosomes in Plants: So Many Kinds ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003460/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003460/en</ClickUrl>
+        <Title>KANAGAWA University Repository: 〔013〕唐土訓蒙図彙 巻之十三 禽獸</Title>
+        <Url>http://hdl.handle.net/10487/4503</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4503</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Le Charivari (samedi 9 septembre 1871)</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003099/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003099/en</ClickUrl>
+        <Title>KANAGAWA University Repository: 〔003〕唐土訓蒙図彙 巻之三 宮里</Title>
+        <Url>http://hdl.handle.net/10487/4493</Url>
+        <ClickUrl>http://hdl.handle.net/10487/4493</ClickUrl>
+    </Result>
+    <Result>
+        <Title>KANAGAWA University Repository: 21世紀国際貿易港湾発展の研究(一)</Title>
+        <Url>http://hdl.handle.net/10487/5239</Url>
+        <ClickUrl>http://hdl.handle.net/10487/5239</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=107</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
@@ -52,119 +132,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Yokohama harbor</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003514/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003514/en</ClickUrl>
+        <Title>JAIRO | 18 非文字資料研究 News Letter12 Information</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004320</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004320</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Wisteria in full blossoms Kameido,Tokyo.</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003491/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003491/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Los Empeños Qve Se Orecen / de Ivan Pérez de Montalván</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003557/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003557/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 筋生理学研究のための電子顕微鏡技法</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003463</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003463</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | マルチコアプロセッサでのRubyプログラムの高速実行方式の開&lt;wbr&gt;発</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003133</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003133</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | タイ王国における体格・体力測定 -実施マニュアル作成について(第1報)-</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003305</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003305</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | De iure annatarum / Ioannes Petro Ludewig ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002771</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002771</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Le Charivari (vendredi 15 septembre 1871)</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003101</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003101</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Le Charivari (samedi 16 septembre 1871)</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003102</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003102</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Inviting to play hattle-door and shuttle-cook</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003473</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003473</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | [02] 鉅野先生詩集 初編巻之3・初編巻之4</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003104</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003104</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | A Jaunt in Japan : or Ninity Day&apos;s Leave in the Far East</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003276</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003276</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | De obligatione successoris in principatus et ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002772</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002772</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 七言絶句 続編</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002721</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002721</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 神名川横浜新開港図</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002774</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002774</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 衡山樵話</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002722</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002722</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | &amp;lt;論文&amp;gt;中国と日本科学文化交流発展の研究</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002559</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002559</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Partes aequales in lucro et damno sociorum spectandas ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002751</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002751</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 会計情報システムとWeb2.0に関する一考察Ⅱ</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003304</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003304</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 七言絶句</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002728</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002728</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | De vero rerum pretio / Praeside Henrico Coccejo ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002748</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002748</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 外国人衣服仕立之図</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002773</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002773</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=107</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=107</ClickUrl>
+        <Title>JAIRO | Gedenkwaerdige gesantschappen der Oost-Indische ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00002908</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00002908</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | No Hai Vida como la Honra / de Juan Pérez de Montalván</Title>
@@ -172,90 +147,115 @@
         <ClickUrl>http://jairo.nii.ac.jp/0108/00003372/en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 23 舜水先生文集 巻之二十三</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003088/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003088/en</ClickUrl>
+        <Title>JAIRO | 12 解題と考察 明清小説と「姑蘇繁華図」</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004333</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004333</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 〔001〕 輿地誌略 巻一</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002729/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002729/en</ClickUrl>
+        <Title>神奈川大学 みんなで作る検索エンジン Kynny (キニー) BETA</Title>
+        <Url>http://www.kynny.com/q.php?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://www.kynny.com/q.php?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E5%A4%A7%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Histoire Naturelle, Civile, et Ecclesiastique de ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003555</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003555</ClickUrl>
+        <Title>JAIRO | 088-3 PHOTOCYCLIZATION OFN-ACYL-α ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004926</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004926</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Yokohama harbor</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003514</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003514</ClickUrl>
+        <Title>JAIRO | 084-3 Polymerization Behavior of Styrene and Oxetane ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004922</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004922</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 国学者雑集 上</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003114</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003114</ClickUrl>
+        <Title>JAIRO | 136-3 デヒドロペプチドを用いたテロメスタチンの全合成研究</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004965</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004965</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Le Charivari (dimanche 2 juillet 1871)</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003003</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003003</ClickUrl>
+        <Title>JAIRO | 143-3 新規α-ヒドロキシアルデヒド構築法を鍵反応とする天然産分枝糖&lt;wbr&gt;の合成研究</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004972</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004972</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Comedia Nueva, Intitulada, Lo Cierto por lo Dudoso ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003558</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003558</ClickUrl>
+        <Title>JAIRO | 112-3 Effects of Chemical Structure and Temperature ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004949</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004949</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Reflexiones sobre la clase de expresión escrita</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003551</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003551</ClickUrl>
+        <Title>JAIRO | 142-3 Synthesis of D-rubranitrose by using a novel ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004971</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004971</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | El Negro Mas Prodigioso / de Juan Bautista Diamante..</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003245</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003245</ClickUrl>
+        <Title>JAIRO | 100-3 アリールメチレン基を有するオキサゾロン誘導体のヒドラジドによ&lt;wbr&gt;る新規開環反応</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004937</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004937</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Histoire Naturelle, Civile, et Ecclesiastique de ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003554</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003554</ClickUrl>
+        <Title>JAIRO | 085-3 芳香族α-デヒドロアミノ酸誘導体の電子移動を経由する新規不斉&lt;wbr&gt;光環化反応</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004923</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004923</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Los Empeños Qve Se Orecen / de Ivan Pérez de Montalván</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003557</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003557</ClickUrl>
+        <Title>JAIRO | 095-3 ヒドロキシ置換芳香族ニトロン誘導体の新規光転位反応およびその&lt;wbr&gt;光反応性と生成物分布に及ぼす置換基効果</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004932</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004932</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Wisteria garden Maebashi,Nakasendo</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003493</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003493</ClickUrl>
+        <Title>JAIRO | 144-3 フェニルカルバモイル基の特性を利用するグリコシル化反応による&lt;wbr&gt;実用的な糖鎖の合成研究</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004973</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004973</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Sawing wood</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003513</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003513</ClickUrl>
+        <Title>JAIRO | 145-3 13C標識化2糖・受容タンパク質複合状態での糖鎖の新規NMR&lt;wbr&gt;構造解析法の研究</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004974</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004974</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | De expensis litis actori a reo subministrandis, Von ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002907</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002907</ClickUrl>
+        <Title>JAIRO | 091-3 N-アシル-1-ナフチルアラニルプロリンブチルアミドジアステ&lt;wbr&gt;レオマーのトリエチルアミンによる蛍光消光</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004928</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004928</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Le Charivari (dimanche 10 septembre 1871)</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00003095</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00003095</ClickUrl>
+        <Title>JAIRO | 107-3 Selective transport of amino acids across a ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004944</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004944</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Le Japon artistique : documents d&apos;art et d&apos;industrie ...</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002989</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002989</ClickUrl>
+        <Title>JAIRO | 117-3 TiO2~Carbonの複合粒子膜の調製とその機能性</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004954</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004954</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Paris dans les caves / par Moloch.</Title>
-        <Url>http://jairo.nii.ac.jp/0108/00002986</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0108/00002986</ClickUrl>
+        <Title>JAIRO | 094-3 アントラセン環を有するハイブリッド型開始剤の光分解挙動と重合&lt;wbr&gt;開始能</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004931</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004931</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 108-3 ベンジルアルコール液膜系における振動現象の輸送現象に及ぼす影&lt;wbr&gt;響</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004945</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004945</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 109-3 疎水性膜による有機物の分離と濃縮</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00004946</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00004946</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The EU and Japan Accelerate Mutual FDI(Special Issue ...</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00001782</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00001782</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 湯田豊先生のご停年退職 : ある時代の終わり</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00002011</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00002011</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 筋生理学研究のための電子顕微鏡技法</Title>
+        <Url>http://jairo.nii.ac.jp/0108/00003463</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0108/00003463</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:21 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:21 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:29 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:29 PDT 2010 -->

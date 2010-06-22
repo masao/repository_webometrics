@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="24"
+    totalResultsAvailable="270"
     firstResultPosition="1"
-    totalResultsReturned="24">
+    totalResultsReturned="50">
         <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
@@ -17,24 +17,114 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>AVR-RISC eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/AVR-RISC-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/AVR-RISC-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>sic power eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/sic-power-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/sic-power-pdf.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=122</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=122</ClickUrl>
     </Result>
     <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=122</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=122</ClickUrl>
+        <Title>電気工学</Title>
+        <Url>http://www.idnwhois.org/idn_yahoo.php?p=%E9%9B%BB%E6%B0%97%E5%B7%A5%E5%AD%A6</Url>
+        <ClickUrl>http://www.idnwhois.org/idn_yahoo.php?p=%E9%9B%BB%E6%B0%97%E5%B7%A5%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>一括検索 -ノズルの圧損-</Title>
-        <Url>http://seonum.com/rank/%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AE%E5%9C%A7%E6%90%8D.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AE%E5%9C%A7%E6%90%8D.html</ClickUrl>
+        <Title>JAIRO | ハイテク犯罪のトラブル2010</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000741</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000741</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 不均質材料の弾性変形における変形拘束の解析</Title>
-        <Url>http://jairo.nii.ac.jp/0123/00000022</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0123/00000022</ClickUrl>
+        <Title>JAIRO | 2次元フィルタおよびプロセスシステムに対する適応アルゴリズム&lt;wbr&gt;の開発に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000740</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000740</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ニューラルネットワークによるパターン認識に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000739</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000739</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 鋼材の腐食速度と熱処理</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000514</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000514</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 疲労き裂の発生機構に関するX線的研究</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000591</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000591</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : Adsorpt. Sci. Technol.</Title>
+        <Url>http://search.livedoor.com/search/?q=Adsorpt.+Sci.+Technol.</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=Adsorpt.+Sci.+Technol.</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 光学的は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B8%F7%B3%D8%C5%AA%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B8%F7%B3%D8%C5%AA%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | That-Clauseと同格になり得る名詞について</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000618</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000618</ClickUrl>
+    </Result>
+    <Result>
+        <Title>河合雅弘 プロフィール - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E6%B2%B3%E5%90%88%E9%9B%85%E5%BC%98/1182124/</Url>
+        <ClickUrl>http://spysee.jp/%E6%B2%B3%E5%90%88%E9%9B%85%E5%BC%98/1182124/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>哲学各論 - GOODSEARCH メタ検索</Title>
+        <Url>http://search.goodsearch.jp/search.cgi?q=%93N%8Aw%8Ae%98_&amp;thum=1</Url>
+        <ClickUrl>http://search.goodsearch.jp/search.cgi?q=%93N%8Aw%8Ae%98_&amp;thum=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | T-Engineを使ったパソコン-マイコン実験実習システムの&lt;wbr&gt;構築</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000050</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000050</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | セラミックウィスカ強化アルミニウム合金複合材料の熱処理</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000117</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000117</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 1年生指導における「一年団通信」発行の試み</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000087</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000087</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 物理答案に頻出する計算間違いのパターン</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000086</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000086</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 津山松平藩における万人講</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000586</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000586</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 『伊丹發句合』のオ麿の判詞と『圓機活法』</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000587</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000587</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | H2O2酸化黒鉛のN2吸着等温線に及ぼす繰り返し1000℃処&lt;wbr&gt;理の影響</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000051</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000051</ClickUrl>
     </Result>
     <Result>
         <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
@@ -42,14 +132,114 @@
         <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
     </Result>
     <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=122</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=122</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[AC2A] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/detail.php?word=AC2A&amp;source=resesrch&amp;p=7</Url>
+        <ClickUrl>http://gjtb.net/detail/detail.php?word=AC2A&amp;source=resesrch&amp;p=7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 寳井其角と漢文學</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000520</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000520</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 高炭素鋼の溶接継手に関する基礎的研究(第2報) -溶接熱影響部の再現熱処理による疲れ特性について&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000549</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000549</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 水平方向の運動による流れ画像の点拡がり関数同定について&lt;wbr&gt;(Ⅰ)</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000436</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000436</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 溶接熱影響部の組織分布のシュミレーション</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000278</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000278</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 有限要素法による磁界解析の応用研究(その2:配線用遮断器にお&lt;wbr&gt;ける電磁反発力の解析)</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000277</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000277</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 成績分析システムの開発</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000437</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000437</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -残留応力-</Title>
+        <Url>http://seonum.com/rank/%E6%AE%8B%E7%95%99%E5%BF%9C%E5%8A%9B.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E6%AE%8B%E7%95%99%E5%BF%9C%E5%8A%9B.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[複素弾性率] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/%E8%A4%87%E7%B4%A0%E5%BC%BE%E6%80%A7%E7%8E%87_all_1.html</Url>
+        <ClickUrl>http://gjtb.net/detail/%E8%A4%87%E7%B4%A0%E5%BC%BE%E6%80%A7%E7%8E%87_all_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ミニコン用学生実習システムの開発 -Ⅰ. FORTRAN処理システム-</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000608/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000608/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 2(1/4)Cr-1Mo鋼とオーステナイト系ステンレス鋼の溶&lt;wbr&gt;接継手の熱疲労特性について</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000628/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000628/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 高木貞治「解析概論」中の1問題について</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000691/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000691/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Fri, Apr 23 - Nagelなんてそもそも知らないし</Title>
+        <Url>http://d.hatena.ne.jp/viewfromnowhere/20100423/1272036576</Url>
+        <ClickUrl>http://d.hatena.ne.jp/viewfromnowhere/20100423/1272036576</ClickUrl>
+    </Result>
+    <Result>
+        <Title>マイクロ 風力 発電</Title>
+        <Url>http://www.mitumorikun.com/ddr/3528.html</Url>
+        <ClickUrl>http://www.mitumorikun.com/ddr/3528.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>図書館員もどきのひとり言</Title>
         <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
         <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
-        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
+        <Title>high speed camera droplets eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/high-speed-camera-droplets-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/high-speed-camera-droplets-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 1年生指導における「一年団通信」発行の試み</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000087/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000087/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 教職員研究集会を終えて</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000171/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000171/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -ノズルの圧損-</Title>
+        <Url>http://seonum.com/rank/%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AE%E5%9C%A7%E6%90%8D.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%8E%E3%82%BA%E3%83%AB%E3%81%AE%E5%9C%A7%E6%90%8D.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | SiCパワーデバイスの特性評価(第2報)</Title>
+        <Url>http://jairo.nii.ac.jp/0123/00000027</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0123/00000027</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 高温処理は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B9%E2%B2%B9%BD%E8%CD%FD%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B9%E2%B2%B9%BD%E8%CD%FD%A4%CF</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor ウェブ検索 検索結果 : 破壊特性は</Title>
@@ -57,75 +247,15 @@
         <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C7%CB%B2%F5%C6%C3%C0%AD%A4%CF</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 549</Title>
-        <Url>http://search.livedoor.com/search/?q=549&amp;start=40</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=549&amp;start=40</ClickUrl>
+        <Title>livedoor ウェブ検索 検索結果 : 蒸発反応槽は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BE%F8%C8%AF%C8%BF%B1%FE%C1%E5%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BE%F8%C8%AF%C8%BF%B1%FE%C1%E5%A4%CF</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : リポジトリは</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 解析は 体力冗は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B2%F2%C0%CF%A4%CF+%C2%CE%CE%CF%BE%E9%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B2%F2%C0%CF%A4%CF+%C2%CE%CE%CF%BE%E9%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : related:http://repository&lt;wbr&gt;.ipu-japan.ac.jp/</Title>
-        <Url>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Frepository.ipu-japan.ac.jp%2F&amp;theme=</Url>
-        <ClickUrl>http://search.livedoor.com/search/?lr=&amp;q=related%3Ahttp%3A%2F%2Frepository.ipu-japan.ac.jp%2F&amp;theme=</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 影響は 破壊特性は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B1%C6%B6%C1%A4%CF+%C7%CB%B2%F5%C6%C3%C0%AD%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B1%C6%B6%C1%A4%CF+%C7%CB%B2%F5%C6%C3%C0%AD%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>鷲見亮 - へんた式画像検索</Title>
-        <Url>http://hentaimage.net/%E9%B7%B2%E8%A6%8B%E4%BA%AE/</Url>
-        <ClickUrl>http://hentaimage.net/%E9%B7%B2%E8%A6%8B%E4%BA%AE/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 549</Title>
-        <Url>http://search.livedoor.com/search/?q=549&amp;start=30</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=549&amp;start=30</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : database open</Title>
-        <Url>http://search.livedoor.com/search/?q=database+open</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=database+open</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : &amp;lt;a web</Title>
-        <Url>http://search.livedoor.com/search/?q=%3Ca+web&amp;start=70</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%3Ca+web&amp;start=70</ClickUrl>
-    </Result>
-    <Result>
-        <Title>牧野 津山高専 - The Search メタ検索 2.0</Title>
-        <Url>http://meta2.the-search.jp/w/%E7%89%A7%E9%87%8E+%E6%B4%A5%E5%B1%B1%E9%AB%98%E5%B0%82_.html</Url>
-        <ClickUrl>http://meta2.the-search.jp/w/%E7%89%A7%E9%87%8E+%E6%B4%A5%E5%B1%B1%E9%AB%98%E5%B0%82_.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>津山高専 植月 - The Search メタ検索 2.0</Title>
-        <Url>http://meta2.the-search.jp/w/%E6%B4%A5%E5%B1%B1%E9%AB%98%E5%B0%82+%E6%A4%8D%E6%9C%88_.html</Url>
-        <ClickUrl>http://meta2.the-search.jp/w/%E6%B4%A5%E5%B1%B1%E9%AB%98%E5%B0%82+%E6%A4%8D%E6%9C%88_.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>電気音響工学 - ディスマス</Title>
-        <Url>http://www.dismas.jp/dic/Special:ECSearchWebBing/%E9%9B%BB%E6%B0%97%E9%9F%B3%E9%9F%BF%E5%B7%A5%E5%AD%A6</Url>
-        <ClickUrl>http://www.dismas.jp/dic/Special:ECSearchWebBing/%E9%9B%BB%E6%B0%97%E9%9F%B3%E9%9F%BF%E5%B7%A5%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>電気音響工学 - ディスマス</Title>
-        <Url>http://www.dismas.jp/dic/Special:ECSearchImageBing/%E9%9B%BB%E6%B0%97%E9%9F%B3%E9%9F%BF%E5%B7%A5%E5%AD%A6</Url>
-        <ClickUrl>http://www.dismas.jp/dic/Special:ECSearchImageBing/%E9%9B%BB%E6%B0%97%E9%9F%B3%E9%9F%BF%E5%B7%A5%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>金属工学 - ディスマス</Title>
-        <Url>http://www.dismas.jp/w/index.php?title=Special:ECSearchWebBing/%E9%87%91%E5%B1%9E%E5%B7%A5%E5%AD%A6&amp;from=60</Url>
-        <ClickUrl>http://www.dismas.jp/w/index.php?title=Special:ECSearchWebBing/%E9%87%91%E5%B1%9E%E5%B7%A5%E5%AD%A6&amp;from=60</ClickUrl>
+        <Title>livedoor ウェブ検索 検索結果 : 教育的効果は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B6%B5%B0%E9%C5%AA%B8%FA%B2%CC%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B6%B5%B0%E9%C5%AA%B8%FA%B2%CC%A4%CF</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:39 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:39 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:45 PDT 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:45 PDT 2010 -->

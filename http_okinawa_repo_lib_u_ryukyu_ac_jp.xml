@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="433"
+    totalResultsAvailable="500"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,14 +17,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>ドラゴンフルーツ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
-        <Url>http://miyakojimacity.jp/blog/</Url>
-        <ClickUrl>http://miyakojimacity.jp/blog/</ClickUrl>
     </Result>
     <Result>
         <Title>沖縄地域学リポジトリ試験公開記念講演会</Title>
@@ -32,24 +32,14 @@
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/okinawa-repo/20090206-event.html</ClickUrl>
     </Result>
     <Result>
-        <Title>沖縄地域学リポジトリが試験公開 | カレントアウェアネス・ポータル</Title>
-        <Url>http://current.ndl.go.jp/node/11910</Url>
-        <ClickUrl>http://current.ndl.go.jp/node/11910</ClickUrl>
+        <Title>十字路からの発言</Title>
+        <Url>http://www.fitweb.or.jp/~taka/talker16.html</Url>
+        <ClickUrl>http://www.fitweb.or.jp/~taka/talker16.html</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館、沖縄地域学リポジトリを試験公開&lt;wbr&gt;(2009-02-06) - ACADEMIC RESOURCE ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20090405/1238938274</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20090405/1238938274</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; EU資料展 オランダ~日蘭通商400周年~</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1615</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1615</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; PsycINFOとMEDLINEが統合検索できます&lt;wbr&gt;!</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1569</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1569</ClickUrl>
+        <Title>琉球大学附属図書館</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3403</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3403</ClickUrl>
     </Result>
     <Result>
         <Title>沖縄農業研究会</Title>
@@ -57,69 +47,29 @@
         <ClickUrl>http://www.cc.u-ryukyu.ac.jp/~okinoken/framepage1.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1582</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1582</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; 海外衛星放送受信局一覧表</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=910</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=910</ClickUrl>
-    </Result>
-    <Result>
         <Title>琉球大学附属図書館 &quot; 企画展「西洋人がみた琉球」を開催</Title>
         <Url>http://www.lib.u-ryukyu.ac.jp/?p=2040</Url>
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2040</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; ホームページをリニュアルしました!</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1302</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1302</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 著作権処理に関するセミナー :著作権制度及び図書館と著作権処理</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3270</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3270</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; Academic Search Elite(学術文献データベース)トライアル 終了しました!</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1558</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1558</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; 図書館オススメの本~環境展:みんなで考えてみよう</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1681</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1681</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; 学部学生の方/大学院生の方/教職員の方/学外の方</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=174</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=174</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; SCOPUS(スコーパス)による文献収集法:説明会</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1647</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1647</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; Scopus(書誌・引用文献検索)トライアル 終了しました!</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1554</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1554</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球大学附属図書館 &quot; 太陽光発電設備工事」に伴う進入等禁止区域について</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3287&amp;utm_source=twitterfeed&amp;utm_medium=twitter</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3287&amp;utm_source=twitterfeed&amp;utm_medium=twitter</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=120</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=120</ClickUrl>
-    </Result>
-    <Result>
-        <Title>工ルザ - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E5%B7%A5%E3%83%AB%E3%82%B6&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E5%B7%A5%E3%83%AB%E3%82%B6&amp;action=search</ClickUrl>
+        <Title>沖縄地域学リポジトリが試験公開 | カレントアウェアネス・ポータル</Title>
+        <Url>http://current.ndl.go.jp/node/11910</Url>
+        <ClickUrl>http://current.ndl.go.jp/node/11910</ClickUrl>
     </Result>
     <Result>
         <Title>琉球大学附属図書館</Title>
-        <Url>http://varda.lib.u-ryukyu.ac.jp/</Url>
-        <ClickUrl>http://varda.lib.u-ryukyu.ac.jp/</ClickUrl>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学:学内ニュース2月号</Title>
+        <Url>http://www.u-ryukyu.ac.jp/univ_info/inter_news/2009_feb.html</Url>
+        <ClickUrl>http://www.u-ryukyu.ac.jp/univ_info/inter_news/2009_feb.html</ClickUrl>
     </Result>
     <Result>
         <Title>琉球大学附属図書館 &quot; DynaMed, Cochrane Library 利用開始</Title>
@@ -127,59 +77,109 @@
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=47</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 開館時間</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=227</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=227</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 海外衛星放送受信局一覧表</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=910</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=910</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 図書館資料の探し方</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=375</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=375</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; ScienceDirect 一時サービス休止のお知らせ</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3281</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3281</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 施設と利用</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=336</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=336</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 停電に伴う図書館サービスへの影響について</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3187</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3187</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 図書館活動</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=183</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=183</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 「太陽光発電設備工事」に伴う騒音の発生及び進入等禁止区域につ&lt;wbr&gt;いて</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3249</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3249</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 閲覧と貸出</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=381</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=381</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; ScienceDirect 一時サービス休止のお知らせ</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2568</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2568</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 利用案内</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=185</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=185</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; オンライン講習会のお知らせ[Web of Science / EndNote Web ...</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3307</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3307</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 開館時間</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=264</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=264</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 「沖縄地域学リポジトリ」に琉球医学会誌を掲載しました</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3434</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3434</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 図書館活動</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=189</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=189</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 太陽光発電設備工事」に伴う進入等禁止区域について</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3287</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3287</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; SiteMap</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=389</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=389</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; オンライン講習会のお知らせ[Web of Science / EndNote Web ...</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3387</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3387</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 展示資料</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1153</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1153</ClickUrl>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=120</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=120</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 各種申請書</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1149</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1149</ClickUrl>
+        <Title>JAIRO | [調査報告]Web-Based Distance Learning in a Graduate ...</Title>
+        <Url>http://jairo.nii.ac.jp/0152/00000067/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0152/00000067/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=153</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=153</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館</Title>
+        <Url>http://varda.lib.u-ryukyu.ac.jp/</Url>
+        <ClickUrl>http://varda.lib.u-ryukyu.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; The Entrance and Exit sytem of the Library</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=881</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=881</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; List of Overseas Satellite Broadcasts</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=914</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=914</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; The Locations of the Library Materials</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=902</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=902</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 【緊急】統合検索・電子ジャーナルリストサービス停止のお知らせ</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2576</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2576</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 統合検索の使い方</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2539</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2539</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; Web of Knowledge一時サービス休止のお知らせ</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2570</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2570</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; EU資料展 オランダ~日蘭通商400周年~</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1615</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1615</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 貴重書展「文献資料にみる琉球・沖縄 in 名護」を開催</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2621</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2621</ClickUrl>
     </Result>
     <Result>
         <Title>琉球大学附属図書館 &quot; 第2回びぶりお文学賞受賞作品集を発行しました。</Title>
@@ -187,9 +187,34 @@
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1374</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 沖縄関係情報</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1110</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1110</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; リバイバル展!「文献資料にみる琉球・沖縄」開催</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3084</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3084</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 「日経BP記事検索サービス・大学版」トライアルのお知らせ</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2608</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2608</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 第2回びぶりお文学賞</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3173</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3173</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; 第3回「国際交流資料展」開催</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3294</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3294</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; メンテナンスに伴う利用停止について</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3254</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3254</ClickUrl>
+    </Result>
+    <Result>
+        <Title>琉球大学附属図書館 &quot; リポジトリサービス一時停止のお知らせ</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2547</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2547</ClickUrl>
     </Result>
     <Result>
         <Title>琉球大学附属図書館 &quot; 「公文書館資料展」を開催:6/29~7/3</Title>
@@ -197,65 +222,40 @@
         <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1851</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 使い方の案内</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1114</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1114</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 沖縄関係情報</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1110</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1110</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 事務手続きについて</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?cat=17</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?cat=17</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 図書館オススメの本:作家にチャレンジ!びぶりお文学賞大募集</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2360</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2360</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 12/14~12/17 多目的ホールの利用時間について</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3112</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3112</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; ScienceDirect 一時サービス休止のお知らせ</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2822</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2822</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; サイトマップ</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?page_id=326</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?page_id=326</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; 未分類</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1145</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1145</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 相談窓口</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?page_id=348</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?page_id=348</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; Lexis.com日本語ユーザーインターフェース追加のお知ら&lt;wbr&gt;せ</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=3233</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=3233</ClickUrl>
     </Result>
     <Result>
-        <Title>琉球大学附属図書館 &quot; 琉球大学附属図書館(モバイル版)</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/?page_id=339</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?page_id=339</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; PsycINFOとMEDLINEが統合検索できます&lt;wbr&gt;!</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=1569</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=1569</ClickUrl>
     </Result>
     <Result>
-        <Title>十字路からの発言</Title>
-        <Url>http://www.fitweb.or.jp/~taka/talker16.html</Url>
-        <ClickUrl>http://www.fitweb.or.jp/~taka/talker16.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
-        <Url>http://www.miyakojimacity.jp/blog/?itemid=37</Url>
-        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=37</ClickUrl>
-    </Result>
-    <Result>
-        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
-        <Url>http://www.miyakojimacity.jp/blog/?itemid=20</Url>
-        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=20</ClickUrl>
-    </Result>
-    <Result>
-        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
-        <Url>http://www.miyakojimacity.jp/blog/?itemid=23</Url>
-        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=23</ClickUrl>
-    </Result>
-    <Result>
-        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
-        <Url>http://www.miyakojimacity.jp/blog/?itemid=227</Url>
-        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=227</ClickUrl>
-    </Result>
-    <Result>
-        <Title>来間島 in宮古島 Projects「来間島Yacha Yacha/ヤッカヤッカ」</Title>
-        <Url>http://www.miyakojimacity.jp/blog/?itemid=561</Url>
-        <ClickUrl>http://www.miyakojimacity.jp/blog/?itemid=561</ClickUrl>
+        <Title>琉球大学附属図書館 &quot; LexisNexisよりサービス停止について</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/?p=2826</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/?p=2826</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:37 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:37 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:43 PDT 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:43 PDT 2010 -->

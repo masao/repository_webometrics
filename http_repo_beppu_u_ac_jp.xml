@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="328"
+    totalResultsAvailable="407"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,6 +27,11 @@
         <ClickUrl>http://www6.beppu-u.ac.jp/lib/</ClickUrl>
     </Result>
     <Result>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(西日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-2.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-2.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>別府大学附属図書館</Title>
         <Url>http://www6.beppu-u.ac.jp/lib/e_argo/e_argo.html</Url>
         <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/e_argo.html</ClickUrl>
@@ -37,34 +42,34 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=126</ClickUrl>
     </Result>
     <Result>
-        <Title>辞倅 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E8%BE%9E%E5%80%85&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E8%BE%9E%E5%80%85&amp;action=search</ClickUrl>
+        <Title>リンク集 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/b_siryou/b_3_link/b_3_link.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/b_siryou/b_3_link/b_3_link.html</ClickUrl>
     </Result>
     <Result>
-        <Title>遠野物語捨遺 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E%E6%8D%A8%E9%81%BA&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%81%A0%E9%87%8E%E7%89%A9%E8%AA%9E%E6%8D%A8%E9%81%BA&amp;action=search</ClickUrl>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>今昔物語集 巻五 猟師 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E%E9%9B%86+%E5%B7%BB%E4%BA%94+%E7%8C%9F%E5%B8%AB&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E%E9%9B%86+%E5%B7%BB%E4%BA%94+%E7%8C%9F%E5%B8%AB&amp;action=search</ClickUrl>
+        <Title>刺青 - ディスマス</Title>
+        <Url>http://www.dismas.jp/dic/%E5%88%BA%E9%9D%92</Url>
+        <ClickUrl>http://www.dismas.jp/dic/%E5%88%BA%E9%9D%92</ClickUrl>
     </Result>
     <Result>
-        <Title>今昔物語集 鬼 第二十七 本朝付霊鬼 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E%E9%9B%86+%E9%AC%BC%E3%80%80%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83+%E6%9C%AC%E6%9C%9D%E4%BB%98%E9%9C%8A%E9%AC%BC&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E4%BB%8A%E6%98%94%E7%89%A9%E8%AA%9E%E9%9B%86+%E9%AC%BC%E3%80%80%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83+%E6%9C%AC%E6%9C%9D%E4%BB%98%E9%9C%8A%E9%AC%BC&amp;action=search</ClickUrl>
+        <Title>ムスティエ文化 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A8%E6%96%87%E5%8C%96</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A8%E6%96%87%E5%8C%96</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : データ改変のパターン概略</Title>
-        <Url>http://search.livedoor.com/search/?q=%A2%A3%A5%C7%A1%BC%A5%BF%B2%FE%CA%D1%A4%CE%A5%D1%A5%BF%A1%BC%A5%F3%B3%B5%CE%AC</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%A2%A3%A5%C7%A1%BC%A5%BF%B2%FE%CA%D1%A4%CE%A5%D1%A5%BF%A1%BC%A5%F3%B3%B5%CE%AC</ClickUrl>
+        <Title>livedoor ウェブ検索 検索結果 : 手作り料理@大学生</Title>
+        <Url>http://search.livedoor.com/search/?q=%BC%EA%BA%EE%A4%EA%CE%C1%CD%FD%A1%F7%C2%E7%B3%D8%C0%B8</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%BC%EA%BA%EE%A4%EA%CE%C1%CD%FD%A1%F7%C2%E7%B3%D8%C0%B8</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : システムは 別府大学は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%B7%A5%B9%A5%C6%A5%E0%A4%CF+%CA%CC%C9%DC%C2%E7%B3%D8%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%A5%B7%A5%B9%A5%C6%A5%E0%A4%CF+%CA%CC%C9%DC%C2%E7%B3%D8%A4%CF</ClickUrl>
+        <Title>kawaphonの日記</Title>
+        <Url>http://d.hatena.ne.jp/phon75383timk/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/phon75383timk/</ClickUrl>
     </Result>
     <Result>
         <Title>サイトマップ 別府大学附属図書館</Title>
@@ -97,14 +102,14 @@
         <ClickUrl>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_5_map/a_5_map.html</ClickUrl>
     </Result>
     <Result>
-        <Title>リンク集 別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/b_siryou/b_3_link/b_3_link.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/b_siryou/b_3_link/b_3_link.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>別府大学附属図書館</Title>
         <Url>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_1_riyou/a_1_riyou.html</Url>
         <ClickUrl>http://www6.beppu-u.ac.jp/lib/a_gaiyou/a_1_riyou/a_1_riyou.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>修士論文一覧 別府大学附属図書館</Title>
+        <Url>http://www6.beppu-u.ac.jp/lib/b_siryou/b_1_tosyokan/shuuron.html</Url>
+        <ClickUrl>http://www6.beppu-u.ac.jp/lib/b_siryou/b_1_tosyokan/shuuron.html</ClickUrl>
     </Result>
     <Result>
         <Title>寄贈文庫コレクション 別府大学附属図書館</Title>
@@ -122,11 +127,6 @@
         <ClickUrl>https://info.co-creates.co.jp/SSL/beppu-u/lib/c_kounyu/c_1_kounyu.html</ClickUrl>
     </Result>
     <Result>
-        <Title>刺青 - ディスマス</Title>
-        <Url>http://www.dismas.jp/aff/index.php?title=%E5%88%BA%E9%9D%92&amp;affid=X3rUj7ALa0</Url>
-        <ClickUrl>http://www.dismas.jp/aff/index.php?title=%E5%88%BA%E9%9D%92&amp;affid=X3rUj7ALa0</ClickUrl>
-    </Result>
-    <Result>
         <Title>問い合わせ 別府大学附属図書館</Title>
         <Url>https://info.co-creates.co.jp/SSL/beppu-u/lib/d_inq/d_1_inq/d_1_inq.html</Url>
         <ClickUrl>https://info.co-creates.co.jp/SSL/beppu-u/lib/d_inq/d_1_inq/d_1_inq.html</ClickUrl>
@@ -142,24 +142,94 @@
         <ClickUrl>http://homepage2.nifty.com/yoshimi3/</ClickUrl>
     </Result>
     <Result>
-        <Title>図書館員もどきのひとり言</Title>
-        <Url>http://liblog.seesaa.net/index-9.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/index-9.html</ClickUrl>
+        <Title>別府大学 みんなで作る検索エンジン Kynny (キニー) BETA</Title>
+        <Url>http://www.kynny.com/q.php?q=%E5%88%A5%E5%BA%9C%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://www.kynny.com/q.php?q=%E5%88%A5%E5%BA%9C%E5%A4%A7%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>入れ墨 - 韓国辞書、ウィキペディア</Title>
-        <Url>http://wiki.wowkorea.jp/?word=%E5%85%A5%E3%82%8C%E5%A2%A8</Url>
-        <ClickUrl>http://wiki.wowkorea.jp/?word=%E5%85%A5%E3%82%8C%E5%A2%A8</ClickUrl>
+        <Title>JAIRO | 奴隷反乱の宗教的・民族的側面(一) : J・フォークトの奴隷反乱研究を中心にして</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001887</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001887</ClickUrl>
     </Result>
     <Result>
-        <Title>download 傘の恩返し - results - www.fd3la.com</Title>
-        <Url>http://www.fd3la.com/engsearch.php?title=download+%E5%82%98%E3%81%AE%E6%81%A9%E8%BF%94%E3%81%97&amp;action=search</Url>
-        <ClickUrl>http://www.fd3la.com/engsearch.php?title=download+%E5%82%98%E3%81%AE%E6%81%A9%E8%BF%94%E3%81%97&amp;action=search</ClickUrl>
+        <Title>JAIRO | 奥付</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000036</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000036</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「世界遺産への道」&apos;07 : 地域文化の継承と世界遺産</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00002293</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00002293</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 希求像としての光明子</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001439</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001439</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 万病に苦しむ書聖王羲之考</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000737</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000737</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 屎葛の歌 : 万葉巻十六の歌をよむ</Title>
         <Url>http://jairo.nii.ac.jp/0127/00001766</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0127/00001766</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 展覧会を通してみる近代欧州の日本古美術に対する認識の変遷 : 1910年「日英博覧会」と1939年「伯林 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001317</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001317</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 選挙大干渉の政治史的考察 (2)</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000924</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000924</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 『辞格考抄本』解題及び『大分県立図書館蔵 辞格考抄本』影印</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001781</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001781</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「程度副詞」における程度性の変遷について : 「あまり」と「あまた」を中心に</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001782</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001782</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 相撲界に「新しい期待」を</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001537</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001537</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 短大生のストレス度チェックと食生活</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00000947</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00000947</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「近代の超克」関連文献</Title>
+        <Url>http://www.asia2020.jp/japan/choukoku_b.htm</Url>
+        <ClickUrl>http://www.asia2020.jp/japan/choukoku_b.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : INFOSTA</Title>
+        <Url>http://search.livedoor.com/search/?q=INFOSTA</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=INFOSTA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 1D</Title>
+        <Url>http://search.livedoor.com/search/?q=1D&amp;start=40</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=1D&amp;start=40</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 1D</Title>
+        <Url>http://search.livedoor.com/search/?q=1D&amp;start=50</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=1D&amp;start=50</ClickUrl>
     </Result>
     <Result>
         <Title>Links - XooNIps研究会</Title>
@@ -177,85 +247,15 @@
         <ClickUrl>http://seonum.com/rank/%E5%9B%B3%E6%9B%B8%E9%A4%A8+%E6%8E%A1%E7%94%A8.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 「古今集」に見る大和</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001595/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001595/en</ClickUrl>
+        <Title>独立行政法人 理化学研究所 脳科学総 研究センター 神経情報基盤センター 奥村 嘉宏</Title>
+        <Url>http://nijc.brain.riken.jp/xoonips/index.php?plugin=attach&amp;pcmd=open&amp;file=okumura.pdf&amp;refer=WorkShop%2F20100122</Url>
+        <ClickUrl>http://nijc.brain.riken.jp/xoonips/index.php?plugin=attach&amp;pcmd=open&amp;file=okumura.pdf&amp;refer=WorkShop%2F20100122</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 若山牧水日記にみる読書記録(三)</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001536/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001536/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | フランス料理研修旅行報告</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00000779/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00000779/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>【メンタルストレステスト】の検索結果| Ameba Search(アメーバサーチ)</Title>
-        <Url>http://web-search.ameba.jp/search.html?q=%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%86%E3%82%B9%E3%83%88&amp;webNumResults=10&amp;webFirstResult=20&amp;nowPage=3</Url>
-        <ClickUrl>http://web-search.ameba.jp/search.html?q=%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B9%E3%83%88%E3%83%AC%E3%82%B9%E3%83%86%E3%82%B9%E3%83%88&amp;webNumResults=10&amp;webFirstResult=20&amp;nowPage=3</ClickUrl>
-    </Result>
-    <Result>
-        <Title>サク(壁山の弟)はどうしたら仲間にできる - results - www.fd3la.com</Title>
-        <Url>http://www.fd3la.com/engsearch.php?title=%E3%82%B5%E3%82%AF%EF%BC%88%E5%A3%81%E5%B1%B1%E3%81%AE%E5%BC%9F%EF%BC%89%E3%81%AF%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E4%BB%B2%E9%96%93%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B&amp;action=search</Url>
-        <ClickUrl>http://www.fd3la.com/engsearch.php?title=%E3%82%B5%E3%82%AF%EF%BC%88%E5%A3%81%E5%B1%B1%E3%81%AE%E5%BC%9F%EF%BC%89%E3%81%AF%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E4%BB%B2%E9%96%93%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>年間開館スケジュール 別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/i_kaikan/i_kaikan.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/i_kaikan/i_kaikan.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/e_argo/e_backnumber.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/e_argo/e_backnumber.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>キーワード ちょっとした気まぐれ 2009年12月16日(Wed) 19時28分14秒</Title>
-        <Url>http://seo.bookstudio.com/1001/JHKnuwb7/20091216192814.htm</Url>
-        <ClickUrl>http://seo.bookstudio.com/1001/JHKnuwb7/20091216192814.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>修士論文一覧 別府大学附属図書館</Title>
-        <Url>http://www6.beppu-u.ac.jp/lib/b_siryou/b_1_tosyokan/shuuron.html</Url>
-        <ClickUrl>http://www6.beppu-u.ac.jp/lib/b_siryou/b_1_tosyokan/shuuron.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>観光と文化―旅の民族誌 | ってどうよブログ</Title>
-        <Url>http://ttedouyo.net/wp/?p=56859</Url>
-        <ClickUrl>http://ttedouyo.net/wp/?p=56859</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 『辞格考抄本』解題及び『大分県立図書館蔵 辞格考抄本』影印</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001781</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001781</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 「程度副詞」における程度性の変遷について : 「あまり」と「あまた」を中心に</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001782</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001782</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 民法716条立法趣旨と参照英判例</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001524</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001524</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 元和元年一国一城令の影響 : 筑前国の場合</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00000209</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00000209</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | フランス料理研修旅行報告</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00000779</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00000779</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 相撲界に「新しい期待」を</Title>
-        <Url>http://jairo.nii.ac.jp/0127/00001537</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0127/00001537</ClickUrl>
+        <Title>JAIRO | CONTENTS</Title>
+        <Url>http://jairo.nii.ac.jp/0127/00001436/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0127/00001436/en</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:45 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:45 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:50 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:50 PDT 2010 -->

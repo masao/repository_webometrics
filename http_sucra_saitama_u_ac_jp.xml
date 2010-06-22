@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="5355"
+    totalResultsAvailable="7350"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,9 +27,9 @@
         <ClickUrl>http://www.nwec.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+        <Title>Renga - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Renga</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Renga</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -37,9 +37,24 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>埼玉大学図書館 トップページ</Title>
-        <Url>http://www.lib.saitama-u.ac.jp/</Url>
-        <ClickUrl>http://www.lib.saitama-u.ac.jp/</ClickUrl>
+        <Title>Ian Ruxton&apos;s Ernest Satow Page</Title>
+        <Url>http://www.dhs.kyutech.ac.jp/~ruxton/satow.html</Url>
+        <ClickUrl>http://www.dhs.kyutech.ac.jp/~ruxton/satow.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>埼玉大学図書館</Title>
+        <Url>http://home.lib.saitama-u.ac.jp/</Url>
+        <ClickUrl>http://home.lib.saitama-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Barbaroi!</Title>
+        <Url>http://web.kyoto-inet.or.jp/people/tiakio/</Url>
+        <ClickUrl>http://web.kyoto-inet.or.jp/people/tiakio/</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -47,14 +62,19 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+        <Title>Renku - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Renku</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Renku</ClickUrl>
     </Result>
     <Result>
         <Title>Kenichi SHIMOSAKA, Dr. Eng.</Title>
@@ -67,19 +87,9 @@
         <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/klib/</ClickUrl>
     </Result>
     <Result>
-        <Title>Renku - Wikipedia, the free encyclopedia</Title>
-        <Url>http://en.wikipedia.org/wiki/Renku</Url>
-        <ClickUrl>http://en.wikipedia.org/wiki/Renku</ClickUrl>
-    </Result>
-    <Result>
         <Title>城西大学 水田記念図書館</Title>
         <Url>http://libopac.josai.ac.jp/</Url>
         <ClickUrl>http://libopac.josai.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>跡見学園女子大学図書館</Title>
-        <Url>http://www.atomi.ac.jp/lib/</Url>
-        <ClickUrl>http://www.atomi.ac.jp/lib/</ClickUrl>
     </Result>
     <Result>
         <Title>交通アクセス - 国立女性教育会館</Title>
@@ -87,9 +97,9 @@
         <ClickUrl>http://www.nwec.jp/jp/about/access.html</ClickUrl>
     </Result>
     <Result>
-        <Title>文教大学湘南図書館</Title>
-        <Url>http://www.bunkyo.ac.jp/faculty/lib/slib/index.htm</Url>
-        <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/slib/index.htm</ClickUrl>
+        <Title>女子栄養大学図書館 短期大学部図書館 香川調理製菓専門学校図書室</Title>
+        <Url>http://www.eiyo.ac.jp/library/</Url>
+        <ClickUrl>http://www.eiyo.ac.jp/library/</ClickUrl>
     </Result>
     <Result>
         <Title>観念論 - Wikipedia</Title>
@@ -97,54 +107,9 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E8%A6%B3%E5%BF%B5%E8%AB%96</ClickUrl>
     </Result>
     <Result>
-        <Title>女子栄養大学図書館 短期大学部図書館 香川栄養専門学校図書室</Title>
-        <Url>http://www.eiyo.ac.jp/library/</Url>
-        <ClickUrl>http://www.eiyo.ac.jp/library/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「男女共同参画のための研究と実践の交流推進フォーラム」の開催&lt;wbr&gt;について - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2008/page03i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2008/page03i.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>文教大学・文教大学女子短期大学部|交通案内:越谷キャンパス</Title>
-        <Url>http://www.bunkyo.ac.jp/access/koshi.htm</Url>
-        <ClickUrl>http://www.bunkyo.ac.jp/access/koshi.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「女子高校生夏の学校」募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2007/page12i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2007/page12i.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「男女共同参画のための研究と実践の交流推進フォーラム」&lt;wbr&gt;(NWECフォーラム)募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2009/page05i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page05i.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>女性教育情報センター - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/center/</Url>
-        <ClickUrl>http://www.nwec.jp/jp/center/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>文教大学・文教大学女子短期大学部|交通案内:湘南キャンパス</Title>
-        <Url>http://www.bunkyo.ac.jp/access/shonan.htm</Url>
-        <ClickUrl>http://www.bunkyo.ac.jp/access/shonan.htm</ClickUrl>
+        <Title>跡見学園女子大学図書館</Title>
+        <Url>http://www.atomi.ac.jp/lib/</Url>
+        <ClickUrl>http://www.atomi.ac.jp/lib/</ClickUrl>
     </Result>
     <Result>
         <Title>施設案内 - 国立女性教育会館</Title>
@@ -152,14 +117,34 @@
         <ClickUrl>http://www.nwec.jp/jp/about/facilities/</ClickUrl>
     </Result>
     <Result>
-        <Title>女性情報アーキビスト入門講座 受講者募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/archive/archivist.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/archive/archivist.html</ClickUrl>
+        <Title>文教大学湘南図書館</Title>
+        <Url>http://www.bunkyo.ac.jp/faculty/lib/slib/index.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/slib/index.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>「男女共同参画のための研究と実践の交流推進フォーラムワークシ&lt;wbr&gt;ョップ」募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2009/page05w.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page05w.html</ClickUrl>
+        <Title>学園案内|文教大学・文教大学女子短期大学部</Title>
+        <Url>http://www.bunkyo.ac.jp/gakuen/index.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/gakuen/index.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>交通案内:越谷キャンパス|文教大学・文教大学女子短期大学部</Title>
+        <Url>http://www.bunkyo.ac.jp/access/koshi.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/access/koshi.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2ちゃん的韓国ニュース : 【LCD裁判】 韓国サムスン電子、シャープを米連邦地裁に提訴〜特許侵害と主張</Title>
+        <Url>http://blog.livedoor.jp/newskorea/archives/1062888.html</Url>
+        <ClickUrl>http://blog.livedoor.jp/newskorea/archives/1062888.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>出版物・報告書 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/publish/</Url>
+        <ClickUrl>http://www.nwec.jp/jp/publish/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「男女共同参画のための研究と実践の交流推進フォーラム」&lt;wbr&gt;(NWECフォーラム)募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2009/page05i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page05i.html</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -167,9 +152,44 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Title>「男女共同参画のための研究と実践の交流推進フォーラム」の開催&lt;wbr&gt;について - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2008/page03i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2008/page03i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女性関連施設・地方公共団体・団体リーダーのための男女共同参画&lt;wbr&gt;推進研修 募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2010/page01i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2010/page01i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女性教育情報センター - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/center/</Url>
+        <ClickUrl>http://www.nwec.jp/jp/center/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>交通案内:湘南キャンパス|文教大学・文教大学女子短期大学部</Title>
+        <Url>http://www.bunkyo.ac.jp/access/shonan.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/access/shonan.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女性情報アーキビスト入門講座 受講者募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/archive/archivist.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/archive/archivist.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
         <Title>文教大学・文教大学女子短期大学部|入試情報</Title>
@@ -177,9 +197,24 @@
         <ClickUrl>http://www.bunkyo.ac.jp/stf/nyushi/</ClickUrl>
     </Result>
     <Result>
-        <Title>学園案内|文教大学・文教大学女子短期大学部</Title>
-        <Url>http://www.bunkyo.ac.jp/gakuen/index.htm</Url>
-        <ClickUrl>http://www.bunkyo.ac.jp/gakuen/index.htm</ClickUrl>
+        <Title>文教大学図書館: Bunkyo University Library</Title>
+        <Url>http://www.bunkyo.ac.jp/faculty/lib/</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「女子高校生夏の学校」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2007/page12i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2007/page12i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Renga: Information from Answers.com</Title>
+        <Url>http://www.answers.com/topic/renga</Url>
+        <ClickUrl>http://www.answers.com/topic/renga</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
         <Title>国立女性教育会館研究ジャーナル - 国立女性教育会館</Title>
@@ -192,59 +227,9 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「家庭教育・次世代育成のための指導者養成セミナー」募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2009/page02i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page02i.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>女性アーカイブセンター - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/archive/</Url>
-        <ClickUrl>http://www.nwec.jp/jp/archive/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>文教大学図書館: Bunkyo University Library</Title>
-        <Url>http://www.bunkyo.ac.jp/faculty/lib/</Url>
-        <ClickUrl>http://www.bunkyo.ac.jp/faculty/lib/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>埼玉大学 | 教育・研究</Title>
-        <Url>http://www.saitama-u.ac.jp/education/index.html</Url>
-        <ClickUrl>http://www.saitama-u.ac.jp/education/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>埼玉大学 | 教育・研究 | 特徴ある教育</Title>
-        <Url>http://www.saitama-u.ac.jp/education/feature/index.html</Url>
-        <ClickUrl>http://www.saitama-u.ac.jp/education/feature/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「男女共同参画のための研究と実践の交流推進フォーラム」募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2007/page07i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2007/page07i.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「女子中高生夏の学校2009」募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2009/page04i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page04i.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>埼玉大学情報メディア基盤センター -</Title>
-        <Url>http://www.saitama-u.ac.jp/media/</Url>
-        <ClickUrl>http://www.saitama-u.ac.jp/media/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>FrontPage - 上野研究室@埼玉大学 公式Webページ</Title>
-        <Url>http://surface-www.chem.saitama-u.ac.jp/index.html</Url>
-        <ClickUrl>http://surface-www.chem.saitama-u.ac.jp/index.html</ClickUrl>
+        <Title>文教大学 入試情報 オープンキャンパス日程</Title>
+        <Url>http://www.bunkyo.ac.jp/stf/nyushi/op/op_index.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/stf/nyushi/op/op_index.htm</ClickUrl>
     </Result>
     <Result>
         <Title>家庭教育に関する国際比較調査報告書 - 国立女性教育会館</Title>
@@ -252,10 +237,25 @@
         <ClickUrl>http://www.nwec.jp/jp/publish/report/page16.html</ClickUrl>
     </Result>
     <Result>
-        <Title>「女子中高生夏の学校」募集 - 国立女性教育会館</Title>
-        <Url>http://www.nwec.jp/jp/program/invite/2008/page09i.html</Url>
-        <ClickUrl>http://www.nwec.jp/jp/program/invite/2008/page09i.html</ClickUrl>
+        <Title>「女子中高生夏の学校2009」募集 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/program/invite/2009/page04i.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/program/invite/2009/page04i.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>FrontPage - 上野研究室@埼玉大学 公式Webページ</Title>
+        <Url>http://surface-www.chem.saitama-u.ac.jp/index.html</Url>
+        <ClickUrl>http://surface-www.chem.saitama-u.ac.jp/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文教大学・文教大学女子短期大学部|健康栄養学部 管理栄養学科のお知らせ</Title>
+        <Url>http://www.bunkyo.ac.jp/new_faculty/index.htm</Url>
+        <ClickUrl>http://www.bunkyo.ac.jp/new_faculty/index.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>理事長挨拶 - 国立女性教育会館</Title>
+        <Url>http://www.nwec.jp/jp/about/message.html</Url>
+        <ClickUrl>http://www.nwec.jp/jp/about/message.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:20 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:20 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:28 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:28 PDT 2010 -->

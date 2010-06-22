@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1986"
+    totalResultsAvailable="653"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,9 +22,44 @@
         <ClickUrl>http://www.jaist.ac.jp/ks/labs/knishi/</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIST Repository: 超小型元素分析装置の開発</Title>
+        <Url>http://hdl.handle.net/10119/8182</Url>
+        <ClickUrl>http://hdl.handle.net/10119/8182</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
         <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: RAPT : A Program Transformation System ...</Title>
+        <Url>http://hdl.handle.net/10119/4910</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4910</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: ホルダ内におけるスタイラスの動作量を利用した入力インタフェー&lt;wbr&gt;ス(インタフェースデザイン ...</Title>
+        <Url>http://hdl.handle.net/10119/4595</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4595</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: Coloring-in Pianoによる2ステップ打ち込みの提案</Title>
+        <Url>http://hdl.handle.net/10119/3345</Url>
+        <ClickUrl>http://hdl.handle.net/10119/3345</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: Hierarchical organization of the ...</Title>
+        <Url>http://hdl.handle.net/10119/7758</Url>
+        <ClickUrl>http://hdl.handle.net/10119/7758</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php?rID=974</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?rID=974</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: コミュニケーションにおける笑いの出現パターン:遠隔キーボード&lt;wbr&gt;対話と対面音声対話の比較</Title>
+        <Url>http://hdl.handle.net/10119/721</Url>
+        <ClickUrl>http://hdl.handle.net/10119/721</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: JAIST学術研究成果リポジトリ平成18年度成果報告</Title>
@@ -37,144 +72,59 @@
         <ClickUrl>http://hdl.handle.net/10119/4471</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 化学的手法を用いた芳香制御及び嗅覚情報提示システムに関する研&lt;wbr&gt;究</Title>
-        <Url>http://hdl.handle.net/10119/8013</Url>
-        <ClickUrl>http://hdl.handle.net/10119/8013</ClickUrl>
+        <Title>JAIST Repository: ユーザ用件に基づく情報統合環境に関する研究</Title>
+        <Url>http://hdl.handle.net/10119/8011</Url>
+        <ClickUrl>http://hdl.handle.net/10119/8011</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 音声のスペクトル包絡における個人性に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/838</Url>
-        <ClickUrl>http://hdl.handle.net/10119/838</ClickUrl>
+        <Title>JAIST Repository: リアルタイムなコミュニケーション行為であるチャットへの意味タ&lt;wbr&gt;グ付加と電子ゼミナールへの ...</Title>
+        <Url>http://hdl.handle.net/10119/4592</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4592</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 非定型的意志決定の支援システム構築に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/352</Url>
-        <ClickUrl>http://hdl.handle.net/10119/352</ClickUrl>
+        <Title>JAIST Repository: 開発プロジェクトに応じて拡張可能な版管理システム構成法</Title>
+        <Url>http://hdl.handle.net/10119/1689?locale=en</Url>
+        <ClickUrl>http://hdl.handle.net/10119/1689?locale=en</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: ソフトウェアーキテクチャ設計に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/931</Url>
-        <ClickUrl>http://hdl.handle.net/10119/931</ClickUrl>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: コミュニケーションにおける笑いの出現パターン:遠隔キーボード&lt;wbr&gt;対話と対面音声対話の比較</Title>
-        <Url>http://hdl.handle.net/10119/721</Url>
-        <ClickUrl>http://hdl.handle.net/10119/721</ClickUrl>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 高次局所自己相関特徴による高速画像認識モジュールの開発と自律&lt;wbr&gt;走行型ロボットへの応用</Title>
-        <Url>http://hdl.handle.net/10119/349</Url>
-        <ClickUrl>http://hdl.handle.net/10119/349</ClickUrl>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 言語学的特長を表現するための時相論理</Title>
-        <Url>http://hdl.handle.net/10119/982</Url>
-        <ClickUrl>http://hdl.handle.net/10119/982</ClickUrl>
+        <Title>Yahoo!カテゴリ - 全リスト</Title>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20080728/complete_listing/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20080728/complete_listing/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 様相論理および時間論理の証明図探索</Title>
-        <Url>http://hdl.handle.net/10119/957</Url>
-        <ClickUrl>http://hdl.handle.net/10119/957</ClickUrl>
+        <Title>JAIST Repository - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/726/</Url>
+        <ClickUrl>http://roar.eprints.org/726/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: オントロジーを基礎とした意図伝達媒体に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/558</Url>
-        <ClickUrl>http://hdl.handle.net/10119/558</ClickUrl>
+        <Title>OpenDOAR - JAIST Repository</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=JAIST+Repository&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=JAIST+Repository&amp;title=SUPPRESS</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 製品開発部門の人的資源管理における業績評価システムの機能</Title>
-        <Url>http://hdl.handle.net/10119/681</Url>
-        <ClickUrl>http://hdl.handle.net/10119/681</ClickUrl>
+        <Title>OpenDOAR - Open Access Repositories: Japan Advanced Institute ...</Title>
+        <Url>http://www.opendoar.org/find.php?search=Japan+Advanced+Institute+of+Science+and+Technology&amp;title=Japan+Advanced+Institute+of+Science+and+Technology</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=Japan+Advanced+Institute+of+Science+and+Technology&amp;title=Japan+Advanced+Institute+of+Science+and+Technology</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 読解方略SQ3R法に基づくWebテキスト読解支援システムの構&lt;wbr&gt;築と評価</Title>
-        <Url>http://hdl.handle.net/10119/497</Url>
-        <ClickUrl>http://hdl.handle.net/10119/497</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: A Study on Dicodon-oriented Gene Finding ...</Title>
-        <Url>http://hdl.handle.net/10119/652</Url>
-        <ClickUrl>http://hdl.handle.net/10119/652</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 計算の難しさ---スケジューリングと回路計算量</Title>
-        <Url>http://hdl.handle.net/10119/835</Url>
-        <ClickUrl>http://hdl.handle.net/10119/835</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 日本企業のMOT改革力を向上させるための研究と提言&lt;wbr&gt;~開発設計技術革新に関する ...</Title>
-        <Url>http://hdl.handle.net/10119/536</Url>
-        <ClickUrl>http://hdl.handle.net/10119/536</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 金沢市における「新たな観光」の可能性について-「観光まちづく&lt;wbr&gt;り」の事例・大野町-</Title>
-        <Url>http://hdl.handle.net/10119/529</Url>
-        <ClickUrl>http://hdl.handle.net/10119/529</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: シソーラスの可視化による発散型英語学習支援ツールの研究</Title>
-        <Url>http://hdl.handle.net/10119/578</Url>
-        <ClickUrl>http://hdl.handle.net/10119/578</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 振舞い近似手法を用いたステートチャートに対する不変性の検証</Title>
-        <Url>http://hdl.handle.net/10119/939</Url>
-        <ClickUrl>http://hdl.handle.net/10119/939</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 情報キオスクのための,力覚を用いた情報提示手法の提案と実装</Title>
-        <Url>http://hdl.handle.net/10119/496</Url>
-        <ClickUrl>http://hdl.handle.net/10119/496</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 等価変換理論を応用した創造的問題解決支援システムに関する研究</Title>
-        <Url>http://hdl.handle.net/10119/376</Url>
-        <ClickUrl>http://hdl.handle.net/10119/376</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: コーパスを使ったマルチエージェントシミュレーションによる言語&lt;wbr&gt;意味の普遍性と相対性の研究</Title>
-        <Url>http://hdl.handle.net/10119/589</Url>
-        <ClickUrl>http://hdl.handle.net/10119/589</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 遠隔テキスト対話における性格印象決定要因の探索的研究</Title>
-        <Url>http://hdl.handle.net/10119/491</Url>
-        <ClickUrl>http://hdl.handle.net/10119/491</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: Similarity measures for complex data</Title>
-        <Url>http://hdl.handle.net/10119/823</Url>
-        <ClickUrl>http://hdl.handle.net/10119/823</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 分散型電力供給の耐故障性に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/455</Url>
-        <ClickUrl>http://hdl.handle.net/10119/455</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 知的資本の研究 -ソニーの事例を中心として</Title>
-        <Url>http://hdl.handle.net/10119/679</Url>
-        <ClickUrl>http://hdl.handle.net/10119/679</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: オントロジーを基礎にしたソフトウェア工学知識マネジメント手法&lt;wbr&gt;に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/560</Url>
-        <ClickUrl>http://hdl.handle.net/10119/560</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 高信頼性ソフトウェアの実装環境の構築に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/1200</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1200</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: レガシーデバイスを用いたホームネットワーク構築における機器の&lt;wbr&gt;状態取得及び管理に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/1917</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1917</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: トリアリールアミン・シロキサンスペーサーを有するポリスチレン&lt;wbr&gt;の合成</Title>
-        <Url>http://hdl.handle.net/10119/3259</Url>
-        <ClickUrl>http://hdl.handle.net/10119/3259</ClickUrl>
+        <Title>JAIST Repository: 様相論理における不完全性への代数的アプロ-チ</Title>
+        <Url>http://hdl.handle.net/10119/977</Url>
+        <ClickUrl>http://hdl.handle.net/10119/977</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: 高階述語論理定理証明器HOLのための問題領域ライブラリの構築</Title>
@@ -182,80 +132,130 @@
         <ClickUrl>http://hdl.handle.net/10119/1539</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: スタイラスを利用した小型携帯端末向け入力インタフェースRod&lt;wbr&gt;Directの評価</Title>
-        <Url>http://hdl.handle.net/10119/4050</Url>
-        <ClickUrl>http://hdl.handle.net/10119/4050</ClickUrl>
+        <Title>JAIST Repository: ホームネットワークにおけるユーザー行動のモデリングに関する研&lt;wbr&gt;究</Title>
+        <Url>http://hdl.handle.net/10119/4322</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4322</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 「情報地図」による情報獲得の支援に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/1127</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1127</ClickUrl>
+        <Title>JAIST Repository: メタパターンを用いたJavaソースコードにおける協調クラス群&lt;wbr&gt;の抽出に関する研究</Title>
+        <Url>http://hdl.handle.net/10119/1990</Url>
+        <ClickUrl>http://hdl.handle.net/10119/1990</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: RAPT : A Program Transformation System ...</Title>
-        <Url>http://hdl.handle.net/10119/4910</Url>
-        <ClickUrl>http://hdl.handle.net/10119/4910</ClickUrl>
+        <Title>press - DRF wiki</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?press</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 高分子場における光異性化反応の動態に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/3246</Url>
-        <ClickUrl>http://hdl.handle.net/10119/3246</ClickUrl>
+        <Title>Yahoo!カテゴリ - 地域情報</Title>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20080728/Regional/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20080728/Regional/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 教材開発者に対して教材改良支援機能を提供する学習管理システム&lt;wbr&gt;に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/1892</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1892</ClickUrl>
+        <Title>Items where Year is 2007 - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/year/2007.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/year/2007.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 関数型プログラムの実行に適したマルチスレッド型プロセッサ・ア&lt;wbr&gt;ーキテクチャに関する研究</Title>
-        <Url>http://hdl.handle.net/10119/1004</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1004</ClickUrl>
+        <Title>Browse by Repository Software - Registry of Open Access ...</Title>
+        <Url>http://roar.eprints.org/view/software/dspace.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: フォトンマッピング法を用いた3DAPIによる大域照明手法</Title>
-        <Url>http://hdl.handle.net/10119/4288</Url>
-        <ClickUrl>http://hdl.handle.net/10119/4288</ClickUrl>
+        <Title>北陸先端科学技術大学院大学:「JAIST学術研究成果リポジト&lt;wbr&gt;リ」を一般公開</Title>
+        <Url>http://www.jaist.ac.jp/news/2007/0531.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/news/2007/0531.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: P2P ネットワークの可観化に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/4317</Url>
-        <ClickUrl>http://hdl.handle.net/10119/4317</ClickUrl>
+        <Title>Yahoo!カテゴリ - 分割リスト</Title>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20080728/split_listing/index_2.html</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20080728/split_listing/index_2.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 個人選好による情報アクセスに適したデータモデルについて</Title>
-        <Url>http://hdl.handle.net/10119/3415</Url>
-        <ClickUrl>http://hdl.handle.net/10119/3415</ClickUrl>
+        <Title>advanced technology - - DOREMO</Title>
+        <Url>http://www.doremo.net/?do=advanced+technology</Url>
+        <ClickUrl>http://www.doremo.net/?do=advanced+technology</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: ナレッジマネジメント : 6.ナレッジマネジメントによる&quot;知の共鳴&quot;</Title>
-        <Url>http://hdl.handle.net/10119/4590</Url>
-        <ClickUrl>http://hdl.handle.net/10119/4590</ClickUrl>
+        <Title>学術機関リポジトリ: カテゴリ</Title>
+        <Url>http://xtrm.jp/category/?id=2078518243</Url>
+        <ClickUrl>http://xtrm.jp/category/?id=2078518243</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: スレッドレベル投機実行を支援するキャッシュ機構に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/1793</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1793</ClickUrl>
+        <Title>Open Access Japan | オープンアクセスジャパン: 機関リポジトリ アーカイブ</Title>
+        <Url>http://www.openaccessjapan.com/archives/cat7/</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/cat7/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 暗号理論における数論とそのアルゴリズムの研究</Title>
-        <Url>http://hdl.handle.net/10119/1645</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1645</ClickUrl>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 聴覚末梢系処理モデルを用いた非定常機械騒音の評価に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/1508</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1508</ClickUrl>
+        <Title>repository もしくは JAIST Repository: Home</Title>
+        <Url>http://icecoffee.hobby-site.com/query/repository/</Url>
+        <ClickUrl>http://icecoffee.hobby-site.com/query/repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: アプリケーション指向のIPパケット制御手法の提案と実現</Title>
-        <Url>http://hdl.handle.net/10119/1914</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1914</ClickUrl>
+        <Title>trustworthy もしくは Microsoft のセキュリティ対策</Title>
+        <Url>http://icecoffee.hobby-site.com/query/trustworthy/</Url>
+        <ClickUrl>http://icecoffee.hobby-site.com/query/trustworthy/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: HTMLタグの繰り返しパターンに注目した知識の自動獲得</Title>
-        <Url>http://hdl.handle.net/10119/1797</Url>
-        <ClickUrl>http://hdl.handle.net/10119/1797</ClickUrl>
+        <Title>JAIST Repository: Home</Title>
+        <Url>http://scienceportal.jp/database/D04/55/</Url>
+        <ClickUrl>http://scienceportal.jp/database/D04/55/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: January 2006 アーカイブ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Yahoo!カテゴリ - 各種資料と情報源</Title>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20080728/reference/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20080728/reference/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北陸先端科学技術大学院大学 &amp;gt; 図書館、資料館 - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/regional/japanese_regions/hokuriku/ishikawa/education/universities/japan_advanced_institute_of_science_and_technology/libraries_and_museums</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/regional/japanese_regions/hokuriku/ishikawa/education/universities/japan_advanced_institute_of_science_and_technology/libraries_and_museums</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/?q=%B3%D8%BD%D1%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/?q=%B3%D8%BD%D1%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北陸先端科学技術大学院大学附属図書館 - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Regional/Japanese_Regions/Hokuriku/Ishikawa/Education/Universities/Japan_Advanced_Institute_of_Science_and_Technology/Libraries_and_Museums/Library</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Regional/Japanese_Regions/Hokuriku/Ishikawa/Education/Universities/Japan_Advanced_Institute_of_Science_and_Technology/Libraries_and_Museums/Library</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: ストップフロー重合法を用いた新規オレフィンブロックコポリマー&lt;wbr&gt;の合成それらを応用した ...</Title>
+        <Url>http://hdl.handle.net/10119/2068</Url>
+        <ClickUrl>http://hdl.handle.net/10119/2068</ClickUrl>
+    </Result>
+    <Result>
+        <Title>repositories もしくは Session 3. Various initiatives ...</Title>
+        <Url>http://icecoffee.hobby-site.com/query/repositories/</Url>
+        <ClickUrl>http://icecoffee.hobby-site.com/query/repositories/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: サーバにおけるコンピュータウィルス検査システムの設計と運用&lt;wbr&gt;(&amp;lt;特集&amp;gt;次世代の ...</Title>
+        <Url>http://hdl.handle.net/10119/4550</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4550</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: P2P技術を適用した画面転送・遠隔操作システムの開発 (&amp;lt;特集&amp;gt;コラボレーションの「場 ...</Title>
+        <Url>http://hdl.handle.net/10119/4586</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4586</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Repository: 否定的意味が内在するソートを含んだソート階層の論理&lt;wbr&gt;(&amp;lt;特集&amp;gt;システムLSIの設計技術と ...</Title>
+        <Url>http://hdl.handle.net/10119/4570</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4570</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:15 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:15 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:36 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:36 PDT 2010 -->

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="10714"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Deaf Resource Library</Title>
+        <Url>http://www.deaflibrary.org/</Url>
+        <ClickUrl>http://www.deaflibrary.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Amanita.net</Title>
+        <Url>http://journal.amanita.net/</Url>
+        <ClickUrl>http://journal.amanita.net/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>dovenwereld - BooGO! Startpagina</Title>
+        <Url>http://dovenwereld.boogolinks.nl/</Url>
+        <ClickUrl>http://dovenwereld.boogolinks.nl/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WWW Servers in Japan (Libraries-aiueo)</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_Japan.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Jump to Library in Japan</Title>
+        <Url>http://ss.cc.affrc.go.jp/ric/opac/opac.html</Url>
+        <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opac.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries_Japan</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_Japan_e.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan_e.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japan OPAC list (2009.7.16)</Title>
+        <Url>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</Url>
+        <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館リンク集: 日本の図書館 Libraries in Japan</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/other/japan.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学:文部科学省</Title>
+        <Url>http://www.mext.go.jp/b_menu/link/daigaku1.htm</Url>
+        <ClickUrl>http://www.mext.go.jp/b_menu/link/daigaku1.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学図書館</Title>
+        <Url>http://www.jla.or.jp/link/univ.html</Url>
+        <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>つくばちゃんねるブログ - みんなで作る、地域密着!つくばのブログポータル</Title>
+        <Url>http://blog.tsukuba.ch/</Url>
+        <ClickUrl>http://blog.tsukuba.ch/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NPO Monkey Magic Top</Title>
+        <Url>http://www.monkeymagic.or.jp/</Url>
+        <ClickUrl>http://www.monkeymagic.or.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国立大学・国公私立短期大学:文部科学省</Title>
+        <Url>http://www.mext.go.jp/b_menu/link/daigaku.htm</Url>
+        <ClickUrl>http://www.mext.go.jp/b_menu/link/daigaku.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>HouseFront Real Estate Blog : Information on Mobile Real ...</Title>
+        <Url>http://blog.housefront.com/</Url>
+        <ClickUrl>http://blog.housefront.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Une vie aux étoiles</Title>
+        <Url>http://woofiegrrl.livejournal.com/</Url>
+        <ClickUrl>http://woofiegrrl.livejournal.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Roving Reporter: Deaf Culture; Deaf and Hard of Hearing People</Title>
+        <Url>http://www.concentric.net/~tlshell/deaf.html</Url>
+        <ClickUrl>http://www.concentric.net/~tlshell/deaf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>World Deaf School Links</Title>
+        <Url>http://home.netcom.com/~zesa1/school.html</Url>
+        <ClickUrl>http://home.netcom.com/~zesa1/school.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>SUMMER PROGRAMS IN JAPAN, KOREA AND TAIWAN</Title>
+        <Url>http://www.nsf.gov/pubs/1999/nsf99152/nsf99152.htm</Url>
+        <ClickUrl>http://www.nsf.gov/pubs/1999/nsf99152/nsf99152.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>障害福祉かざぐるま</Title>
+        <Url>http://maroon.way-nifty.com/welfare/</Url>
+        <ClickUrl>http://maroon.way-nifty.com/welfare/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波技術短期大学視覚部のページ</Title>
+        <Url>http://www.k.tsukuba-tech.ac.jp/</Url>
+        <ClickUrl>http://www.k.tsukuba-tech.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>PEN-International - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/PEN-International</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/PEN-International</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本の大学</Title>
+        <Url>http://www.biwa.ne.jp/~okumura/academe/academe.html</Url>
+        <ClickUrl>http://www.biwa.ne.jp/~okumura/academe/academe.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OTHER SITES</Title>
+        <Url>http://www.mext.go.jp/english/sites/main.htm</Url>
+        <ClickUrl>http://www.mext.go.jp/english/sites/main.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>got handball?</Title>
+        <Url>http://www.riyoshigihara.blogspot.com/</Url>
+        <ClickUrl>http://www.riyoshigihara.blogspot.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国内大学個人文庫</Title>
+        <Url>http://www.fitweb.or.jp/~taka/pcollect.html</Url>
+        <ClickUrl>http://www.fitweb.or.jp/~taka/pcollect.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学図書館</Title>
+        <Url>http://wwwsoc.nii.ac.jp/jla/link/univ.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/jla/link/univ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本理学療法士協会:養成校一覧21年度</Title>
+        <Url>http://wwwsoc.nii.ac.jp/jpta/school.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/jpta/school.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NPO法人長野サマライズセンター パソコン要約筆記</Title>
+        <Url>http://www10.plala.or.jp/summarize/</Url>
+        <ClickUrl>http://www10.plala.or.jp/summarize/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>FSS2009 Official Page</Title>
+        <Url>http://fss2009.el.a.tsukuba-tech.ac.jp/</Url>
+        <ClickUrl>http://fss2009.el.a.tsukuba-tech.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波技術大統合医療センター 鍼灸と漢方の治療が受けられるつくば市の国立大学診療所</Title>
+        <Url>http://www.k.tsukuba-tech.ac.jp/cl/</Url>
+        <ClickUrl>http://www.k.tsukuba-tech.ac.jp/cl/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>WWW Servers in Japan (Libraries)</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_list.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_list.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国公立大学・私立大学出願状況</Title>
+        <Url>http://www.yozemi.ac.jp/nyushi/shutsugan/kokkoritsu.html</Url>
+        <ClickUrl>http://www.yozemi.ac.jp/nyushi/shutsugan/kokkoritsu.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>それいけ!デフラグビー</Title>
+        <Url>http://hochoker.blog.ocn.ne.jp/susu/</Url>
+        <ClickUrl>http://hochoker.blog.ocn.ne.jp/susu/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>caucau兵庫県姫路テニスサークル(兵庫県姫路市&lt;wbr&gt;)カウカウテニス太子町:兵庫県姫路神戸大阪テニスサークル大学&lt;wbr&gt;偏差値ランキング</Title>
+        <Url>http://caucau.tenkomori.tv/e92455.html</Url>
+        <ClickUrl>http://caucau.tenkomori.tv/e92455.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries in the World</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/other/all.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/all.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>gBlog – how we see it...</Title>
+        <Url>http://gallaudetblog.wordpress.com/</Url>
+        <ClickUrl>http://gallaudetblog.wordpress.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japan Publications Guide Service free list of Japan and East ...</Title>
+        <Url>http://jpgs101.imcbook.net/JEPUBLKZ.HTM</Url>
+        <ClickUrl>http://jpgs101.imcbook.net/JEPUBLKZ.HTM</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Source of Japan S&amp;amp;T Info</Title>
+        <Url>http://www.nsftokyo.org/japansources.html</Url>
+        <ClickUrl>http://www.nsftokyo.org/japansources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波技術大学視覚障害系図書館</Title>
+        <Url>http://library.k.tsukuba-tech.ac.jp/</Url>
+        <ClickUrl>http://library.k.tsukuba-tech.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波学院大学附属図書館トップページ</Title>
+        <Url>http://www.tsukuba-g.ac.jp/library/</Url>
+        <ClickUrl>http://www.tsukuba-g.ac.jp/library/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>b4log</Title>
+        <Url>http://b4t.jp/p_blog/index.php</Url>
+        <ClickUrl>http://b4t.jp/p_blog/index.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2010年6月22日~7月5日 科学技術イベントカレンダ - サイエンスポータル / SciencePortal </Title>
+        <Url>http://scienceportal.jp/events/index.php?option=com_spjevcal</Url>
+        <ClickUrl>http://scienceportal.jp/events/index.php?option=com_spjevcal</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波技術大学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E6%8A%80%E8%A1%93%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E6%8A%80%E8%A1%93%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Alien Times - Tsukuba&apos;s Original English Newsletter - Tsukuba ...</Title>
+        <Url>http://www.alientimes.org/topics/topics.html</Url>
+        <ClickUrl>http://www.alientimes.org/topics/topics.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>got handball?: ビーチルール概略</Title>
+        <Url>http://riyoshigihara.blogspot.com/2005/09/blog-post_112751952703192601.html</Url>
+        <ClickUrl>http://riyoshigihara.blogspot.com/2005/09/blog-post_112751952703192601.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>小学生・中学生難聴児への情報保障</Title>
+        <Url>http://www2u.biglobe.ne.jp/~momo1/sub1/new_sub/akemi040617.htm</Url>
+        <ClickUrl>http://www2u.biglobe.ne.jp/~momo1/sub1/new_sub/akemi040617.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>渡辺隆行@TWCU</Title>
+        <Url>http://www.comm.twcu.ac.jp/~nabe/</Url>
+        <ClickUrl>http://www.comm.twcu.ac.jp/~nabe/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>手話などのリンク集</Title>
+        <Url>http://www.enjoy.ne.jp/~isshindo/SYUWA.htm</Url>
+        <ClickUrl>http://www.enjoy.ne.jp/~isshindo/SYUWA.htm</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:19 PDT 2010 -->
+<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:19 PDT 2010 -->

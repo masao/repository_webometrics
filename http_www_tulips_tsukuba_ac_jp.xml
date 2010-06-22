@@ -3,28 +3,23 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="62801"
+    totalResultsAvailable="66190"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>検索デスク - SearchDesk - スタートページ</Title>
-        <Url>http://www.searchdesk.com/</Url>
-        <ClickUrl>http://www.searchdesk.com/</ClickUrl>
-    </Result>
-    <Result>
         <Title>Digital Librarian: Images</Title>
         <Url>http://www.digital-librarian.com/images.html</Url>
         <ClickUrl>http://www.digital-librarian.com/images.html</ClickUrl>
     </Result>
     <Result>
-        <Title>海外リンク・コム (海外・特にアメリカ在住便利リンク集)</Title>
-        <Url>http://www.kaigailink.com/</Url>
-        <ClickUrl>http://www.kaigailink.com/</ClickUrl>
-    </Result>
-    <Result>
         <Title>Sorted by Subject</Title>
         <Url>http://www.alexandria.ucsb.edu/other-sites/subj_page.html</Url>
         <ClickUrl>http://www.alexandria.ucsb.edu/other-sites/subj_page.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>海外リンク・コム (海外・特にアメリカ在住便利リンク集)</Title>
+        <Url>http://www.kaigailink.com/</Url>
+        <ClickUrl>http://www.kaigailink.com/</ClickUrl>
     </Result>
     <Result>
         <Title>WWW Servers in Japan (Libraries-aiueo)</Title>
@@ -42,6 +37,11 @@
         <ClickUrl>http://www.bahnhof.se/~secutor/ukiyo-e/guide.html</ClickUrl>
     </Result>
     <Result>
+        <Title>みんなの知識【ちょっと便利帳】</Title>
+        <Url>http://www.benricho.org/</Url>
+        <ClickUrl>http://www.benricho.org/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Libraries_Japan</Title>
         <Url>http://www.libra.titech.ac.jp/libraries_Japan_e.html</Url>
         <ClickUrl>http://www.libra.titech.ac.jp/libraries_Japan_e.html</ClickUrl>
@@ -50,11 +50,6 @@
         <Title>Japan OPAC list (2009.7.16)</Title>
         <Url>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</Url>
         <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>みんなの知識【ちょっと便利帳】</Title>
-        <Url>http://www.benricho.org/</Url>
-        <ClickUrl>http://www.benricho.org/</ClickUrl>
     </Result>
     <Result>
         <Title>Digital Librarian: Book Collecting and Book History</Title>
@@ -67,11 +62,6 @@
         <ClickUrl>http://www.radical-voice.com/ryugakulink/</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
-    </Result>
-    <Result>
         <Title>Repositories of Primary Sources: Asia and the Pacific</Title>
         <Url>http://www.uidaho.edu/special-collections/asia.html</Url>
         <ClickUrl>http://www.uidaho.edu/special-collections/asia.html</ClickUrl>
@@ -82,14 +72,14 @@
         <ClickUrl>http://miroirdudharma.blogspot.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>Ryukyuan religion - Wikipedia, the free encyclopedia</Title>
-        <Url>http://en.wikipedia.org/wiki/Ryukyuan_religion</Url>
-        <ClickUrl>http://en.wikipedia.org/wiki/Ryukyuan_religion</ClickUrl>
+        <Title>PORTA(国立国会図書館デジタルアーカイブポータル&lt;wbr&gt;)</Title>
+        <Url>http://porta.ndl.go.jp/</Url>
+        <ClickUrl>http://porta.ndl.go.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>Eichi Law Offices 法律とサイバースペース関係 LINK MENU</Title>
-        <Url>http://www.law.co.jp/link.htm</Url>
-        <ClickUrl>http://www.law.co.jp/link.htm</ClickUrl>
+        <Title>Ryukyuan Shinto - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Ryukyuan_Shinto</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Ryukyuan_Shinto</ClickUrl>
     </Result>
     <Result>
         <Title>DoorToMedicine</Title>
@@ -97,29 +87,19 @@
         <ClickUrl>http://www.biwa.ne.jp/~fumika/</ClickUrl>
     </Result>
     <Result>
-        <Title>2008 - OAD</Title>
-        <Url>http://oad.simmons.edu/oadwiki/2008</Url>
-        <ClickUrl>http://oad.simmons.edu/oadwiki/2008</ClickUrl>
-    </Result>
-    <Result>
         <Title>Images of early maps on the web: 10. Asia</Title>
         <Url>http://www.maphistory.info/imageasia.html</Url>
         <ClickUrl>http://www.maphistory.info/imageasia.html</ClickUrl>
     </Result>
     <Result>
+        <Title>Eichi Law Offices 法律とサイバースペース関係 LINK MENU</Title>
+        <Url>http://www.law.co.jp/link.htm</Url>
+        <ClickUrl>http://www.law.co.jp/link.htm</ClickUrl>
+    </Result>
+    <Result>
         <Title>Images of early maps on the web: 4. World</Title>
         <Url>http://www.maphistory.info/imageworld.html</Url>
         <ClickUrl>http://www.maphistory.info/imageworld.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大学図書館</Title>
-        <Url>http://www.jla.or.jp/link/univ.html</Url>
-        <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -132,9 +112,54 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB</ClickUrl>
     </Result>
     <Result>
-        <Title>SURE: Shizuoka University REpository: Home</Title>
-        <Url>http://ir.lib.shizuoka.ac.jp/</Url>
-        <ClickUrl>http://ir.lib.shizuoka.ac.jp/</ClickUrl>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学図書館</Title>
+        <Url>http://www.jla.or.jp/link/univ.html</Url>
+        <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>貨幣 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Rupkatha Journal - Home</Title>
+        <Url>http://www.rupkatha.com/</Url>
+        <ClickUrl>http://www.rupkatha.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波大学 図書館情報専門学群</Title>
+        <Url>http://www.slis.tsukuba.ac.jp/school/</Url>
+        <ClickUrl>http://www.slis.tsukuba.ac.jp/school/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>space-library.com</Title>
+        <Url>http://www.space-library.com/</Url>
+        <ClickUrl>http://www.space-library.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>History of the Ryukyu Islands - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/History_of_the_Ryukyu_Islands</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/History_of_the_Ryukyu_Islands</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Revista de Turism</Title>
+        <Url>http://www.revistadeturism.ro/index.php?lang=english</Url>
+        <ClickUrl>http://www.revistadeturism.ro/index.php?lang=english</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波大学 生物資源学類|トップページ</Title>
+        <Url>http://www.bres.tsukuba.ac.jp/</Url>
+        <ClickUrl>http://www.bres.tsukuba.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波大学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
         <Title>Digital Librarian: Japan</Title>
@@ -142,9 +167,14 @@
         <ClickUrl>http://www.digital-librarian.com/japan.html</ClickUrl>
     </Result>
     <Result>
-        <Title>貨幣 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%B2%A8%E5%B9%A3</ClickUrl>
+        <Title>つくばポータルサイト:トップページ</Title>
+        <Url>http://www.tsukuba-portal.jp/</Url>
+        <ClickUrl>http://www.tsukuba-portal.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>走れメロス - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%B5%B0%E3%82%8C%E3%83%A1%E3%83%AD%E3%82%B9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%B5%B0%E3%82%8C%E3%83%A1%E3%83%AD%E3%82%B9</ClickUrl>
     </Result>
     <Result>
         <Title>Philosocal WWW in Japan</Title>
@@ -157,44 +187,9 @@
         <ClickUrl>http://www.philological.bham.ac.uk/bibliography/p.html</ClickUrl>
     </Result>
     <Result>
-        <Title>筑波大学 生物資源学類|トップページ</Title>
-        <Url>http://www.bres.tsukuba.ac.jp/</Url>
-        <ClickUrl>http://www.bres.tsukuba.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>海外リンク・コム(リンク一覧)</Title>
-        <Url>http://www.kaigailink.com/links.html</Url>
-        <ClickUrl>http://www.kaigailink.com/links.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>筑波大学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>つくばポータルサイト:トップページ</Title>
-        <Url>http://www.tsukuba-portal.jp/</Url>
-        <ClickUrl>http://www.tsukuba-portal.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>a</Title>
-        <Url>http://www.philological.bham.ac.uk/bibliography/a.html</Url>
-        <ClickUrl>http://www.philological.bham.ac.uk/bibliography/a.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KOBAYASHI Masatsugu 著作目録</Title>
-        <Url>http://www.h4.dion.ne.jp/~ok121407/</Url>
-        <ClickUrl>http://www.h4.dion.ne.jp/~ok121407/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>電子化資料を提供しているサーバー</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>琉球國 - 維基百科,自由的百科全書</Title>
-        <Url>http://zh.wikipedia.org/wiki/%E7%90%89%E7%90%83%E5%9B%BD</Url>
-        <ClickUrl>http://zh.wikipedia.org/wiki/%E7%90%89%E7%90%83%E5%9B%BD</ClickUrl>
+        <Title>Ha - He</Title>
+        <Url>http://www.philological.bham.ac.uk/bibliography/h.html</Url>
+        <ClickUrl>http://www.philological.bham.ac.uk/bibliography/h.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -202,9 +197,19 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>Society Copyright Policies in Japan</Title>
+        <Url>http://scpj.tulips.tsukuba.ac.jp/</Url>
+        <ClickUrl>http://scpj.tulips.tsukuba.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>件 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E4%BB%B6</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E4%BB%B6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電子化資料を提供しているサーバー</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</ClickUrl>
     </Result>
     <Result>
         <Title>Universities in Japan (A)</Title>
@@ -212,29 +217,19 @@
         <ClickUrl>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</ClickUrl>
     </Result>
     <Result>
-        <Title>筑波大学 図書館情報専門学群</Title>
-        <Url>http://www.slis.tsukuba.ac.jp/school/</Url>
-        <ClickUrl>http://www.slis.tsukuba.ac.jp/school/</ClickUrl>
+        <Title>シャーマニズム - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%BA%E3%83%A0</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%BA%E3%83%A0</ClickUrl>
     </Result>
     <Result>
-        <Title>公衆衛生学</Title>
-        <Url>http://www.jichi.ac.jp/usr/publ/</Url>
-        <ClickUrl>http://www.jichi.ac.jp/usr/publ/</ClickUrl>
+        <Title>キエフ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95</ClickUrl>
     </Result>
     <Result>
-        <Title>History of the Ryukyu Islands - Wikipedia, the free encyclopedia</Title>
-        <Url>http://en.wikipedia.org/wiki/History_of_the_Ryukyu_Islands</Url>
-        <ClickUrl>http://en.wikipedia.org/wiki/History_of_the_Ryukyu_Islands</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ようこそ日本の国際法判例ホームページへ</Title>
-        <Url>http://www.asahi-net.or.jp/~dh6n-tnk/</Url>
-        <ClickUrl>http://www.asahi-net.or.jp/~dh6n-tnk/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>RETEL [revista de toxicología en línea] - Retel ::: SerTox :::</Title>
-        <Url>http://www.sertox.com.ar/modules.php?name=Content&amp;pa=showpage&amp;pid=19</Url>
-        <ClickUrl>http://www.sertox.com.ar/modules.php?name=Content&amp;pa=showpage&amp;pid=19</ClickUrl>
+        <Title>海外リンク・コム(リンク一覧)</Title>
+        <Url>http://www.kaigailink.com/links.html</Url>
+        <ClickUrl>http://www.kaigailink.com/links.html</ClickUrl>
     </Result>
     <Result>
         <Title>Library&amp;amp;Internet</Title>
@@ -242,20 +237,25 @@
         <ClickUrl>http://www.hi-ho.ne.jp/hohara/</ClickUrl>
     </Result>
     <Result>
-        <Title>&quot;ili&quot; india librarian international</Title>
-        <Url>http://indialibrarian-intl.blogspot.com/</Url>
-        <ClickUrl>http://indialibrarian-intl.blogspot.com/</ClickUrl>
+        <Title>KOBAYASHI Masatsugu 著作目録</Title>
+        <Url>http://www.h4.dion.ne.jp/~ok121407/</Url>
+        <ClickUrl>http://www.h4.dion.ne.jp/~ok121407/</ClickUrl>
     </Result>
     <Result>
-        <Title>日本歯科大学生命歯学部図書館</Title>
-        <Url>http://www.ndu.ac.jp:10080/mac2/ndulib.html</Url>
-        <ClickUrl>http://www.ndu.ac.jp:10080/mac2/ndulib.html</ClickUrl>
+        <Title>筑波大学 春日キャンパス</Title>
+        <Url>http://www.slis.tsukuba.ac.jp/</Url>
+        <ClickUrl>http://www.slis.tsukuba.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>キエフ - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AD%E3%82%A8%E3%83%95</ClickUrl>
+        <Title>公衆衛生学</Title>
+        <Url>http://www.jichi.ac.jp/usr/publ/</Url>
+        <ClickUrl>http://www.jichi.ac.jp/usr/publ/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Pre-1650 books in the Online Books Page List</Title>
+        <Url>http://www.pbm.com/~lindahl/onlinebooks/</Url>
+        <ClickUrl>http://www.pbm.com/~lindahl/onlinebooks/</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:21 PST 2010 -->
-<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:21 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:42 PDT 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:42 PDT 2010 -->

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="736"
+    totalResultsAvailable="1087"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,19 +17,134 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>国民主権 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E4%B8%BB%E6%A8%A9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E4%B8%BB%E6%A8%A9</ClickUrl>
+    </Result>
+    <Result>
         <Title>滋賀大学附属図書館教育学部分館</Title>
         <Url>http://library.edu.shiga-u.ac.jp/</Url>
         <ClickUrl>http://library.edu.shiga-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 HOME</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi</ClickUrl>
+        <Title>岩手日報 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E6%97%A5%E5%A0%B1</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B2%A9%E6%89%8B%E6%97%A5%E5%A0%B1</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+        <Title>Shiga University Repository: 金融革命序説 (秋山義則教授追悼号)</Title>
+        <Url>http://hdl.handle.net/10441/597</Url>
+        <ClickUrl>http://hdl.handle.net/10441/597</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 都市の縁辺を考える(下) : 20世紀初頭の横浜スラム再考</Title>
+        <Url>http://hdl.handle.net/10441/996</Url>
+        <ClickUrl>http://hdl.handle.net/10441/996</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 留学生のコーナー</Title>
+        <Url>http://hdl.handle.net/10441/4157</Url>
+        <ClickUrl>http://hdl.handle.net/10441/4157</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: Notulae Mycologicae (3) : Auctore</Title>
+        <Url>http://hdl.handle.net/10441/5072</Url>
+        <ClickUrl>http://hdl.handle.net/10441/5072</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 地方歴史都市におけるエコミュージアムの形成に関する研究 : 連携 ...</Title>
+        <Url>http://hdl.handle.net/10441/7167</Url>
+        <ClickUrl>http://hdl.handle.net/10441/7167</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 研究ノート 戦前期わが国農村における共有資源管理・利用の実態 ...</Title>
+        <Url>http://hdl.handle.net/10441/6068</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6068</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 調査票(平成19年度 滋賀県の公民館・コミュニティセンター事業に ...</Title>
+        <Url>http://hdl.handle.net/10441/1764</Url>
+        <ClickUrl>http://hdl.handle.net/10441/1764</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 7-1. フォーラム・セミナー等 「研究会「農家民宿・二地域居住を考える」」</Title>
+        <Url>http://hdl.handle.net/10441/6296</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6296</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 研究ノート 滋賀大学における環境の現状と課題(第1報)</Title>
+        <Url>http://hdl.handle.net/10441/6067</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6067</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 7-1. フォーラム・セミナー等 「多賀「里の駅」シンポジウム ...</Title>
+        <Url>http://hdl.handle.net/10441/6297</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6297</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: Ⅱ. 調査の結果</Title>
+        <Url>http://hdl.handle.net/10441/1763</Url>
+        <ClickUrl>http://hdl.handle.net/10441/1763</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 資料 3:平成20年度外国人留学生在籍者数一覧</Title>
+        <Url>http://hdl.handle.net/10441/2210</Url>
+        <ClickUrl>http://hdl.handle.net/10441/2210</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 報告・資料 プロジェクト研究活動</Title>
+        <Url>http://hdl.handle.net/10441/6069</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6069</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: Closeup 滋賀大学の新しい動き 「平成21年度に着工、施工 ...</Title>
+        <Url>http://hdl.handle.net/10441/6225</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6225</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 『霊交』にあとがきを記す。(3) : 香川県大島の療養所をあらわす点描</Title>
+        <Url>http://hdl.handle.net/10441/6306</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6306</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 資料 2:国際センター行事一覧(2008)</Title>
+        <Url>http://hdl.handle.net/10441/2209</Url>
+        <ClickUrl>http://hdl.handle.net/10441/2209</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 豚由来インフルエンザの現状と今後の展望</Title>
+        <Url>http://hdl.handle.net/10441/6230</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6230</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 7-1. フォーラム・セミナー等 「シンポジウム 「湖南市の未来 ...</Title>
+        <Url>http://hdl.handle.net/10441/6298</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6298</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: Ⅶ. 沿革 「滋賀大学保健管理の沿革」</Title>
+        <Url>http://hdl.handle.net/10441/1758</Url>
+        <ClickUrl>http://hdl.handle.net/10441/1758</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: クラブ・サークルInformation 「陵水新聞会」</Title>
+        <Url>http://hdl.handle.net/10441/6226</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6226</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 7-2. 活動報告</Title>
+        <Url>http://hdl.handle.net/10441/6299</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6299</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: Ⅰ. 調査の目的と方法</Title>
+        <Url>http://hdl.handle.net/10441/1762</Url>
+        <ClickUrl>http://hdl.handle.net/10441/1762</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Shiga University Repository: 近江の散歩 「伊香具神社の12本足の鳥居」</Title>
+        <Url>http://hdl.handle.net/10441/6227</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6227</ClickUrl>
     </Result>
     <Result>
         <Title>滋賀大学 滋賀大学附属図書館</Title>
@@ -37,225 +152,110 @@
         <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=9/1</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=124</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=124</ClickUrl>
+        <Title>尾高・宮沢論争 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B0%BE%E9%AB%98%E3%83%BB%E5%AE%AE%E6%B2%A2%E8%AB%96%E4%BA%89</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B0%BE%E9%AB%98%E3%83%BB%E5%AE%AE%E6%B2%A2%E8%AB%96%E4%BA%89</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>fixed and flexible exchange rates eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/fixed-and--flexible-exchange-rates-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/fixed-and--flexible-exchange-rates-pdf.html</ClickUrl>
+        <Title>Shiga University Repository: 190 附属特別支援学校(Attached School of ...</Title>
+        <Url>http://hdl.handle.net/10441/8</Url>
+        <ClickUrl>http://hdl.handle.net/10441/8</ClickUrl>
     </Result>
     <Result>
-        <Title>limbo eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/limbo-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/limbo-pdf.html</ClickUrl>
+        <Title>Shiga University Repository: 170 附属小学校(Attached Elementary School)</Title>
+        <Url>http://hdl.handle.net/10441/6</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 HOME</Title>
-        <Url>http://www.shiga-u.ac.jp/</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/</ClickUrl>
+        <Title>Shiga University Repository: 220 経済経営研究所(Institute for ...</Title>
+        <Url>http://hdl.handle.net/10441/17</Url>
+        <ClickUrl>http://hdl.handle.net/10441/17</ClickUrl>
     </Result>
     <Result>
-        <Title>cost benefit analysis under uncertainty eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/cost-benefit-analysis-under-uncertainty-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/cost-benefit-analysis-under-uncertainty-pdf.html</ClickUrl>
+        <Title>Shiga University Repository: 336号</Title>
+        <Url>http://hdl.handle.net/10441/571</Url>
+        <ClickUrl>http://hdl.handle.net/10441/571</ClickUrl>
     </Result>
     <Result>
-        <Title>Facts of the Day | DocJax.com (565,385+ free e-books and ...</Title>
-        <Url>http://www.docjax.com/document/view.shtml?id=1124589&amp;title=Facts+of+the+Day</Url>
-        <ClickUrl>http://www.docjax.com/document/view.shtml?id=1124589&amp;title=Facts+of+the+Day</ClickUrl>
+        <Title>Shiga University Repository: Size, BE/ME, Beta, E/P and Stock ...</Title>
+        <Url>http://hdl.handle.net/10441/295</Url>
+        <ClickUrl>http://hdl.handle.net/10441/295</ClickUrl>
     </Result>
     <Result>
-        <Title>HỘI ĐỒNG NHÂN DÂN | DocJax.com (586,930+ free e-books and ...</Title>
-        <Url>http://www.docjax.com/document/view.shtml?id=1146034&amp;title=H%E1%BB%98I+%C4%90%E1%BB%92NG+NH%C3%82N+D%C3%82N</Url>
-        <ClickUrl>http://www.docjax.com/document/view.shtml?id=1146034&amp;title=H%E1%BB%98I+%C4%90%E1%BB%92NG+NH%C3%82N+D%C3%82N</ClickUrl>
+        <Title>Shiga University Repository: 「いじめ」による「不登校・登校拒否」の今日的理論状況</Title>
+        <Url>http://hdl.handle.net/10441/2072</Url>
+        <ClickUrl>http://hdl.handle.net/10441/2072</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 滋賀大学で学びたい方へ</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=20</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=20</ClickUrl>
+        <Title>Shiga University Repository: 附属学校園における特別支援教育の推進 : 特別支援教育推進に ...</Title>
+        <Url>http://hdl.handle.net/10441/2162</Url>
+        <ClickUrl>http://hdl.handle.net/10441/2162</ClickUrl>
     </Result>
     <Result>
-        <Title>教育分館のお知らせ2008</Title>
-        <Url>http://library.edu.shiga-u.ac.jp/news2008.html</Url>
-        <ClickUrl>http://library.edu.shiga-u.ac.jp/news2008.html</ClickUrl>
+        <Title>Shiga University Repository: 小学校における睡眠学習教材の開発</Title>
+        <Url>http://hdl.handle.net/10441/2163</Url>
+        <ClickUrl>http://hdl.handle.net/10441/2163</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 『滋賀大学学術情報リポジトリ』を試験公開しました</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=topics:906&amp;r=0</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=topics:906&amp;r=0</ClickUrl>
+        <Title>Shiga University Repository: 規模の異なるクラスにおける協調自律学習の設計に関する一考察</Title>
+        <Url>http://hdl.handle.net/10441/2165</Url>
+        <ClickUrl>http://hdl.handle.net/10441/2165</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 HOME</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2007&amp;mn=11</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2007&amp;mn=11</ClickUrl>
+        <Title>Shiga University Repository: プレビッシュ再論(上) : 「周辺資本主義」論によせて</Title>
+        <Url>http://hdl.handle.net/10441/6028</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6028</ClickUrl>
     </Result>
     <Result>
-        <Title>大学機関リポジトリ</Title>
-        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
-        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+        <Title>Shiga University Repository: 生命保険の流動化を促進する公正価格の算出 : 生命保険買取市場 ...</Title>
+        <Url>http://hdl.handle.net/10441/6854</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6854</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 HOME</Title>
-        <Url>http://133.102.12.10/</Url>
-        <ClickUrl>http://133.102.12.10/</ClickUrl>
+        <Title>Shiga University Repository: 奥付(滋賀大学保健管理報告第15号:30周年記念特集号&lt;wbr&gt;)</Title>
+        <Url>http://hdl.handle.net/10441/1759</Url>
+        <ClickUrl>http://hdl.handle.net/10441/1759</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 滋賀大学で学びたい方へ</Title>
-        <Url>http://www.shiga-u.jp/20.html</Url>
-        <ClickUrl>http://www.shiga-u.jp/20.html</ClickUrl>
+        <Title>Shiga University Repository: 奥付(平成19年度 滋賀県の公民館・コミュニティセンター事業に関する調査&lt;wbr&gt;)</Title>
+        <Url>http://hdl.handle.net/10441/1765</Url>
+        <ClickUrl>http://hdl.handle.net/10441/1765</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 HOME</Title>
-        <Url>http://www.shiga-u.jp/main.cgi</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi</ClickUrl>
+        <Title>Shiga University Repository: 49号</Title>
+        <Url>http://hdl.handle.net/10441/1440</Url>
+        <ClickUrl>http://hdl.handle.net/10441/1440</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 就職・進路・資格</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=5</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=5</ClickUrl>
+        <Title>Shiga University Repository: 111 紀要</Title>
+        <Url>http://hdl.handle.net/10441/1587</Url>
+        <ClickUrl>http://hdl.handle.net/10441/1587</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 研究・地域連携</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=7</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=7</ClickUrl>
+        <Title>Shiga University Repository: 近江のこと、蹴鞠のこと</Title>
+        <Url>http://hdl.handle.net/10441/6986</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6986</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 学部・大学院</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=8</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=8</ClickUrl>
+        <Title>Shiga University Repository: 中小企業におけるこれからのモノづくり : 製品とサービスの融合に ...</Title>
+        <Url>http://hdl.handle.net/10441/7013</Url>
+        <ClickUrl>http://hdl.handle.net/10441/7013</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 附属施設・図書館</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=9</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=9</ClickUrl>
+        <Title>Shiga University Repository: 企業間労働移動に伴う技術流出リスクと多国籍企業子会社のR&lt;wbr&gt;&amp;amp;D 投資</Title>
+        <Url>http://hdl.handle.net/10441/6855</Url>
+        <ClickUrl>http://hdl.handle.net/10441/6855</ClickUrl>
     </Result>
     <Result>
-        <Title>滋賀大学 学生生活</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=4</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 大学紹介</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=1</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 入試情報</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=2</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 卒業生の方へ</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=22</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=22</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 滋賀大学で学びたい方へ</Title>
-        <Url>http://www.shiga-u.jp/main.cgi?c=20</Url>
-        <ClickUrl>http://www.shiga-u.jp/main.cgi?c=20</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 研究・地域連携</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=7</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=7</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 一般の方/企業の方へ</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=24</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=24</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 大学の動きバックナンバー</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=0:4</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=0:4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 入試情報バックナンバー</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=0:3</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=0:3</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 研究・地域連携</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=7:0</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=7:0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 附属施設・図書館</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=9:0</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=9:0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 新着情報バックナンバー</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=0:2</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=0:2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 一般の方/企業の方へ</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=24%3A0</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=24%3A0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>中国正长石门户</Title>
-        <Url>http://www.zhongsou.net/%E6%AD%A3%E9%95%BF%E7%9F%B3</Url>
-        <ClickUrl>http://www.zhongsou.net/%E6%AD%A3%E9%95%BF%E7%9F%B3</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 大学の動きバックナンバー</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?c=0:4&amp;yr=2007&amp;mn=4</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?c=0:4&amp;yr=2007&amp;mn=4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 大学の動きバックナンバー</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:4&amp;yr=2008&amp;bt=4</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:4&amp;yr=2008&amp;bt=4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 HOME</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2005&amp;mn=2</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2005&amp;mn=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 新着情報バックナンバー</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:2&amp;yr=2005&amp;bt=1</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:2&amp;yr=2005&amp;bt=1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 HOME</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2008&amp;mn=6</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2008&amp;mn=6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 入試情報バックナンバー</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:3&amp;yr=2009&amp;bt=3</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:3&amp;yr=2009&amp;bt=3</ClickUrl>
-    </Result>
-    <Result>
-        <Title>滋賀大学 HOME</Title>
-        <Url>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2007&amp;mn=9</Url>
-        <ClickUrl>http://www.shiga-u.ac.jp/main.cgi?&amp;c=0:0&amp;yr=2007&amp;mn=9</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 賀茂祭りの様相と変遷</Title>
-        <Url>http://jairo.nii.ac.jp/0125/00006139</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0125/00006139</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 北斎などの浮世絵版木をめぐるW.S.Bigelowの手紙につ&lt;wbr&gt;いて</Title>
-        <Url>http://jairo.nii.ac.jp/0125/00006205</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0125/00006205</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 中小企業におけるこれからのモノづくり : 製品とサービスの融合に関する一試論</Title>
-        <Url>http://jairo.nii.ac.jp/0125/00006149</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0125/00006149</ClickUrl>
+        <Title>Shiga University Repository: &amp;lt;子ども&amp;gt;であることの可能性 : 教育と哲学との邂逅</Title>
+        <Url>http://hdl.handle.net/10441/2126</Url>
+        <ClickUrl>http://hdl.handle.net/10441/2126</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:43 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:42 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:48 PDT 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:48 PDT 2010 -->

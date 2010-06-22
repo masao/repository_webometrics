@@ -6,19 +6,23 @@
 
 機関リポジトリ名称（日）	神奈川大学学術機関リポジトリ
 機関リポジトリ名称（英）	KANAGAWA UNIVERSITY Repository
-機関リポジトリトップページ画像	http://irdb.nii.ac.jp/analysis/file/image/capture/107.gif
+機関リポジトリトップページ画像	http://irdb.nii.ac.jp/analysis/file/image/capture/106.gif
 機関リポジトリへのリンク（日）	http://klibredb.lib.kanagawa-u.ac.jp/dspace/
 機関リポジトリへのリンク（英）	http://klibredb.lib.kanagawa-u.ac.jp/dspace/
-機関リポジトリロゴマーク	http://irdb.nii.ac.jp/analysis/file/image/logo/107.gif
+機関リポジトリロゴマーク	http://irdb.nii.ac.jp/analysis/file/image/logo/106.gif
 郵便番号	221-8686
 住所	神奈川県横浜市神奈川区六角橋3-27-1
 使用ソフトウェア	DSpace
 試験公開日	2009/02/27
 本公開日	2009/04/01
-備考（日）	
-備考（英）	
+備考（日）	CiNii連携対象
+備考（英）	This IR cooperates with CiNii
 
 	Journal Article（学術雑誌論文）	Thesis or Dissertation（学位論文）	Departmental Bulletin Paper（紀要論文）	Conference Paper（会議発表論文）	Presentation（会議発表用資料）	Book（図書）	Technical Report（テクニカルレポート）	Research Paper（研究報告書）	Article（一般雑誌記事）	Preprint（プレプリント）	Learning Material（教材）	Data or Dataset（データ・データベース）	Software（ソフトウェア）	Others（その他）	合計
+2010/05	30	0	3119	76	5	2	0	716	0	0	0	0	0	665	4613
+2010/04	30	0	3075	76	5	2	0	340	0	0	0	0	0	601	4129
+2010/03	10	0	3050	50	3	2	0	76	0	0	0	0	0	560	3751
+2010/02	2	0	3050	7	1	2	0	48	0	0	0	0	0	543	3653
 2010/01	0	0	3050	0	0	2	0	21	0	0	0	0	0	480	3553
 2009/12	0	0	3012	0	0	2	0	21	0	0	0	0	0	433	3468
 2009/11	0	0	2878	0	0	2	0	21	0	0	0	0	0	399	3300

@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4505"
+    totalResultsAvailable="4609"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,14 +27,14 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E7%9B%B8%E6%92%B2</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
-        <Url>http://www.nii.ac.jp/irp/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
-    </Result>
-    <Result>
         <Title>離婚 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E9%9B%A2%E5%A9%9A</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E9%9B%A2%E5%A9%9A</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -57,14 +57,19 @@
         <ClickUrl>http://www.libra.titech.ac.jp/libraries_list.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Linking World: リンクの世界</Title>
-        <Url>http://www.sal.tohoku.ac.jp/~gothit/linking.html</Url>
-        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/linking.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>白保サンゴ礁の自然と現状 サンゴ礁 珊瑚礁 石垣島 カラ岳 カーラ岳 新石垣空港 赤土 白化 サンゴ白化</Title>
         <Url>http://bungakubu.kokushikan.ac.jp/chiri/TEACHER/Hasegawa/webpages/shiraho.html</Url>
         <ClickUrl>http://bungakubu.kokushikan.ac.jp/chiri/TEACHER/Hasegawa/webpages/shiraho.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国際的な子の奪取の民事面に関する条約 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E7%9A%84%E3%81%AA%E5%AD%90%E3%81%AE%E5%A5%AA%E5%8F%96%E3%81%AE%E6%B0%91%E4%BA%8B%E9%9D%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%A1%E7%B4%84</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E7%9A%84%E3%81%AA%E5%AD%90%E3%81%AE%E5%A5%AA%E5%8F%96%E3%81%AE%E6%B0%91%E4%BA%8B%E9%9D%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%A1%E7%B4%84</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アウトロー伝説 国士舘高校 対 朝鮮高校 - 国士舘ちゃんねる</Title>
+        <Url>http://jbbs.livedoor.jp/bbs/read.cgi/study/781/1035604818/</Url>
+        <ClickUrl>http://jbbs.livedoor.jp/bbs/read.cgi/study/781/1035604818/</ClickUrl>
     </Result>
     <Result>
         <Title>図書館|研究・教育活動|国士舘大学</Title>
@@ -77,9 +82,9 @@
         <ClickUrl>http://bungakubu.kokushikan.ac.jp/Chiri/Gakai/Gakai.html</ClickUrl>
     </Result>
     <Result>
-        <Title>My Pdf Library - Part 18 - The Fossil Forum</Title>
-        <Url>http://www.thefossilforum.com/index.php?showtopic=3594</Url>
-        <ClickUrl>http://www.thefossilforum.com/index.php?showtopic=3594</ClickUrl>
+        <Title>Linking World: リンクの世界</Title>
+        <Url>http://www.sal.tohoku.ac.jp/~gothit/linking.html</Url>
+        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/linking.html</ClickUrl>
     </Result>
     <Result>
         <Title>オンライン・ジャーナル</Title>
@@ -87,49 +92,19 @@
         <ClickUrl>http://www.gbrc.jp/journal/index.html</ClickUrl>
     </Result>
     <Result>
+        <Title>My Pdf Library - Part 18 - The Fossil Forum</Title>
+        <Url>http://www.thefossilforum.com/index.php?showtopic=3594</Url>
+        <ClickUrl>http://www.thefossilforum.com/index.php?showtopic=3594</ClickUrl>
+    </Result>
+    <Result>
         <Title>Libraries_Japan</Title>
         <Url>http://www.libra.titech.ac.jp/chiku_Japan.html</Url>
         <ClickUrl>http://www.libra.titech.ac.jp/chiku_Japan.html</ClickUrl>
     </Result>
     <Result>
-        <Title>地方自治体による定期住民意識調査</Title>
-        <Url>http://home.t06.itscom.net/ecyamada/jichitai.htm</Url>
-        <ClickUrl>http://home.t06.itscom.net/ecyamada/jichitai.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国際的な子の奪取の民事面に関する条約 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E7%9A%84%E3%81%AA%E5%AD%90%E3%81%AE%E5%A5%AA%E5%8F%96%E3%81%AE%E6%B0%91%E4%BA%8B%E9%9D%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%A1%E7%B4%84</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E7%9A%84%E3%81%AA%E5%AD%90%E3%81%AE%E5%A5%AA%E5%8F%96%E3%81%AE%E6%B0%91%E4%BA%8B%E9%9D%A2%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%A1%E7%B4%84</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館おばさんTの奮闘日記</Title>
-        <Url>http://obasan-t.blogspot.com/</Url>
-        <ClickUrl>http://obasan-t.blogspot.com/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>在学生の方へ|国士舘大学</Title>
-        <Url>http://www.kokushikan.ac.jp/current/index.html</Url>
-        <ClickUrl>http://www.kokushikan.ac.jp/current/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>製品情報 / LIMEDIO 導入実績 | Ricoh Japan</Title>
-        <Url>http://www.ricoh.co.jp/limedio/link/li_list.html</Url>
-        <ClickUrl>http://www.ricoh.co.jp/limedio/link/li_list.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>平成21年度学生定期健康診断と健康診断証明書の発行について&lt;wbr&gt;|健康管理|学生生活ガイド|在学生の方へ|国士舘大学</Title>
-        <Url>http://www.kokushikan.ac.jp/current/campus_life/194700_0223.html</Url>
-        <ClickUrl>http://www.kokushikan.ac.jp/current/campus_life/194700_0223.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大麻等薬物乱用防止について(注意喚起)|在学生の方へ&lt;wbr&gt;|重要なお知らせ|国士舘大学</Title>
-        <Url>http://www.kokushikan.ac.jp/tagblocks/SW/news/SWinfo01/0000001306.html</Url>
-        <ClickUrl>http://www.kokushikan.ac.jp/tagblocks/SW/news/SWinfo01/0000001306.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国士舘大学附属図書館(中央図書館)ブログ</Title>
-        <Url>http://ameblo.jp/kokushikanlibrary/</Url>
-        <ClickUrl>http://ameblo.jp/kokushikanlibrary/</ClickUrl>
+        <Title>Talk:Indo-European languages/Archive 5 - Wikipedia, the free ...</Title>
+        <Url>http://en.wikipedia.org/wiki/Talk:Indo-European_languages/Archive_5</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Talk:Indo-European_languages/Archive_5</ClickUrl>
     </Result>
     <Result>
         <Title>東京都の図書館</Title>
@@ -137,19 +112,9 @@
         <ClickUrl>http://www.reference-net.jp/lib_dir/13.html</ClickUrl>
     </Result>
     <Result>
-        <Title>加盟図書館名簿(地区別)</Title>
-        <Url>http://www.jaspul.org/gaiyou/meibo_index.html</Url>
-        <ClickUrl>http://www.jaspul.org/gaiyou/meibo_index.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>全国漢籍データベース参加機関一覧</Title>
         <Url>http://kanji.zinbun.kyoto-u.ac.jp/kansekikyogikai/ichiran.htm</Url>
         <ClickUrl>http://kanji.zinbun.kyoto-u.ac.jp/kansekikyogikai/ichiran.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2008-01-02(Wed): 探索:大学図書館の銘(2) - ACADEMIC RESOURCE GUIDE (ARG ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20080104/1199375615</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20080104/1199375615</ClickUrl>
     </Result>
     <Result>
         <Title>国士舘大学 文学部ホームページ</Title>
@@ -157,24 +122,14 @@
         <ClickUrl>http://bungakubu.kokushikan.ac.jp/department/d_edu/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>アウトロー伝説 国士舘高校 対 朝鮮高校 - 国士舘ちゃんねる</Title>
-        <Url>http://jbbs.livedoor.jp/bbs/read.cgi/study/781/1035604818/</Url>
-        <ClickUrl>http://jbbs.livedoor.jp/bbs/read.cgi/study/781/1035604818/</ClickUrl>
+        <Title>図書館おばさんTの奮闘日記</Title>
+        <Url>http://obasan-t.blogspot.com/</Url>
+        <ClickUrl>http://obasan-t.blogspot.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>皇国史観研究会 : これが国士舘だ!!</Title>
-        <Url>http://shikisima.exblog.jp/3731152</Url>
-        <ClickUrl>http://shikisima.exblog.jp/3731152</ClickUrl>
-    </Result>
-    <Result>
-        <Title>流星の絆</Title>
-        <Url>http://blog.goo.ne.jp/americasycamore1</Url>
-        <ClickUrl>http://blog.goo.ne.jp/americasycamore1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館おばさんTの奮闘日記: 2月 2008</Title>
-        <Url>http://obasan-t.blogspot.com/2008_02_01_archive.html</Url>
-        <ClickUrl>http://obasan-t.blogspot.com/2008_02_01_archive.html</ClickUrl>
+        <Title>地方自治体による定期住民意識調査</Title>
+        <Url>http://home.t06.itscom.net/ecyamada/jichitai.htm</Url>
+        <ClickUrl>http://home.t06.itscom.net/ecyamada/jichitai.htm</ClickUrl>
     </Result>
     <Result>
         <Title>国士舘大学 文学部ホームページ</Title>
@@ -182,44 +137,34 @@
         <ClickUrl>http://bungakubu.kokushikan.ac.jp/staff/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>ブログを終了します。|国士舘大学附属図書館(中央図書館&lt;wbr&gt;)ブログ</Title>
-        <Url>http://ameblo.jp/kokushikanlibrary/entry-10027944521.html</Url>
-        <ClickUrl>http://ameblo.jp/kokushikanlibrary/entry-10027944521.html</ClickUrl>
+        <Title>2008-01-02(Wed): 探索:大学図書館の銘(2) - ACADEMIC RESOURCE GUIDE (ARG ...</Title>
+        <Url>http://d.hatena.ne.jp/arg/20080104/1199375615</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20080104/1199375615</ClickUrl>
     </Result>
     <Result>
-        <Title>図書館おばさんTの奮闘日記: 2008/09/30新着図書案内</Title>
-        <Url>http://obasan-t.blogspot.com/2008/09/20080930.html</Url>
-        <ClickUrl>http://obasan-t.blogspot.com/2008/09/20080930.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
-        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
-        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
+        <Title>平成22年度学生定期健康診断と健康診断証明書の発行について&lt;wbr&gt;|健康管理|学生生活ガイド|在学生の方へ|国士舘大学</Title>
+        <Url>http://www.kokushikan.ac.jp/current/campus_life/194700_0223.html</Url>
+        <ClickUrl>http://www.kokushikan.ac.jp/current/campus_life/194700_0223.html</ClickUrl>
     </Result>
     <Result>
         <Title>国士舘大学 文学部ホームページ</Title>
-        <Url>http://bungakubu.kokushikan.ac.jp/department/d_edu/ethics.html</Url>
-        <ClickUrl>http://bungakubu.kokushikan.ac.jp/department/d_edu/ethics.html</ClickUrl>
+        <Url>http://bungakubu.kokushikan.ac.jp/meeting/bulletin/index.html</Url>
+        <ClickUrl>http://bungakubu.kokushikan.ac.jp/meeting/bulletin/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Yahoo!カテゴリ - 全リスト</Title>
-        <Url>http://dir.yahoo.co.jp/pg/newsite/20011213/complete_listing/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20011213/complete_listing/</ClickUrl>
+        <Title>図書館おばさんTの奮闘日記: 7月 2007</Title>
+        <Url>http://obasan-t.blogspot.com/2007_07_01_archive.html</Url>
+        <ClickUrl>http://obasan-t.blogspot.com/2007_07_01_archive.html</ClickUrl>
     </Result>
     <Result>
-        <Title>図書館おばさんTの奮闘日記: 2008/06/27新着図書案内</Title>
-        <Url>http://obasan-t.blogspot.com/2008/06/20080627.html</Url>
-        <ClickUrl>http://obasan-t.blogspot.com/2008/06/20080627.html</ClickUrl>
+        <Title>図書館おばさんTの奮闘日記: 2月 2008</Title>
+        <Url>http://obasan-t.blogspot.com/2008_02_01_archive.html</Url>
+        <ClickUrl>http://obasan-t.blogspot.com/2008_02_01_archive.html</ClickUrl>
     </Result>
     <Result>
-        <Title>国士舘大学</Title>
-        <Url>http://navi.kokushikan.ac.jp/mobile/</Url>
-        <ClickUrl>http://navi.kokushikan.ac.jp/mobile/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Archivalia: Japanese Institutional Repositories Online</Title>
-        <Url>http://archiv.twoday.net/stories/5273429/</Url>
-        <ClickUrl>http://archiv.twoday.net/stories/5273429/</ClickUrl>
+        <Title>在学生の方へ|国士舘大学</Title>
+        <Url>http://www.kokushikan.ac.jp/current/index.html</Url>
+        <ClickUrl>http://www.kokushikan.ac.jp/current/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>定期作成民間統計 2007年時点</Title>
@@ -227,9 +172,74 @@
         <ClickUrl>http://home.t06.itscom.net/ecyamada/minnkann05.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>フレッシュマン・ゼミナールの頁</Title>
-        <Url>http://home.t06.itscom.net/ecyamada/seminar2008.htm</Url>
-        <ClickUrl>http://home.t06.itscom.net/ecyamada/seminar2008.htm</ClickUrl>
+        <Title>国士舘大学 文学部ホームページ</Title>
+        <Url>http://bungakubu.kokushikan.ac.jp/meeting/index.html</Url>
+        <ClickUrl>http://bungakubu.kokushikan.ac.jp/meeting/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>皇国史観研究会 : これが国士舘だ!!</Title>
+        <Url>http://shikisima.exblog.jp/3731152/</Url>
+        <ClickUrl>http://shikisima.exblog.jp/3731152/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>製品情報 / LIMEDIO 導入実績 | Ricoh Japan</Title>
+        <Url>http://www.ricoh.co.jp/limedio/link/li_list.html</Url>
+        <ClickUrl>http://www.ricoh.co.jp/limedio/link/li_list.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>講演会の動画</Title>
+        <Url>http://bungakubu.kokushikan.ac.jp/Chiri/KouenkaiMov/Top.htm</Url>
+        <ClickUrl>http://bungakubu.kokushikan.ac.jp/Chiri/KouenkaiMov/Top.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>アパート紹介|生活支援|学生生活ガイド|在学生の方へ&lt;wbr&gt;|国士舘大学</Title>
+        <Url>http://www.kokushikan.ac.jp/current/campus_life/194700_0227.html</Url>
+        <ClickUrl>http://www.kokushikan.ac.jp/current/campus_life/194700_0227.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>&apos;q _ q _ _ _ - 楽天ウェブ検索</Title>
+        <Url>http://websearch.rakuten.co.jp/?tool_id=1&amp;qt=&apos;q%00%EF%BF%BDq%00%EF%BF%BD%EF%BF%BD%EF%BF%BD&amp;st=70</Url>
+        <ClickUrl>http://websearch.rakuten.co.jp/?tool_id=1&amp;qt=&apos;q%00%EF%BF%BDq%00%EF%BF%BD%EF%BF%BD%EF%BF%BD&amp;st=70</ClickUrl>
+    </Result>
+    <Result>
+        <Title>多重債務整理・過払い返還・任意整理・民事再生・破産 菊池司法書士事務所</Title>
+        <Url>http://blog.livedoor.jp/kabarai5/</Url>
+        <ClickUrl>http://blog.livedoor.jp/kabarai5/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国士舘大学附属図書館(中央図書館)ブログ</Title>
+        <Url>http://ameblo.jp/kokushikanlibrary/</Url>
+        <ClickUrl>http://ameblo.jp/kokushikanlibrary/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>文画動 みんなで作る検索エンジン Kynny (キニー) BETA</Title>
+        <Url>http://www.kynny.com/q.php?q=%E6%96%87%E7%94%BB%E5%8B%95</Url>
+        <ClickUrl>http://www.kynny.com/q.php?q=%E6%96%87%E7%94%BB%E5%8B%95</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Archivalia: Japanese Institutional Repositories Online</Title>
+        <Url>http://archiv.twoday.net/stories/5273429/</Url>
+        <ClickUrl>http://archiv.twoday.net/stories/5273429/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>加盟図書館名簿(地区別)</Title>
+        <Url>http://www.jaspul.org/gaiyou/meibo_index.html</Url>
+        <ClickUrl>http://www.jaspul.org/gaiyou/meibo_index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Library scenes on streaming video and Flash movies</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/libvideo.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/libvideo.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国士舘大学 文学部ホームページ</Title>
+        <Url>http://bungakubu.kokushikan.ac.jp/plan/index.html</Url>
+        <ClickUrl>http://bungakubu.kokushikan.ac.jp/plan/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>2009年度 卒業論文</Title>
@@ -237,25 +247,15 @@
         <ClickUrl>http://home.t06.itscom.net/ecyamada/seminar2007.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>09年度 2年金曜3限(世田谷図書館棟6階コラボ室)</Title>
-        <Url>http://home.t06.itscom.net/ecyamada/seminar2009.htm</Url>
-        <ClickUrl>http://home.t06.itscom.net/ecyamada/seminar2009.htm</ClickUrl>
+        <Title>Parthus (avar) őstörténet - Index Fórum</Title>
+        <Url>http://forum.index.hu/Article/showArticle?t=9139311</Url>
+        <ClickUrl>http://forum.index.hu/Article/showArticle?t=9139311</ClickUrl>
     </Result>
     <Result>
-        <Title>国士舘大学 文学部ホームページ</Title>
-        <Url>http://bungakubu.kokushikan.ac.jp/meeting/index.html</Url>
-        <ClickUrl>http://bungakubu.kokushikan.ac.jp/meeting/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>リンク:「王粛「論秘書表」の基礎的研究」 - 三国志ニュース</Title>
-        <Url>http://cte.main.jp/newsch/article.php/1208</Url>
-        <ClickUrl>http://cte.main.jp/newsch/article.php/1208</ClickUrl>
-    </Result>
-    <Result>
-        <Title>KCH</Title>
-        <Url>http://www.kch.kokushikan.ac.jp/study/past-e.htm</Url>
-        <ClickUrl>http://www.kch.kokushikan.ac.jp/study/past-e.htm</ClickUrl>
+        <Title>Profile of Kokushikan Univ Library [WorldCat.org]</Title>
+        <Url>http://www.worldcat.org/libraries/52682</Url>
+        <ClickUrl>http://www.worldcat.org/libraries/52682</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:57 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:57 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:16 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:16 PDT 2010 -->

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="1871"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学附属図書館 | ホーム</Title>
+        <Url>http://www.flib.fukui-u.ac.jp/</Url>
+        <ClickUrl>http://www.flib.fukui-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学附属図書館 | ホーム</Title>
+        <Url>http://wwwlib.fukui-med.ac.jp/</Url>
+        <ClickUrl>http://wwwlib.fukui-med.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 高出力サブリミ波光源(ジャイロトロン)の ...</Title>
+        <Url>http://hdl.handle.net/10461/1996</Url>
+        <ClickUrl>http://hdl.handle.net/10461/1996</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): エンドユーザのセキュリティ意識向上を目 ...</Title>
+        <Url>http://hdl.handle.net/10461/4733</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4733</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Effect of additives ...</Title>
+        <Url>http://hdl.handle.net/10461/5319</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5319</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 『北平風俗類微』とその索引</Title>
+        <Url>http://hdl.handle.net/10461/1556</Url>
+        <ClickUrl>http://hdl.handle.net/10461/1556</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学附属図書館 | ホーム</Title>
+        <Url>http://www.flib.u-fukui.ac.jp/</Url>
+        <ClickUrl>http://www.flib.u-fukui.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学附属図書館 | 医学図書館 - 利用ガイド</Title>
+        <Url>http://www.flib.u-fukui.ac.jp/lib_igaku/</Url>
+        <ClickUrl>http://www.flib.u-fukui.ac.jp/lib_igaku/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Measurement of the K^+ π^+ v v^^- branching ratio</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001321</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001321</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学教育地域科学部紀要</Title>
+        <Url>http://www.flib.fukui-u.ac.jp/kiyo/kiyo-top.html</Url>
+        <ClickUrl>http://www.flib.fukui-u.ac.jp/kiyo/kiyo-top.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>FAQ</Title>
+        <Url>http://www.flib.fukui-u.ac.jp/repository/FAQ.html</Url>
+        <ClickUrl>http://www.flib.fukui-u.ac.jp/repository/FAQ.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Facial Expression Recognition Based on</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00000888</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00000888</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 自己免疫性橋本脳症の臨床・免疫学的研究(続報)</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001128/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001128/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=38</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=38</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Running Test of Contactwire-less Tramcar Using ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001418/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001418/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Driven motion of the third phase on the oil | water ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001518/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001518/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Improvements of ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5602</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5602</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 介護施設における介護量の計測と分析</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5584</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5584</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Improvements of ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5610</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5610</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): マンガンペルオキシダーゼ生産に及ぼす ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5605</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5605</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 自然エネルギー利用型分散型電源と配電 ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5608</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5608</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): MEASUREMENT OF ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5456</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5456</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Muscle MRI in ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5451</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5451</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 心室細動発生前後に著明なJ waveが ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5454</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5454</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 薬物性/ 二次性高尿酸血症</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5455</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5455</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): ニューラルネットワークによるパターン認識 ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5606</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5606</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Skin Sensitization ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5458</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5458</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 押出ブロー成形のピンチオフ工程における ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5609</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5609</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 在宅高齢者の住環境とQOL・ADLに関 ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5607</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5607</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): ELECTROGENERATED ION ...</Title>
+        <Url>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5457</Url>
+        <ClickUrl>http://crf.flib.u-fukui.ac.jp/dspace/handle/10461/5457</ClickUrl>
+    </Result>
+    <Result>
+        <Title>機関リポジトリ Archive - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/cat6/</Url>
+        <ClickUrl>http://www.openaccessjapan.com/cat6/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学附属図書館 | 医学図書館 - 利用ガイド</Title>
+        <Url>http://www.flib.fukui-u.ac.jp/lib_igaku/</Url>
+        <ClickUrl>http://www.flib.fukui-u.ac.jp/lib_igaku/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | エンドユーザのセキュリティ意識向上を目指したパケットヘッダ可&lt;wbr&gt;視化システム</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001181</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001181</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 生体内の酸素代謝に関する総合研究</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001200</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001200</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Comparison of Near Threshold Fatigue Crack Growth ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00000364</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00000364</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ウェットブラスト加工に関する基礎的研究</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001533</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001533</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Relationship Between Impaired Microvascular Function ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001242</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001242</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ディスク型押出機の流れ場のシミュレーション解析</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00000812</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00000812</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 星型の絡み合い高分子の末端架橋における粘弾性挙動&lt;wbr&gt;:分岐高分子に対する粘弾性計算の拡張</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001237</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001237</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Evaluation of Cavitation Erosion based on Erosion ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001429</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001429</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 自己免疫性橋本脳症の臨床・免疫学的研究(続報)</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001128</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001128</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | アレルギー性疾患の発症危険因子の同定と予防対策の検討</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001115</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001115</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Study of the decay K^+π^+ν ν^^- in momentum region ...</Title>
+        <Url>http://jairo.nii.ac.jp/0039/00001322</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0039/00001322</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学附属図書館 | キャンパスマップ</Title>
+        <Url>http://www.flib.fukui-u.ac.jp/lib_common/map.html</Url>
+        <ClickUrl>http://www.flib.fukui-u.ac.jp/lib_common/map.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学附属図書館 | 総合図書館 - 利用ガイド</Title>
+        <Url>http://www.flib.fukui-u.ac.jp/lib_sogou/index.html</Url>
+        <ClickUrl>http://www.flib.fukui-u.ac.jp/lib_sogou/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>福井大学附属図書館 | 総合図書館 - 利用ガイド</Title>
+        <Url>http://www.flib.u-fukui.ac.jp/lib_sogou/index.html</Url>
+        <ClickUrl>http://www.flib.u-fukui.ac.jp/lib_sogou/index.html</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:06 PDT 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:06 PDT 2010 -->

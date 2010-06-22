@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1648"
+    totalResultsAvailable="2201"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -32,19 +32,14 @@
         <ClickUrl>http://www.lib.u-toyama.ac.jp/chuo/hearnlib.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
-    </Result>
-    <Result>
         <Title>富山大学附属図書館(中央図書館)</Title>
         <Url>http://www.lib.u-toyama.ac.jp/chuo/index.html</Url>
         <ClickUrl>http://www.lib.u-toyama.ac.jp/chuo/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2541</Title>
-        <Url>http://hdl.handle.net/10110/2541</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2541</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成20年度 平成19年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2008/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2008/debrief/</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/79</Title>
@@ -52,19 +47,14 @@
         <ClickUrl>http://hdl.handle.net/10110/79</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/270</Title>
-        <Url>http://hdl.handle.net/10110/270</Url>
-        <ClickUrl>http://hdl.handle.net/10110/270</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at University of Toyama: Item 10110/268</Title>
         <Url>http://hdl.handle.net/10110/268</Url>
         <ClickUrl>http://hdl.handle.net/10110/268</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/262</Title>
-        <Url>http://hdl.handle.net/10110/262</Url>
-        <ClickUrl>http://hdl.handle.net/10110/262</ClickUrl>
+        <Title>DSpace at University of Toyama: Item 10110/270</Title>
+        <Url>http://hdl.handle.net/10110/270</Url>
+        <ClickUrl>http://hdl.handle.net/10110/270</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/259</Title>
@@ -72,19 +62,19 @@
         <ClickUrl>http://hdl.handle.net/10110/259</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/261</Title>
-        <Url>http://hdl.handle.net/10110/261</Url>
-        <ClickUrl>http://hdl.handle.net/10110/261</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/269</Title>
-        <Url>http://hdl.handle.net/10110/269</Url>
-        <ClickUrl>http://hdl.handle.net/10110/269</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at University of Toyama: Item 10110/260</Title>
         <Url>http://hdl.handle.net/10110/260</Url>
         <ClickUrl>http://hdl.handle.net/10110/260</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/262</Title>
+        <Url>http://hdl.handle.net/10110/262</Url>
+        <ClickUrl>http://hdl.handle.net/10110/262</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/261</Title>
+        <Url>http://hdl.handle.net/10110/261</Url>
+        <ClickUrl>http://hdl.handle.net/10110/261</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/266</Title>
@@ -92,14 +82,14 @@
         <ClickUrl>http://hdl.handle.net/10110/266</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/263</Title>
-        <Url>http://hdl.handle.net/10110/263</Url>
-        <ClickUrl>http://hdl.handle.net/10110/263</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at University of Toyama: Item 10110/271</Title>
         <Url>http://hdl.handle.net/10110/271</Url>
         <ClickUrl>http://hdl.handle.net/10110/271</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/263</Title>
+        <Url>http://hdl.handle.net/10110/263</Url>
+        <ClickUrl>http://hdl.handle.net/10110/263</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/265</Title>
@@ -112,29 +102,9 @@
         <ClickUrl>http://hdl.handle.net/10110/267</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/915</Title>
-        <Url>http://hdl.handle.net/10110/915</Url>
-        <ClickUrl>http://hdl.handle.net/10110/915</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/989</Title>
-        <Url>http://hdl.handle.net/10110/989</Url>
-        <ClickUrl>http://hdl.handle.net/10110/989</ClickUrl>
-    </Result>
-    <Result>
         <Title>DSpace at University of Toyama: Item 10110/1112</Title>
         <Url>http://hdl.handle.net/10110/1112</Url>
         <ClickUrl>http://hdl.handle.net/10110/1112</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2467</Title>
-        <Url>http://hdl.handle.net/10110/2467</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2467</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/1113</Title>
-        <Url>http://hdl.handle.net/10110/1113</Url>
-        <ClickUrl>http://hdl.handle.net/10110/1113</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/1114</Title>
@@ -142,9 +112,39 @@
         <ClickUrl>http://hdl.handle.net/10110/1114</ClickUrl>
     </Result>
     <Result>
+        <Title>DSpace at University of Toyama: Item 10110/1004</Title>
+        <Url>http://hdl.handle.net/10110/1004</Url>
+        <ClickUrl>http://hdl.handle.net/10110/1004</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/1883</Title>
+        <Url>http://hdl.handle.net/10110/1883</Url>
+        <ClickUrl>http://hdl.handle.net/10110/1883</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/1162</Title>
+        <Url>http://hdl.handle.net/10110/1162</Url>
+        <ClickUrl>http://hdl.handle.net/10110/1162</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/2623</Title>
+        <Url>http://hdl.handle.net/10110/2623</Url>
+        <ClickUrl>http://hdl.handle.net/10110/2623</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/925</Title>
+        <Url>http://hdl.handle.net/10110/925</Url>
+        <ClickUrl>http://hdl.handle.net/10110/925</ClickUrl>
+    </Result>
+    <Result>
         <Title>DSpace at University of Toyama: Item 10110/1779</Title>
         <Url>http://hdl.handle.net/10110/1779</Url>
         <ClickUrl>http://hdl.handle.net/10110/1779</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/1867</Title>
+        <Url>http://hdl.handle.net/10110/1867</Url>
+        <ClickUrl>http://hdl.handle.net/10110/1867</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/2563</Title>
@@ -152,24 +152,14 @@
         <ClickUrl>http://hdl.handle.net/10110/2563</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2557</Title>
-        <Url>http://hdl.handle.net/10110/2557</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2557</ClickUrl>
+        <Title>DSpace at University of Toyama: Item 10110/1840</Title>
+        <Url>http://hdl.handle.net/10110/1840</Url>
+        <ClickUrl>http://hdl.handle.net/10110/1840</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2544</Title>
-        <Url>http://hdl.handle.net/10110/2544</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2544</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2560</Title>
-        <Url>http://hdl.handle.net/10110/2560</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2560</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2546</Title>
-        <Url>http://hdl.handle.net/10110/2546</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2546</ClickUrl>
+        <Title>DSpace at University of Toyama: Item 10110/2551</Title>
+        <Url>http://hdl.handle.net/10110/2551</Url>
+        <ClickUrl>http://hdl.handle.net/10110/2551</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/2566</Title>
@@ -182,29 +172,24 @@
         <ClickUrl>http://hdl.handle.net/10110/2564</ClickUrl>
     </Result>
     <Result>
+        <Title>DSpace at University of Toyama: Item 10110/2557</Title>
+        <Url>http://hdl.handle.net/10110/2557</Url>
+        <ClickUrl>http://hdl.handle.net/10110/2557</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSpace at University of Toyama: Item 10110/2560</Title>
+        <Url>http://hdl.handle.net/10110/2560</Url>
+        <ClickUrl>http://hdl.handle.net/10110/2560</ClickUrl>
+    </Result>
+    <Result>
         <Title>DSpace at University of Toyama: Item 10110/2549</Title>
         <Url>http://hdl.handle.net/10110/2549</Url>
         <ClickUrl>http://hdl.handle.net/10110/2549</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2553</Title>
-        <Url>http://hdl.handle.net/10110/2553</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2553</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2554</Title>
-        <Url>http://hdl.handle.net/10110/2554</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2554</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2562</Title>
-        <Url>http://hdl.handle.net/10110/2562</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2562</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2547</Title>
-        <Url>http://hdl.handle.net/10110/2547</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2547</ClickUrl>
+        <Title>DSpace at University of Toyama: Item 10110/1837</Title>
+        <Url>http://hdl.handle.net/10110/1837</Url>
+        <ClickUrl>http://hdl.handle.net/10110/1837</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/2558</Title>
@@ -212,29 +197,9 @@
         <ClickUrl>http://hdl.handle.net/10110/2558</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2643</Title>
-        <Url>http://hdl.handle.net/10110/2643</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2643</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2542</Title>
-        <Url>http://hdl.handle.net/10110/2542</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2542</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2552</Title>
-        <Url>http://hdl.handle.net/10110/2552</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2552</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/1713</Title>
-        <Url>http://hdl.handle.net/10110/1713</Url>
-        <ClickUrl>http://hdl.handle.net/10110/1713</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpace at University of Toyama: Item 10110/1597</Title>
-        <Url>http://hdl.handle.net/10110/1597</Url>
-        <ClickUrl>http://hdl.handle.net/10110/1597</ClickUrl>
+        <Title>DSpace at University of Toyama: Item 10110/1855</Title>
+        <Url>http://hdl.handle.net/10110/1855</Url>
+        <ClickUrl>http://hdl.handle.net/10110/1855</ClickUrl>
     </Result>
     <Result>
         <Title>DSpace at University of Toyama: Item 10110/2540</Title>
@@ -247,15 +212,50 @@
         <ClickUrl>http://hdl.handle.net/10110/2559</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/2561</Title>
-        <Url>http://hdl.handle.net/10110/2561</Url>
-        <ClickUrl>http://hdl.handle.net/10110/2561</ClickUrl>
+        <Title>DSpace at University of Toyama: Item 10110/2565</Title>
+        <Url>http://hdl.handle.net/10110/2565</Url>
+        <ClickUrl>http://hdl.handle.net/10110/2565</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpace at University of Toyama: Item 10110/1962</Title>
-        <Url>http://hdl.handle.net/10110/1962</Url>
-        <ClickUrl>http://hdl.handle.net/10110/1962</ClickUrl>
+        <Title>一括検索 -s45c 応力-</Title>
+        <Url>http://seonum.com/rank/s45c+%E5%BF%9C%E5%8A%9B.html</Url>
+        <ClickUrl>http://seonum.com/rank/s45c+%E5%BF%9C%E5%8A%9B.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>金雲翹 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%87%91%E9%9B%B2%E7%BF%B9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%87%91%E9%9B%B2%E7%BF%B9</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
+        <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>笠間書院 kasamashoin ONLINE: 2008年11月 アーカイブ</Title>
+        <Url>http://kasamashoin.jp/2008/11/</Url>
+        <ClickUrl>http://kasamashoin.jp/2008/11/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ハマっち!::Rimbaudのブログ - 192. 「知的障害児の日常生活スキルの形成と長期的維持」</Title>
+        <Url>http://sns.hamatch.jp/blog/blog.php?key=22526</Url>
+        <ClickUrl>http://sns.hamatch.jp/blog/blog.php?key=22526</ClickUrl>
+    </Result>
+    <Result>
+        <Title>STUDY AT KOBE-U: オノマトペに関する参考文献リスト</Title>
+        <Url>http://luomiliang-kobe.blogspot.com/2008/06/blog-post.html</Url>
+        <ClickUrl>http://luomiliang-kobe.blogspot.com/2008/06/blog-post.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:12 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:12 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:32 PDT 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:32 PDT 2010 -->

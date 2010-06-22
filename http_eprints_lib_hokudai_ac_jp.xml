@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="67309"
+    totalResultsAvailable="64720"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,14 +22,24 @@
         <ClickUrl>http://www.hokudai.ac.jp/index-e.html</ClickUrl>
     </Result>
     <Result>
+        <Title>- Terrierman&apos;s Daily Dose -</Title>
+        <Url>http://terriermandotcom.blogspot.com/</Url>
+        <ClickUrl>http://terriermandotcom.blogspot.com/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
     </Result>
     <Result>
-        <Title>#71: Slime Molds Show Surprising Degree of Intelligence ...</Title>
-        <Url>http://discovermagazine.com/2009/jan/071</Url>
-        <ClickUrl>http://discovermagazine.com/2009/jan/071</ClickUrl>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Budapest Open Access Initiative</Title>
+        <Url>http://www.soros.org/openaccess/view.cfm</Url>
+        <ClickUrl>http://www.soros.org/openaccess/view.cfm</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Registered Archives</Title>
@@ -37,14 +47,9 @@
         <ClickUrl>http://celestial.eprints.org/</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Budapest Open Access Initiative</Title>
-        <Url>http://www.soros.org/openaccess/view.cfm</Url>
-        <ClickUrl>http://www.soros.org/openaccess/view.cfm</ClickUrl>
+        <Title>#71: Slime Molds Show Surprising Degree of Intelligence ...</Title>
+        <Url>http://discovermagazine.com/2009/jan/071</Url>
+        <ClickUrl>http://discovermagazine.com/2009/jan/071</ClickUrl>
     </Result>
     <Result>
         <Title>Hokkaido University Library -</Title>
@@ -53,33 +58,8 @@
     </Result>
     <Result>
         <Title>Institute of Low Temperature Science, Hokkaido University</Title>
-        <Url>http://www.lowtem.hokudai.ac.jp/english/</Url>
-        <ClickUrl>http://www.lowtem.hokudai.ac.jp/english/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ガ島通信</Title>
-        <Url>http://d.hatena.ne.jp/gatonews/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/gatonews/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>北海道大学低温科学研究所</Title>
-        <Url>http://www.lowtem.hokudai.ac.jp/</Url>
-        <ClickUrl>http://www.lowtem.hokudai.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Linking Service to Open Access Repositories</Title>
-        <Url>http://www.dlib.org/dlib/march07/sugita/03sugita.html</Url>
-        <ClickUrl>http://www.dlib.org/dlib/march07/sugita/03sugita.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Catlin Arctic Ice Survey Packing It Up – What Have They ...</Title>
-        <Url>http://wattsupwiththat.com/2009/05/11/catlin-artic-ice-survey-packing-it-up-what-have-they-accomplished/</Url>
-        <ClickUrl>http://wattsupwiththat.com/2009/05/11/catlin-artic-ice-survey-packing-it-up-what-have-they-accomplished/</ClickUrl>
+        <Url>http://www.lowtem.hokudai.ac.jp/english</Url>
+        <ClickUrl>http://www.lowtem.hokudai.ac.jp/english</ClickUrl>
     </Result>
     <Result>
         <Title>The Theropod Archives</Title>
@@ -87,14 +67,19 @@
         <ClickUrl>http://home.comcast.net/~theropod-archives/</ClickUrl>
     </Result>
     <Result>
+        <Title>北海道大学低温科学研究所</Title>
+        <Url>http://www.lowtem.hokudai.ac.jp/</Url>
+        <ClickUrl>http://www.lowtem.hokudai.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>北海道大学|法科大学院(ロースクール)</Title>
-        <Url>http://www.juris.hokudai.ac.jp/lawschool/</Url>
-        <ClickUrl>http://www.juris.hokudai.ac.jp/lawschool/</ClickUrl>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>Okhotsk Plate - Wikipedia, the free encyclopedia</Title>
@@ -102,14 +87,24 @@
         <ClickUrl>http://en.wikipedia.org/wiki/Okhotsk_Plate</ClickUrl>
     </Result>
     <Result>
+        <Title>北海道大学|法科大学院(ロースクール)</Title>
+        <Url>http://www.juris.hokudai.ac.jp/lawschool/</Url>
+        <ClickUrl>http://www.juris.hokudai.ac.jp/lawschool/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Linking Service to Open Access Repositories</Title>
+        <Url>http://www.dlib.org/dlib/march07/sugita/03sugita.html</Url>
+        <ClickUrl>http://www.dlib.org/dlib/march07/sugita/03sugita.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>植民地 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%B0%91%E5%9C%B0</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%B0%91%E5%9C%B0</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+        <Title>Catlin Arctic Ice Survey Packing It Up – What Have They ...</Title>
+        <Url>http://wattsupwiththat.com/2009/05/11/catlin-artic-ice-survey-packing-it-up-what-have-they-accomplished/</Url>
+        <ClickUrl>http://wattsupwiththat.com/2009/05/11/catlin-artic-ice-survey-packing-it-up-what-have-they-accomplished/</ClickUrl>
     </Result>
     <Result>
         <Title>Main Articles: &apos;From Nought to a Thousand: The HUSCAP Project ...</Title>
@@ -117,9 +112,19 @@
         <ClickUrl>http://www.ariadne.ac.uk/issue49/suzuki-sugita/</ClickUrl>
     </Result>
     <Result>
-        <Title>RealClimate: Adapting in Amsterdam</Title>
-        <Url>http://www.realclimate.org/index.php/archives/2008/10/adapting-in-amsterdam/</Url>
-        <ClickUrl>http://www.realclimate.org/index.php/archives/2008/10/adapting-in-amsterdam/</ClickUrl>
+        <Title>プロも描いてる 神田明神の痛絵馬2010 「ちょー上手い」 - アキバBlog</Title>
+        <Url>http://blog.livedoor.jp/geek/archives/50959152.html</Url>
+        <ClickUrl>http://blog.livedoor.jp/geek/archives/50959152.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>北海道大学|法学部</Title>
+        <Url>http://www.juris.hokudai.ac.jp/</Url>
+        <ClickUrl>http://www.juris.hokudai.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>北海道大学【大学院獣医研究科・獣医学部】</Title>
@@ -137,34 +142,19 @@
         <ClickUrl>http://www.hucc.hokudai.ac.jp/~n16260/</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>北海道大学|法学部</Title>
-        <Url>http://www.juris.hokudai.ac.jp/</Url>
-        <ClickUrl>http://www.juris.hokudai.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>定義 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>ギョウジャニンニク - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF</ClickUrl>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>プロも描いてる 神田明神の痛絵馬2010 「ちょー上手い」 - アキバBlog</Title>
-        <Url>http://blog.livedoor.jp/geek/archives/50959152.html</Url>
-        <ClickUrl>http://blog.livedoor.jp/geek/archives/50959152.html</ClickUrl>
+        <Title>Group Discusses Lucky Star Uniforms to Boost Local Tourism ...</Title>
+        <Url>http://www.animenewsnetwork.com/news/2009-06-25/group-discusses-lucky-star-uniforms-to-boost-local-tourism</Url>
+        <ClickUrl>http://www.animenewsnetwork.com/news/2009-06-25/group-discusses-lucky-star-uniforms-to-boost-local-tourism</ClickUrl>
     </Result>
     <Result>
         <Title>帝国大学 - Wikipedia</Title>
@@ -172,9 +162,14 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B8%9D%E5%9B%BD%E5%A4%A7%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>Dr. IITAKA&apos;S Home Page</Title>
-        <Url>http://www.iitaka.org/</Url>
-        <ClickUrl>http://www.iitaka.org/</ClickUrl>
+        <Title>定義 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ギョウジャニンニク - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A7%E3%82%A6%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%B3%E3%83%8B%E3%82%AF</ClickUrl>
     </Result>
     <Result>
         <Title>Korsakov (town) - Wikipedia, the free encyclopedia</Title>
@@ -182,39 +177,9 @@
         <ClickUrl>http://en.wikipedia.org/wiki/Korsakov_(town)</ClickUrl>
     </Result>
     <Result>
-        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「反日台湾」を強調したNHKスペシャルー「シリーズJAPAN&lt;wbr&gt;デビュー」</Title>
-        <Url>http://mamoretaiwan.blog100.fc2.com/blog-entry-714.html</Url>
-        <ClickUrl>http://mamoretaiwan.blog100.fc2.com/blog-entry-714.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
-        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>PDO — ENSO, Aleutian Low, or some of each? &quot; Watts Up With That?</Title>
-        <Url>http://wattsupwiththat.com/2009/05/12/pdo-enso-aleutian-low-or-some-of-each/</Url>
-        <ClickUrl>http://wattsupwiththat.com/2009/05/12/pdo-enso-aleutian-low-or-some-of-each/</ClickUrl>
+        <Title>Dr. IITAKA&apos;S Home Page</Title>
+        <Url>http://www.iitaka.org/</Url>
+        <ClickUrl>http://www.iitaka.org/</ClickUrl>
     </Result>
     <Result>
         <Title>情報理論 - Wikipedia</Title>
@@ -222,9 +187,49 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96</ClickUrl>
     </Result>
     <Result>
-        <Title>ぶんしけん/文化資源マネジメント研究会</Title>
-        <Url>http://www.bunshiken.org/</Url>
-        <ClickUrl>http://www.bunshiken.org/</ClickUrl>
+        <Title>Parnassius - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Parnassius</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Parnassius</ClickUrl>
+    </Result>
+    <Result>
+        <Title>感想 日本建築学会編『音楽空間への誘いコンサートホールの楽しみ』&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>週刊誌を読んで: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ef56.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ef56.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>小林よしのり「ゴー宣」天皇論追撃篇の感想その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-9c4c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-9c4c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>在特会が東京新聞に対し抗議行動: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日比谷の普天間基地はいらない全国集会に6000人とか&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>性染色体 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%80%A7%E6%9F%93%E8%89%B2%E4%BD%93</ClickUrl>
+    </Result>
+    <Result>
+        <Title>巡礼 (通俗) - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B7%A1%E7%A4%BC_(%E9%80%9A%E4%BF%97)</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B7%A1%E7%A4%BC_(%E9%80%9A%E4%BF%97)</ClickUrl>
     </Result>
     <Result>
         <Title>Masaki Yuki, Ph.D., Home Page (Social Psychology)</Title>
@@ -232,30 +237,25 @@
         <ClickUrl>http://lynx.let.hokudai.ac.jp/~myuki/</ClickUrl>
     </Result>
     <Result>
-        <Title>研究会「AAASとサイエンス・コミュニケーションの未来」にお&lt;wbr&gt;ける総合討論 : HUSCAP</Title>
-        <Url>http://hdl.handle.net/2115/28267</Url>
-        <ClickUrl>http://hdl.handle.net/2115/28267</ClickUrl>
+        <Title>HOKKAIDO UNIVERSITY Sustainability Weeks 2009</Title>
+        <Url>http://www.sustain.hokudai.ac.jp/sw2009/</Url>
+        <ClickUrl>http://www.sustain.hokudai.ac.jp/sw2009/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kimunari! Veterinarian - トップページ</Title>
+        <Url>http://www7.atwiki.jp/kimunari/</Url>
+        <ClickUrl>http://www7.atwiki.jp/kimunari/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「反日台湾」を強調したNHKスペシャルー「シリーズJAPAN&lt;wbr&gt;デビュー」</Title>
+        <Url>http://mamoretaiwan.blog100.fc2.com/blog-entry-714.html</Url>
+        <ClickUrl>http://mamoretaiwan.blog100.fc2.com/blog-entry-714.html</ClickUrl>
     </Result>
     <Result>
         <Title>robots.net - Amoebae Exhibit Brainless Intelligence</Title>
         <Url>http://robots.net/article/2440.html</Url>
         <ClickUrl>http://robots.net/article/2440.html</ClickUrl>
     </Result>
-    <Result>
-        <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
-        <Url>http://www.ifremer.fr/avano/archives.htm</Url>
-        <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Open Scholarship 2006 Conference - Poster Session</Title>
-        <Url>http://www.lib.gla.ac.uk/openscholarship/posters.html</Url>
-        <ClickUrl>http://www.lib.gla.ac.uk/openscholarship/posters.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:46 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:46 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:07 PDT 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:07 PDT 2010 -->

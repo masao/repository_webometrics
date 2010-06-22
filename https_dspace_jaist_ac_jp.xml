@@ -3,13 +3,23 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="6288"
+    totalResultsAvailable="8563"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
         <Title>The Voronoi Game Page</Title>
@@ -22,9 +32,9 @@
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
-        <Url>http://www.nii.ac.jp/irp/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+        <Title>研究・技術計画学会ホームページ</Title>
+        <Url>http://wwwsoc.nii.ac.jp/jssprm/</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/jssprm/</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -32,19 +42,14 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST LIBRARY</Title>
-        <Url>http://www.jaist.ac.jp/library/english/index.html</Url>
-        <ClickUrl>http://www.jaist.ac.jp/library/english/index.html</ClickUrl>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>北陸先端科学技術大学院大学 附属図書館</Title>
@@ -52,9 +57,19 @@
         <ClickUrl>http://www.jaist.ac.jp/library/index-jp.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST Research Center for Integrated Science Hiroakira Ono ...</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=35&amp;syozoku=24</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=35&amp;syozoku=24</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST LIBRARY</Title>
+        <Url>http://www.jaist.ac.jp/library/english/index.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/library/english/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>JAIST Repository: 研究組織のサイエンス・コミュニケーション -政府系研究機関 情報系研究部門の事例研究-</Title>
@@ -62,14 +77,24 @@
         <ClickUrl>http://hdl.handle.net/10119/4403</ClickUrl>
     </Result>
     <Result>
+        <Title>JAIST School of Information Science Koichiro Ochimizu Professor</Title>
+        <Url>http://www.jaist.ac.jp/~kkgi/thisyear/soe/00034soe.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/~kkgi/thisyear/soe/00034soe.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Wiki論文 - Wikiに関する論文リスト(暫定版)</Title>
+        <Url>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</Url>
+        <ClickUrl>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</ClickUrl>
+    </Result>
+    <Result>
         <Title>Nishimoto Laboratory</Title>
         <Url>http://www.jaist.ac.jp/ks/labs/knishi/</Url>
         <ClickUrl>http://www.jaist.ac.jp/ks/labs/knishi/</ClickUrl>
     </Result>
     <Result>
-        <Title>北陸先端科学技術大学院大学 附属図書館</Title>
-        <Url>http://www.jaist.ac.jp/library/</Url>
-        <ClickUrl>http://www.jaist.ac.jp/library/</ClickUrl>
+        <Title>JAIST Repository: 超小型元素分析装置の開発</Title>
+        <Url>http://hdl.handle.net/10119/8182</Url>
+        <ClickUrl>http://hdl.handle.net/10119/8182</ClickUrl>
     </Result>
     <Result>
         <Title>ICLA 2009</Title>
@@ -77,44 +102,14 @@
         <ClickUrl>http://ali.cmi.ac.in/icla2009/alogic.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+        <Title>JAIST Research Center for Integrated Science Hiroakira Ono ...</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00035</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00035</ClickUrl>
     </Result>
     <Result>
-        <Title>Kaplan on Strategy &quot; Evolution in Communication</Title>
-        <Url>http://considerations.wordpress.com/2009/04/28/kaplan-on-strategy/</Url>
-        <ClickUrl>http://considerations.wordpress.com/2009/04/28/kaplan-on-strategy/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: JAIST学術研究成果リポジトリ平成18年度成果報告</Title>
-        <Url>http://hdl.handle.net/10119/3515</Url>
-        <ClickUrl>http://hdl.handle.net/10119/3515</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: JAIST学術研究成果リポジトリ平成19年度成果報告</Title>
-        <Url>http://hdl.handle.net/10119/4471</Url>
-        <ClickUrl>http://hdl.handle.net/10119/4471</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST Repository: 化学的手法を用いた芳香制御及び嗅覚情報提示システムに関する研&lt;wbr&gt;究</Title>
-        <Url>http://hdl.handle.net/10119/8013</Url>
-        <ClickUrl>http://hdl.handle.net/10119/8013</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TH &amp;amp; Colleague&apos;s Works</Title>
-        <Url>http://www.jaist.ac.jp/~hash/papers/</Url>
-        <ClickUrl>http://www.jaist.ac.jp/~hash/papers/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIST - Faculty Profiles</Title>
-        <Url>http://www.jaist.ac.jp/profiles/index_e.html</Url>
-        <ClickUrl>http://www.jaist.ac.jp/profiles/index_e.html</ClickUrl>
+        <Title>JAIST Research Center for Integrated Science Taisuke Ozaki ...</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=504</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=504</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -122,29 +117,19 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Title>Topic Maps Lab - Topic Map and Its Application to Document ...</Title>
+        <Url>http://www.topicmapslab.de/publications/topic_map_and_its_application_to_document_retrieval?locale=en</Url>
+        <ClickUrl>http://www.topicmapslab.de/publications/topic_map_and_its_application_to_document_retrieval?locale=en</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios ...</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</ClickUrl>
+        <Title>JAIST - Faculty Profiles</Title>
+        <Url>http://www.jaist.ac.jp/profiles/index_e.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/index_e.html</ClickUrl>
     </Result>
     <Result>
-        <Title>忙中小春日和 - livedoor Blog(ブログ)</Title>
-        <Url>http://blog.livedoor.jp/taya/</Url>
-        <ClickUrl>http://blog.livedoor.jp/taya/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+        <Title>北陸先端科学技術大学院大学 附属図書館</Title>
+        <Url>http://www.jaist.ac.jp/library/</Url>
+        <ClickUrl>http://www.jaist.ac.jp/library/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
@@ -152,110 +137,125 @@
         <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Data Provider</Title>
         <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 音声のスペクトル包絡における個人性に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/838</Url>
-        <ClickUrl>http://hdl.handle.net/10119/838</ClickUrl>
+        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios</Title>
+        <Url>http://repositories.webometrics.info/top400_rep_es.asp?offset=250</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep_es.asp?offset=250</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 非定型的意志決定の支援システム構築に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/352</Url>
-        <ClickUrl>http://hdl.handle.net/10119/352</ClickUrl>
+        <Title>INVESTIGACION Y DESARROLLO: julio 2009</Title>
+        <Url>http://investigaciondesarrollo.blogspot.com/2009_07_01_archive.html</Url>
+        <ClickUrl>http://investigaciondesarrollo.blogspot.com/2009_07_01_archive.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: マルチエージェント系における組織学習を用いた動的環境への適応&lt;wbr&gt;に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/723</Url>
-        <ClickUrl>http://hdl.handle.net/10119/723</ClickUrl>
+        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios ...</Title>
+        <Url>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: ソフトウェアーキテクチャ設計に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/931</Url>
-        <ClickUrl>http://hdl.handle.net/10119/931</ClickUrl>
+        <Title>JAIST Repository: RAPT : A Program Transformation System ...</Title>
+        <Url>http://hdl.handle.net/10119/4910</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4910</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 直観主義論理のいくつかの部分論理に対するゲンツェン流Sequ&lt;wbr&gt;ent計算</Title>
-        <Url>http://hdl.handle.net/10119/917</Url>
-        <ClickUrl>http://hdl.handle.net/10119/917</ClickUrl>
+        <Title>JAIST Repository: ホルダ内におけるスタイラスの動作量を利用した入力インタフェー&lt;wbr&gt;ス(インタフェースデザイン ...</Title>
+        <Url>http://hdl.handle.net/10119/4595</Url>
+        <ClickUrl>http://hdl.handle.net/10119/4595</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: コミュニケーションにおける笑いの出現パターン:遠隔キーボード&lt;wbr&gt;対話と対面音声対話の比較</Title>
-        <Url>http://hdl.handle.net/10119/721</Url>
-        <ClickUrl>http://hdl.handle.net/10119/721</ClickUrl>
+        <Title>JAIST Repository: Coloring-in Pianoによる2ステップ打ち込みの提案</Title>
+        <Url>http://hdl.handle.net/10119/3345</Url>
+        <ClickUrl>http://hdl.handle.net/10119/3345</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 高次局所自己相関特徴による高速画像認識モジュールの開発と自律&lt;wbr&gt;走行型ロボットへの応用</Title>
-        <Url>http://hdl.handle.net/10119/349</Url>
-        <ClickUrl>http://hdl.handle.net/10119/349</ClickUrl>
+        <Title>JAIST Repository: Hierarchical organization of the ...</Title>
+        <Url>http://hdl.handle.net/10119/7758</Url>
+        <ClickUrl>http://hdl.handle.net/10119/7758</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 言語学的特長を表現するための時相論理</Title>
-        <Url>http://hdl.handle.net/10119/982</Url>
-        <ClickUrl>http://hdl.handle.net/10119/982</ClickUrl>
+        <Title>Triune Continuum Paradigm - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Triune_Continuum_Paradigm</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Triune_Continuum_Paradigm</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 様相論理および時間論理の証明図探索</Title>
-        <Url>http://hdl.handle.net/10119/957</Url>
-        <ClickUrl>http://hdl.handle.net/10119/957</ClickUrl>
+        <Title>JAIST Takuya Katayama President</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?syokumei=1</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?syokumei=1</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: オントロジーを基礎とした意図伝達媒体に関する研究</Title>
-        <Url>http://hdl.handle.net/10119/558</Url>
-        <ClickUrl>http://hdl.handle.net/10119/558</ClickUrl>
+        <Title>JAIST School of Information Science Satoshi Tojo Professor</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=56</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=56</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 製品開発部門の人的資源管理における業績評価システムの機能</Title>
-        <Url>http://hdl.handle.net/10119/681</Url>
-        <ClickUrl>http://hdl.handle.net/10119/681</ClickUrl>
+        <Title>JAIST School of Information Science Tadashi Matsumoto Professor</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=499</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=499</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 読解方略SQ3R法に基づくWebテキスト読解支援システムの構&lt;wbr&gt;築と評価</Title>
-        <Url>http://hdl.handle.net/10119/497</Url>
-        <ClickUrl>http://hdl.handle.net/10119/497</ClickUrl>
+        <Title>JAIST School of Materials Science Masahiko Tomitori Professor</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00111</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00111</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: A Study on Dicodon-oriented Gene Finding ...</Title>
-        <Url>http://hdl.handle.net/10119/652</Url>
-        <ClickUrl>http://hdl.handle.net/10119/652</ClickUrl>
+        <Title>JAIST School of Information Science Tetsuo Asano Professor</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00033</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00033</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 計算の難しさ---スケジューリングと回路計算量</Title>
-        <Url>http://hdl.handle.net/10119/835</Url>
-        <ClickUrl>http://hdl.handle.net/10119/835</ClickUrl>
+        <Title>JAIST School of Information Science Hiroyuki Iida Professor</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00429</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=00429</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 日本企業のMOT改革力を向上させるための研究と提言&lt;wbr&gt;~開発設計技術革新に関する ...</Title>
-        <Url>http://hdl.handle.net/10119/536</Url>
-        <ClickUrl>http://hdl.handle.net/10119/536</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 金沢市における「新たな観光」の可能性について-「観光まちづく&lt;wbr&gt;り」の事例・大野町-</Title>
-        <Url>http://hdl.handle.net/10119/529</Url>
-        <ClickUrl>http://hdl.handle.net/10119/529</ClickUrl>
+        <Title>JAIST School of Information Science Kunihiko Hiraishi Professor</Title>
+        <Url>http://www.jaist.ac.jp/~kkgi/thisyear/soe/00057soe.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/~kkgi/thisyear/soe/00057soe.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: シソーラスの可視化による発散型英語学習支援ツールの研究</Title>
-        <Url>http://hdl.handle.net/10119/578</Url>
-        <ClickUrl>http://hdl.handle.net/10119/578</ClickUrl>
+        <Title>JAIST Center for Information Science Yoichi Shinoda Professor</Title>
+        <Url>http://www.jaist.ac.jp/~sinkou/thisyear/soe/00054soe.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/~sinkou/thisyear/soe/00054soe.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 振舞い近似手法を用いたステートチャートに対する不変性の検証</Title>
-        <Url>http://hdl.handle.net/10119/939</Url>
-        <ClickUrl>http://hdl.handle.net/10119/939</ClickUrl>
+        <Title>JAIST School of Information Science Yasuo Tan Professor</Title>
+        <Url>http://www.jaist.ac.jp/~sinkou/thisyear/soe/00154soe.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/~sinkou/thisyear/soe/00154soe.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 情報キオスクのための,力覚を用いた情報提示手法の提案と実装</Title>
-        <Url>http://hdl.handle.net/10119/496</Url>
-        <ClickUrl>http://hdl.handle.net/10119/496</ClickUrl>
+        <Title>JAIST Takuya Katayama President</Title>
+        <Url>http://www.jaist.ac.jp/~sinkou/thisyear/soe/00036soe.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/~sinkou/thisyear/soe/00036soe.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIST Repository: 等価変換理論を応用した創造的問題解決支援システムに関する研究</Title>
-        <Url>http://hdl.handle.net/10119/376</Url>
-        <ClickUrl>http://hdl.handle.net/10119/376</ClickUrl>
+        <Title>JAIST School of Information Science Atsuko Miyaji Professor</Title>
+        <Url>http://www.jaist.ac.jp/~sinkou/thisyear/soe/00058soe.html</Url>
+        <ClickUrl>http://www.jaist.ac.jp/~sinkou/thisyear/soe/00058soe.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIST School of Knowledge Science Yukari Nagai Associate ...</Title>
+        <Url>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=392&amp;syozoku=11</Url>
+        <ClickUrl>http://www.jaist.ac.jp/profiles/info_e.php?profile_id=392&amp;syozoku=11</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:16 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:16 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:37 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:37 PDT 2010 -->

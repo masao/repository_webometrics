@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1743"
+    totalResultsAvailable="2167"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,9 +27,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>Nara University of Education Library</Title>
-        <Url>http://www.nara-edu.ac.jp/LIB/lib.htm</Url>
-        <ClickUrl>http://www.nara-edu.ac.jp/LIB/lib.htm</ClickUrl>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -37,164 +37,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+        <Title>Nara University of Education Library</Title>
+        <Url>http://www.nara-edu.ac.jp/LIB/lib.htm</Url>
+        <ClickUrl>http://www.nara-edu.ac.jp/LIB/lib.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
-        <Title>知的障害者の余暇活動についての調査研究 -通所授産施設に就労している人を中心に-: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/639</Url>
-        <ClickUrl>http://hdl.handle.net/10105/639</ClickUrl>
-    </Result>
-    <Result>
-        <Title>理数科教員養成のためのアセスメント実践報告 ―新世代を先導する理数科教員養成のためのプログラム・高大融合&lt;wbr&gt;による理数科高校 ...</Title>
-        <Url>http://hdl.handle.net/10105/696</Url>
-        <ClickUrl>http://hdl.handle.net/10105/696</ClickUrl>
-    </Result>
-    <Result>
-        <Title>韓国における国語科教育と英語科教育 -韓国春川市における授業実践の視察から-: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/520</Url>
-        <ClickUrl>http://hdl.handle.net/10105/520</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>時代を拓く子どもたちの夢を育む支援: Nara University of Education Academic ...</Title>
-        <Url>http://hdl.handle.net/10105/493</Url>
-        <ClickUrl>http://hdl.handle.net/10105/493</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Home: 教育系サブジェクトリポジトリポータル</Title>
-        <Url>http://ir.u-gakugei.ac.jp/edu-rp/</Url>
-        <ClickUrl>http://ir.u-gakugei.ac.jp/edu-rp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>保健だより 第2号: Nara University of Education Academic Repository</Title>
-        <Url>http://hdl.handle.net/10105/623</Url>
-        <ClickUrl>http://hdl.handle.net/10105/623</ClickUrl>
-    </Result>
-    <Result>
-        <Title>保健センターだより 第51号: Nara University of Education Academic Repository</Title>
-        <Url>http://hdl.handle.net/10105/662</Url>
-        <ClickUrl>http://hdl.handle.net/10105/662</ClickUrl>
-    </Result>
-    <Result>
-        <Title>熱ルミネッセンス年代測定について: Nara University of Education Academic ...</Title>
-        <Url>http://hdl.handle.net/10105/557</Url>
-        <ClickUrl>http://hdl.handle.net/10105/557</ClickUrl>
-    </Result>
-    <Result>
-        <Title>熟ルミネッセンス法による焼石の年代測定 -月崎遺跡出土の焼石を例として-: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/327</Url>
-        <ClickUrl>http://hdl.handle.net/10105/327</ClickUrl>
-    </Result>
-    <Result>
-        <Title>軽度発達障害をもつ子どもの教育(1)-通常学級に在籍する子ど&lt;wbr&gt;もの支援を通して-: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/524</Url>
-        <ClickUrl>http://hdl.handle.net/10105/524</ClickUrl>
-    </Result>
-    <Result>
-        <Title>広報誌 「ならやま」 2008年春号: Nara University of Education Academic ...</Title>
-        <Url>http://hdl.handle.net/10105/660</Url>
-        <ClickUrl>http://hdl.handle.net/10105/660</ClickUrl>
-    </Result>
-    <Result>
-        <Title>中学校における自然学習・環境学習の事例研究 : (1) WWFの「野生生物の恵み?」活動の実践: Nara ...</Title>
-        <Url>http://hdl.handle.net/10105/285</Url>
-        <ClickUrl>http://hdl.handle.net/10105/285</ClickUrl>
-    </Result>
-    <Result>
-        <Title>企画趣旨 : リサーチ・フォーラムの流れとともに : 研究課題 : 総合学習と美術教育: Nara University ...</Title>
-        <Url>http://hdl.handle.net/10105/629</Url>
-        <ClickUrl>http://hdl.handle.net/10105/629</ClickUrl>
-    </Result>
-    <Result>
-        <Title>運動有能感を高める体育授業に関する研究 -フラッグフットボールの授業実践から-: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/504</Url>
-        <ClickUrl>http://hdl.handle.net/10105/504</ClickUrl>
-    </Result>
-    <Result>
-        <Title>和歌山県白浜町で出生したユビナガコウモリ,Miniopter&lt;wbr&gt;us fuliginosusの移動(1)2003,2004年 ...</Title>
-        <Url>http://hdl.handle.net/10105/225</Url>
-        <ClickUrl>http://hdl.handle.net/10105/225</ClickUrl>
-    </Result>
-    <Result>
-        <Title>重症心身障害児・者の主観的満足度としてのQOLの評価法の開発&lt;wbr&gt;に関する研究: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/429</Url>
-        <ClickUrl>http://hdl.handle.net/10105/429</ClickUrl>
-    </Result>
-    <Result>
-        <Title>奈良教育大学附属中学校研究収録第36集 ESDの理念にもとづく学校づくり ~ESDを視野に入れた授業研究~(2年次 ...</Title>
-        <Url>http://hdl.handle.net/10105/663</Url>
-        <ClickUrl>http://hdl.handle.net/10105/663</ClickUrl>
-    </Result>
-    <Result>
-        <Title>保健センターだより 第21号: Nara University of Education Academic Repository</Title>
-        <Url>http://hdl.handle.net/10105/604</Url>
-        <ClickUrl>http://hdl.handle.net/10105/604</ClickUrl>
-    </Result>
-    <Result>
-        <Title>生活科におけるカイコの教材としての可能性: Nara University of Education Academic ...</Title>
-        <Url>http://hdl.handle.net/10105/378</Url>
-        <ClickUrl>http://hdl.handle.net/10105/378</ClickUrl>
-    </Result>
-    <Result>
-        <Title>附属小学校における少人数教育の試み: Nara University of Education Academic ...</Title>
-        <Url>http://hdl.handle.net/10105/683</Url>
-        <ClickUrl>http://hdl.handle.net/10105/683</ClickUrl>
-    </Result>
-    <Result>
-        <Title>奈良教育大学史 -百年の歩み-: Nara University of Education Academic Repository</Title>
-        <Url>http://hdl.handle.net/10105/934</Url>
-        <ClickUrl>http://hdl.handle.net/10105/934</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Ⅹ線回折法による古代土器の応用的研究 一纏向出土土器の産地について-: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/406</Url>
-        <ClickUrl>http://hdl.handle.net/10105/406</ClickUrl>
-    </Result>
-    <Result>
-        <Title>興味・関心・学習意欲につながる不思議感と探究心の類型化&lt;wbr&gt;: Nara University of Education ...</Title>
-        <Url>http://hdl.handle.net/10105/958</Url>
-        <ClickUrl>http://hdl.handle.net/10105/958</ClickUrl>
-    </Result>
-    <Result>
-        <Title>非破壊分析法による土器の産地同定 Ⅰ: Nara University of Education Academic ...</Title>
-        <Url>http://hdl.handle.net/10105/563</Url>
-        <ClickUrl>http://hdl.handle.net/10105/563</ClickUrl>
-    </Result>
-    <Result>
-        <Title>現代における祖父母と孫との関係性 ―祖父母の加齢と孫の成長による変化と連続性―: Nara University of ...</Title>
-        <Url>http://hdl.handle.net/10105/472</Url>
-        <ClickUrl>http://hdl.handle.net/10105/472</ClickUrl>
-    </Result>
-    <Result>
-        <Title>保健センターだより 第5号: Nara University of Education Academic Repository</Title>
-        <Url>http://hdl.handle.net/10105/620</Url>
-        <ClickUrl>http://hdl.handle.net/10105/620</ClickUrl>
-    </Result>
-    <Result>
-        <Title>保健センターだより 第22号: Nara University of Education Academic Repository</Title>
-        <Url>http://hdl.handle.net/10105/598</Url>
-        <ClickUrl>http://hdl.handle.net/10105/598</ClickUrl>
+        <Title>奈良公園 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%A5%88%E8%89%AF%E5%85%AC%E5%9C%92</ClickUrl>
     </Result>
     <Result>
         <Title>Talk:OAIster - LISWiki</Title>
@@ -202,24 +52,79 @@
         <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+        <Title>はてなブックマーク - fashion clip holic</Title>
+        <Url>http://b.hatena.ne.jp/girls_fashion/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/girls_fashion/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+        <Title>ケースを通して悩みを交流し解決する: Nara University of Education Academic ...</Title>
+        <Url>http://hdl.handle.net/10105/1175</Url>
+        <ClickUrl>http://hdl.handle.net/10105/1175</ClickUrl>
     </Result>
     <Result>
-        <Title>教育系サブジェクトリポジトリについて</Title>
-        <Url>https://library.u-gakugei.ac.jp/edu-rp/</Url>
-        <ClickUrl>https://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>奈良教育大学 奈良教育大学学術リポジトリへのお誘い</Title>
-        <Url>http://www.nara-edu.ac.jp/IPC/repository_intro.htm</Url>
-        <ClickUrl>http://www.nara-edu.ac.jp/IPC/repository_intro.htm</ClickUrl>
+        <Title>Home: 教育系サブジェクトリポジトリポータル</Title>
+        <Url>http://ir.u-gakugei.ac.jp/edu-rp/</Url>
+        <ClickUrl>http://ir.u-gakugei.ac.jp/edu-rp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>飛田穂洲の野球信念と物語の生成: Nara University of Education Academic Repository</Title>
+        <Url>http://hdl.handle.net/10105/380</Url>
+        <ClickUrl>http://hdl.handle.net/10105/380</ClickUrl>
+    </Result>
+    <Result>
+        <Title>詩人John Keats作 &quot;On Seeing the Elgin Marbles for the First Time ...</Title>
+        <Url>http://hdl.handle.net/10105/374</Url>
+        <ClickUrl>http://hdl.handle.net/10105/374</ClickUrl>
+    </Result>
+    <Result>
+        <Title>身体障害者水泳選手の泳動作分析による運動学的考察 : 片前腕切断者・片上腕切断者を対象に: Nara University ...</Title>
+        <Url>http://hdl.handle.net/10105/156</Url>
+        <ClickUrl>http://hdl.handle.net/10105/156</ClickUrl>
+    </Result>
+    <Result>
+        <Title>A Taxonomy of Curricular Goals for ICT Literacies for ...</Title>
+        <Url>http://hdl.handle.net/10105/1955</Url>
+        <ClickUrl>http://hdl.handle.net/10105/1955</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大矢たたら炉跡置跡の熱ルミネッセンス年代測定: Nara University of Education Academic ...</Title>
+        <Url>http://hdl.handle.net/10105/418</Url>
+        <ClickUrl>http://hdl.handle.net/10105/418</ClickUrl>
+    </Result>
+    <Result>
+        <Title>算数学習における算数的活動の研究 ―パターンブロックを用いた教授実験を通して―: Nara University of ...</Title>
+        <Url>http://hdl.handle.net/10105/375</Url>
+        <ClickUrl>http://hdl.handle.net/10105/375</ClickUrl>
+    </Result>
+    <Result>
+        <Title>保健センターだより 第26号: Nara University of Education Academic Repository</Title>
+        <Url>http://hdl.handle.net/10105/602</Url>
+        <ClickUrl>http://hdl.handle.net/10105/602</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ブラジル人の子どもたちは、どのようにアイデンティティを変容さ&lt;wbr&gt;せるのか? -帰国後の再適応を観察して-: Nara ...</Title>
+        <Url>http://hdl.handle.net/10105/1194</Url>
+        <ClickUrl>http://hdl.handle.net/10105/1194</ClickUrl>
     </Result>
     <Result>
         <Title>一括検索 -s45c 引張試験-</Title>
@@ -227,9 +132,14 @@
         <ClickUrl>http://seonum.com/rank/s45c+%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教育系サブジェクトリポジトリについて</Title>
+        <Url>https://library.u-gakugei.ac.jp/edu-rp/</Url>
+        <ClickUrl>https://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
     </Result>
     <Result>
         <Title>教育系サブジェクトリポジトリについて</Title>
@@ -237,14 +147,44 @@
         <ClickUrl>http://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
     </Result>
     <Result>
-        <Title>ドクター江部の糖尿病徒然日記 肥満・ダイエット</Title>
-        <Url>http://koujiebe.blog95.fc2.com/blog-category-20.html</Url>
-        <ClickUrl>http://koujiebe.blog95.fc2.com/blog-category-20.html</ClickUrl>
+        <Title>一括検索 -ss400 単位-</Title>
+        <Url>http://seonum.com/rank/ss400+%E5%8D%98%E4%BD%8D.html</Url>
+        <ClickUrl>http://seonum.com/rank/ss400+%E5%8D%98%E4%BD%8D.html</ClickUrl>
     </Result>
     <Result>
         <Title>一括検索 -s45c 機械的性質-</Title>
         <Url>http://seonum.com/rank/s45c+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</Url>
         <ClickUrl>http://seonum.com/rank/s45c+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -引っ張り強さ 硬さ-</Title>
+        <Url>http://seonum.com/rank/%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8A%E5%BC%B7%E3%81%95+%E7%A1%AC%E3%81%95.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%BC%95%E3%81%A3%E5%BC%B5%E3%82%8A%E5%BC%B7%E3%81%95+%E7%A1%AC%E3%81%95.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ドクター江部の糖尿病徒然日記 レプチンと糖質と脂肪</Title>
+        <Url>http://koujiebe.blog95.fc2.com/blog-entry-1023.html</Url>
+        <ClickUrl>http://koujiebe.blog95.fc2.com/blog-entry-1023.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1979</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1979</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Repositories: Nara University of Education</Title>
@@ -256,6 +196,66 @@
         <Url>http://www.opendoar.org/find.php?format=full&amp;search=Nara+University+of+Education+Academic+Repository&amp;title=SUPPRESS</Url>
         <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Nara+University+of+Education+Academic+Repository&amp;title=SUPPRESS</ClickUrl>
     </Result>
+    <Result>
+        <Title>[Taylor] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/Taylor_all_1.html</Url>
+        <ClickUrl>http://gjtb.net/detail/Taylor_all_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ペット&amp;amp;サウンズBBS</Title>
+        <Url>http://yui.at/bbs1/sr3_bbss.cgi?cat=13379petsound</Url>
+        <ClickUrl>http://yui.at/bbs1/sr3_bbss.cgi?cat=13379petsound</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -s25c 単位-</Title>
+        <Url>http://seonum.com/rank/s25c+%E5%8D%98%E4%BD%8D.html</Url>
+        <ClickUrl>http://seonum.com/rank/s25c+%E5%8D%98%E4%BD%8D.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>研究一覧</Title>
+        <Url>http://mailsrv.nara-edu.ac.jp/~deguchi/std_list.htm</Url>
+        <ClickUrl>http://mailsrv.nara-edu.ac.jp/~deguchi/std_list.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>s25c 機械的性質 - 注目商品ピック</Title>
+        <Url>http://www.at-pop.com/ap/s25c+%B5%A1%B3%A3%C5%AA%C0%AD%BC%C1/</Url>
+        <ClickUrl>http://www.at-pop.com/ap/s25c+%B5%A1%B3%A3%C5%AA%C0%AD%BC%C1/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -s25c 降伏点-</Title>
+        <Url>http://seonum.com/rank/s25c+%E9%99%8D%E4%BC%8F%E7%82%B9.html</Url>
+        <ClickUrl>http://seonum.com/rank/s25c+%E9%99%8D%E4%BC%8F%E7%82%B9.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ビッカース硬さ 表 - 話題商品サーチ</Title>
+        <Url>http://www.lspop.com/lp/%A5%D3%A5%C3%A5%AB%A1%BC%A5%B9%B9%C5%A4%B5+%C9%BD/</Url>
+        <ClickUrl>http://www.lspop.com/lp/%A5%D3%A5%C3%A5%AB%A1%BC%A5%B9%B9%C5%A4%B5+%C9%BD/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -鉄鋼 材料 機械的性質 jis-</Title>
+        <Url>http://seonum.com/rank/%E9%89%84%E9%8B%BC+%E6%9D%90%E6%96%99+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA+jis.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E9%89%84%E9%8B%BC+%E6%9D%90%E6%96%99+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA+jis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Nara University of Education - Center for Library and ...</Title>
+        <Url>http://www.nara-edu.ac.jp/NUE/clai.html</Url>
+        <ClickUrl>http://www.nara-edu.ac.jp/NUE/clai.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Muster eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/Muster-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/Muster-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>care keiko - 夢人</Title>
+        <Url>http://www.pson-wd.com/psn/KEIKO/care+keiko.html</Url>
+        <ClickUrl>http://www.pson-wd.com/psn/KEIKO/care+keiko.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=11</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=11</ClickUrl>
+    </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:35 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:35 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:42 PDT 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:42 PDT 2010 -->

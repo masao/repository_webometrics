@@ -3,15 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="17820"
+    totalResultsAvailable="18888"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
-    </Result>
-    <Result>
         <Title>University of Tokyo Library System</Title>
         <Url>http://www.lib.u-tokyo.ac.jp/index-e.html</Url>
         <ClickUrl>http://www.lib.u-tokyo.ac.jp/index-e.html</ClickUrl>
@@ -20,11 +15,6 @@
         <Title>東京大学附属図書館</Title>
         <Url>http://www.lib.u-tokyo.ac.jp/</Url>
         <ClickUrl>http://www.lib.u-tokyo.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
     </Result>
     <Result>
         <Title>J. Math. Sci. Univ. Tokyo</Title>
@@ -37,9 +27,9 @@
         <ClickUrl>http://www.c.u-tokyo.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+        <Title>Coxeter group - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Coxeter_group</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Coxeter_group</ClickUrl>
     </Result>
     <Result>
         <Title>津波 - Wikipedia</Title>
@@ -52,9 +42,24 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京大学情報基盤センター</Title>
+        <Url>http://www.itc.u-tokyo.ac.jp/</Url>
+        <ClickUrl>http://www.itc.u-tokyo.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>東京大学医学図書館</Title>
         <Url>http://www.lib.m.u-tokyo.ac.jp/</Url>
         <ClickUrl>http://www.lib.m.u-tokyo.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>水滸伝 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%B0%B4%E6%BB%B8%E4%BC%9D</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B0%B4%E6%BB%B8%E4%BC%9D</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -62,9 +67,9 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Major Earthquakes Since 1900: A Sample &quot;Upside-Down Quakes ...</Title>
-        <Url>http://igppweb.ucsd.edu/~agnew/udq/udq.maj1900on.html</Url>
-        <ClickUrl>http://igppweb.ucsd.edu/~agnew/udq/udq.maj1900on.html</ClickUrl>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -72,19 +77,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>ホーム - 東京大学農学生命科学図書館</Title>
-        <Url>http://www.lib.a.u-tokyo.ac.jp/</Url>
-        <ClickUrl>http://www.lib.a.u-tokyo.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Reflection group - Wikipedia, the free encyclopedia</Title>
-        <Url>http://en.wikipedia.org/wiki/Reflection_group</Url>
-        <ClickUrl>http://en.wikipedia.org/wiki/Reflection_group</ClickUrl>
+        <Title>Historical earthquakes - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Historical_earthquakes</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Historical_earthquakes</ClickUrl>
     </Result>
     <Result>
         <Title>東京大学駒場図書館</Title>
@@ -92,9 +87,9 @@
         <ClickUrl>http://lib.c.u-tokyo.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+        <Title>ホーム - 東京大学農学生命科学図書館</Title>
+        <Url>http://www.lib.a.u-tokyo.ac.jp/</Url>
+        <ClickUrl>http://www.lib.a.u-tokyo.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>北海道南西沖地震 - Wikipedia</Title>
@@ -102,14 +97,29 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E5%8D%97%E8%A5%BF%E6%B2%96%E5%9C%B0%E9%9C%87</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>日本海中部地震 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%B8%AD%E9%83%A8%E5%9C%B0%E9%9C%87</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%B8%AD%E9%83%A8%E5%9C%B0%E9%9C%87</ClickUrl>
     </Result>
     <Result>
-        <Title> Dave Benson&apos;s Mathematics Links </Title>
-        <Url>http://www.maths.abdn.ac.uk/~bensondj/html/maths.html</Url>
-        <ClickUrl>http://www.maths.abdn.ac.uk/~bensondj/html/maths.html</ClickUrl>
+        <Title>感想 日本建築学会編『音楽空間への誘いコンサートホールの楽しみ』&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>週刊誌を読んで: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ef56.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ef56.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>小林よしのり「ゴー宣」天皇論追撃篇の感想その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-9c4c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-9c4c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>在特会が東京新聞に対し抗議行動: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</ClickUrl>
     </Result>
     <Result>
         <Title>新潟地震 - Wikipedia</Title>
@@ -117,49 +127,9 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%96%B0%E6%BD%9F%E5%9C%B0%E9%9C%87</ClickUrl>
     </Result>
     <Result>
-        <Title>アクセス 東京大学大学院総合文化研究科・教養学部</Title>
+        <Title>アクセス 東京大学 大学院総合文化研究科・教養学部</Title>
         <Url>http://www.c.u-tokyo.ac.jp/access/index.html</Url>
         <ClickUrl>http://www.c.u-tokyo.ac.jp/access/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>日本海中部地震 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%B8%AD%E9%83%A8%E5%9C%B0%E9%9C%87</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E6%B5%B7%E4%B8%AD%E9%83%A8%E5%9C%B0%E9%9C%87</ClickUrl>
-    </Result>
-    <Result>
-        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>東京大学総合図書館</Title>
-        <Url>http://www.lib.u-tokyo.ac.jp/sogoto/</Url>
-        <ClickUrl>http://www.lib.u-tokyo.ac.jp/sogoto/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>東京大学柏図書館</Title>
-        <Url>http://www.lib.u-tokyo.ac.jp/kashiwa/</Url>
-        <ClickUrl>http://www.lib.u-tokyo.ac.jp/kashiwa/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
-        <Url>http://www.ifremer.fr/avano/archives.htm</Url>
-        <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
     </Result>
     <Result>
         <Title>図書館電子化部門トップページ</Title>
@@ -167,14 +137,74 @@
         <ClickUrl>http://www.dl.itc.u-tokyo.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>日比谷の普天間基地はいらない全国集会に6000人とか&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Eyjafjallajökull Update for 5/7/2010 : Eruptions</Title>
+        <Url>http://scienceblogs.com/eruptions/2010/05/eyjafjallajokull_update_for_57.php</Url>
+        <ClickUrl>http://scienceblogs.com/eruptions/2010/05/eyjafjallajokull_update_for_57.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title> Dave Benson&apos;s Mathematics Links </Title>
+        <Url>http://www.maths.abdn.ac.uk/~bensondj/html/maths.html</Url>
+        <ClickUrl>http://www.maths.abdn.ac.uk/~bensondj/html/maths.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>明治民法の夫婦同氏の意義その4(夫婦別姓反対下書き&lt;wbr&gt;): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/10/post-1e21.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/10/post-1e21.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「傍論を重視するのは俗論」と園部逸夫が述べたという&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-2ed7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-2ed7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>カード 組合活動-施設管理権関係判例: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/08/post-02c7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/08/post-02c7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京大学総合図書館</Title>
+        <Url>http://www.lib.u-tokyo.ac.jp/sogoto/</Url>
+        <ClickUrl>http://www.lib.u-tokyo.ac.jp/sogoto/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
+        <Url>http://www.ifremer.fr/avano/archives.htm</Url>
+        <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OaiInstallations - DSpace - DuraSpace Wiki</Title>
+        <Url>http://wiki.dspace.org/confluence/display/DSPACE/OaiInstallations</Url>
+        <ClickUrl>http://wiki.dspace.org/confluence/display/DSPACE/OaiInstallations</ClickUrl>
+    </Result>
+    <Result>
+        <Title>上司への質問書: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2aa7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2aa7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>カード 夫婦別姓旧慣習説を否定する学説-大藤修: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/08/post-4309.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/08/post-4309.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>団結否認権の確立Right to Work lawが必要だ 下書き1-(15): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-6.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-6.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京大学柏図書館</Title>
+        <Url>http://www.lib.u-tokyo.ac.jp/kashiwa/</Url>
+        <ClickUrl>http://www.lib.u-tokyo.ac.jp/kashiwa/</ClickUrl>
+    </Result>
+    <Result>
         <Title>NetbibWiki:DigiMisc [wiki, knowledgebase, cms, php, mysql]</Title>
         <Url>http://wiki.netbib.de/coma/DigiMisc</Url>
         <ClickUrl>http://wiki.netbib.de/coma/DigiMisc</ClickUrl>
-    </Result>
-    <Result>
-        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
     </Result>
     <Result>
         <Title>東京大学物性研究所図書室</Title>
@@ -182,80 +212,50 @@
         <ClickUrl>http://www.issp.u-tokyo.ac.jp/labs/tosyo/</ClickUrl>
     </Result>
     <Result>
-        <Title>インターネット上の基礎知識 NDC 000-299 </Title>
-        <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</Url>
-        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>渡島大島 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E5%A4%A7%E5%B3%B6</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B8%A1%E5%B3%B6%E5%A4%A7%E5%B3%B6</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/2205</Title>
-        <Url>http://hdl.handle.net/2261/2205</Url>
-        <ClickUrl>http://hdl.handle.net/2261/2205</ClickUrl>
+        <Title>激指9・六段を、下手に設定をして勝とう! </Title>
+        <Url>http://shingoozisann.blog48.fc2.com/</Url>
+        <ClickUrl>http://shingoozisann.blog48.fc2.com/</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/1984</Title>
-        <Url>http://hdl.handle.net/2261/1984</Url>
-        <ClickUrl>http://hdl.handle.net/2261/1984</ClickUrl>
+        <Title>UT Repository: Item 2261/10544</Title>
+        <Url>http://hdl.handle.net/2261/10544</Url>
+        <ClickUrl>http://hdl.handle.net/2261/10544</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/5687</Title>
-        <Url>http://hdl.handle.net/2261/5687</Url>
-        <ClickUrl>http://hdl.handle.net/2261/5687</ClickUrl>
+        <Title>UT Repository: Item 2261/13881</Title>
+        <Url>http://hdl.handle.net/2261/13881</Url>
+        <ClickUrl>http://hdl.handle.net/2261/13881</ClickUrl>
     </Result>
     <Result>
-        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
+        <Title>入手資料整理15: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-d764.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-d764.html</ClickUrl>
     </Result>
     <Result>
-        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
+        <Title>李明博大統領、鉄道ストに対決姿勢: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-643f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-643f.html</ClickUrl>
     </Result>
     <Result>
-        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
+        <Title>Citizens United v. FEC-法人の言論の自由について: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/citizens-united.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/citizens-united.html</ClickUrl>
     </Result>
     <Result>
-        <Title>UT Repository: Item 2261/2075</Title>
-        <Url>http://hdl.handle.net/2261/2075</Url>
-        <ClickUrl>http://hdl.handle.net/2261/2075</ClickUrl>
+        <Title>インターネット上の基礎知識 NDC 000-299 </Title>
+        <Url>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</Url>
+        <ClickUrl>http://www.h3.dion.ne.jp/~skmanabe/NDC000-399.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Education Library, University of Tokyo</Title>
-        <Url>http://ikuto.p.u-tokyo.ac.jp/</Url>
-        <ClickUrl>http://ikuto.p.u-tokyo.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>イガイ属 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AC%E3%82%A4%E5%B1%9E</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AC%E3%82%A4%E5%B1%9E</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Portal:歴史学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/8129</Title>
-        <Url>http://hdl.handle.net/2261/8129</Url>
-        <ClickUrl>http://hdl.handle.net/2261/8129</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/1973</Title>
-        <Url>http://hdl.handle.net/2261/1973</Url>
-        <ClickUrl>http://hdl.handle.net/2261/1973</ClickUrl>
-    </Result>
-    <Result>
-        <Title>UT Repository: Item 2261/7344</Title>
-        <Url>http://hdl.handle.net/2261/7344</Url>
-        <ClickUrl>http://hdl.handle.net/2261/7344</ClickUrl>
+        <Title>パソコンにしゃべらせてみましょう。(音声合成について&lt;wbr&gt;)</Title>
+        <Url>http://www.geocities.co.jp/dwakahara/synthesizer/synthesizer.htm</Url>
+        <ClickUrl>http://www.geocities.co.jp/dwakahara/synthesizer/synthesizer.htm</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:12 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:12 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:33 PDT 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:33 PDT 2010 -->

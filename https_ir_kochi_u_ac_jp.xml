@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1120"
+    totalResultsAvailable="1505"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,14 +12,19 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
     </Result>
     <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -42,7 +47,12 @@
         <ClickUrl>http://www.kochi-ms.ac.jp/~of_lbrry/tosyokan.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>大学は美味しい!!+学市学座|紀伊國屋書店|大学は美味しい&lt;wbr&gt;!!連動大学公開講座ブックフェア辰巳芳子佐藤隆介いのちの食べ&lt;wbr&gt;かた</Title>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>第2回小学館大学は美味しい!!フェア+紀伊國屋書店学市学座&lt;wbr&gt;|終了しました</Title>
         <Url>http://www.kinokuniya.co.jp/01f/gakuichi/gakuza_fair0906_serai-bimi.htm</Url>
         <ClickUrl>http://www.kinokuniya.co.jp/01f/gakuichi/gakuza_fair0906_serai-bimi.htm</ClickUrl>
     </Result>
@@ -53,8 +63,8 @@
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
@@ -62,39 +72,19 @@
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>高知大学総合情報センター(図書館)農学部分館</Title>
-        <Url>http://www.lib.kochi-u.ac.jp/library/nobun/</Url>
-        <ClickUrl>http://www.lib.kochi-u.ac.jp/library/nobun/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University Repository: カキ&apos;西村早生&apos;の結実と種子形成に及ぼす自家受粉時期の影響</Title>
-        <Url>http://hdl.handle.net/10126/118</Url>
-        <ClickUrl>http://hdl.handle.net/10126/118</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University Repository: 箸墓伝承考 : 「崇神紀」の中での位置づけを中心に</Title>
-        <Url>http://hdl.handle.net/10126/185</Url>
-        <ClickUrl>http://hdl.handle.net/10126/185</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University Repository: 伊勢の祭主・大神宮司と中臣氏</Title>
-        <Url>http://hdl.handle.net/10126/165</Url>
-        <ClickUrl>http://hdl.handle.net/10126/165</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University Repository: 障害児学級の「交流及び共同学習」,通常学級の「気になる」子ど&lt;wbr&gt;も ...</Title>
-        <Url>http://hdl.handle.net/10126/104</Url>
-        <ClickUrl>http://hdl.handle.net/10126/104</ClickUrl>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -107,9 +97,29 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>高知大学総合情報センター(図書館)中央館</Title>
+        <Url>http://www.lib.kochi-u.ac.jp/library/chuokan/</Url>
+        <ClickUrl>http://www.lib.kochi-u.ac.jp/library/chuokan/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>高知大学総合情報センター(図書館)農学部分館</Title>
+        <Url>http://www.lib.kochi-u.ac.jp/library/nobun/</Url>
+        <ClickUrl>http://www.lib.kochi-u.ac.jp/library/nobun/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - 一波未平ブックマーク</Title>
+        <Url>http://b.hatena.ne.jp/tinuyama/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/tinuyama/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kochi University Repository: 大物主神と三輪山伝承</Title>
+        <Url>http://hdl.handle.net/10126/204</Url>
+        <ClickUrl>http://hdl.handle.net/10126/204</ClickUrl>
     </Result>
     <Result>
         <Title>Kochi University Repository: バリアミンブルーB酸化体のイオン対</Title>
@@ -117,29 +127,29 @@
         <ClickUrl>http://hdl.handle.net/10126/183</ClickUrl>
     </Result>
     <Result>
-        <Title>Kochi University Repository: 紙パルプ産業における経営改善の効果と課題</Title>
-        <Url>http://hdl.handle.net/10126/103</Url>
-        <ClickUrl>http://hdl.handle.net/10126/103</ClickUrl>
+        <Title>Kochi University Repository: Volatile Flavor Components of ...</Title>
+        <Url>http://hdl.handle.net/10126/585</Url>
+        <ClickUrl>http://hdl.handle.net/10126/585</ClickUrl>
     </Result>
     <Result>
-        <Title>Kochi University Repository: A STUDY OF THE PTEROTRIGONIAE ...</Title>
-        <Url>http://hdl.handle.net/10126/402</Url>
-        <ClickUrl>http://hdl.handle.net/10126/402</ClickUrl>
+        <Title>Kochi University Repository: 高知医科大学 卒前・卒後教育セミナー CPC Clinico ...</Title>
+        <Url>http://hdl.handle.net/10126/238</Url>
+        <ClickUrl>http://hdl.handle.net/10126/238</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kochi University Repository: HIGH-YIELDING Japonica RICE LINE ...</Title>
+        <Url>http://hdl.handle.net/10126/275</Url>
+        <ClickUrl>http://hdl.handle.net/10126/275</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Kochi University Repository: 四国吉野川上・中流域の第四系</Title>
+        <Url>http://hdl.handle.net/10126/673</Url>
+        <ClickUrl>http://hdl.handle.net/10126/673</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>高知大学総合情報センター(図書館)中央館</Title>
-        <Url>http://www.lib.kochi-u.ac.jp/library/chuokan/</Url>
-        <ClickUrl>http://www.lib.kochi-u.ac.jp/library/chuokan/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
@@ -147,94 +157,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Yahoo!カテゴリ - 全リスト</Title>
-        <Url>http://dir.yahoo.co.jp/pg/newsite/20080708/complete_listing/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20080708/complete_listing/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>FrontPage - t-o-o-t-h-p-a-s-t-e.com: tooth paste- - News ...</Title>
-        <Url>http://t-o-o-t-h-p-a-s-t-e.com/</Url>
-        <ClickUrl>http://t-o-o-t-h-p-a-s-t-e.com/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Welcome to Tesco.net</Title>
-        <Url>http://www.tesco.net/default.asp?q=swrt&amp;start=70</Url>
-        <ClickUrl>http://www.tesco.net/default.asp?q=swrt&amp;start=70</ClickUrl>
-    </Result>
-    <Result>
-        <Title>adenofibromyoma : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품 ...</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=adenofibromyoma</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=adenofibromyoma</ClickUrl>
-    </Result>
-    <Result>
-        <Title>aceto-orcein stain : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문 ...</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=aceto-orcein+stain</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=aceto-orcein+stain</ClickUrl>
-    </Result>
-    <Result>
-        <Title>3-phenylserine dehydratase : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어 ...</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=3-phenylserine+dehydratase</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=3-phenylserine+dehydratase</ClickUrl>
-    </Result>
-    <Result>
-        <Title>行本 誓子 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E8%A1%8C%E6%9C%AC+%E8%AA%93%E5%AD%90&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E8%A1%8C%E6%9C%AC+%E8%AA%93%E5%AD%90&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University Repository: Interaction between Lithosphere ...</Title>
-        <Url>http://hdl.handle.net/10126/458</Url>
-        <ClickUrl>http://hdl.handle.net/10126/458</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University Repository: 微分積分学教程の一様相</Title>
-        <Url>http://hdl.handle.net/10126/207</Url>
-        <ClickUrl>http://hdl.handle.net/10126/207</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Kochi University Repository: 中山間地における棚田が支える植物の多様性とその保全</Title>
-        <Url>http://hdl.handle.net/10126/372</Url>
-        <ClickUrl>http://hdl.handle.net/10126/372</ClickUrl>
-    </Result>
-    <Result>
-        <Title>高知大学 総合情報センター(図書館) | 高知大学学術研究報告</Title>
-        <Url>http://www.lib.kochi-u.ac.jp/papers/index.htm</Url>
-        <ClickUrl>http://www.lib.kochi-u.ac.jp/papers/index.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>高知大学学術情報リポジトリのご案内</Title>
-        <Url>http://www.lib.kochi-u.ac.jp/irannai/irannai.html</Url>
-        <ClickUrl>http://www.lib.kochi-u.ac.jp/irannai/irannai.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>infatuation eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/infatuation-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/infatuation-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Paul Austere eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/Paul-Austere-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/Paul-Austere-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>【高知大学】高知大学学術情報リポジトリ 試験公開のお知らせ</Title>
-        <Url>http://www.kochi-u.ac.jp/JA/news/071228ripojitori.htm</Url>
-        <ClickUrl>http://www.kochi-u.ac.jp/JA/news/071228ripojitori.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>【高知大学】高知大学学術情報リポジトリ 正式公開のお知らせ</Title>
-        <Url>http://www.kochi-u.ac.jp/JA/news/080324ripojitori.html</Url>
-        <ClickUrl>http://www.kochi-u.ac.jp/JA/news/080324ripojitori.html</ClickUrl>
+        <Title>活動状況 水族環境学研究室</Title>
+        <Url>http://www.cc.kochi-u.ac.jp/~yharuo/laques/activity/labactivity.htm</Url>
+        <ClickUrl>http://www.cc.kochi-u.ac.jp/~yharuo/laques/activity/labactivity.htm</ClickUrl>
     </Result>
     <Result>
         <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
@@ -242,20 +167,95 @@
         <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=54</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=54</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Negotiating genuis eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/Negotiating-genuis-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/Negotiating-genuis-pdf.html</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
+        <Title>opisth : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=opisth</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=opisth</ClickUrl>
+    </Result>
+    <Result>
+        <Title>daphnin : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=daphnin</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=daphnin</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to Tesco.net</Title>
+        <Url>http://www.tesco.net/default.asp?q=swrt&amp;start=40</Url>
+        <ClickUrl>http://www.tesco.net/default.asp?q=swrt&amp;start=40</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to Tesco.net</Title>
+        <Url>http://www.tesco.net/default.asp?q=swrt&amp;start=50</Url>
+        <ClickUrl>http://www.tesco.net/default.asp?q=swrt&amp;start=50</ClickUrl>
+    </Result>
+    <Result>
+        <Title>neurocord : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=neurocord</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=neurocord</ClickUrl>
+    </Result>
+    <Result>
+        <Title>algicidal : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=algicidal</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=algicidal</ClickUrl>
+    </Result>
+    <Result>
+        <Title>cystoplegia : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=cystoplegia</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=cystoplegia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=fr_FR</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=fr_FR</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=zh_CN</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=zh_TW</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=zh_TW</ClickUrl>
+    </Result>
+    <Result>
+        <Title>leishmaniases : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=leishmaniases</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=leishmaniases</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Mujitsu and Tairaku&apos;s Shakuhachi BBQ / &quot;The Tin Whistle and ...</Title>
+        <Url>http://www.shakuhachiforum.com/viewtopic.php?pid=24188</Url>
+        <ClickUrl>http://www.shakuhachiforum.com/viewtopic.php?pid=24188</ClickUrl>
+    </Result>
+    <Result>
+        <Title>adrenomedullary triad : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=adrenomedullary+triad</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=adrenomedullary+triad</ClickUrl>
+    </Result>
+    <Result>
+        <Title>New World leishmaniasis : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=New+World+leishmaniasis</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=New+World+leishmaniasis</ClickUrl>
+    </Result>
+    <Result>
+        <Title>1-aminocyclopropanecarboxylate&lt;wbr&gt; synthase : KMLE 의학 검색 엔진 - 의학 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=1-aminocyclopropanecarboxylate+synthase</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=1-aminocyclopropanecarboxylate+synthase</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:17 PST 2010 -->
-<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:17 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:37 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:37 PDT 2010 -->

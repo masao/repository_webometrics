@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1493"
+    totalResultsAvailable="1199"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,19 +22,24 @@
         <ClickUrl>http://www.sapmed.ac.jp/libr/</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=109</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=109</ClickUrl>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to local public university libraries;公立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkou.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkou.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
@@ -42,19 +47,19 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>ikor: ホーム - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/656/</Url>
+        <ClickUrl>http://roar.eprints.org/656/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=109</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=109</ClickUrl>
+    </Result>
+    <Result>
         <Title>札幌医科大学附属総合情報センター - 医療機関等発行誌電子化支援</Title>
         <Url>http://infonavi.sapmed.ac.jp/jpn/modules/tinyd0/index.php?id=35</Url>
         <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/modules/tinyd0/index.php?id=35</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan, Research Institutional or Departmental (ROAR)</Title>
-        <Url>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</Url>
-        <ClickUrl>http://roar.eprints.org/index.php?action=home&amp;q=&amp;country=jp&amp;version=&amp;type=institutional&amp;order=name&amp;submit=Filter&amp;prev=Prev&amp;page=all</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>Items where Year is 2009 - Registry of Open Access Repositories</Title>
@@ -67,14 +72,29 @@
         <ClickUrl>http://roar.eprints.org/view/software/dspace.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
+        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Browse by Country - Registry of Open Access Repositories</Title>
-        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
-        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
+        <Title>DSPACE :: Forms Dashboard</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html?lang=en&amp;orderby=InstNameASC&amp;page=11</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html?lang=en&amp;orderby=InstNameASC&amp;page=11</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSPACE :: Forms Dashboard</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html?orderby=InstNameASC&amp;page=11</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html?orderby=InstNameASC&amp;page=11</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSPACE :: Forms Dashboard</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html?lang=en&amp;orderby=InstTypeASC&amp;page=11</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html?lang=en&amp;orderby=InstTypeASC&amp;page=11</ClickUrl>
+    </Result>
+    <Result>
+        <Title>DSPACE :: Forms Dashboard</Title>
+        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html?lang=en&amp;orderby=InstNameDeSC&amp;page=8</Url>
+        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html?lang=en&amp;orderby=InstNameDeSC&amp;page=8</ClickUrl>
     </Result>
     <Result>
         <Title>大学機関リポジトリ</Title>
@@ -88,174 +108,154 @@
     </Result>
     <Result>
         <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-3-9&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-3-9&amp;</ClickUrl>
+        <Url>http://infonavi.sapmed.ac.jp/jpn?caldate=2008-4-20&amp;</Url>
+        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn?caldate=2008-4-20&amp;</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 過去に卵巣を摘出した婦人の特性 ―北海道第一次産業地域に住む中高年齢者の健康調査から―</Title>
-        <Url>http://jairo.nii.ac.jp/0110/00002783</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0110/00002783</ClickUrl>
+        <Title>JAIRO | 褥瘡に対する小手術の検討 -Buried chip skin grafting による閉鎖-</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000278</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000278</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 平成16年救急診察室の活動と時間外患者統計について</Title>
-        <Url>http://jairo.nii.ac.jp/0110/00000339</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0110/00000339</ClickUrl>
+        <Title>JAIRO | 平成13年度学術集会</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001724</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001724</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 呼吸リハビリテーションにおける作業療法-慢性閉塞性肺疾患患者&lt;wbr&gt;の場合-</Title>
-        <Url>http://jairo.nii.ac.jp/0110/00000137</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0110/00000137</ClickUrl>
+        <Title>JAIRO | 骨粗鬆症性脊椎骨折に対する手術治療の諸問題 (教育研修講演)</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00002830</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00002830</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 水質,底質及び生物中のジオクチルスズ化合物の分析法について</Title>
-        <Url>http://jairo.nii.ac.jp/0110/00000725</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0110/00000725</ClickUrl>
+        <Title>JAIRO | 巻頭言 : よりよい医療を</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001734</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001734</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 当科において経験した若年者大腸癌の一症例</Title>
-        <Url>http://jairo.nii.ac.jp/0110/00001131</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0110/00001131</ClickUrl>
+        <Title>JAIRO | この1年を振り返って</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001218</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001218</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 中高年を対象とした運動介入プログラムによる健康増進効果&lt;wbr&gt;:平成16 年度札幌市国保ヘルスアップモデル事業の結果から</Title>
-        <Url>http://jairo.nii.ac.jp/0110/00003007</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0110/00003007</ClickUrl>
+        <Title>JAIRO | 循環器呼吸器内科 この一年</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001316</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001316</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 人工腎臓透析用剤溶解装置(DAD-30)の評価</Title>
-        <Url>http://jairo.nii.ac.jp/0110/00001178</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0110/00001178</ClickUrl>
+        <Title>JAIRO | 橈骨遠位端関節内陥没骨折の治療経験 -背側および掌側バートン骨折に伴う4症例-</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00002839</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00002839</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-8&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-8&amp;</ClickUrl>
+        <Title>JAIRO | 白止の調製法と化学的品質評価(第2報)HPLC法によるフロク&lt;wbr&gt;マリン類8種の同時定量</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000535</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000535</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-7-6&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-7-6&amp;</ClickUrl>
+        <Title>JAIRO | 大腿骨頚部内側骨折骨接合術後に生じた大腿骨転子下骨折の一例</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000305</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000305</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-6-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-6-1</ClickUrl>
+        <Title>JAIRO | 当帰の調製法と化学的品質評価(第6報)フロクマリンの指標物質&lt;wbr&gt;としての可能性について</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000497</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000497</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-6-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-6-1</ClickUrl>
+        <Title>JAIRO | 新システム導入による健診業務の改善と今後の課題</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001676</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001676</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-1</ClickUrl>
+        <Title>JAIRO | 行事記録</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00004354</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00004354</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-1-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-1-1</ClickUrl>
+        <Title>JAIRO | 電子コンテンツ管理における札幌医科大学附属図書館の取り組み&lt;wbr&gt;:MetaLib/SFX導入経験を中心に</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00003174</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00003174</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-9-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-9-1</ClickUrl>
+        <Title>JAIRO | 巻頭言</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000016</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000016</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-5&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-5&amp;</ClickUrl>
+        <Title>JAIRO | 北海道に生息する野生鳥類のPCBs濃度と異性体組成について</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000463</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000463</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-4-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-4-1</ClickUrl>
+        <Title>JAIRO | 編集後記</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00004355</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00004355</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-9&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-9&amp;</ClickUrl>
+        <Title>JAIRO | 食品に対するクリプトスポリジウムの添加実験と免疫磁気ビーズ法&lt;wbr&gt;による回収</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000483</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000483</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-6&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-6&amp;</ClickUrl>
+        <Title>JAIRO | 小児に対する腹腔鏡下虫垂切除術の検討</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001244</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001244</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2007-8-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2007-8-1</ClickUrl>
+        <Title>JAIRO | Carcinoembryonic Antigen (CEA) in Plasma of Patients ...</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001961</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001961</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-11-1</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-11-1</ClickUrl>
+        <Title>JAIRO | 札幌市内河川中の内分泌撹乱化学物質調査(第2報)</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000751</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000751</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2009-1-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2009-1-1</ClickUrl>
+        <Title>JAIRO | シラカンバ花粉症対策に向けた優良個体選抜と花粉飛散予測技術の&lt;wbr&gt;開発</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000399</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000399</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2008-1-1&amp;</ClickUrl>
+        <Title>JAIRO | 委員会だより</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001754</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001754</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-8-8&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-8-8&amp;</ClickUrl>
+        <Title>JAIRO | Proxyサーバーを使った異種データベース間連動システムの開&lt;wbr&gt;発</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00003173</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00003173</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-3-6&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-3-6&amp;</ClickUrl>
+        <Title>JAIRO | エチドロネートによる骨粗鬆症の治療経験</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001300</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001300</ClickUrl>
     </Result>
     <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=109</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=109</ClickUrl>
+        <Title>JAIRO | 8.編集後記</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00003501</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00003501</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-3-2&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-3-2&amp;</ClickUrl>
+        <Title>JAIRO | 足白癬の外用剤塗布の指導を試みて</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000282</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000282</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-2-5&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2005-2-5&amp;</ClickUrl>
+        <Title>JAIRO | PCPS導入によって社会復帰し得た術後肺動脈血栓塞栓症による&lt;wbr&gt;CPA の1例</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000199</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000199</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-4-6&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-4-6&amp;</ClickUrl>
+        <Title>JAIRO | 北海道の住宅における化学物質による室内空気感染の実態と対策</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00000498</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00000498</ClickUrl>
     </Result>
     <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-21&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-9-21&amp;</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-12-8&amp;</Url>
-        <ClickUrl>http://infonavi.sapmed.ac.jp/jpn/?caldate=2007-12-8&amp;</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-3&amp;</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2008-7-3&amp;</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-11-1</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2006-11-1</ClickUrl>
-    </Result>
-    <Result>
-        <Title>札幌医科大学附属総合情報センター - Sapporo Medical University Scholary ...</Title>
-        <Url>https://infonavi.sapmed.ac.jp/jpn/?caldate=2007-7-31</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/jpn/?caldate=2007-7-31</ClickUrl>
+        <Title>JAIRO | 糖尿病患者の食習慣と栄養指導内容の検討</Title>
+        <Url>http://jairo.nii.ac.jp/0110/00001721</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0110/00001721</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:26 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:26 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:33 PDT 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:33 PDT 2010 -->

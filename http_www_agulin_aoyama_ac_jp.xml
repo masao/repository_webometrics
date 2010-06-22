@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1930"
+    totalResultsAvailable="2196"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,19 +22,24 @@
         <ClickUrl>http://ss.cc.affrc.go.jp/ric/opac/opaclist.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Inspector Rebus - Wikipedia, the free encyclopedia</Title>
-        <Url>http://en.wikipedia.org/wiki/Inspector_Rebus</Url>
-        <ClickUrl>http://en.wikipedia.org/wiki/Inspector_Rebus</ClickUrl>
-    </Result>
-    <Result>
         <Title>青山学院女子短期大学</Title>
         <Url>http://www.luce.aoyama.ac.jp/</Url>
         <ClickUrl>http://www.luce.aoyama.ac.jp/</ClickUrl>
     </Result>
     <Result>
+        <Title>Inspector Rebus - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Inspector_Rebus</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Inspector_Rebus</ClickUrl>
+    </Result>
+    <Result>
         <Title>図書館リンク集: 日本の図書館 Libraries in Japan</Title>
         <Url>http://www.tulips.tsukuba.ac.jp/other/japan.html</Url>
         <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
         <Title>学位論文</Title>
@@ -47,11 +52,6 @@
         <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
-        <Url>http://www.nii.ac.jp/irp/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
@@ -62,14 +62,14 @@
         <ClickUrl>http://www.nul.nagoya-u.ac.jp/db/kiyou/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>筑波大学附属図書館 図書館情報学図書館 (全国の大学図書館報)</Title>
-        <Url>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</Url>
-        <ClickUrl>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</ClickUrl>
-    </Result>
-    <Result>
         <Title>出版文化研究会ホームページ</Title>
         <Url>http://members.jcom.home.ne.jp/tn_delamancha/shuppan_frame.html</Url>
         <ClickUrl>http://members.jcom.home.ne.jp/tn_delamancha/shuppan_frame.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波大学附属図書館 図書館情報学図書館 (全国の大学図書館報)</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</ClickUrl>
     </Result>
     <Result>
         <Title>GBRCホームページ</Title>
@@ -77,9 +77,9 @@
         <ClickUrl>http://www.gbrc.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>大学図書館</Title>
-        <Url>http://wwwsoc.nii.ac.jp/jla/link/univ.html</Url>
-        <ClickUrl>http://wwwsoc.nii.ac.jp/jla/link/univ.html</ClickUrl>
+        <Title>eLPCO -eラーニング人材育成研究センター-</Title>
+        <Url>http://elpco.a2en.aoyama.ac.jp/</Url>
+        <ClickUrl>http://elpco.a2en.aoyama.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>国内大学個人文庫</Title>
@@ -87,9 +87,9 @@
         <ClickUrl>http://www.fitweb.or.jp/~taka/pcollect.html</ClickUrl>
     </Result>
     <Result>
-        <Title>WWW Servers in Japan (Libraries)</Title>
-        <Url>http://www.libra.titech.ac.jp/libraries_list.html</Url>
-        <ClickUrl>http://www.libra.titech.ac.jp/libraries_list.html</ClickUrl>
+        <Title>大学図書館</Title>
+        <Url>http://wwwsoc.nii.ac.jp/jla/link/univ.html</Url>
+        <ClickUrl>http://wwwsoc.nii.ac.jp/jla/link/univ.html</ClickUrl>
     </Result>
     <Result>
         <Title>大学図書館 - Yahoo!カテゴリ</Title>
@@ -97,39 +97,9 @@
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Libraries/University_Libraries/</ClickUrl>
     </Result>
     <Result>
-        <Title>Libraries in the World</Title>
-        <Url>http://www.tulips.tsukuba.ac.jp/other/all.html</Url>
-        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/all.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>井上靖リンク集 / Yasushi Inoue Links</Title>
         <Url>http://www.rsch.tuis.ac.jp/~ito/research/y_inoue/y_inoue_links.html</Url>
         <ClickUrl>http://www.rsch.tuis.ac.jp/~ito/research/y_inoue/y_inoue_links.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Humanities Web Sites in Japan, Part 2</Title>
-        <Url>http://www.sal.tohoku.ac.jp/~gothit/zinbun-app.html</Url>
-        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/zinbun-app.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山手線沿線私立大学図書館コンソーシアム</Title>
-        <Url>http://www.meijigakuin.ac.jp/~tosho/opac/info.html</Url>
-        <ClickUrl>http://www.meijigakuin.ac.jp/~tosho/opac/info.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>インドアでインド ― Armchair Indologist ―</Title>
-        <Url>http://rivertop.exblog.jp/</Url>
-        <ClickUrl>http://rivertop.exblog.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大学図書館トップページのガイドライン</Title>
-        <Url>http://www.slis.keio.ac.jp/~ueda/univlibguide/toppageguideline.html</Url>
-        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/univlibguide/toppageguideline.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Linking World: リンクの世界</Title>
-        <Url>http://www.sal.tohoku.ac.jp/~gothit/linking.html</Url>
-        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/linking.html</ClickUrl>
     </Result>
     <Result>
         <Title>青山学院女子短期大学_入試情報 Information</Title>
@@ -137,34 +107,29 @@
         <ClickUrl>http://www.luce.aoyama.ac.jp/nyuushi/jyouhou.html</ClickUrl>
     </Result>
     <Result>
-        <Title>『クマ通』2004年 更新履歴:桑原政則</Title>
-        <Url>http://www.aoikuma.com/kutsu2005.htm</Url>
-        <ClickUrl>http://www.aoikuma.com/kutsu2005.htm</ClickUrl>
+        <Title>WWW Servers in Japan (Libraries)</Title>
+        <Url>http://www.libra.titech.ac.jp/libraries_list.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/libraries_list.html</ClickUrl>
     </Result>
     <Result>
-        <Title>E-Cyclopeadia Project : Intel-Wing</Title>
-        <Url>http://members.jcom.home.ne.jp/tn_delamancha/000_souki.html</Url>
-        <ClickUrl>http://members.jcom.home.ne.jp/tn_delamancha/000_souki.html</ClickUrl>
+        <Title>Libraries in the World</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/other/all.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/all.html</ClickUrl>
     </Result>
     <Result>
-        <Title>lklibe</Title>
-        <Url>http://www.cjkat.com/lklibe.htm</Url>
-        <ClickUrl>http://www.cjkat.com/lklibe.htm</ClickUrl>
+        <Title>山手線沿線私立大学図書館コンソーシアム</Title>
+        <Url>http://www.meijigakuin.ac.jp/~tosho/opac/info.html</Url>
+        <ClickUrl>http://www.meijigakuin.ac.jp/~tosho/opac/info.html</ClickUrl>
     </Result>
     <Result>
-        <Title>UCB Libraries | East Asian Collection | Japan Studies e-Resources</Title>
-        <Url>http://ucblibraries.colorado.edu/eastasian/japanstudies.htm</Url>
-        <ClickUrl>http://ucblibraries.colorado.edu/eastasian/japanstudies.htm</ClickUrl>
+        <Title>Humanities Web Sites in Japan, Part 2</Title>
+        <Url>http://www.sal.tohoku.ac.jp/~gothit/zinbun-app.html</Url>
+        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/zinbun-app.html</ClickUrl>
     </Result>
     <Result>
-        <Title>青山学院女子短期大学_アクセスマップ</Title>
-        <Url>http://www.luce.aoyama.ac.jp/access/map.html</Url>
-        <ClickUrl>http://www.luce.aoyama.ac.jp/access/map.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山脇学園短期大学</Title>
-        <Url>http://www.yamawaki-gakuen.ac.jp/tosyokan.html</Url>
-        <ClickUrl>http://www.yamawaki-gakuen.ac.jp/tosyokan.html</ClickUrl>
+        <Title>大学図書館トップページのガイドライン</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/univlibguide/toppageguideline.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/univlibguide/toppageguideline.html</ClickUrl>
     </Result>
     <Result>
         <Title>ブラウザからの大学図書館OPAC検索</Title>
@@ -172,29 +137,24 @@
         <ClickUrl>http://ready.to/search/list/cs_opac_univ.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>青山学院大学 - 図書館</Title>
-        <Url>http://www.aoyama.ac.jp/facilities/library/index.html</Url>
-        <ClickUrl>http://www.aoyama.ac.jp/facilities/library/index.html</ClickUrl>
+        <Title>青山学院女子短期大学_アクセスマップ</Title>
+        <Url>http://www.luce.aoyama.ac.jp/access/map.html</Url>
+        <ClickUrl>http://www.luce.aoyama.ac.jp/access/map.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Forests Forever</Title>
-        <Url>http://sylva.blogspot.com/</Url>
-        <ClickUrl>http://sylva.blogspot.com/</ClickUrl>
+        <Title>『クマ通』2004年 更新履歴:桑原政則</Title>
+        <Url>http://www.aoikuma.com/kutsu2005.htm</Url>
+        <ClickUrl>http://www.aoikuma.com/kutsu2005.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>リンク集 デジタル奈良絵本</Title>
-        <Url>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</Url>
-        <ClickUrl>http://www.hi.u-tokyo.ac.jp/personal/fujiwara/naraehon-library.html</ClickUrl>
+        <Title>青山学院女子短期大学_オープンキャンパス・進学相談会</Title>
+        <Url>http://www.luce.aoyama.ac.jp/nyuushi/oc.html</Url>
+        <ClickUrl>http://www.luce.aoyama.ac.jp/nyuushi/oc.html</ClickUrl>
     </Result>
     <Result>
-        <Title>山の手コンソーシアム:貸出条件一覧</Title>
-        <Url>http://www.hosei.ac.jp/general/lib/3rd_ingd/conso_lend.html</Url>
-        <ClickUrl>http://www.hosei.ac.jp/general/lib/3rd_ingd/conso_lend.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学位論文を検索できるサイト</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis2.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis2.html</ClickUrl>
+        <Title>lklibe</Title>
+        <Url>http://www.cjkat.com/lklibe.htm</Url>
+        <ClickUrl>http://www.cjkat.com/lklibe.htm</ClickUrl>
     </Result>
     <Result>
         <Title>Paul Hullah - Wikipedia, the free encyclopedia</Title>
@@ -202,14 +162,24 @@
         <ClickUrl>http://en.wikipedia.org/wiki/Paul_Hullah</ClickUrl>
     </Result>
     <Result>
-        <Title>Sekky特選リンク</Title>
-        <Url>http://sekky.tripod.com/links.html</Url>
-        <ClickUrl>http://sekky.tripod.com/links.html</ClickUrl>
+        <Title>青山学院大学 - 図書館</Title>
+        <Url>http://www.aoyama.ac.jp/facilities/library/index.html</Url>
+        <ClickUrl>http://www.aoyama.ac.jp/facilities/library/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Reference Links</Title>
-        <Url>http://www.cl.aoyama.ac.jp/~dias/EsllinksRef.html</Url>
-        <ClickUrl>http://www.cl.aoyama.ac.jp/~dias/EsllinksRef.html</ClickUrl>
+        <Title>E-Cyclopeadia Project : Intel-Wing</Title>
+        <Url>http://members.jcom.home.ne.jp/tn_delamancha/000_souki.html</Url>
+        <ClickUrl>http://members.jcom.home.ne.jp/tn_delamancha/000_souki.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Linking World: リンクの世界</Title>
+        <Url>http://www.sal.tohoku.ac.jp/~gothit/linking.html</Url>
+        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/linking.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Information On Demand インフォメーション・オン・デマンド</Title>
+        <Url>http://infood.hp.infoseek.co.jp/</Url>
+        <ClickUrl>http://infood.hp.infoseek.co.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>オンライン・ジャーナル</Title>
@@ -217,9 +187,59 @@
         <ClickUrl>http://www.gbrc.jp/journal/index.html</ClickUrl>
     </Result>
     <Result>
+        <Title>青山学院女子短期大学_学科案内</Title>
+        <Url>http://www.luce.aoyama.ac.jp/gakka/geijyutu.html</Url>
+        <ClickUrl>http://www.luce.aoyama.ac.jp/gakka/geijyutu.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Forests Forever</Title>
+        <Url>http://sylva.blogspot.com/</Url>
+        <ClickUrl>http://sylva.blogspot.com/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学外サーバへのリンク</Title>
         <Url>http://www.jissen.ac.jp/library/f-takikan.htm</Url>
         <ClickUrl>http://www.jissen.ac.jp/library/f-takikan.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文を検索できるサイト</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis2.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis2.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>項目3</Title>
+        <Url>http://www.geocities.jp/apairofstocks/sub3.htm</Url>
+        <ClickUrl>http://www.geocities.jp/apairofstocks/sub3.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Reference Links</Title>
+        <Url>http://www.cl.aoyama.ac.jp/~dias/EsllinksRef.html</Url>
+        <ClickUrl>http://www.cl.aoyama.ac.jp/~dias/EsllinksRef.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Japanese Studies - Selected Libraries in Japan</Title>
+        <Url>http://www.libraries.iub.edu/index.php?pageId=8439</Url>
+        <ClickUrl>http://www.libraries.iub.edu/index.php?pageId=8439</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TAXMANIAの健康日記</Title>
+        <Url>http://blogs.dion.ne.jp/taxmania/</Url>
+        <ClickUrl>http://blogs.dion.ne.jp/taxmania/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Libraries_Japan</Title>
+        <Url>http://www.libra.titech.ac.jp/chiku_Japan.html</Url>
+        <ClickUrl>http://www.libra.titech.ac.jp/chiku_Japan.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>青山学院女子短期大学_学科案内</Title>
+        <Url>http://www.luce.aoyama.ac.jp/gakka/jidou.html</Url>
+        <ClickUrl>http://www.luce.aoyama.ac.jp/gakka/jidou.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>青山学院女子短期大学_学科案内</Title>
+        <Url>http://www.luce.aoyama.ac.jp/gakka/kasei.html</Url>
+        <ClickUrl>http://www.luce.aoyama.ac.jp/gakka/kasei.html</ClickUrl>
     </Result>
     <Result>
         <Title>T. Oishi&apos;s Homepage/write-j.html</Title>
@@ -227,35 +247,15 @@
         <ClickUrl>http://www.asahi-net.or.jp/~mu3t-oois/write-j.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Table of Contents</Title>
-        <Url>http://www.library.osaka-u.ac.jp/others/zassi-3.htm</Url>
-        <ClickUrl>http://www.library.osaka-u.ac.jp/others/zassi-3.htm</ClickUrl>
+        <Title>青山学院女子短期大学_編入学</Title>
+        <Url>http://www.luce.aoyama.ac.jp/sinro/hennnyuugaku.html</Url>
+        <ClickUrl>http://www.luce.aoyama.ac.jp/sinro/hennnyuugaku.html</ClickUrl>
     </Result>
     <Result>
-        <Title>國學院大學 | 山手線沿線私立大学図書館コンソーシアム</Title>
-        <Url>http://www.kokugakuin.ac.jp/library/tosyo0200024.html</Url>
-        <ClickUrl>http://www.kokugakuin.ac.jp/library/tosyo0200024.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Course Description*</Title>
+        <Title>Course Description*.doc</Title>
         <Url>http://www.cl.aoyama.ac.jp/~dias/docs/2008-AW_StudentGuide.doc</Url>
         <ClickUrl>http://www.cl.aoyama.ac.jp/~dias/docs/2008-AW_StudentGuide.doc</ClickUrl>
     </Result>
-    <Result>
-        <Title>青山学院大学 - 在学生の方</Title>
-        <Url>http://www.aoyama.ac.jp/target/student/index.html</Url>
-        <ClickUrl>http://www.aoyama.ac.jp/target/student/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Control Language | Integrated English</Title>
-        <Url>http://integratedenglish.edublogs.org/2009/02/04/test/</Url>
-        <ClickUrl>http://integratedenglish.edublogs.org/2009/02/04/test/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Meiji University Library|Use the Library|Yamanote Line ...</Title>
-        <Url>http://www.lib.meiji.ac.jp/english/use/yamanote/index.html</Url>
-        <ClickUrl>http://www.lib.meiji.ac.jp/english/use/yamanote/index.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:54 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:54 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:58 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:58 PDT 2010 -->

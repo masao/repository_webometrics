@@ -3,18 +3,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="327"
+    totalResultsAvailable="740"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -27,14 +27,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
+        <Title>一括検索 -s45c 引張試験-</Title>
+        <Url>http://seonum.com/rank/s45c+%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93.html</Url>
+        <ClickUrl>http://seonum.com/rank/s45c+%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>サイトマップ|国立大学法人名古屋工業大学</Title>
@@ -42,9 +42,9 @@
         <ClickUrl>http://www.nitech.ac.jp/sitemap/index.html</ClickUrl>
     </Result>
     <Result>
-        <Title>名古屋工業大学研究者倫理に関するガイドライン|国立大学法人名&lt;wbr&gt;古屋工業大学</Title>
-        <Url>http://www.nitech.ac.jp/research/index.html</Url>
-        <ClickUrl>http://www.nitech.ac.jp/research/index.html</ClickUrl>
+        <Title>一括検索 -熱膨張率-</Title>
+        <Url>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E7%8E%87.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E7%8E%87.html</ClickUrl>
     </Result>
     <Result>
         <Title>学位論文検索サイト</Title>
@@ -52,14 +52,9 @@
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/phd.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>一括検索 -s45c 引張試験-</Title>
-        <Url>http://seonum.com/rank/s45c+%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93.html</Url>
-        <ClickUrl>http://seonum.com/rank/s45c+%E5%BC%95%E5%BC%B5%E8%A9%A6%E9%A8%93.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>卒業生の方へ|国立大学法人名古屋工業大学</Title>
-        <Url>http://www.nitech.ac.jp/guest/sotsugyou.html</Url>
-        <ClickUrl>http://www.nitech.ac.jp/guest/sotsugyou.html</ClickUrl>
+        <Title>名古屋工業大学学術機関リポジトリ</Title>
+        <Url>http://www.lib.nitech.ac.jp/repository/index.html</Url>
+        <ClickUrl>http://www.lib.nitech.ac.jp/repository/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>一括検索 -s45c 機械的性質-</Title>
@@ -67,69 +62,9 @@
         <ClickUrl>http://seonum.com/rank/s45c+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</ClickUrl>
     </Result>
     <Result>
-        <Title>奨学寄附金|国立大学法人名古屋工業大学</Title>
-        <Url>http://www.nitech.ac.jp/research/cpsystem03.html</Url>
-        <ClickUrl>http://www.nitech.ac.jp/research/cpsystem03.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>公的研究費の不正防止|国立大学法人名古屋工業大学</Title>
-        <Url>http://www.nitech.ac.jp/research/fuseiboshi.html</Url>
-        <ClickUrl>http://www.nitech.ac.jp/research/fuseiboshi.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -熱膨張率-</Title>
-        <Url>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E7%8E%87.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E7%8E%87.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -熱膨張係数-</Title>
-        <Url>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -ラチス梁 幅厚比-</Title>
-        <Url>http://seonum.com/rank/%E3%83%A9%E3%83%81%E3%82%B9%E6%A2%81+%E5%B9%85%E5%8E%9A%E6%AF%94.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E3%83%A9%E3%83%81%E3%82%B9%E6%A2%81+%E5%B9%85%E5%8E%9A%E6%AF%94.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -ヤング率の高い材料-</Title>
-        <Url>http://seonum.com/rank/%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87%E3%81%AE%E9%AB%98%E3%81%84%E6%9D%90%E6%96%99.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87%E3%81%AE%E9%AB%98%E3%81%84%E6%9D%90%E6%96%99.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
         <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
         <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=61</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=61</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -ポアソン比 ポリプロピレン-</Title>
-        <Url>http://seonum.com/rank/%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94+%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94+%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>銅板 平葺き 価格 0 4mm - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E9%8A%85%E6%9D%BF+%E5%B9%B3%E8%91%BA%E3%81%8D+%E4%BE%A1%E6%A0%BC+0+4%EF%BD%8D%EF%BD%8D&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%8A%85%E6%9D%BF+%E5%B9%B3%E8%91%BA%E3%81%8D+%E4%BE%A1%E6%A0%BC+0+4%EF%BD%8D%EF%BD%8D&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>銅葺屋根用太陽光架台 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E9%8A%85%E8%91%BA%E5%B1%8B%E6%A0%B9%E7%94%A8%E5%A4%AA%E9%99%BD%E5%85%89%E6%9E%B6%E5%8F%B0&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E9%8A%85%E8%91%BA%E5%B1%8B%E6%A0%B9%E7%94%A8%E5%A4%AA%E9%99%BD%E5%85%89%E6%9E%B6%E5%8F%B0&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>Self Introduction</Title>
@@ -137,14 +72,149 @@
         <ClickUrl>http://whitebear.cs.inf.shizuoka.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Turbulence Models for Predicting Wall Shear Flows ...</Title>
-        <Url>http://jairo.nii.ac.jp/0062/00000229</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0062/00000229</ClickUrl>
+        <Title>研究活動|国立大学法人名古屋工業大学</Title>
+        <Url>http://www.nitech.ac.jp/research/index.html</Url>
+        <ClickUrl>http://www.nitech.ac.jp/research/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>奨学寄附金|国立大学法人名古屋工業大学</Title>
+        <Url>http://www.nitech.ac.jp/research/cpsystem03.html</Url>
+        <ClickUrl>http://www.nitech.ac.jp/research/cpsystem03.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -ラチス梁 幅厚比-</Title>
+        <Url>http://seonum.com/rank/%E3%83%A9%E3%83%81%E3%82%B9%E6%A2%81+%E5%B9%85%E5%8E%9A%E6%AF%94.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%A9%E3%83%81%E3%82%B9%E6%A2%81+%E5%B9%85%E5%8E%9A%E6%AF%94.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -降伏耐力 低降伏点鋼-</Title>
+        <Url>http://seonum.com/rank/%E9%99%8D%E4%BC%8F%E8%80%90%E5%8A%9B+%E4%BD%8E%E9%99%8D%E4%BC%8F%E7%82%B9%E9%8B%BC.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E9%99%8D%E4%BC%8F%E8%80%90%E5%8A%9B+%E4%BD%8E%E9%99%8D%E4%BC%8F%E7%82%B9%E9%8B%BC.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -ヤング率の高い材料-</Title>
+        <Url>http://seonum.com/rank/%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87%E3%81%AE%E9%AB%98%E3%81%84%E6%9D%90%E6%96%99.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87%E3%81%AE%E9%AB%98%E3%81%84%E6%9D%90%E6%96%99.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -一般構造用鋼 機械的性質-</Title>
+        <Url>http://seonum.com/rank/%E4%B8%80%E8%88%AC%E6%A7%8B%E9%80%A0%E7%94%A8%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E4%B8%80%E8%88%AC%E6%A7%8B%E9%80%A0%E7%94%A8%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -ポアソン比 ポリプロピレン-</Title>
+        <Url>http://seonum.com/rank/%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94+%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94+%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>卒業生の方へ|国立大学法人名古屋工業大学</Title>
+        <Url>http://www.nitech.ac.jp/guest/sotsugyou.html</Url>
+        <ClickUrl>http://www.nitech.ac.jp/guest/sotsugyou.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>共同研究|国立大学法人名古屋工業大学</Title>
+        <Url>http://www.nitech.ac.jp/research/cpsystem01.html</Url>
+        <ClickUrl>http://www.nitech.ac.jp/research/cpsystem01.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -s25c 降伏点-</Title>
+        <Url>http://seonum.com/rank/s25c+%E9%99%8D%E4%BC%8F%E7%82%B9.html</Url>
+        <ClickUrl>http://seonum.com/rank/s25c+%E9%99%8D%E4%BC%8F%E7%82%B9.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -熱膨張係数-</Title>
+        <Url>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E7%86%B1%E8%86%A8%E5%BC%B5%E4%BF%82%E6%95%B0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -せん断応力 銅-</Title>
+        <Url>http://seonum.com/rank/%E3%81%9B%E3%82%93%E6%96%AD%E5%BF%9C%E5%8A%9B+%E9%8A%85.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%81%9B%E3%82%93%E6%96%AD%E5%BF%9C%E5%8A%9B+%E9%8A%85.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -温度依存 密度 空気-</Title>
+        <Url>http://seonum.com/rank/%E6%B8%A9%E5%BA%A6%E4%BE%9D%E5%AD%98+%E5%AF%86%E5%BA%A6+%E7%A9%BA%E6%B0%97.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E6%B8%A9%E5%BA%A6%E4%BE%9D%E5%AD%98+%E5%AF%86%E5%BA%A6+%E7%A9%BA%E6%B0%97.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -軟鋼 機械的性質 降伏点-</Title>
+        <Url>http://seonum.com/rank/%E8%BB%9F%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA+%E9%99%8D%E4%BC%8F%E7%82%B9.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E8%BB%9F%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA+%E9%99%8D%E4%BC%8F%E7%82%B9.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -圧縮試験 ひずみ速度 影響-</Title>
+        <Url>http://seonum.com/rank/%E5%9C%A7%E7%B8%AE%E8%A9%A6%E9%A8%93+%E3%81%B2%E3%81%9A%E3%81%BF%E9%80%9F%E5%BA%A6+%E5%BD%B1%E9%9F%BF.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%9C%A7%E7%B8%AE%E8%A9%A6%E9%A8%93+%E3%81%B2%E3%81%9A%E3%81%BF%E9%80%9F%E5%BA%A6+%E5%BD%B1%E9%9F%BF.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -ナイロン樹脂 ポアソン比-</Title>
+        <Url>http://seonum.com/rank/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3%E6%A8%B9%E8%84%82+%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3%E6%A8%B9%E8%84%82+%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=61</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=61</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -ポアソン比 エポキシ 接着剤-</Title>
+        <Url>http://seonum.com/rank/%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94+%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7+%E6%8E%A5%E7%9D%80%E5%89%A4.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94+%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7+%E6%8E%A5%E7%9D%80%E5%89%A4.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project ...</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>松沼正平 プロフィール - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E6%9D%BE%E6%B2%BC%E6%AD%A3%E5%B9%B3/1169597/</Url>
+        <ClickUrl>http://spysee.jp/%E6%9D%BE%E6%B2%BC%E6%AD%A3%E5%B9%B3/1169597/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>bchl - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=bchl&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=bchl&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -hra-</Title>
+        <Url>http://seonum.com/rank/hra.html</Url>
+        <ClickUrl>http://seonum.com/rank/hra.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 新規有機半導体材料の開発と有機薄膜太陽電池への応用</Title>
+        <Url>http://jairo.nii.ac.jp/0062/00000228</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0062/00000228</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor ウェブ検索 検索結果 : OMVPE</Title>
         <Url>http://search.livedoor.com/search/?q=OMVPE</Url>
         <ClickUrl>http://search.livedoor.com/search/?q=OMVPE</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[R404A] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/R404A_reserch_1.html</Url>
+        <ClickUrl>http://gjtb.net/detail/R404A_reserch_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>名古屋工業大学研究者倫理に関するガイドライン|国立大学法人名&lt;wbr&gt;古屋工業大学</Title>
+        <Url>http://www.nitech.ac.jp/research/guideline.html</Url>
+        <ClickUrl>http://www.nitech.ac.jp/research/guideline.html</ClickUrl>
     </Result>
     <Result>
         <Title>科学技術相談・高度技術研修|国立大学法人名古屋工業大学</Title>
@@ -157,6 +227,11 @@
         <ClickUrl>http://www.nitech.ac.jp/research/cpsystem02.html</ClickUrl>
     </Result>
     <Result>
+        <Title>[7059 corning] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/7059%20corning_all_1.html</Url>
+        <ClickUrl>http://gjtb.net/detail/7059%20corning_all_1.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>寄附講座・寄附研究部門|国立大学法人名古屋工業大学</Title>
         <Url>http://www.nitech.ac.jp/research/cpsystem04.html</Url>
         <ClickUrl>http://www.nitech.ac.jp/research/cpsystem04.html</ClickUrl>
@@ -167,9 +242,9 @@
         <ClickUrl>http://www.nitech.ac.jp/research/cpsystem00.html</ClickUrl>
     </Result>
     <Result>
-        <Title>大学機関リポジトリ</Title>
-        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
-        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+        <Title>公的研究費の不正防止|国立大学法人名古屋工業大学</Title>
+        <Url>http://www.nitech.ac.jp/research/fuseiboshi.html</Url>
+        <ClickUrl>http://www.nitech.ac.jp/research/fuseiboshi.html</ClickUrl>
     </Result>
     <Result>
         <Title>諸制度の実績|国立大学法人名古屋工業大学</Title>
@@ -177,85 +252,10 @@
         <ClickUrl>http://www.nitech.ac.jp/research/cpsystem07.html</ClickUrl>
     </Result>
     <Result>
-        <Title>共同研究|国立大学法人名古屋工業大学</Title>
-        <Url>http://www.nitech.ac.jp/research/cpsystem01.html</Url>
-        <ClickUrl>http://www.nitech.ac.jp/research/cpsystem01.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>名古屋工業大学学術機関リポジトリ</Title>
-        <Url>http://www.lib.nitech.ac.jp/repository/index.html</Url>
-        <ClickUrl>http://www.lib.nitech.ac.jp/repository/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : Gold nanoparticle</Title>
-        <Url>http://search.livedoor.com/search/?q=Gold+nanoparticle</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=Gold+nanoparticle</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -s25c 降伏点-</Title>
-        <Url>http://seonum.com/rank/s25c+%E9%99%8D%E4%BC%8F%E7%82%B9.html</Url>
-        <ClickUrl>http://seonum.com/rank/s25c+%E9%99%8D%E4%BC%8F%E7%82%B9.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -圧縮試験 s45c-</Title>
-        <Url>http://seonum.com/rank/%E5%9C%A7%E7%B8%AE%E8%A9%A6%E9%A8%93+s45c.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E5%9C%A7%E7%B8%AE%E8%A9%A6%E9%A8%93+s45c.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -横弾性係数-</Title>
-        <Url>http://seonum.com/rank/%E6%A8%AA%E5%BC%BE%E6%80%A7%E4%BF%82%E6%95%B0.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E6%A8%AA%E5%BC%BE%E6%80%A7%E4%BF%82%E6%95%B0.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -機械的性質-</Title>
-        <Url>http://seonum.com/rank/%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -sio スパッタ 膜-</Title>
-        <Url>http://seonum.com/rank/sio+%E3%82%B9%E3%83%91%E3%83%83%E3%82%BF+%E8%86%9C.html</Url>
-        <ClickUrl>http://seonum.com/rank/sio+%E3%82%B9%E3%83%91%E3%83%83%E3%82%BF+%E8%86%9C.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -土 体積弾性率-</Title>
-        <Url>http://seonum.com/rank/%E5%9C%9F+%E4%BD%93%E7%A9%8D%E5%BC%BE%E6%80%A7%E7%8E%87.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E5%9C%9F+%E4%BD%93%E7%A9%8D%E5%BC%BE%E6%80%A7%E7%8E%87.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -応力集中 緩和方法-</Title>
-        <Url>http://seonum.com/rank/%E5%BF%9C%E5%8A%9B%E9%9B%86%E4%B8%AD+%E7%B7%A9%E5%92%8C%E6%96%B9%E6%B3%95.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E5%BF%9C%E5%8A%9B%E9%9B%86%E4%B8%AD+%E7%B7%A9%E5%92%8C%E6%96%B9%E6%B3%95.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -温度依存 密度 空気-</Title>
-        <Url>http://seonum.com/rank/%E6%B8%A9%E5%BA%A6%E4%BE%9D%E5%AD%98+%E5%AF%86%E5%BA%A6+%E7%A9%BA%E6%B0%97.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E6%B8%A9%E5%BA%A6%E4%BE%9D%E5%AD%98+%E5%AF%86%E5%BA%A6+%E7%A9%BA%E6%B0%97.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -降伏耐力 低降伏点鋼-</Title>
-        <Url>http://seonum.com/rank/%E9%99%8D%E4%BC%8F%E8%80%90%E5%8A%9B+%E4%BD%8E%E9%99%8D%E4%BC%8F%E7%82%B9%E9%8B%BC.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E9%99%8D%E4%BC%8F%E8%80%90%E5%8A%9B+%E4%BD%8E%E9%99%8D%E4%BC%8F%E7%82%B9%E9%8B%BC.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -軟鋼 機械的性質 降伏点-</Title>
-        <Url>http://seonum.com/rank/%E8%BB%9F%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA+%E9%99%8D%E4%BC%8F%E7%82%B9.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E8%BB%9F%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA+%E9%99%8D%E4%BC%8F%E7%82%B9.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -一般構造用鋼 機械的性質-</Title>
-        <Url>http://seonum.com/rank/%E4%B8%80%E8%88%AC%E6%A7%8B%E9%80%A0%E7%94%A8%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E4%B8%80%E8%88%AC%E6%A7%8B%E9%80%A0%E7%94%A8%E9%8B%BC+%E6%A9%9F%E6%A2%B0%E7%9A%84%E6%80%A7%E8%B3%AA.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -ナイロン樹脂 ポアソン比-</Title>
-        <Url>http://seonum.com/rank/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3%E6%A8%B9%E8%84%82+%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3%E6%A8%B9%E8%84%82+%E3%83%9D%E3%82%A2%E3%82%BD%E3%83%B3%E6%AF%94.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -ヤング率機械鋼材一覧表-</Title>
-        <Url>http://seonum.com/rank/%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87%E6%A9%9F%E6%A2%B0%E9%8B%BC%E6%9D%90%E4%B8%80%E8%A6%A7%E8%A1%A8.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87%E6%A9%9F%E6%A2%B0%E9%8B%BC%E6%9D%90%E4%B8%80%E8%A6%A7%E8%A1%A8.html</ClickUrl>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:31 PST 2010 -->
-<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:31 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:50 PDT 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:50 PDT 2010 -->

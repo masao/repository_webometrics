@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="8762"
+    totalResultsAvailable="9618"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,14 +12,14 @@
         <ClickUrl>http://www.lib.hiroshima-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>地球資源論研究室(Earth Resources Research)</Title>
@@ -32,114 +32,59 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>倖田來未発言は素晴らしい!: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/02/post_1f03.html</ClickUrl>
+        <Title>感想 日本建築学会編『音楽空間への誘いコンサートホールの楽しみ』&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</ClickUrl>
     </Result>
     <Result>
-        <Title>日記 入手資料等整理1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-d1e7.html</ClickUrl>
+        <Title>週刊誌を読んで: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ef56.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ef56.html</ClickUrl>
     </Result>
     <Result>
-        <Title>川西正彦の公共政策研究: 皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続)</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888_2.html</ClickUrl>
+        <Title>小林よしのり「ゴー宣」天皇論追撃篇の感想その1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-9c4c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-9c4c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
+        <Title>在特会が東京新聞に対し抗議行動: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</ClickUrl>
     </Result>
     <Result>
-        <Title>感想 滝沢聿代 「民法改正要綱試案の問題点(上)」(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8d8c.html</ClickUrl>
+        <Title>日比谷の普天間基地はいらない全国集会に6000人とか&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</ClickUrl>
     </Result>
     <Result>
-        <Title>感想 ETV特集 「いま憲法25条&quot;生存権&quot;を考える~対論内橋克人&lt;wbr&gt;-湯浅誠」: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/25-39c6-1.html</ClickUrl>
+        <Title>明治民法の夫婦同氏の意義その4(夫婦別姓反対下書き&lt;wbr&gt;): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/10/post-1e21.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/10/post-1e21.html</ClickUrl>
     </Result>
     <Result>
-        <Title>川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/</ClickUrl>
+        <Title>「傍論を重視するのは俗論」と園部逸夫が述べたという&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-2ed7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-2ed7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>補説「少子化」問題の分析と対策についての疑問: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_bd36.html</ClickUrl>
+        <Title>カード 組合活動-施設管理権関係判例: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/08/post-02c7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/08/post-02c7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>感想 吉野佑介 「アメリカは真に「自由な社会」なのか? 一一九八年代アメリカの「新自由主義」とハイエク思想&lt;wbr&gt;-」: 川西正彦 ...</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-76db.html</ClickUrl>
+        <Title>上司への質問書: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2aa7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2aa7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>女系天皇容認の皇室典範改正は憲法第二条に反し違憲である&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_31d2.html</ClickUrl>
+        <Title>カード 夫婦別姓旧慣習説を否定する学説-大藤修: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/08/post-4309.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/08/post-4309.html</ClickUrl>
     </Result>
     <Result>
-        <Title>川西正彦の公共政策研究: 私は永守重信社長発言賛成です</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/04/post_7fc3.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>感想 山田昌弘・白川桃子共著「『婚活』時代」その1: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_368a.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>優先席の携帯電源オフは実質無意味との記事『サピオ』2009年&lt;wbr&gt;3月11日号の感想: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-aa94.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「理想の母親」辻希美の育児は変だと思う: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-1d7f.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>くどいぞ愛子内親王擁立派(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_e08d.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>出生数試算のインチキ-皇室典範に関する有識者会議報告書反駁&lt;wbr&gt;-: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_d6b8.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>川西正彦の公共政策研究: オープンショップ運動・レイバーインジャンクション・ロックナー&lt;wbr&gt;エイジ・ウェルフェアキャピタリズム ...</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-95c8.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>エコのための深夜営業規制反対: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_e3e7.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>敵は本能寺!法案を叩き潰すために文化戦争に突入する&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/12/post_c020.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>くどいぞ愛子内親王擁立派(2): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/09/post_94fc.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>アメリカ社会左傾化の危機Card-Check Agreements : 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/card-check-agre.html</ClickUrl>
+        <Title>団結否認権の確立Right to Work lawが必要だ 下書き1-(15): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-6.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-6.html</ClickUrl>
     </Result>
     <Result>
         <Title>Physical Chemistry of Kinetics Lab.</Title>
@@ -147,99 +92,44 @@
         <ClickUrl>http://home.hiroshima-u.ac.jp/pchem/</ClickUrl>
     </Result>
     <Result>
-        <Title>川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
+        <Title>入手資料整理15: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-d764.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-d764.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+        <Title>李明博大統領、鉄道ストに対決姿勢: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-643f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-643f.html</ClickUrl>
     </Result>
     <Result>
-        <Title>国会議員の先生方へ: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_796d.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_796d.html</ClickUrl>
+        <Title>Citizens United v. FEC-法人の言論の自由について: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/citizens-united.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/citizens-united.html</ClickUrl>
     </Result>
     <Result>
-        <Title>買い物: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-1b19.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-1b19.html</ClickUrl>
+        <Title>川西正彦の公共政策研究: 2005年11月</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/</ClickUrl>
     </Result>
     <Result>
-        <Title>北島選手の国民栄誉賞は当然でないの: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/08/post_4356.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/08/post_4356.html</ClickUrl>
+        <Title>外国人地方参政権付与合憲説の学者が違憲説に変更と産経が報道&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ff58.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ff58.html</ClickUrl>
     </Result>
     <Result>
-        <Title>12週無給の家族医療休暇法制しかないアメリカ合衆国では平均出&lt;wbr&gt;産後11週で職場に復帰するらしい : 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-e046.html</ClickUrl>
+        <Title>川西正彦の公共政策研究: 女帝即位絶対反対論 (皇室典範見直し問題)第1回</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/08/post_c588.html</ClickUrl>
     </Result>
     <Result>
-        <Title>小田急バスでの出来事: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/01/post-a9e9.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/01/post-a9e9.html</ClickUrl>
+        <Title>オープンショップ運動・レイバーインジャンクション・ウェルフェ&lt;wbr&gt;アキャピタリズム黄金の1920年代の意義(3): 川西正彦の ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-cfd7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-cfd7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>朝まで生テレビの高森明勅発言批判: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/02/post_ef38.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>感想 大沼直樹「幼少の頃の夏目漱石」: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8984.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/02/post-8984.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>三笠宮寛仁さま「エッセー」報道についての所感: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/post_c20a.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/post_c20a.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>南部共和党議員は外資系企業の利益を代弁しているのではない&lt;wbr&gt;(1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/post-1808.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/post-1808.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>デモ隊撲滅賛成だ-ミャンマー軍政支持: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2007/09/post_89b9.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2007/09/post_89b9.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>正平一統の記述に関する訂正: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/05/post_b846.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/05/post_b846.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>川西正彦の公共政策研究: 検疫はいい加減やめるべきだ</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-e407.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-e407.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>所功の女系継承容認論駁・皇室典範に関する有識者会議報告書論駁&lt;wbr&gt;(その1): 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_3062.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>色が変わって良くなったインフォシーク: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-fa6d.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>容疑者に同情する: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/06/post_914a.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/06/post_914a.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>女帝即位絶対反対論(皇室典範見直し問題)第9回: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2005/09/post_8992.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/09/post_8992.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>感想 原田英生『アメリカの大型店問題』 : 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2009/01/post-b98a.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/01/post-b98a.html</ClickUrl>
+        <Title>入手資料整理16: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-18d8.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-18d8.html</ClickUrl>
     </Result>
     <Result>
         <Title>これなら1年生議員でもよかった: 川西正彦の公共政策研究</Title>
@@ -247,15 +137,125 @@
         <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2b9c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>オバマは歓迎しないが、3州での同性婚禁止住民投票勝利は良かっ&lt;wbr&gt;た: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/11/post-27ac.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/11/post-27ac.html</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
     </Result>
     <Result>
-        <Title>馬鹿げてるノー残業デー: 川西正彦の公共政策研究</Title>
-        <Url>http://antilabor.cocolog-nifty.com/blog/2008/07/post_8c24.html</Url>
-        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/07/post_8c24.html</ClickUrl>
+        <Title>団結否認権の確立Right to Work lawが必要だ 下書き1-(13): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-4.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-4.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記 入手資料整理6: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-47eb.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-47eb.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>11.14 日本解体阻止!!守るぞ日本!国民大行動に二千人: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/1114-3313.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/1114-3313.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日記 入手資料整理3: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/05/post-ed7f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/05/post-ed7f.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>カード リバタリアニズムと法規制 1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-233d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-233d.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>この際自民党総裁に稲田朋美という声も出ている: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-c68c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-c68c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>成人年齢引き下げ断乎反対: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/10/post-ea72.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/10/post-ea72.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>入手資料整理29: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ee12.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ee12.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>マサチューセッツ上院補選、共和党勝利: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-27bc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-27bc.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女子法定婚姻適齢引上げ絶対反対シリーズ「 明治11年の東京評判美人番付」: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/08/post-031f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/08/post-031f.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>本日も頭上報告: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-e94c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-e94c.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>西宮北口駅前「水曜デモ」と反対する主権回復を目指す会のもみあ&lt;wbr&gt;い映像: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-81cd.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-81cd.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Jim DeMint 上院議員のいうUAWがデトロイトの苦境の要因とする見解は基本&lt;wbr&gt;的に正しい: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/jim-demint-uaw-.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/jim-demint-uaw-.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>川西正彦の公共政策研究: 東洋史</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/cat20258958/index.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/cat20258958/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ウェストヒップポイント(2): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2007/11/post_d493.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2007/11/post_d493.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>皇室典範に関する有識者会議の論点整理について反対意見1&lt;wbr&gt;(続): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_f888.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>国会議員の先生方へ: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2006/01/post_796d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2006/01/post_796d.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>勝間和代の経済閣僚起用は最悪 この女は自由主義の敵: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/06/post-dc86.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/06/post-dc86.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>児童ポルノ禁止法改正に反対です: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/07/post-0893.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/07/post-0893.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>なるほどロシア出身三力士解雇は前例と比較して厳しすぎる&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/09/post-6e30.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/09/post-6e30.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>近鉄電車に乗った気分になれる動画: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ca2a.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/02/post-ca2a.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:10 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:10 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:31 PDT 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:31 PDT 2010 -->

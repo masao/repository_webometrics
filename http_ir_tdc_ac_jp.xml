@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2695"
+    totalResultsAvailable="4223"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,9 +17,9 @@
         <ClickUrl>http://www.tdc.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -27,19 +27,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>東京歯科大学図書館</Title>
@@ -47,44 +42,29 @@
         <ClickUrl>http://www.tdc.ac.jp/lib/</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>The Bulletin of TOKYO DENTAL COLLEGE</Title>
-        <Url>http://www.tdc.ac.jp/bulletinoftdc/</Url>
-        <ClickUrl>http://www.tdc.ac.jp/bulletinoftdc/</ClickUrl>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+        <Title>Wiki論文 - Wikiに関する論文リスト(暫定版)</Title>
+        <Url>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</Url>
+        <ClickUrl>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</ClickUrl>
     </Result>
     <Result>
-        <Title>東京歯科大学学会</Title>
-        <Url>http://www.tdc.ac.jp/tdcsoc/</Url>
-        <ClickUrl>http://www.tdc.ac.jp/tdcsoc/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
-        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : 歯科医学英語の授業(基礎編)II : 授業形態と内容</Title>
-        <Url>http://hdl.handle.net/10130/845</Url>
-        <ClickUrl>http://hdl.handle.net/10130/845</ClickUrl>
-    </Result>
-    <Result>
-        <Title>織田 eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/ref/%E7%B9%94%E7%94%B0-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/ref/%E7%B9%94%E7%94%B0-pdf.html</ClickUrl>
+        <Title>DECOllated by statistics</Title>
+        <Url>http://decoooooo.blog21.fc2.com/</Url>
+        <ClickUrl>http://decoooooo.blog21.fc2.com/</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -92,29 +72,9 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : Nicotine involved in periodontal disease through ...</Title>
-        <Url>http://hdl.handle.net/10130/833</Url>
-        <ClickUrl>http://hdl.handle.net/10130/833</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : Changes in the Myosin heavy chain 2a and 2b ...</Title>
-        <Url>http://hdl.handle.net/10130/848</Url>
-        <ClickUrl>http://hdl.handle.net/10130/848</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+        <Title>東京歯科大学学会</Title>
+        <Url>http://www.tdc.ac.jp/tdcsoc/</Url>
+        <ClickUrl>http://www.tdc.ac.jp/tdcsoc/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
@@ -122,39 +82,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
-        <Title>東京歯科大学学術機関リポジトリ : IRUCAA@TDC</Title>
-        <Url>http://www.tdc.ac.jp/lib/ir/</Url>
-        <ClickUrl>http://www.tdc.ac.jp/lib/ir/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : Effects of stretching stimulation with different ...</Title>
-        <Url>http://hdl.handle.net/10130/58</Url>
-        <ClickUrl>http://hdl.handle.net/10130/58</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : 020 単行図書 = Books</Title>
-        <Url>http://hdl.handle.net/10130/10</Url>
-        <ClickUrl>http://hdl.handle.net/10130/10</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : 070 その他 = Other Academic Materials</Title>
-        <Url>http://hdl.handle.net/10130/18</Url>
-        <ClickUrl>http://hdl.handle.net/10130/18</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : Implication of responses to bacterial heat shock ...</Title>
-        <Url>http://hdl.handle.net/10130/347</Url>
-        <ClickUrl>http://hdl.handle.net/10130/347</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : 児童におけるBMIと咀嚼回数の関連性</Title>
-        <Url>http://hdl.handle.net/10130/896</Url>
-        <ClickUrl>http://hdl.handle.net/10130/896</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : 後進箴言</Title>
-        <Url>http://hdl.handle.net/10130/432</Url>
-        <ClickUrl>http://hdl.handle.net/10130/432</ClickUrl>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
         <Title>IRUCAA@TDC : Cortical representation area of human dental pulp</Title>
@@ -162,29 +92,24 @@
         <ClickUrl>http://hdl.handle.net/10130/854</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 真空管内ノ光線</Title>
-        <Url>http://hdl.handle.net/10130/434</Url>
-        <ClickUrl>http://hdl.handle.net/10130/434</ClickUrl>
+        <Title>IRUCAA@TDC : 歯科医学英語の授業(基礎編)II : 授業形態と内容</Title>
+        <Url>http://hdl.handle.net/10130/845</Url>
+        <ClickUrl>http://hdl.handle.net/10130/845</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 歯科医学英語の授業(基礎編)Ⅰ -名詞-</Title>
-        <Url>http://hdl.handle.net/10130/403</Url>
-        <ClickUrl>http://hdl.handle.net/10130/403</ClickUrl>
+        <Title>IRUCAA@TDC : Tongue-coating as risk indicator for aspiration ...</Title>
+        <Url>http://hdl.handle.net/10130/817</Url>
+        <ClickUrl>http://hdl.handle.net/10130/817</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 歯槽膿漏ニ因スル敗血症ノ一例</Title>
-        <Url>http://hdl.handle.net/10130/422</Url>
-        <ClickUrl>http://hdl.handle.net/10130/422</ClickUrl>
+        <Title>IRUCAA@TDC : Effects of Mechanical Stretching on Caspase and ...</Title>
+        <Url>http://hdl.handle.net/10130/993</Url>
+        <ClickUrl>http://hdl.handle.net/10130/993</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 東京歯科大学衛生学講座2005年の記録</Title>
-        <Url>http://hdl.handle.net/10130/838</Url>
-        <ClickUrl>http://hdl.handle.net/10130/838</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRUCAA@TDC : 歯科ト耳科トノ関係</Title>
-        <Url>http://hdl.handle.net/10130/424</Url>
-        <ClickUrl>http://hdl.handle.net/10130/424</ClickUrl>
+        <Title>IRUCAA@TDC : 下顎頭過形成を伴う顔面非対称の外科矯正再治療例</Title>
+        <Url>http://hdl.handle.net/10130/604</Url>
+        <ClickUrl>http://hdl.handle.net/10130/604</ClickUrl>
     </Result>
     <Result>
         <Title>IRUCAA@TDC : 教養系理科科目の授業改革</Title>
@@ -192,29 +117,79 @@
         <ClickUrl>http://hdl.handle.net/10130/402</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 乳歯ノ治療ニ就テ</Title>
-        <Url>http://hdl.handle.net/10130/249</Url>
-        <ClickUrl>http://hdl.handle.net/10130/249</ClickUrl>
+        <Title>IRUCAA@TDC : The behavior of stem cells and progenitor cells ...</Title>
+        <Url>http://hdl.handle.net/10130/1028</Url>
+        <ClickUrl>http://hdl.handle.net/10130/1028</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 結核性舌癌ノ實驗</Title>
-        <Url>http://hdl.handle.net/10130/250</Url>
-        <ClickUrl>http://hdl.handle.net/10130/250</ClickUrl>
+        <Title>IRUCAA@TDC : Influence of palatal surface shape of dentures ...</Title>
+        <Url>http://hdl.handle.net/10130/1103</Url>
+        <ClickUrl>http://hdl.handle.net/10130/1103</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : Colonization pattern of periodontal bacteria in ...</Title>
-        <Url>http://hdl.handle.net/10130/818</Url>
-        <ClickUrl>http://hdl.handle.net/10130/818</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 象牙芽細胞感覚受容機構の解明(TRP・電位依存性チャネル、神&lt;wbr&gt;経共培養解析)</Title>
-        <Url>http://hdl.handle.net/10130/529</Url>
-        <ClickUrl>http://hdl.handle.net/10130/529</ClickUrl>
+        <Title>いるか飼育日記</Title>
+        <Url>http://irucaa.seesaa.net/</Url>
+        <ClickUrl>http://irucaa.seesaa.net/</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 歯ブラシの機能と選択</Title>
-        <Url>http://hdl.handle.net/10130/139</Url>
-        <ClickUrl>http://hdl.handle.net/10130/139</ClickUrl>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>東京歯科大学学術機関リポジトリ : IRUCAA@TDC</Title>
+        <Url>http://www.tdc.ac.jp/lib/ir/</Url>
+        <ClickUrl>http://www.tdc.ac.jp/lib/ir/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
+        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRUCAA@TDC : Channelopathies</Title>
+        <Url>http://hdl.handle.net/10130/77</Url>
+        <ClickUrl>http://hdl.handle.net/10130/77</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRUCAA@TDC : 020 単行図書 = Books</Title>
+        <Url>http://hdl.handle.net/10130/10</Url>
+        <ClickUrl>http://hdl.handle.net/10130/10</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRUCAA@TDC : 下顎智歯の抜歯って怖い!!(下歯槽神経麻痺) : 東京歯科大学千葉病院主催「症例検討会」</Title>
+        <Url>http://hdl.handle.net/10130/43</Url>
+        <ClickUrl>http://hdl.handle.net/10130/43</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRUCAA@TDC : 児童におけるBMIと咀嚼回数の関連性</Title>
+        <Url>http://hdl.handle.net/10130/896</Url>
+        <ClickUrl>http://hdl.handle.net/10130/896</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRUCAA@TDC : 舌に転移を認めた膀胱癌の1例</Title>
+        <Url>http://hdl.handle.net/10130/143</Url>
+        <ClickUrl>http://hdl.handle.net/10130/143</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRUCAA@TDC : Prevalence of renal cell carcinoma: a nation ...</Title>
+        <Url>http://hdl.handle.net/10130/482</Url>
+        <ClickUrl>http://hdl.handle.net/10130/482</ClickUrl>
     </Result>
     <Result>
         <Title>IRUCAA@TDC : A SHORT BIOGRAPHY OF Dr.KISAI TAKAYAMA OF TOKYO ...</Title>
@@ -222,40 +197,65 @@
         <ClickUrl>http://hdl.handle.net/10130/296</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 歯牙保護上ノ注意</Title>
-        <Url>http://hdl.handle.net/10130/426</Url>
-        <ClickUrl>http://hdl.handle.net/10130/426</ClickUrl>
+        <Title>IRUCAA@TDC : Hemifacial Microsomiaの顎運動機能に関する研究</Title>
+        <Url>http://hdl.handle.net/10130/801</Url>
+        <ClickUrl>http://hdl.handle.net/10130/801</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 口腔の腫瘍に就きて</Title>
-        <Url>http://hdl.handle.net/10130/428</Url>
-        <ClickUrl>http://hdl.handle.net/10130/428</ClickUrl>
+        <Title>IRUCAA@TDC : X線CTおよび非接触型三次元計測装置より得た顎顔面軟組織形状&lt;wbr&gt;の統合・分析・評価</Title>
+        <Url>http://hdl.handle.net/10130/1056</Url>
+        <ClickUrl>http://hdl.handle.net/10130/1056</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 不妊治療の最近の進歩 : その光と影</Title>
-        <Url>http://hdl.handle.net/10130/674</Url>
-        <ClickUrl>http://hdl.handle.net/10130/674</ClickUrl>
+        <Title>IRUCAA@TDC : 常染色体エナメル質形成不全症家系の原因遺伝子の同定と遺伝子診&lt;wbr&gt;断</Title>
+        <Url>http://hdl.handle.net/10130/1040</Url>
+        <ClickUrl>http://hdl.handle.net/10130/1040</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 下顎粘液肉腫二基一半ヲ技ト共ニ基関節ヨリ截除セシ一実験</Title>
-        <Url>http://hdl.handle.net/10130/435</Url>
-        <ClickUrl>http://hdl.handle.net/10130/435</ClickUrl>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 口ノ潰瘍一例</Title>
-        <Url>http://hdl.handle.net/10130/436</Url>
-        <ClickUrl>http://hdl.handle.net/10130/436</ClickUrl>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 古代ニ於ケル齒科醫術</Title>
-        <Url>http://hdl.handle.net/10130/439</Url>
-        <ClickUrl>http://hdl.handle.net/10130/439</ClickUrl>
+        <Title>骨再生誘導法 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%AA%A8%E5%86%8D%E7%94%9F%E8%AA%98%E5%B0%8E%E6%B3%95</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%AA%A8%E5%86%8D%E7%94%9F%E8%AA%98%E5%B0%8E%E6%B3%95</ClickUrl>
     </Result>
     <Result>
-        <Title>IRUCAA@TDC : 東京歯科大学研究年報 : 平成18年度</Title>
-        <Url>http://hdl.handle.net/10130/391</Url>
-        <ClickUrl>http://hdl.handle.net/10130/391</ClickUrl>
+        <Title>IRUCAA@TDC : 口腔体操が高齢者の口腔機能へ及ぼす効果</Title>
+        <Url>http://hdl.handle.net/10130/869</Url>
+        <ClickUrl>http://hdl.handle.net/10130/869</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>The Bulletin of TOKYO DENTAL COLLEGE</Title>
+        <Url>http://www.tdc.ac.jp/bulletinoftdc/</Url>
+        <ClickUrl>http://www.tdc.ac.jp/bulletinoftdc/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>超話題!カウンターフォース作戦本部</Title>
+        <Url>http://gar.goraikou.com/headline/fire77rei5/</Url>
+        <ClickUrl>http://gar.goraikou.com/headline/fire77rei5/</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:18 PST 2010 -->
-<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:18 PST 2010 -->
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:38 PDT 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:38 PDT 2010 -->

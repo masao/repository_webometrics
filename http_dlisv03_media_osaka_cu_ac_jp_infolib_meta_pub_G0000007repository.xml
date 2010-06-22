@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="10"
+    firstResultPosition="1"
+    totalResultsReturned="10">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | On embedding of level manifolds and sphere bundles</Title>
+        <Url>http://jairo.nii.ac.jp/0150/00000135</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0150/00000135</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | A subdirect representation of a group</Title>
+        <Url>http://jairo.nii.ac.jp/0150/00000134</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0150/00000134</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Reduced join and Whitehead product</Title>
+        <Url>http://jairo.nii.ac.jp/0150/00000098</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0150/00000098</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | On Bott-Samelson K-cycles associated with symmetric ...</Title>
+        <Url>http://jairo.nii.ac.jp/0150/00000020</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0150/00000020</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=150</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=150</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電子化コレクション -機関リポジトリ / 紀要論文データベース-</Title>
+        <Url>http://libweb.media.osaka-cu.ac.jp/repobox/repository.html</Url>
+        <ClickUrl>http://libweb.media.osaka-cu.ac.jp/repobox/repository.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大阪市立大学 学術 - 話題商品サーチ</Title>
+        <Url>http://www.lspop.com/lp/%C2%E7%BA%E5%BB%D4%CE%A9%C2%E7%B3%D8+%B3%D8%BD%D1/</Url>
+        <ClickUrl>http://www.lspop.com/lp/%C2%E7%BA%E5%BB%D4%CE%A9%C2%E7%B3%D8+%B3%D8%BD%D1/</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:16 PDT 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:16 PDT 2010 -->

@@ -3,18 +3,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="3869"
+    totalResultsAvailable="2555"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -22,24 +22,19 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>Data Provider</Title>
@@ -47,84 +42,74 @@
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): CPG-Actor-Critic法によるミミズ型 ...</Title>
-        <Url>http://hdl.handle.net/10061/4289</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4289</ClickUrl>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 配列置換変異の誘発に関与するdnaE173変異型 ...</Title>
-        <Url>http://hdl.handle.net/10061/4145</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4145</ClickUrl>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 染色体不安定性と相同組換え ~ 平成17年度実績報告書</Title>
-        <Url>http://hdl.handle.net/10061/3268</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3268</ClickUrl>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php?rID=1068</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?rID=1068</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 図書 (Book)</Title>
-        <Url>http://hdl.handle.net/10061/4307</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4307</ClickUrl>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 松明は諸君の手に : これからの科学技術と奈良 ...</Title>
-        <Url>http://hdl.handle.net/10061/5246</Url>
-        <ClickUrl>http://hdl.handle.net/10061/5246</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): Assessment of ...</Title>
+        <Url>http://hdl.handle.net/10061/5291</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5291</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 動的に変化するグループにおける暗号鍵管理手法 ...</Title>
-        <Url>http://hdl.handle.net/10061/3884</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3884</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): 非線形フィードバック制御の実時間アルゴリズム</Title>
+        <Url>http://hdl.handle.net/10061/3472</Url>
+        <ClickUrl>http://hdl.handle.net/10061/3472</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 環境調和型無鉛圧電アクチュエータ材料の開発 ...</Title>
-        <Url>http://hdl.handle.net/10061/4750</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4750</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): Web上で利用可能な手話単語アニメーション ...</Title>
+        <Url>http://hdl.handle.net/10061/1272</Url>
+        <ClickUrl>http://hdl.handle.net/10061/1272</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 遺物破片の立体モデリング手法</Title>
-        <Url>http://hdl.handle.net/10061/2034</Url>
-        <ClickUrl>http://hdl.handle.net/10061/2034</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): プラント運転におけるノウハウの抽出と運転員の育成 ...</Title>
+        <Url>http://hdl.handle.net/10061/5286</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5286</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 新しいアルツハイマー病関連遺伝子LRP1Bの研究 ...</Title>
-        <Url>http://hdl.handle.net/10061/3309</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3309</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): NUMAマルチプロセッサにおけるスケジューリング ...</Title>
+        <Url>http://hdl.handle.net/10061/2848</Url>
+        <ClickUrl>http://hdl.handle.net/10061/2848</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 光ピンセットを用いた一分子DNA力学特性計測システム</Title>
-        <Url>http://hdl.handle.net/10061/5199</Url>
-        <ClickUrl>http://hdl.handle.net/10061/5199</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): 対話音声の笑い声や笑い方についての分析</Title>
+        <Url>http://hdl.handle.net/10061/1636</Url>
+        <ClickUrl>http://hdl.handle.net/10061/1636</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 拡張現実感技術を利用した位置依存情報コンテンツの ...</Title>
-        <Url>http://hdl.handle.net/10061/3832</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3832</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): 生体高分子固定におけるシラン処理表面改質効果に関する研究</Title>
+        <Url>http://hdl.handle.net/10061/5299</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5299</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): G蛋白質シグナルを制御する新規分子群の同定と情報 ...</Title>
-        <Url>http://hdl.handle.net/10061/4823</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4823</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): Construction of Membrane ...</Title>
+        <Url>http://hdl.handle.net/10061/5300</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5300</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 選択問題を解くBSPモデル上の並列アルゴリズムに ...</Title>
-        <Url>http://hdl.handle.net/10061/2144</Url>
-        <ClickUrl>http://hdl.handle.net/10061/2144</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): Dual-tracer ...</Title>
+        <Url>http://hdl.handle.net/10061/5287</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5287</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 電荷密度波―スピン密度波相転移点近傍における特異 ...</Title>
-        <Url>http://hdl.handle.net/10061/5242</Url>
-        <ClickUrl>http://hdl.handle.net/10061/5242</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): fMRIによるヒト円滑性追跡眼球運動における非 ...</Title>
-        <Url>http://hdl.handle.net/10061/1546</Url>
-        <ClickUrl>http://hdl.handle.net/10061/1546</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): インターネットにおける要求駆動型通信品質制御 ...</Title>
-        <Url>http://hdl.handle.net/10061/3054</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3054</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): 電子図書館レポート2009</Title>
+        <Url>http://hdl.handle.net/10061/5263</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5263</ClickUrl>
     </Result>
     <Result>
         <Title>naistar (NAIST Academic Repository): 産学連携と倫理に関する研究 : 大学における利益 ...</Title>
@@ -132,119 +117,9 @@
         <ClickUrl>http://hdl.handle.net/10061/4310</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 水晶体誘導過程におけるクリスタリンの発現制御機構の解析</Title>
-        <Url>http://hdl.handle.net/10061/2677</Url>
-        <ClickUrl>http://hdl.handle.net/10061/2677</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): ニコチン転流関与するタバコトランスポーターの解析</Title>
-        <Url>http://hdl.handle.net/10061/4147</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4147</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 機械学習を用いたノンバーバル発話の意図自動識別</Title>
-        <Url>http://hdl.handle.net/10061/4500</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4500</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 電子図書の検索</Title>
-        <Url>http://hdl.handle.net/10061/3592</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3592</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 新しい光エネルギー変換系の構築</Title>
-        <Url>http://hdl.handle.net/10061/3630</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3630</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 線形非定常力学系同定のためのオンラインEMアルゴリズム</Title>
-        <Url>http://hdl.handle.net/10061/1498</Url>
-        <ClickUrl>http://hdl.handle.net/10061/1498</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 3次元表面の脳内表現に関する心理物理的研究</Title>
-        <Url>http://hdl.handle.net/10061/4397</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4397</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): Functional evaluation of ...</Title>
-        <Url>http://hdl.handle.net/10061/3190</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3190</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 大規模XMLデータの分散配置及び問合せ処理に関する研究</Title>
-        <Url>http://hdl.handle.net/10061/1366</Url>
-        <ClickUrl>http://hdl.handle.net/10061/1366</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 多目的最適化問題と再配置操作付きPareto ...</Title>
-        <Url>http://hdl.handle.net/10061/1492</Url>
-        <ClickUrl>http://hdl.handle.net/10061/1492</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): ソフトウェア開発行動の分析支援を目的とした映像 ...</Title>
-        <Url>http://hdl.handle.net/10061/2236</Url>
-        <ClickUrl>http://hdl.handle.net/10061/2236</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 配列した金属・半導体ナノ粒子の表面増強ラマン散乱 ...</Title>
-        <Url>http://hdl.handle.net/10061/3751</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3751</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 非優先側ドライバの左右確認行動に着目した無信号 ...</Title>
-        <Url>http://hdl.handle.net/10061/4559</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4559</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): NAIST電子図書館: 図書館におけるデジタル ...</Title>
-        <Url>http://hdl.handle.net/10061/4717</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4717</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 動的環境における脳内表現の適応とアセチルコリンに ...</Title>
-        <Url>http://hdl.handle.net/10061/1538</Url>
-        <ClickUrl>http://hdl.handle.net/10061/1538</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 増殖をともなう侵入者/防御者エージェントにおける行動戦略</Title>
-        <Url>http://hdl.handle.net/10061/2218</Url>
-        <ClickUrl>http://hdl.handle.net/10061/2218</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): XML文書に対するガイドライン適合性自動検証法の ...</Title>
-        <Url>http://hdl.handle.net/10061/3882</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3882</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): HtrA1によるTGF-β阻害のメカニズムと関節 ...</Title>
-        <Url>http://hdl.handle.net/10061/3923</Url>
-        <ClickUrl>http://hdl.handle.net/10061/3923</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): ネットワーク遅延を考慮したWWWサーバ ...</Title>
-        <Url>http://hdl.handle.net/10061/1240</Url>
-        <ClickUrl>http://hdl.handle.net/10061/1240</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 多点制御音場再現における逆フィルタの逐次的設計手法の検討</Title>
-        <Url>http://hdl.handle.net/10061/2436</Url>
-        <ClickUrl>http://hdl.handle.net/10061/2436</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 固有空間内での軌跡の類似性に基づく動画像検索に関する研究</Title>
-        <Url>http://hdl.handle.net/10061/1990</Url>
-        <ClickUrl>http://hdl.handle.net/10061/1990</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): Functional analysis of ...</Title>
-        <Url>http://hdl.handle.net/10061/4081</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4081</ClickUrl>
-    </Result>
-    <Result>
-        <Title>naistar (NAIST Academic Repository): 自然突然変異に対する複製フォークの進行方向と転写の影響</Title>
-        <Url>http://hdl.handle.net/10061/4095</Url>
-        <ClickUrl>http://hdl.handle.net/10061/4095</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): イエロープロテインの疎水性コアを形成する芳香族 ...</Title>
+        <Url>http://hdl.handle.net/10061/5297</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5297</ClickUrl>
     </Result>
     <Result>
         <Title>naistar (NAIST Academic Repository): 塩基配列情報に基づいたtRNA共起解析</Title>
@@ -252,10 +127,135 @@
         <ClickUrl>http://hdl.handle.net/10061/5200</ClickUrl>
     </Result>
     <Result>
-        <Title>naistar (NAIST Academic Repository): 新規Sol-Gelプロセスによる(Pb,La ...</Title>
-        <Url>http://hdl.handle.net/10061/5241</Url>
-        <ClickUrl>http://hdl.handle.net/10061/5241</ClickUrl>
+        <Title>naistar (NAIST Academic Repository): 実行系列差分攻撃によるプログラムの耐タンパー性評価</Title>
+        <Url>http://hdl.handle.net/10061/5290</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5290</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 大学におけるマテリアルトランスファーの現状と問題 ...</Title>
+        <Url>http://hdl.handle.net/10061/4987</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4987</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): モバイル端末へのビデオマルチキャスト方式の設計 ...</Title>
+        <Url>http://hdl.handle.net/10061/5283</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5283</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): NAIST電子図書館レポート (NAIST ...</Title>
+        <Url>http://hdl.handle.net/10061/4314</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4314</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): Engineering English in ...</Title>
+        <Url>http://hdl.handle.net/10061/5275</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5275</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 電子図書館レポート2008</Title>
+        <Url>http://hdl.handle.net/10061/5252</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5252</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 新しい光機能材料GeC/Si混晶のエピタキシャル ...</Title>
+        <Url>http://hdl.handle.net/10061/5255</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5255</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): オフショア開発におけるユーザ・ ベンダ間 ...</Title>
+        <Url>http://hdl.handle.net/10061/5261</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5261</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): パルスレーザー・アシスト光ピンセット法の開発</Title>
+        <Url>http://hdl.handle.net/10061/5284</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5284</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): ニワトリ発生過程における眼胞の背腹軸極性の形成と ...</Title>
+        <Url>http://hdl.handle.net/10061/5293</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5293</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): Standardizing the ...</Title>
+        <Url>http://hdl.handle.net/10061/5301</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5301</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 三量体Gタンパク質αサブユニットに対する新規制御 ...</Title>
+        <Url>http://hdl.handle.net/10061/5201</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5201</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 反応拡散系の数値計算とその発生生物学への応用</Title>
+        <Url>http://hdl.handle.net/10061/5279</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5279</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): プロジェクトの個別性を考慮した定量的ソフトウェア ...</Title>
+        <Url>http://hdl.handle.net/10061/5296</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5296</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 電子図書館と著作権 : 近代デジタルライブラリー ...</Title>
+        <Url>http://hdl.handle.net/10061/5278</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5278</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 研究報告書 (Research Paper)</Title>
+        <Url>http://hdl.handle.net/10061/4986</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4986</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): Cayman type ataxiaの原因となる ...</Title>
+        <Url>http://hdl.handle.net/10061/5292</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5292</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): ユーザとベンダ間の協調による要求品質確保のための ...</Title>
+        <Url>http://hdl.handle.net/10061/5262</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5262</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): リサーチツール特許使用の円滑化に係る調査研究 ...</Title>
+        <Url>http://hdl.handle.net/10061/4988</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4988</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 生物活性に関連した最適塩基配列の抽出法 : 定量 ...</Title>
+        <Url>http://hdl.handle.net/10061/5294</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5294</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 日本医科大学図書館利用案内</Title>
+        <Url>http://hdl.handle.net/10061/5273</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5273</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): Webストリーミング配信の仕組みと動向について</Title>
+        <Url>http://hdl.handle.net/10061/5272</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5272</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 愛媛大学図書館利用案内</Title>
+        <Url>http://hdl.handle.net/10061/5274</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5274</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 独立成分分析に基づくリアルタイムブラインド音源 ...</Title>
+        <Url>http://hdl.handle.net/10061/5295</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5295</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 電子図書館レポート ~ 2006</Title>
+        <Url>http://hdl.handle.net/10061/4322</Url>
+        <ClickUrl>http://hdl.handle.net/10061/4322</ClickUrl>
+    </Result>
+    <Result>
+        <Title>naistar (NAIST Academic Repository): 肺の枝分かれ構造の数理モデル化とその実験的検証</Title>
+        <Url>http://hdl.handle.net/10061/5280</Url>
+        <ClickUrl>http://hdl.handle.net/10061/5280</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:57 PST 2010 -->
-<!-- ws13.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:56 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:17 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:17 PDT 2010 -->

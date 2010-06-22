@@ -3,10 +3,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="2766"
+    totalResultsAvailable="3185"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>香川大学</Title>
+        <Url>http://www.kagawa-u.ac.jp/</Url>
+        <ClickUrl>http://www.kagawa-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
@@ -47,9 +52,9 @@
         <ClickUrl>http://www.kagawa-u.ac.jp/sub/english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>大学図書館</Title>
-        <Url>http://www.jla.or.jp/link/univ.html</Url>
-        <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
+        <Title>Keizo Hori&apos;s Home Page(in Japanese)</Title>
+        <Url>http://www.ec.kagawa-u.ac.jp/~hori/</Url>
+        <ClickUrl>http://www.ec.kagawa-u.ac.jp/~hori/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
@@ -57,9 +62,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>教育学部ホームページ</Title>
-        <Url>http://www.ed.kagawa-u.ac.jp/</Url>
-        <ClickUrl>http://www.ed.kagawa-u.ac.jp/</ClickUrl>
+        <Title>大学図書館</Title>
+        <Url>http://www.jla.or.jp/link/univ.html</Url>
+        <ClickUrl>http://www.jla.or.jp/link/univ.html</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -67,9 +72,9 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Keizo Hori&apos;s Home Page(in Japanese)</Title>
-        <Url>http://www.ec.kagawa-u.ac.jp/~hori/</Url>
-        <ClickUrl>http://www.ec.kagawa-u.ac.jp/~hori/</ClickUrl>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>香川大学</Title>
@@ -77,14 +82,14 @@
         <ClickUrl>http://www.kagawa-u.ac.jp/kagawa_uni/eng.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>電子化資料を提供しているサーバー</Title>
-        <Url>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</Url>
-        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>電子化資料を提供しているサーバー</Title>
+        <Url>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</Url>
+        <ClickUrl>http://www.lib.u-ryukyu.ac.jp/erwg/denshika.html</ClickUrl>
     </Result>
     <Result>
         <Title>Universities in Japan (A)</Title>
@@ -92,9 +97,9 @@
         <ClickUrl>http://www.osaka-kyoiku.ac.jp/educ/univ_x.html</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+        <Title>筑波大学附属図書館 図書館情報学図書館 (全国の大学図書館報)</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</ClickUrl>
     </Result>
     <Result>
         <Title>香川大学図書館医学部分館</Title>
@@ -102,19 +107,14 @@
         <ClickUrl>http://www.kms.ac.jp/~libin/</ClickUrl>
     </Result>
     <Result>
-        <Title>YouTube - King Solomon&apos;s Dilemma: A simple solution</Title>
-        <Url>http://www.youtube.com/watch?v=ggkcpeFr1Vs</Url>
-        <ClickUrl>http://www.youtube.com/watch?v=ggkcpeFr1Vs</ClickUrl>
-    </Result>
-    <Result>
-        <Title>筑波大学附属図書館 図書館情報学図書館 (全国の大学図書館報)</Title>
-        <Url>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</Url>
-        <ClickUrl>http://www.tulips.tsukuba.ac.jp/pub/tojo/link/gate-kanpo.shtml</ClickUrl>
-    </Result>
-    <Result>
         <Title>GBRCホームページ</Title>
         <Url>http://www.gbrc.jp/</Url>
         <ClickUrl>http://www.gbrc.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>YouTube - Arrow&apos;s Impossibility Theorem and ways out of ...</Title>
+        <Url>http://www.youtube.com/watch?v=RqOTigJ1xuk</Url>
+        <ClickUrl>http://www.youtube.com/watch?v=RqOTigJ1xuk</ClickUrl>
     </Result>
     <Result>
         <Title>Welcome to Faculty of Medicine Branch Library</Title>
@@ -122,19 +122,24 @@
         <ClickUrl>http://www.kms.ac.jp/~libin/index-e.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>国内大学個人文庫</Title>
+        <Url>http://www.fitweb.or.jp/~taka/pcollect.html</Url>
+        <ClickUrl>http://www.fitweb.or.jp/~taka/pcollect.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>大学図書館</Title>
         <Url>http://wwwsoc.nii.ac.jp/jla/link/univ.html</Url>
         <ClickUrl>http://wwwsoc.nii.ac.jp/jla/link/univ.html</ClickUrl>
     </Result>
     <Result>
-        <Title>index</Title>
-        <Url>http://www.jl.kagawa-u.ac.jp/~konoe/</Url>
-        <ClickUrl>http://www.jl.kagawa-u.ac.jp/~konoe/</ClickUrl>
+        <Title>Linguistics Web Sites in Japan, Japanese</Title>
+        <Url>http://www.sal.tohoku.ac.jp/~gothit/kanren-jpn.html</Url>
+        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/kanren-jpn.html</ClickUrl>
     </Result>
     <Result>
-        <Title>国内大学個人文庫</Title>
-        <Url>http://www.fitweb.or.jp/~taka/pcollect.html</Url>
-        <ClickUrl>http://www.fitweb.or.jp/~taka/pcollect.html</ClickUrl>
+        <Title>YouTube - King Solomon&apos;s Dilemma: A simple solution</Title>
+        <Url>http://www.youtube.com/watch?v=ggkcpeFr1Vs</Url>
+        <ClickUrl>http://www.youtube.com/watch?v=ggkcpeFr1Vs</ClickUrl>
     </Result>
     <Result>
         <Title>Budapest Open Access Initiative</Title>
@@ -142,9 +147,9 @@
         <ClickUrl>http://www.soros.org/openaccess/g/view.cfm</ClickUrl>
     </Result>
     <Result>
-        <Title>Linguistics Web Sites in Japan, Japanese</Title>
-        <Url>http://www.sal.tohoku.ac.jp/~gothit/kanren-jpn.html</Url>
-        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/kanren-jpn.html</ClickUrl>
+        <Title>European Union - European Info (EU i) in Japan</Title>
+        <Url>http://www.deljpn.ec.europa.eu/relation/showpage_en_relations.academic.edc.php</Url>
+        <ClickUrl>http://www.deljpn.ec.europa.eu/relation/showpage_en_relations.academic.edc.php</ClickUrl>
     </Result>
     <Result>
         <Title>WWW Servers in Japan (Libraries)</Title>
@@ -157,29 +162,19 @@
         <ClickUrl>http://www.tulips.tsukuba.ac.jp/other/all.html</ClickUrl>
     </Result>
     <Result>
-        <Title>European Union - European Info (EU i) in Japan</Title>
-        <Url>http://www.deljpn.ec.europa.eu/relation/showpage_en_relations.academic.edc.php</Url>
-        <ClickUrl>http://www.deljpn.ec.europa.eu/relation/showpage_en_relations.academic.edc.php</ClickUrl>
-    </Result>
-    <Result>
         <Title>Humanities Web Sites in Japan, Part 2</Title>
         <Url>http://www.sal.tohoku.ac.jp/~gothit/zinbun-app.html</Url>
         <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/zinbun-app.html</ClickUrl>
     </Result>
     <Result>
-        <Title>H. Reiju Mihara; Social Choice, Economic Theory; Kagawa U</Title>
-        <Url>http://www5.atwiki.jp/reiju/</Url>
-        <ClickUrl>http://www5.atwiki.jp/reiju/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>YouTube - Arrow&apos;s Impossibility Theorem and ways out of ...</Title>
-        <Url>http://youtube.com/?v=RqOTigJ1xuk</Url>
-        <ClickUrl>http://youtube.com/?v=RqOTigJ1xuk</ClickUrl>
-    </Result>
-    <Result>
         <Title>Linguistics Web Sites in Japan, East Asian Languages</Title>
         <Url>http://www.sal.tohoku.ac.jp/~gothit/kanren-easia.html</Url>
         <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/kanren-easia.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>H. Reiju Mihara at IDEAS</Title>
+        <Url>http://ideas.repec.org/e/pmi193.html</Url>
+        <ClickUrl>http://ideas.repec.org/e/pmi193.html</ClickUrl>
     </Result>
     <Result>
         <Title>EconPapers: H. Reiju Mihara</Title>
@@ -188,18 +183,8 @@
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Linguistics Web Sites in Japan, English</Title>
-        <Url>http://www.sal.tohoku.ac.jp/~gothit/kanren-eng.html</Url>
-        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/kanren-eng.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Linguistics Web Sites in Japan, Part II</Title>
-        <Url>http://www.sal.tohoku.ac.jp/~gothit/kanren-app.html</Url>
-        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/kanren-app.html</ClickUrl>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
         <Title>三原麗珠; 社会選択, 経済理論; 香川大学図書館</Title>
@@ -207,34 +192,29 @@
         <ClickUrl>http://www5.atwiki.jp/reiju/pages/30.html</ClickUrl>
     </Result>
     <Result>
-        <Title>患者力:腰痛/肩こり/椎間板ヘルニア/坐骨神経痛等を主体的に&lt;wbr&gt;解決する力|患者力で健康体へ</Title>
-        <Url>http://xn--tfr793awqy.jp/</Url>
-        <ClickUrl>http://xn--tfr793awqy.jp/</ClickUrl>
+        <Title>H. Reiju Mihara; Social Choice, Economic Theory; Kagawa U</Title>
+        <Url>http://www5.atwiki.jp/reiju/</Url>
+        <ClickUrl>http://www5.atwiki.jp/reiju/</ClickUrl>
     </Result>
     <Result>
-        <Title>H. Reiju Mihara at IDEAS</Title>
-        <Url>http://ideas.repec.org/e/pmi193.html</Url>
-        <ClickUrl>http://ideas.repec.org/e/pmi193.html</ClickUrl>
+        <Title>Linguistics Web Sites in Japan, Part II</Title>
+        <Url>http://www.sal.tohoku.ac.jp/~gothit/kanren-app.html</Url>
+        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/kanren-app.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+        <Title>Linguistics Web Sites in Japan, English</Title>
+        <Url>http://www.sal.tohoku.ac.jp/~gothit/kanren-eng.html</Url>
+        <ClickUrl>http://www.sal.tohoku.ac.jp/~gothit/kanren-eng.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
     </Result>
     <Result>
-        <Title>Digital Reference</Title>
-        <Url>http://www.jissen.ac.jp/library/frame/digiref.htm</Url>
-        <ClickUrl>http://www.jissen.ac.jp/library/frame/digiref.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+        <Title>図書館キャラクター - Lifo-wiki</Title>
+        <Url>http://www.lifo-club.org/index.php?%BF%DE%BD%F1%B4%DB%A5%AD%A5%E3%A5%E9%A5%AF%A5%BF%A1%BC</Url>
+        <ClickUrl>http://www.lifo-club.org/index.php?%BF%DE%BD%F1%B4%DB%A5%AD%A5%E3%A5%E9%A5%AF%A5%BF%A1%BC</ClickUrl>
     </Result>
     <Result>
         <Title>福沢諭吉先生関連リンク集</Title>
@@ -242,20 +222,40 @@
         <ClickUrl>http://www2.ktarn.or.jp/~kenchan/yukichi.html</ClickUrl>
     </Result>
     <Result>
+        <Title>欧州連合 - EU情報センター(EU i)</Title>
+        <Url>http://www.deljpn.ec.europa.eu/relation/showpage_jp_relations.academic.edc.php</Url>
+        <ClickUrl>http://www.deljpn.ec.europa.eu/relation/showpage_jp_relations.academic.edc.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>読書日記</Title>
+        <Url>http://www.tulips.tsukuba.ac.jp/memb/hayashi/2009.html</Url>
+        <ClickUrl>http://www.tulips.tsukuba.ac.jp/memb/hayashi/2009.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Initiative de Budapest pour l&apos;Accès Ouvert</Title>
+        <Url>http://www.soros.org/openaccess/fr/view.cfm</Url>
+        <ClickUrl>http://www.soros.org/openaccess/fr/view.cfm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>EU - European Info (EU i) in Japan</Title>
+        <Url>http://www.deljpn.ec.europa.eu/modules/network/eui/?ml_lang=en</Url>
+        <ClickUrl>http://www.deljpn.ec.europa.eu/modules/network/eui/?ml_lang=en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
+    </Result>
+    <Result>
         <Title>日本のソフト別 OPAC リスト</Title>
         <Url>http://www.asahi-net.or.jp/~gb4k-ktr/indexjv.htm</Url>
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/indexjv.htm</ClickUrl>
     </Result>
-    <Result>
-        <Title>香川大学図書館 三原麗珠オフィスへのアクセス</Title>
-        <Url>http://www5.atwiki.jp/reiju/pages/48.html</Url>
-        <ClickUrl>http://www5.atwiki.jp/reiju/pages/48.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:15 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:15 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:32 PDT 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:32 PDT 2010 -->

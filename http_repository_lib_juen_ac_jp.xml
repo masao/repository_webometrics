@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="158"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>上越教育大学</Title>
+        <Url>http://www.juen.ac.jp/</Url>
+        <ClickUrl>http://www.juen.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>公開情報|上越教育大学</Title>
+        <Url>http://www.juen.ac.jp/contents/info/index.html</Url>
+        <ClickUrl>http://www.juen.ac.jp/contents/info/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=148</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=148</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?font_size=73&amp;menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?font_size=73&amp;menu=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>フロイト 精神分析 発達論 - 見積り君</Title>
+        <Url>http://www.mitumorikun.com/dms/12493.html</Url>
+        <ClickUrl>http://www.mitumorikun.com/dms/12493.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 大桑・万願寺動物とその変遷過程(&amp;lt;特集&amp;gt;日本海の生物相の変遷&lt;wbr&gt;と環境変動-過去,現在そして未来へ向けて)</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000379</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000379</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 市教育委員会指導主事からみた養護学校のセンター的役割</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000151</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000151</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「評価活動」を生かした生徒会活動の取組について : 「自己存在感」、「自己有用感」の創出を目指して</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000519</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000519</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 宮沢賢治と古典 覚書</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000268</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000268</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「徒然草」と本居宣長 : 青年期の受容と晩年の批判</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000431</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000431</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 養護学校小学部用音楽科教科書の分析(1 指導内容の構成とその体系,IV 指導内容・教材と授業の展開)</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000468</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000468</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 保育士におけるバーンアウト傾向に及ぼす要因の検討</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000472</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000472</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | デザイン・プロセス理論に基づくものづくり教育の構築&lt;wbr&gt;(I) : 日本のデザイン教育の検証とデザイン・プロセス理論</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000213</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000213</ClickUrl>
+    </Result>
+    <Result>
+        <Title>リポジトリの旧URLを廃止します</Title>
+        <Url>http://www.lib.juen.ac.jp/news/repo100118.html</Url>
+        <ClickUrl>http://www.lib.juen.ac.jp/news/repo100118.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_name_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_name_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 分業に基づくバスケットボールの戦術アプローチが中学生の運動有&lt;wbr&gt;能感と戦術的情況判断に及ぼす影響</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000490/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000490/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>サイトマップ|上越教育大学</Title>
+        <Url>http://www.juen.ac.jp/contents/extra/sitemap/</Url>
+        <ClickUrl>http://www.juen.ac.jp/contents/extra/sitemap/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 学校間連携の必要性 : 子どもの学び・育ちを連続的に捉える</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000469</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000469</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 高学年のためのソーシャルスキル指導モデルの開発 : ソーシャルスキルトレーニングと学校行事を一体化させた ...</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000520</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000520</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 論理的思考力を高め, 意欲的に意見文を書く指導の工夫 情報機器活用の有効性について : ~3年生 メディア ...</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000499</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000499</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 表現の楽しさを味わい,いきいきと音楽活動ができる子をめざして&lt;wbr&gt; : 低学年音楽活動の重要性に着目して</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000509</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000509</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 支笏火山40ka噴火の規模に関する検討</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000263</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000263</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 医学教育の問題基盤型学習における「介入」技法 : 導入段階の援助として</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000471</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000471</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=148</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=148</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>剣道 佐々木健 | Trend Antenna(トレンドアンテナ)</Title>
+        <Url>http://www.trend-antenna.com/archive/%E5%89%A3%E9%81%93%20%E4%BD%90%E3%80%85%E6%9C%A8%E5%81%A5.html</Url>
+        <ClickUrl>http://www.trend-antenna.com/archive/%E5%89%A3%E9%81%93%20%E4%BD%90%E3%80%85%E6%9C%A8%E5%81%A5.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 川端康成 「化粧」 の構造分析</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000492/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000492/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 具体的な試行から豊かな量感を育て,数学的思考力を育む工夫 : 4年 「角の大きさ」での角の合成,分割による ...</Title>
+        <Url>http://jairo.nii.ac.jp/0148/00000502/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0148/00000502/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_land_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php?menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php?menu=2</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:11 PDT 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:11 PDT 2010 -->

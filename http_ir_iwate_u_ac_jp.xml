@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="4220"
+    totalResultsAvailable="4680"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,9 +17,9 @@
         <ClickUrl>http://www.iwate-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
-        <Url>http://www.nii.ac.jp/irp/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
     </Result>
     <Result>
         <Title>東北地方 - Wikipedia</Title>
@@ -27,9 +27,14 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%9D%B1%E5%8C%97%E5%9C%B0%E6%96%B9</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「蝶の翅色」のナノ構造と宇宙素材 | WIRED VISION</Title>
+        <Url>http://wiredvision.jp/news/201006/2010061823.html</Url>
+        <ClickUrl>http://wiredvision.jp/news/201006/2010061823.html</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -37,19 +42,39 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>幸福 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E5%B9%B8%E7%A6%8F</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%B9%B8%E7%A6%8F</ClickUrl>
+    </Result>
+    <Result>
         <Title>魔方陣 - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E9%AD%94%E6%96%B9%E9%99%A3</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E9%AD%94%E6%96%B9%E9%99%A3</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>感想 日本建築学会編『音楽空間への誘いコンサートホールの楽しみ』&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/06/post-6415.html</ClickUrl>
     </Result>
     <Result>
-        <Title>阿Q正伝 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E9%98%BFQ%E6%AD%A3%E4%BC%9D</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%98%BFQ%E6%AD%A3%E4%BC%9D</ClickUrl>
+        <Title>在特会が東京新聞に対し抗議行動: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-07e0.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日比谷の普天間基地はいらない全国集会に6000人とか&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/6000-37b0.html</ClickUrl>
     </Result>
     <Result>
         <Title>河北新報 - Wikipedia</Title>
@@ -57,84 +82,69 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E6%B2%B3%E5%8C%97%E6%96%B0%E5%A0%B1</ClickUrl>
     </Result>
     <Result>
+        <Title>明治民法の夫婦同氏の意義その4(夫婦別姓反対下書き&lt;wbr&gt;): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/10/post-1e21.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/10/post-1e21.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>「傍論を重視するのは俗論」と園部逸夫が述べたという&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-2ed7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-2ed7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>阿Q正伝 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E9%98%BFQ%E6%AD%A3%E4%BC%9D</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E9%98%BFQ%E6%AD%A3%E4%BC%9D</ClickUrl>
+    </Result>
+    <Result>
+        <Title>上司への質問書: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2aa7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/post-2aa7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>団結否認権の確立Right to Work lawが必要だ 下書き1-(15): 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-6.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/right-to-work-6.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>イーハトーブ - Wikipedia</Title>
         <Url>http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%8F%E3%83%88%E3%83%BC%E3%83%96</Url>
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%8F%E3%83%88%E3%83%BC%E3%83%96</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+        <Title>李明博大統領、鉄道ストに対決姿勢: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/12/post-643f.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/12/post-643f.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: Levitation of an iron ball in ...</Title>
-        <Url>http://hdl.handle.net/10140/1918</Url>
-        <ClickUrl>http://hdl.handle.net/10140/1918</ClickUrl>
+        <Title>Citizens United v. FEC-法人の言論の自由について: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/citizens-united.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/citizens-united.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学習動機についての研究</Title>
-        <Url>http://hdl.handle.net/10140/580</Url>
-        <ClickUrl>http://hdl.handle.net/10140/580</ClickUrl>
+        <Title>川西正彦の公共政策研究: 2005年11月</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/11/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/11/</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学校週5日制における知的障害児の余暇生活に関する調査研究 ...</Title>
-        <Url>http://hdl.handle.net/10140/334</Url>
-        <ClickUrl>http://hdl.handle.net/10140/334</ClickUrl>
+        <Title>外国人地方参政権付与合憲説の学者が違憲説に変更と産経が報道&lt;wbr&gt;: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ff58.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-ff58.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 栄養と行動に関する研究 - とくに機能的低血糖症について -</Title>
-        <Url>http://hdl.handle.net/10140/569</Url>
-        <ClickUrl>http://hdl.handle.net/10140/569</ClickUrl>
+        <Title>オープンショップ運動・レイバーインジャンクション・ウェルフェ&lt;wbr&gt;アキャピタリズム黄金の1920年代の意義(3): 川西正彦の ...</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/03/post-cfd7.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/03/post-cfd7.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学生教師の授業構成要素についての認知構造の変容測定・評価</Title>
-        <Url>http://hdl.handle.net/10140/541</Url>
-        <ClickUrl>http://hdl.handle.net/10140/541</ClickUrl>
+        <Title>はてなブックマーク - nekoraのブックマーク</Title>
+        <Url>http://b.hatena.ne.jp/nekora/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/nekora/</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学習障害(LD)児の現状と課題に関する一考察 - 通所指導教室の ...</Title>
-        <Url>http://hdl.handle.net/10140/1596</Url>
-        <ClickUrl>http://hdl.handle.net/10140/1596</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: BUTTERFLIES TAKEN IN BOHOL ...</Title>
-        <Url>http://hdl.handle.net/10140/2434</Url>
-        <ClickUrl>http://hdl.handle.net/10140/2434</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: 学生の貧血に関する一考察</Title>
-        <Url>http://hdl.handle.net/10140/1374</Url>
-        <ClickUrl>http://hdl.handle.net/10140/1374</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: 学問を語る言葉-高津春繁『言語学概論』のテクスト分析から&lt;wbr&gt;-</Title>
-        <Url>http://hdl.handle.net/10140/2980</Url>
-        <ClickUrl>http://hdl.handle.net/10140/2980</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: 学童の計測値と衣服寸法について</Title>
-        <Url>http://hdl.handle.net/10140/1385</Url>
-        <ClickUrl>http://hdl.handle.net/10140/1385</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: 1825(文政8)年の西蝦夷地古宇(フルウ)場所におけるアイ&lt;wbr&gt;ヌの ...</Title>
-        <Url>http://hdl.handle.net/10140/3034</Url>
-        <ClickUrl>http://hdl.handle.net/10140/3034</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: 1935年前後における北方教育運動の一断面 - 吉田農の一論稿から -</Title>
-        <Url>http://hdl.handle.net/10140/3037</Url>
-        <ClickUrl>http://hdl.handle.net/10140/3037</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: ドイツにおける人格権の基本構造</Title>
-        <Url>http://hdl.handle.net/10140/3035</Url>
-        <ClickUrl>http://hdl.handle.net/10140/3035</ClickUrl>
-    </Result>
-    <Result>
-        <Title>織田 eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/ref/%E7%B9%94%E7%94%B0-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/ref/%E7%B9%94%E7%94%B0-pdf.html</ClickUrl>
+        <Title>川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -142,54 +152,49 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Title>11.14 日本解体阻止!!守るぞ日本!国民大行動に二千人: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/11/1114-3313.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/11/1114-3313.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 曽我余一泰光遺領地知行確認申状</Title>
-        <Url>http://hdl.handle.net/10140/50</Url>
-        <ClickUrl>http://hdl.handle.net/10140/50</ClickUrl>
+        <Title>有識者会議の論点整理について反対意見1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2005/10/post_5a5c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 中條平作譲状</Title>
-        <Url>http://hdl.handle.net/10140/52</Url>
-        <ClickUrl>http://hdl.handle.net/10140/52</ClickUrl>
+        <Title>カード リバタリアニズムと法規制 1: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/09/post-233d.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/09/post-233d.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学生教師の教育実習における授業認知能力と意思決定能力の変容</Title>
-        <Url>http://hdl.handle.net/10140/561</Url>
-        <ClickUrl>http://hdl.handle.net/10140/561</ClickUrl>
+        <Title>成人年齢引き下げ断乎反対: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2009/10/post-ea72.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2009/10/post-ea72.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 家庭における原毛の取り扱い(第2報) - フリースの洗毛方法と ...</Title>
-        <Url>http://hdl.handle.net/10140/1541</Url>
-        <ClickUrl>http://hdl.handle.net/10140/1541</ClickUrl>
+        <Title>マサチューセッツ上院補選、共和党勝利: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-27bc.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-27bc.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: An lang kreyòl クレオール語で</Title>
-        <Url>http://hdl.handle.net/10140/2036</Url>
-        <ClickUrl>http://hdl.handle.net/10140/2036</ClickUrl>
+        <Title>本日も頭上報告: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2010/01/post-e94c.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2010/01/post-e94c.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 鳶ヶ森植物群に含まれるLeptophloeumの分布と時代</Title>
-        <Url>http://hdl.handle.net/10140/1028</Url>
-        <ClickUrl>http://hdl.handle.net/10140/1028</ClickUrl>
+        <Title>Jim DeMint 上院議員のいうUAWがデトロイトの苦境の要因とする見解は基本&lt;wbr&gt;的に正しい: 川西正彦の公共政策研究</Title>
+        <Url>http://antilabor.cocolog-nifty.com/blog/2008/12/jim-demint-uaw-.html</Url>
+        <ClickUrl>http://antilabor.cocolog-nifty.com/blog/2008/12/jim-demint-uaw-.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: Keats and Oisin : A Study in ...</Title>
-        <Url>http://hdl.handle.net/10140/2540</Url>
-        <ClickUrl>http://hdl.handle.net/10140/2540</ClickUrl>
+        <Title>Iwate University Repository: Levitation of an iron ball in ...</Title>
+        <Url>http://hdl.handle.net/10140/1918</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1918</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大神島 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E5%B3%B6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E%E5%B3%B6</ClickUrl>
+        <Title>Iwate University Repository: 1900-10年代のアメリカ合衆国における中等教育としての職&lt;wbr&gt;業 ...</Title>
+        <Url>http://hdl.handle.net/10140/1722</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1722</ClickUrl>
     </Result>
     <Result>
         <Title>Data Provider</Title>
@@ -197,65 +202,60 @@
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 土地紛争裁決状</Title>
-        <Url>http://hdl.handle.net/10140/54</Url>
-        <ClickUrl>http://hdl.handle.net/10140/54</ClickUrl>
+        <Title>Iwate University Repository: 岩手県障害児授業研究会報告</Title>
+        <Url>http://hdl.handle.net/10140/614</Url>
+        <ClickUrl>http://hdl.handle.net/10140/614</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学校教育における批判的リテラシー形成</Title>
-        <Url>http://hdl.handle.net/10140/22</Url>
-        <ClickUrl>http://hdl.handle.net/10140/22</ClickUrl>
+        <Title>Iwate University Repository: ON SOME RELATIONS BETWEEN ...</Title>
+        <Url>http://hdl.handle.net/10140/996</Url>
+        <ClickUrl>http://hdl.handle.net/10140/996</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 長谷川潔をめぐるいくつかの日本的なこと - 横浜美術館「銅版画家 ...</Title>
-        <Url>http://hdl.handle.net/10140/11</Url>
-        <ClickUrl>http://hdl.handle.net/10140/11</ClickUrl>
+        <Title>Iwate University Repository: 水槌ポンプ性能曲線の一実験に就いて</Title>
+        <Url>http://hdl.handle.net/10140/893</Url>
+        <ClickUrl>http://hdl.handle.net/10140/893</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 村々年貢進状</Title>
-        <Url>http://hdl.handle.net/10140/60</Url>
-        <ClickUrl>http://hdl.handle.net/10140/60</ClickUrl>
+        <Title>Iwate University Repository: 栄養と行動に関する研究 - とくに機能的低血糖症について -</Title>
+        <Url>http://hdl.handle.net/10140/569</Url>
+        <ClickUrl>http://hdl.handle.net/10140/569</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 僧長秀補任状</Title>
-        <Url>http://hdl.handle.net/10140/45</Url>
-        <ClickUrl>http://hdl.handle.net/10140/45</ClickUrl>
+        <Title>Iwate University Repository: 人文学の没落 - 文献学の問題と方法に関する省察(導論) -</Title>
+        <Url>http://hdl.handle.net/10140/1887</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1887</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 資料:メディア利用で困ったこと・良いことのアンケート調査報告&lt;wbr&gt;(A ...</Title>
-        <Url>http://hdl.handle.net/10140/27</Url>
-        <ClickUrl>http://hdl.handle.net/10140/27</ClickUrl>
+        <Title>Iwate University Repository: 盛岡市の植物季節VI - 花ごよみからみた宮沢賢治作品の植物季節 -</Title>
+        <Url>http://hdl.handle.net/10140/1771</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1771</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 御船頭同御舟子御切米之事</Title>
-        <Url>http://hdl.handle.net/10140/99</Url>
-        <ClickUrl>http://hdl.handle.net/10140/99</ClickUrl>
+        <Title>Iwate University Repository: 三陸漁村における近代漁業の形成過程</Title>
+        <Url>http://hdl.handle.net/10140/1687</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1687</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学習者が注目する教師の身体部位の調査</Title>
-        <Url>http://hdl.handle.net/10140/384</Url>
-        <ClickUrl>http://hdl.handle.net/10140/384</ClickUrl>
+        <Title>Iwate University Repository: 前奏曲第2集</Title>
+        <Url>http://hdl.handle.net/10140/1723</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1723</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 修正FIACSによる授業分析結果の検討 - 授業・「分数のかけ算 ...</Title>
-        <Url>http://hdl.handle.net/10140/578</Url>
-        <ClickUrl>http://hdl.handle.net/10140/578</ClickUrl>
+        <Title>Iwate University Repository: 前3世紀ローマにおける元老院体制の変容</Title>
+        <Url>http://hdl.handle.net/10140/1714</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1714</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: 学習者の立場から科学専門用語を見る - 外国語由来の用語に関する問題 -</Title>
-        <Url>http://hdl.handle.net/10140/485</Url>
-        <ClickUrl>http://hdl.handle.net/10140/485</ClickUrl>
+        <Title>Iwate University Repository: 精神遅滞児養護学校・特殊学級における授業分析の研究</Title>
+        <Url>http://hdl.handle.net/10140/1406</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1406</ClickUrl>
     </Result>
     <Result>
-        <Title>Iwate University Repository: コンピュータの動作原理に関する学習の実践</Title>
-        <Url>http://hdl.handle.net/10140/478</Url>
-        <ClickUrl>http://hdl.handle.net/10140/478</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Iwate University Repository: SOME PROPERTIES OF D-AFFINE ...</Title>
-        <Url>http://hdl.handle.net/10140/963</Url>
-        <ClickUrl>http://hdl.handle.net/10140/963</ClickUrl>
+        <Title>Iwate University Repository: 英国の総合的社会保障 - 1990年代の教育・医療・福祉の ...</Title>
+        <Url>http://hdl.handle.net/10140/1719</Url>
+        <ClickUrl>http://hdl.handle.net/10140/1719</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:34 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:34 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:55 PDT 2010 -->
+<!-- ws09.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:55 PDT 2010 -->

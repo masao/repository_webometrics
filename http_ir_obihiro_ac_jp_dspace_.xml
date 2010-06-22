@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="78"
+    totalResultsAvailable="74"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,9 +17,19 @@
         <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?press</ClickUrl>
     </Result>
     <Result>
+        <Title>リポジトリロゴ・愛称</Title>
+        <Url>http://www.obihiro.ac.jp/~library/Rlogo.html</Url>
+        <ClickUrl>http://www.obihiro.ac.jp/~library/Rlogo.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>国立情報学研究所オープンハウス2007 - かたつむりは電子図書館の夢をみるか</Title>
         <Url>http://d.hatena.ne.jp/min2-fly/20070609/1181345885</Url>
         <ClickUrl>http://d.hatena.ne.jp/min2-fly/20070609/1181345885</ClickUrl>
+    </Result>
+    <Result>
+        <Title>帯広畜産大学 | 北海道大学一覧 日本の教育</Title>
+        <Url>http://www.edu-jp.net/school/c07/01/049836.html</Url>
+        <ClickUrl>http://www.edu-jp.net/school/c07/01/049836.html</ClickUrl>
     </Result>
     <Result>
         <Title>Yahoo!カテゴリ - 地域情報</Title>
@@ -27,39 +37,39 @@
         <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20070510/Regional/</ClickUrl>
     </Result>
     <Result>
-        <Title>特集検索--漢方薬局</Title>
-        <Url>http://www.allkanpo.com/O/link.asp?page=ir.obihiro.ac.jp/dspace/bitstream/123456789/874/1/k-siryou63.pdf</Url>
-        <ClickUrl>http://www.allkanpo.com/O/link.asp?page=ir.obihiro.ac.jp/dspace/bitstream/123456789/874/1/k-siryou63.pdf</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ: カテゴリ</Title>
         <Url>http://xtrm.jp/category/?id=2078518243</Url>
         <ClickUrl>http://xtrm.jp/category/?id=2078518243</ClickUrl>
     </Result>
     <Result>
-        <Title>リポジトリロゴ・愛称</Title>
-        <Url>http://www.obihiro.ac.jp/~library/Rlogo.html</Url>
-        <ClickUrl>http://www.obihiro.ac.jp/~library/Rlogo.html</ClickUrl>
+        <Title>livedoor カテゴリ検索 検索結果 : 1208</Title>
+        <Url>http://dir.livedoor.com/search/?q=1208</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=1208</ClickUrl>
     </Result>
     <Result>
-        <Title>RSSナビ 〜RSSの総合情報サイト〜</Title>
-        <Url>http://dir.rssnavi.jp/dir/?bc=4%3E124750&amp;pid=583171</Url>
-        <ClickUrl>http://dir.rssnavi.jp/dir/?bc=4%3E124750&amp;pid=583171</ClickUrl>
+        <Title>livedoor カテゴリ検索 検索結果 : 学術機関リポジトリ</Title>
+        <Url>http://dir.livedoor.com/dir/?pid=583171</Url>
+        <ClickUrl>http://dir.livedoor.com/dir/?pid=583171</ClickUrl>
+    </Result>
+    <Result>
+        <Title>畜産 - Jディレクトリー</Title>
+        <Url>http://dir.jlisting.jp/search/?q=%C3%DC%BB%BA</Url>
+        <ClickUrl>http://dir.jlisting.jp/search/?q=%C3%DC%BB%BA</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ | Ferret ディレクトリ検索下位層</Title>
+        <Url>http://search.jp-ferret.com/cDir/1-4-124750-583171</Url>
+        <ClickUrl>http://search.jp-ferret.com/cDir/1-4-124750-583171</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : 学術機関リポジトリ</Title>
         <Url>http://dir.livedoor.com/dir/?bc=4%3E124750&amp;pid=583171</Url>
         <ClickUrl>http://dir.livedoor.com/dir/?bc=4%3E124750&amp;pid=583171</ClickUrl>
-    </Result>
-    <Result>
-        <Title>au one カテゴリ検索 - 学術機関リポジトリ -</Title>
-        <Url>http://category.auone.jp/dir/?bc=4%3E124750&amp;pid=583171</Url>
-        <ClickUrl>http://category.auone.jp/dir/?bc=4%3E124750&amp;pid=583171</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ</Title>
-        <Url>http://dir.kondo-net.gr.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.kondo-net.gr.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
         <Title>Article 822 at 07/06/01 16:11:47 From: eri @ obihiro.ac.jp ...</Title>
@@ -72,9 +82,19 @@
         <ClickUrl>http://drf.lib.hokudai.ac.jp/drf-ml/800/823.html</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ/カテゴリ検索【WODGEディレクトリ】</Title>
+        <Url>http://www.wodge.jp/d/4/124750/583171/</Url>
+        <ClickUrl>http://www.wodge.jp/d/4/124750/583171/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ|AGARA 紀伊民報</Title>
+        <Url>http://www.agara.co.jp/dir/4/124750/583171</Url>
+        <ClickUrl>http://www.agara.co.jp/dir/4/124750/583171</ClickUrl>
+    </Result>
+    <Result>
         <Title>Yahoo!カテゴリ - 各種資料と情報源</Title>
-        <Url>http://dir.yahoo.co.jp/pg/newsite/20070510/Reference/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20070510/Reference/</ClickUrl>
+        <Url>http://dir.yahoo.co.jp/pg/newsite/20070510/reference/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20070510/reference/</ClickUrl>
     </Result>
     <Result>
         <Title>Yahoo!カテゴリ - 全リスト</Title>
@@ -82,34 +102,29 @@
         <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20070510/complete_listing/</ClickUrl>
     </Result>
     <Result>
-        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
-        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
-        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Yahoo!カテゴリ - 分割リスト</Title>
-        <Url>http://dir.yahoo.co.jp/pg/newsite/20070510/split_listing/index_2.html</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/pg/newsite/20070510/split_listing/index_2.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>特集検索--漢方薬局</Title>
-        <Url>http://www.allkanpo.com/O/link.asp?page=ir.obihiro.ac.jp/dspace/handle/123456789/1354</Url>
-        <ClickUrl>http://www.allkanpo.com/O/link.asp?page=ir.obihiro.ac.jp/dspace/handle/123456789/1354</ClickUrl>
-    </Result>
-    <Result>
         <Title>集客検索,漢方会社</Title>
         <Url>http://www.kanpocom.com/K/go.asp?url=ir.obihiro.ac.jp/dspace/handle/123456789/959</Url>
         <ClickUrl>http://www.kanpocom.com/K/go.asp?url=ir.obihiro.ac.jp/dspace/handle/123456789/959</ClickUrl>
     </Result>
     <Result>
-        <Title>畜産学 - ogli.jp</Title>
-        <Url>http://ogli.jp/search?q=%E7%95%9C%E7%94%A3%E5%AD%A6&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
-        <ClickUrl>http://ogli.jp/search?q=%E7%95%9C%E7%94%A3%E5%AD%A6&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
+        <Title>帯広畜産大学 &amp;gt; 図書館、資料館 - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Regional/Japanese_Regions/Hokkaido/Education/Universities/Obihiro_University_Of_Agriculture_And_Veterinary_Medicine/Libraries_and_Musenums/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Regional/Japanese_Regions/Hokkaido/Education/Universities/Obihiro_University_Of_Agriculture_And_Veterinary_Medicine/Libraries_and_Musenums/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ/富山の美容院 美容室 デジール</Title>
-        <Url>http://dir.e-desir.com/2078518243/</Url>
-        <ClickUrl>http://dir.e-desir.com/2078518243/</ClickUrl>
+        <Title>鹿児島の情報は南日本新聞 - 学術機関リポジトリ|カテゴリ検索なら373newsディレクト&lt;wbr&gt;リ</Title>
+        <Url>http://www.373news.com/dir/search/1/4/124750/583171/1/index.html</Url>
+        <ClickUrl>http://www.373news.com/dir/search/1/4/124750/583171/1/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>特集検索--漢方薬局</Title>
+        <Url>http://www.allkanpo.com/O/link.asp?page=ir.obihiro.ac.jp/dspace/bitstream/123456789/874/1/k-siryou63.pdf</Url>
+        <ClickUrl>http://www.allkanpo.com/O/link.asp?page=ir.obihiro.ac.jp/dspace/bitstream/123456789/874/1/k-siryou63.pdf</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/?q=%B3%D8%BD%D1%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/?q=%B3%D8%BD%D1%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ/とんぼ玉 ビーズ 販売 通販ショップ とんぼ屋/トンボ玉 蜻蛉玉 ガラス玉</Title>
@@ -117,109 +132,44 @@
         <ClickUrl>http://dir.tonboya.com/2078518243/</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : 1208</Title>
-        <Url>http://dir.livedoor.com/search/?ie=utf8&amp;q=1208</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?ie=utf8&amp;q=1208</ClickUrl>
+        <Title>&quot;帯広畜産大学 学術情報リポジトリ: ホーム&quot; -FormRoom- フォームルーム</Title>
+        <Url>http://www.formroom.net/result.php?num=12132</Url>
+        <ClickUrl>http://www.formroom.net/result.php?num=12132</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : .030</Title>
-        <Url>http://dir.livedoor.com/search/?q=.030&amp;start=90</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?q=.030&amp;start=90</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : MIT</Title>
-        <Url>http://dir.livedoor.com/search/?p=9&amp;q=MIT&amp;start=40</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?p=9&amp;q=MIT&amp;start=40</ClickUrl>
-    </Result>
-    <Result>
-        <Title>懸賞のつぼ - ウェブ検索 Powerd by JLISTING</Title>
-        <Url>http://dir.tubox.com/dir/?bc=4%3E124750&amp;pid=583171</Url>
-        <ClickUrl>http://dir.tubox.com/dir/?bc=4%3E124750&amp;pid=583171</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : MIT</Title>
-        <Url>http://dir.livedoor.com/search/?p=6&amp;q=MIT&amp;start=40</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?p=6&amp;q=MIT&amp;start=40</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : MIT</Title>
-        <Url>http://dir.livedoor.com/search/?p=16&amp;q=MIT&amp;start=40</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?p=16&amp;q=MIT&amp;start=40</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : 帯広畜産大学</Title>
-        <Url>http://dir.livedoor.com/search/?q=%C2%D3%B9%AD%C3%DC%BB%BA%C2%E7%B3%D8</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?q=%C2%D3%B9%AD%C3%DC%BB%BA%C2%E7%B3%D8</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : 帯広畜産大学</Title>
-        <Url>http://dir.livedoor.com/search/?ie=euc&amp;q=%C2%D3%B9%AD%C3%DC%BB%BA%C2%E7%B3%D8</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?ie=euc&amp;q=%C2%D3%B9%AD%C3%DC%BB%BA%C2%E7%B3%D8</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[a] 帯広畜産大学 Obihiro University of Agriculture and Veterinary ...</Title>
-        <Url>http://www.anoword.com/summary/%E5%B8%AF%E5%BA%83%E7%95%9C%E7%94%A3%E5%A4%A7%E5%AD%A6</Url>
-        <ClickUrl>http://www.anoword.com/summary/%E5%B8%AF%E5%BA%83%E7%95%9C%E7%94%A3%E5%A4%A7%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ: エクストリームオンライン カテゴリ</Title>
-        <Url>http://xtrm.jp/category/?id=2078518243&amp;tag=%8Aw%8Fp%8B%40%8A%D6%83%8A%83|%83W%83g%83%8A</Url>
-        <ClickUrl>http://xtrm.jp/category/?id=2078518243&amp;tag=%8Aw%8Fp%8B%40%8A%D6%83%8A%83|%83W%83g%83%8A</ClickUrl>
-    </Result>
-    <Result>
-        <Title>帯広畜産大学 みんなで作る検索エンジン Kynny (キニー) BETA</Title>
-        <Url>http://www.kynny.com/q.php?q=%E5%B8%AF%E5%BA%83%E7%95%9C%E7%94%A3%E5%A4%A7%E5%AD%A6</Url>
-        <ClickUrl>http://www.kynny.com/q.php?q=%E5%B8%AF%E5%BA%83%E7%95%9C%E7%94%A3%E5%A4%A7%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ E-3リンク</Title>
-        <Url>http://link.e-3.ne.jp/dir/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://link.e-3.ne.jp/dir/Reference/Institutional_Repository/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>リポジトリについての最新情報【瞬!コレ by @nifty】</Title>
-        <Url>http://shuncolle.nifty.com/shuncolle/word/%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA.htm</Url>
-        <ClickUrl>http://shuncolle.nifty.com/shuncolle/word/%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ - Jディレクトリー</Title>
-        <Url>http://dir.jlisting.jp/dir/4/124750/583171/</Url>
-        <ClickUrl>http://dir.jlisting.jp/dir/4/124750/583171/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>教育|学習 資料|辞書 学術機関リポジ... - 検索エンジン MARS FLAG</Title>
-        <Url>http://1st.marsflag.com/search.x?cgid=1/4/124750/583171</Url>
-        <ClickUrl>http://1st.marsflag.com/search.x?cgid=1/4/124750/583171</ClickUrl>
-    </Result>
-    <Result>
-        <Title>畜産 - Jディレクトリー</Title>
-        <Url>http://dir.jlisting.jp/search/?q=%C3%DC%BB%BA</Url>
-        <ClickUrl>http://dir.jlisting.jp/search/?q=%C3%DC%BB%BA</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : 194</Title>
-        <Url>http://dir.livedoor.com/search/?q=194&amp;start=80</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?q=194&amp;start=80</ClickUrl>
+        <Title>学術機関リポジトリ &amp;lt; 各種資料と情報源 &amp;lt; トップ - カテゴリ検索 - www.0155.jp</Title>
+        <Url>http://www.0155.jp/yahoocat/2078518243.html</Url>
+        <ClickUrl>http://www.0155.jp/yahoocat/2078518243.html</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : 196</Title>
-        <Url>http://dir.livedoor.com/search/?q=196&amp;start=50</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?q=196&amp;start=50</ClickUrl>
+        <Url>http://dir.livedoor.com/search/?q=196&amp;start=70</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=196&amp;start=70</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : mit</Title>
+        <Url>http://dir.livedoor.com/search/?q=mit&amp;start=60</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=mit&amp;start=60</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : 070</Title>
-        <Url>http://dir.livedoor.com/search/?q=070&amp;start=30</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?q=070&amp;start=30</ClickUrl>
+        <Url>http://dir.livedoor.com/search/?q=070&amp;start=50</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=070&amp;start=50</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : 080</Title>
-        <Url>http://dir.livedoor.com/search/?q=080&amp;start=90</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?q=080&amp;start=90</ClickUrl>
+        <Title>livedoor カテゴリ検索 検索結果 : 1208</Title>
+        <Url>http://dir.livedoor.com/search/?q=1208&amp;start=10</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=1208&amp;start=10</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : 030</Title>
+        <Url>http://dir.livedoor.com/search/?q=030&amp;start=110</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=030&amp;start=110</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : .030</Title>
-        <Url>http://dir.livedoor.com/search/?q=.030&amp;start=80</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?q=.030&amp;start=80</ClickUrl>
+        <Url>http://dir.livedoor.com/search/?q=.030&amp;start=110</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=.030&amp;start=110</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : Hewlett-Packard</Title>
@@ -227,14 +177,14 @@
         <ClickUrl>http://dir.livedoor.com/search/?q=Hewlett-Packard</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor カテゴリ検索 検索結果 : 090 080</Title>
-        <Url>http://dir.livedoor.com/search/?ie=euc&amp;q=090+080</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?ie=euc&amp;q=090+080</ClickUrl>
+        <Title>livedoor カテゴリ検索 検索結果 : MIT</Title>
+        <Url>http://dir.livedoor.com/search/?p=9&amp;q=MIT&amp;start=60</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?p=9&amp;q=MIT&amp;start=60</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : obihiro</Title>
-        <Url>http://dir.livedoor.com/search/?q=obihiro&amp;start=20</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?q=obihiro&amp;start=20</ClickUrl>
+        <Url>http://dir.livedoor.com/search/?q=obihiro&amp;start=10</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=obihiro&amp;start=10</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : 070 080</Title>
@@ -243,19 +193,69 @@
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : MIT</Title>
-        <Url>http://dir.livedoor.com/search/?p=4&amp;q=MIT&amp;start=40</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?p=4&amp;q=MIT&amp;start=40</ClickUrl>
+        <Url>http://dir.livedoor.com/search/?p=4&amp;q=MIT&amp;start=60</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?p=4&amp;q=MIT&amp;start=60</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor カテゴリ検索 検索結果 : MIT</Title>
-        <Url>http://dir.livedoor.com/search/?p=9&amp;q=MIT&amp;start=50</Url>
-        <ClickUrl>http://dir.livedoor.com/search/?p=9&amp;q=MIT&amp;start=50</ClickUrl>
+        <Url>http://dir.livedoor.com/search/?p=6&amp;q=MIT&amp;start=60</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?p=6&amp;q=MIT&amp;start=60</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ | Ferret ディレクトリ検索下位層</Title>
-        <Url>http://search.jp-ferret.com/cDir/1-4-124750-583171</Url>
-        <ClickUrl>http://search.jp-ferret.com/cDir/1-4-124750-583171</ClickUrl>
+        <Title>livedoor カテゴリ検索 検索結果 : MIT</Title>
+        <Url>http://dir.livedoor.com/search/?p=12&amp;q=MIT&amp;start=60</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?p=12&amp;q=MIT&amp;start=60</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : MIT</Title>
+        <Url>http://dir.livedoor.com/search/?p=16&amp;q=MIT&amp;start=60</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?p=16&amp;q=MIT&amp;start=60</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : 論文数</Title>
+        <Url>http://dir.livedoor.com/search/?q=%CF%C0%CA%B8%BF%F4</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=%CF%C0%CA%B8%BF%F4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : 畜産学</Title>
+        <Url>http://dir.livedoor.com/search/?q=%C3%DC%BB%BA%B3%D8</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=%C3%DC%BB%BA%B3%D8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>au one カテゴリ検索 - 学術機関リポジトリ -</Title>
+        <Url>http://category.auone.jp/dir/?bc=4%3E124750&amp;pid=583171</Url>
+        <ClickUrl>http://category.auone.jp/dir/?bc=4%3E124750&amp;pid=583171</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : 相違</Title>
+        <Url>http://dir.livedoor.com/search/?q=%C1%EA%B0%E3&amp;start=40</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=%C1%EA%B0%E3&amp;start=40</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : 蓄積</Title>
+        <Url>http://dir.livedoor.com/search/?q=%C3%DF%C0%D1&amp;start=70</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=%C3%DF%C0%D1&amp;start=70</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 (2010年1月版)</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp_201001.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp_201001.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : 畜産</Title>
+        <Url>http://dir.livedoor.com/search/?q=%C3%DC%BB%BA&amp;start=70</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?q=%C3%DC%BB%BA&amp;start=70</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ</Title>
+        <Url>http://dir.kondo-net.gr.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.kondo-net.gr.jp/Reference/Institutional_Repository/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor カテゴリ検索 検索結果 : 帯広畜産大学</Title>
+        <Url>http://dir.livedoor.com/search/?ie=euc&amp;q=%C2%D3%B9%AD%C3%DC%BB%BA%C2%E7%B3%D8</Url>
+        <ClickUrl>http://dir.livedoor.com/search/?ie=euc&amp;q=%C2%D3%B9%AD%C3%DC%BB%BA%C2%E7%B3%D8</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:08 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:53:08 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:25 PDT 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:25 PDT 2010 -->

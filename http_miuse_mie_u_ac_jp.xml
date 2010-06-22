@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="15775"
+    totalResultsAvailable="15354"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,14 +17,24 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
     </Result>
     <Result>
-        <Title>学位論文</Title>
-        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
-        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学位論文</Title>
+        <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
+        <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>植民地 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%B0%91%E5%9C%B0</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%A4%8D%E6%B0%91%E5%9C%B0</ClickUrl>
     </Result>
     <Result>
         <Title>三重大学附属図書館</Title>
@@ -37,9 +47,9 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+        <Title>サメ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A1</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A1</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -47,24 +57,19 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>サメ - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A1</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A1</ClickUrl>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>アクチュアリー試験数学の研究</Title>
-        <Url>http://d.hatena.ne.jp/actuary_math/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/actuary_math/</ClickUrl>
+        <Title>フナ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%8A</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%95%E3%83%8A</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>MITが今度は全教員の学術論文をオープンアクセスに | Okumura&apos;s Blog</Title>
-        <Url>http://oku.edu.mie-u.ac.jp/~okumura/blog/node/2388</Url>
-        <ClickUrl>http://oku.edu.mie-u.ac.jp/~okumura/blog/node/2388</ClickUrl>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
@@ -72,9 +77,14 @@
         <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
     </Result>
     <Result>
+        <Title>MITが今度は全教員の学術論文をオープンアクセスに | Okumura&apos;s Blog</Title>
+        <Url>http://oku.edu.mie-u.ac.jp/~okumura/blog/node/2388</Url>
+        <ClickUrl>http://oku.edu.mie-u.ac.jp/~okumura/blog/node/2388</ClickUrl>
+    </Result>
+    <Result>
         <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
@@ -82,14 +92,24 @@
         <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
+        <Title>よい定義・よくない定義−xの定義を巡って - アクチュアリー試験数学の研究</Title>
+        <Url>http://j.mp/4Yw2NW</Url>
+        <ClickUrl>http://j.mp/4Yw2NW</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios ...</Title>
+        <Url>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</Url>
+        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</ClickUrl>
+    </Result>
+    <Result>
         <Title>MIUSE: 九州中東部でのIDFカーブの作成と2005年台風14号による&lt;wbr&gt;豪雨の統計的評価</Title>
         <Url>http://hdl.handle.net/10076/7172</Url>
         <ClickUrl>http://hdl.handle.net/10076/7172</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: ピロミド酸に関する魚病化学療法的研究-Ⅰ. : 魚類における吸収, 分布, 残留性および安全性</Title>
-        <Url>http://hdl.handle.net/10076/2416</Url>
-        <ClickUrl>http://hdl.handle.net/10076/2416</ClickUrl>
+        <Title>MIUSE: Expression of glucose transporter 4 mrna in adipose ...</Title>
+        <Url>http://hdl.handle.net/10076/7605</Url>
+        <ClickUrl>http://hdl.handle.net/10076/7605</ClickUrl>
     </Result>
     <Result>
         <Title>MIUSE: 事例報告:三重大学の広報活動</Title>
@@ -102,34 +122,34 @@
         <ClickUrl>http://hdl.handle.net/10076/7166</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 滑管内静水中における砂れきの沈降, 転動および滑動</Title>
-        <Url>http://hdl.handle.net/10076/8652</Url>
-        <ClickUrl>http://hdl.handle.net/10076/8652</ClickUrl>
-    </Result>
-    <Result>
-        <Title>MIUSE: 小粒径から大粒径まで包含したポーラスコンクリートの統一化理論&lt;wbr&gt;の構築とその応用</Title>
-        <Url>http://hdl.handle.net/10076/9305</Url>
-        <ClickUrl>http://hdl.handle.net/10076/9305</ClickUrl>
-    </Result>
-    <Result>
         <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
     </Result>
     <Result>
-        <Title>Ranking Web de Repositorios Mundiales: Top 400 Repositorios ...</Title>
-        <Url>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</Url>
-        <ClickUrl>http://repositories.webometrics.info/top400_rep_inst_es.asp?offset=250</ClickUrl>
+        <Title>【猫さんの食事】近況とイエローファットについて - 明るい化け猫計画</Title>
+        <Url>http://blog.goo.ne.jp/jyaguchineko/e/4ddf337d41fc23694a69ba77518d5691</Url>
+        <ClickUrl>http://blog.goo.ne.jp/jyaguchineko/e/4ddf337d41fc23694a69ba77518d5691</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>根号 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%A0%B9%E5%8F%B7</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%A0%B9%E5%8F%B7</ClickUrl>
+    </Result>
+    <Result>
+        <Title>6.なぜは正の方だけ表すのか−数学史による考察 - アクチュアリー試験数学の研究</Title>
+        <Url>http://d.hatena.ne.jp/actuary_math/20100125/1264419250</Url>
+        <ClickUrl>http://d.hatena.ne.jp/actuary_math/20100125/1264419250</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
@@ -142,9 +162,9 @@
         <ClickUrl>http://hdl.handle.net/10076/8932</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: グリム童話と『日本の昔ばなし』の比較 : 難題解決結婚について</Title>
-        <Url>http://hdl.handle.net/10076/2026</Url>
-        <ClickUrl>http://hdl.handle.net/10076/2026</ClickUrl>
+        <Title>MIUSE: MIUSEの仮公開と今後の展開</Title>
+        <Url>http://hdl.handle.net/10076/2683</Url>
+        <ClickUrl>http://hdl.handle.net/10076/2683</ClickUrl>
     </Result>
     <Result>
         <Title>MIUSE: 情報メディアの活用 : パスファインダーを通して</Title>
@@ -152,29 +172,9 @@
         <ClickUrl>http://hdl.handle.net/10076/7022</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: MIUSEの仮公開と今後の展開</Title>
-        <Url>http://hdl.handle.net/10076/2683</Url>
-        <ClickUrl>http://hdl.handle.net/10076/2683</ClickUrl>
-    </Result>
-    <Result>
-        <Title>MIUSE: 「道順説明」でのコミュニケーション・トラブルと : 認知フレームの対立-日本語母語話者と非母語話者の接触場面 ...</Title>
-        <Url>http://hdl.handle.net/10076/6520</Url>
-        <ClickUrl>http://hdl.handle.net/10076/6520</ClickUrl>
-    </Result>
-    <Result>
         <Title>MIUSE: 機関リポジトリの企画から公開まで、そしてこれから&lt;wbr&gt;(1)</Title>
         <Url>http://hdl.handle.net/10076/6876</Url>
         <ClickUrl>http://hdl.handle.net/10076/6876</ClickUrl>
-    </Result>
-    <Result>
-        <Title>MIUSE: 燃焼合成法を応用した新精密鋳造TiNi形状記憶合金の特性解明&lt;wbr&gt;・応用</Title>
-        <Url>http://hdl.handle.net/10076/8935</Url>
-        <ClickUrl>http://hdl.handle.net/10076/8935</ClickUrl>
-    </Result>
-    <Result>
-        <Title>MIUSE: 現代農村の住民生活と家族 : 岡山県児島湾干拓地における農村家族分析</Title>
-        <Url>http://hdl.handle.net/10076/1990</Url>
-        <ClickUrl>http://hdl.handle.net/10076/1990</ClickUrl>
     </Result>
     <Result>
         <Title>MIUSE: コンテンツ収集戦略 / 事例報告:日の丸弁当から幕の内弁当へ</Title>
@@ -187,75 +187,75 @@
         <ClickUrl>http://hdl.handle.net/10076/8933</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 小学生のコミュニケーション能力に対するPerformance&lt;wbr&gt; Assessment(2) : 活動プログラム ...</Title>
-        <Url>http://hdl.handle.net/10076/6816</Url>
-        <ClickUrl>http://hdl.handle.net/10076/6816</ClickUrl>
+        <Title>MIUSE: 海産魚類浮性卵の卵質評価法の開発に関する研究 : シロギスを例として(三重大学大学院生物資源学研究科博士学位 ...</Title>
+        <Url>http://hdl.handle.net/10076/2168</Url>
+        <ClickUrl>http://hdl.handle.net/10076/2168</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 有限要素法固有値解析を利用した異種積層複合材料の異方性パラメ&lt;wbr&gt;ータ同定法</Title>
-        <Url>http://hdl.handle.net/10076/8551</Url>
-        <ClickUrl>http://hdl.handle.net/10076/8551</ClickUrl>
+        <Title>MIUSE: 「道順説明」でのコミュニケーション・トラブルと : 認知フレームの対立-日本語母語話者と非母語話者の接触場面 ...</Title>
+        <Url>http://hdl.handle.net/10076/6520</Url>
+        <ClickUrl>http://hdl.handle.net/10076/6520</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 風洞実験による水平軸風車翼周りの流れに関する研究 : 第2報,翼面圧力分布による流れ状態の検討(流体工学&lt;wbr&gt;,流体機械)</Title>
-        <Url>http://hdl.handle.net/10076/8129</Url>
-        <ClickUrl>http://hdl.handle.net/10076/8129</ClickUrl>
+        <Title>MIUSE: アイデンティティの社会的承認という問題 : 現代日本女性のアイデンティティをめぐる言説を題材に</Title>
+        <Url>http://hdl.handle.net/10076/1857</Url>
+        <ClickUrl>http://hdl.handle.net/10076/1857</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: &amp;lt;論説&amp;gt;梅川文男研究(1) : プロレタリア詩人,堀坂山行の軌跡</Title>
-        <Url>http://hdl.handle.net/10076/1888</Url>
-        <ClickUrl>http://hdl.handle.net/10076/1888</ClickUrl>
+        <Title>MIUSE: デンプン粒の酸抵抗性について</Title>
+        <Url>http://hdl.handle.net/10076/5526</Url>
+        <ClickUrl>http://hdl.handle.net/10076/5526</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 胎盤の物質輸送と通過性 糖,脂質(&amp;lt;特集&amp;gt;胎盤)</Title>
-        <Url>http://hdl.handle.net/10076/3218</Url>
-        <ClickUrl>http://hdl.handle.net/10076/3218</ClickUrl>
+        <Title>MIUSE: MIUSEと教員活動データベースの連携がはじまりました&lt;wbr&gt;! (広報用リーフレット)</Title>
+        <Url>http://hdl.handle.net/10076/10419</Url>
+        <ClickUrl>http://hdl.handle.net/10076/10419</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 白血病幹細胞の自己複製能を担う分子機構と白血病発症に至る分子&lt;wbr&gt;機序の解明</Title>
-        <Url>http://hdl.handle.net/10076/9311</Url>
-        <ClickUrl>http://hdl.handle.net/10076/9311</ClickUrl>
+        <Title>MIUSE: 平成20年度CSI委託事業報告交流会(領域1)ポスター等</Title>
+        <Url>http://hdl.handle.net/10076/10259</Url>
+        <ClickUrl>http://hdl.handle.net/10076/10259</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: インターネットTV会議システムを用いた双方向授業の評価</Title>
-        <Url>http://hdl.handle.net/10076/1777</Url>
-        <ClickUrl>http://hdl.handle.net/10076/1777</ClickUrl>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: ラクトフォリンに対するモノクローナル抗体-作成と構造・機能解&lt;wbr&gt;析への応用 (平成17年度日本酪農科学会 ...</Title>
-        <Url>http://hdl.handle.net/10076/3617</Url>
-        <ClickUrl>http://hdl.handle.net/10076/3617</ClickUrl>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: イネミズゾウムシ成虫の移動分散時期における飛翔筋および卵巣の&lt;wbr&gt;発達状況</Title>
-        <Url>http://hdl.handle.net/10076/8231</Url>
-        <ClickUrl>http://hdl.handle.net/10076/8231</ClickUrl>
+        <Title>Arishima Takeo 有島武郎 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php?title=Arishima_Takeo_%E6%9C%89%E5%B3%B6%E6%AD%A6%E9%83%8E&amp;printable=yes</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php?title=Arishima_Takeo_%E6%9C%89%E5%B3%B6%E6%AD%A6%E9%83%8E&amp;printable=yes</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 三重大学Moodleの構築と運用</Title>
-        <Url>http://hdl.handle.net/10076/8076</Url>
-        <ClickUrl>http://hdl.handle.net/10076/8076</ClickUrl>
+        <Title>北村透谷 - LibraryWiki</Title>
+        <Url>http://library.osu.edu/wikis/library/index.php/%E5%8C%97%E6%9D%91%E9%80%8F%E8%B0%B7</Url>
+        <ClickUrl>http://library.osu.edu/wikis/library/index.php/%E5%8C%97%E6%9D%91%E9%80%8F%E8%B0%B7</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: モリエール I : スカパンの笑い</Title>
-        <Url>http://hdl.handle.net/10076/6245</Url>
-        <ClickUrl>http://hdl.handle.net/10076/6245</ClickUrl>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 看護学生の健康状態と大学校舎内の空気質</Title>
-        <Url>http://hdl.handle.net/10076/9235</Url>
-        <ClickUrl>http://hdl.handle.net/10076/9235</ClickUrl>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: アメリカの科学史はいかに描かれてきたか</Title>
-        <Url>http://hdl.handle.net/10076/6349</Url>
-        <ClickUrl>http://hdl.handle.net/10076/6349</ClickUrl>
+        <Title>物(車・家etc.)を持たない身軽な生活をする上の知恵を教え&lt;wbr&gt;てください。 例えば、車を所有する代わりにレンタカーを使う、本 ...</Title>
+        <Url>http://q.hatena.ne.jp/1231580487</Url>
+        <ClickUrl>http://q.hatena.ne.jp/1231580487</ClickUrl>
     </Result>
     <Result>
-        <Title>MIUSE: 表現活動としての3Dアニメーション制作の教材化II : 美術教育としての3DCG制作指導成立の与件</Title>
-        <Url>http://hdl.handle.net/10076/2664</Url>
-        <ClickUrl>http://hdl.handle.net/10076/2664</ClickUrl>
+        <Title>DRF2 - DRF wiki</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drf/index.php?DRF2</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drf/index.php?DRF2</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:27 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:27 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:46 PDT 2010 -->
+<!-- ws02.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:46 PDT 2010 -->

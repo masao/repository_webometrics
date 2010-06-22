@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="14"
+    firstResultPosition="1"
+    totalResultsReturned="14">
+        <Result>
+        <Title>JAIRO | 在宅高齢者の死に対する意識の構造と加齢による変化</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000952</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000952</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 高齢者施設における身体拘束廃止の取り組みに関する調査</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000989</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000989</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 福祉専門職養成課程におけるボランティア教育の位置づけと課題 : 山口県立大学社会福祉学部における取り組みから</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000990</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000990</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=147</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=147</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ドデシルベンゼンスルホン酸ナトリウムのイオン性吸着剤への吸着&lt;wbr&gt;に及ぼす非イオン性界面活性剤の影響</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000378</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000378</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 宣教師からみた日本における南蛮服飾の受容について : 16世紀後半から17世紀初頭を中心に</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000992</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000992</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 高齢者の楽しみ・生きがい : 独居後期高齢者事例研究</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000578</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000578</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 魯西南方言における特殊な文法表現</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000031</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000031</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 看護基礎教育に必要とされる要素とは : Edith Cavellがブリュッセルで行った看護基礎教育</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000076</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000076</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | (翻刻)狂言名寄・内外間名寄 : 山口県立大学蔵</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000719</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000719</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 関東大震災直後の朝鮮人虐殺と日韓報道</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000561</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000561</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 聞き書きと人権侵害 : 立松和平対策事務所の10年</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000766</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000766</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ヘンルィク・リプシッツ, 吉上昭三, 松本照男共著『標準語ポーランド会話改訂版』(2001白水社&lt;wbr&gt;)</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000733</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000733</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 大学生の精神的健康に関連する要因の文献的研究</Title>
+        <Url>http://jairo.nii.ac.jp/0147/00000431</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0147/00000431</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:10 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:10 PDT 2010 -->

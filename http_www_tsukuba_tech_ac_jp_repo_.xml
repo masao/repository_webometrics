@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="140"
+    firstResultPosition="1"
+    totalResultsReturned="50">
+        <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波技術大学視覚障害系図書館</Title>
+        <Url>http://library.k.tsukuba-tech.ac.jp/</Url>
+        <ClickUrl>http://library.k.tsukuba-tech.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>筑波技術大学視覚障害系図書館</Title>
+        <Url>http://bravo.k.tsukuba-tech.ac.jp/</Url>
+        <ClickUrl>http://bravo.k.tsukuba-tech.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=151</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=151</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Issues and Prospects for Massage Education for the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000009</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000009</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 2005 International Symposium at the Tsukuba ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000005</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000005</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Implementation and Impact of Japanese New National ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000003</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000003</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | PEN-lnternational: Focusing on Deaf Education in the ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000006</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000006</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Current Status and Perspectives of Higher Education ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000007</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000007</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Awareness of Academic Writing among Hearing Impaired ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000004</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000004</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Massage Education Development for Visually Impaired ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000010</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000010</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Higher Education for Persons with Disabilities in ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000002</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000002</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=151</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=151</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : repo!</Title>
+        <Url>http://search.livedoor.com/search/?c=ld_keyword_sl&amp;ie=utf8&amp;q=repo!</Url>
+        <ClickUrl>http://search.livedoor.com/search/?c=ld_keyword_sl&amp;ie=utf8&amp;q=repo!</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : repo!</Title>
+        <Url>http://search.livedoor.com/search/?c=ld_blogimage_sb&amp;ie=utf8&amp;q=repo!</Url>
+        <ClickUrl>http://search.livedoor.com/search/?c=ld_blogimage_sb&amp;ie=utf8&amp;q=repo!</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[drf:982] Re: [drf:974] 「筑波技術大学機関リポジトリ」試験公開を開始しました。</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drfml/msg00975.html</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drfml/msg00975.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[drf:974] 「筑波技術大学機関リポジトリ」試験公 開を開始しました。</Title>
+        <Url>http://drf.lib.hokudai.ac.jp/drfml/msg00967.html</Url>
+        <ClickUrl>http://drf.lib.hokudai.ac.jp/drfml/msg00967.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Toward Music Communication with Supplemental Visual ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000687/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000687/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 機関リポジトリは</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA%A4%CF</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | インターネットを利用した日米間画像伝送実験</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000172</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000172</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 聾教育におけるコミュニケーションを考える-アメリカ研修旅行を&lt;wbr&gt;通して-</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000372</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000372</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 実習室用電子カルテシステムの開発と活用</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000245</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000245</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Reflections on Quality of Life as a College Concern ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000031</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000031</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 文字盤入力方式の習得用機能と練習方法 ―百相鍵盤『き』の場合―</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000054</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000054</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 聴覚部学生及び卒業生に対する職場適応のための指導及び支援に関&lt;wbr&gt;する研究 (1)-就職適正検査の結果と卒業生 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000482</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000482</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 筑波技術短期大学の四年制化に当たっての諸課題</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000050</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000050</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Importance of outline information in a relief ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000018</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000018</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Computer education and assistive equipment for ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000021</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000021</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Cross-Linguistic Study of Sign Languages</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000026</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000026</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 国語教育の課題と展望</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000383</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000383</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中間型手話より日本語に忠実な手話システムの開発</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000169</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000169</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 英語聴解問題における聴覚障害者に対する措置その2 実用英語技能検定の場合</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000442</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000442</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 筑波技術短期大学附属診療所の微生物学的汚染度について</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000422</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000422</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 音声認識を利用したリアルタイム字幕提示システム</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000389</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000389</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 重度視覚障害者の入試問題図の触読と問題解決</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000490</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000490</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 筑波技術短期大学聴覚部における英語教育の実際</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000140</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000140</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Austrian Literature Online (ALO): How Electronic ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000025</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000025</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 建築人間工学の視点からみた障害者の動作域の研究及び擬似体験教&lt;wbr&gt;育 -聴覚・視覚障害学生の連携による共同授業の一試み&lt;wbr&gt;-</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000408</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000408</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 授業の一環としての「2006 年度二科展デザイン部等受賞作品」の概略報告</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000066</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000066</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 筑波技術短期大学における World-Wide Web サーバの構築と管理</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000239</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000239</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Computer Use and Training of College Freshmen with ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000022</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000022</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 補聴器の必要性の評価法</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000266</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000266</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 視覚障害学生の学習教材に関する調査-教科書、参考書の現状と希&lt;wbr&gt;望教材に関するアンケート調査-</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000131</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000131</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 医療マッサージによるアジア視覚障害者の職業自立に向けた国際協&lt;wbr&gt;力-モンゴルとタイにおけるセミナー開催報告-</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000681</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000681</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Rehabilitation and the International Classification ...</Title>
+        <Url>http://jairo.nii.ac.jp/0151/00000034</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0151/00000034</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:18 PDT 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:18 PDT 2010 -->

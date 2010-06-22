@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="376"
+    totalResultsAvailable="598"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,19 +27,89 @@
         <ClickUrl>http://www.center.osakafu-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Prefecture University Repository: 特別養護老人ホームにおけるリスク ...</Title>
-        <Url>http://hdl.handle.net/10466/3503</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3503</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Osaka Prefecture University Repository: 自治体における子どもの権利に関する条例の制定動向</Title>
-        <Url>http://hdl.handle.net/10466/3510</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3510</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術情報センター 図書館</Title>
-        <Url>http://www.osakafu-u.ac.jp/info/facility/library/index.html</Url>
-        <ClickUrl>http://www.osakafu-u.ac.jp/info/facility/library/index.html</ClickUrl>
+        <Url>http://www.center.osakafu-u.ac.jp/library/</Url>
+        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: Some Notes on Marxian ...</Title>
+        <Url>http://hdl.handle.net/10466/886</Url>
+        <ClickUrl>http://hdl.handle.net/10466/886</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: THE WARRANTED GROWTH ...</Title>
+        <Url>http://hdl.handle.net/10466/865</Url>
+        <ClickUrl>http://hdl.handle.net/10466/865</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 家畜のセルトリー細胞の形態について(獸医学)</Title>
+        <Url>http://hdl.handle.net/10466/3095</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3095</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 「わたし」を問うという試みの重要性 ...</Title>
+        <Url>http://hdl.handle.net/10466/6430</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6430</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: MHによる切花日持に就て(園藝學)</Title>
+        <Url>http://hdl.handle.net/10466/3121</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3121</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: Neue Trypetiden ...</Title>
+        <Url>http://hdl.handle.net/10466/3098</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3098</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 万葉集仮名書き歌巻論序説</Title>
+        <Url>http://hdl.handle.net/10466/2581</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2581</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: K.W.Kappの社会的費用論をめぐって ...</Title>
+        <Url>http://hdl.handle.net/10466/2283</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2283</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: &amp;lt;論文&amp;gt;対話の正真性と偏向1 : 例としての日本</Title>
+        <Url>http://hdl.handle.net/10466/1770</Url>
+        <ClickUrl>http://hdl.handle.net/10466/1770</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 社会人学生(女性)の充実感 : 入学の経緯 ...</Title>
+        <Url>http://hdl.handle.net/10466/1723</Url>
+        <ClickUrl>http://hdl.handle.net/10466/1723</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: The Imaginary Son in ...</Title>
+        <Url>http://hdl.handle.net/10466/2562</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2562</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 組織文化と経営成果の関係 : 定量的研究の展開</Title>
+        <Url>http://hdl.handle.net/10466/3373</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3373</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: THE ECONOMIC ...</Title>
+        <Url>http://hdl.handle.net/10466/862</Url>
+        <ClickUrl>http://hdl.handle.net/10466/862</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: Miyazawa Kenji Fahrt ...</Title>
+        <Url>http://hdl.handle.net/10466/2733</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2733</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: The Carrot and The ...</Title>
+        <Url>http://hdl.handle.net/10466/2396</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2396</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: カオスと組織 : ハンナ・アレント研究(4)</Title>
+        <Url>http://hdl.handle.net/10466/2596</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2596</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -52,24 +122,114 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Prefecture University Repository: セルフヘルプ・グループの参加者による実践に ...</Title>
-        <Url>http://hdl.handle.net/10466/3505</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3505</ClickUrl>
+        <Title>Osaka Prefecture University Repository: &amp;lt;Note&amp;gt;A Note on a ...</Title>
+        <Url>http://hdl.handle.net/10466/974</Url>
+        <ClickUrl>http://hdl.handle.net/10466/974</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Prefecture University Repository: 社会福祉援助におけるクライエントの「主体性 ...</Title>
-        <Url>http://hdl.handle.net/10466/3507</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3507</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 「脳死は一律に人の死」なのか? : 臓器 ...</Title>
+        <Url>http://hdl.handle.net/10466/6441</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6441</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: グレオスポリクム・ニムフェー菌(新種)に ...</Title>
+        <Url>http://hdl.handle.net/10466/3118</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3118</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 猫鉤虫Ancylostoma ...</Title>
+        <Url>http://hdl.handle.net/10466/3097</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3097</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 経営組織の静態と動態 : ボールディングの ...</Title>
+        <Url>http://hdl.handle.net/10466/1605</Url>
+        <ClickUrl>http://hdl.handle.net/10466/1605</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 編集後記 : 紀要のための弁明</Title>
+        <Url>http://hdl.handle.net/10466/3429</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3429</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 日本の小翅蛾群(農學)</Title>
+        <Url>http://hdl.handle.net/10466/3116</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3116</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 社会生活と&amp;lt;スタイル&amp;gt; : ライフスタイル ...</Title>
+        <Url>http://hdl.handle.net/10466/1712</Url>
+        <ClickUrl>http://hdl.handle.net/10466/1712</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 殺めるなかれ、盗むなかれ、貪るなかれ ...</Title>
+        <Url>http://hdl.handle.net/10466/6448</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6448</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: A・ボースの搾取理論 (和田貞夫教授還暦記念号)</Title>
+        <Url>http://hdl.handle.net/10466/2207</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2207</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: テツポウュリの促成に対する鱗莖冷藏の効果(園藝学&lt;wbr&gt;)</Title>
+        <Url>http://hdl.handle.net/10466/3101</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3101</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: Αυριον = アウリオン 28号</Title>
+        <Url>http://hdl.handle.net/10466/6376</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6376</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
     </Result>
     <Result>
-        <Title>「大阪府立大学学術情報リポジトリ」の愛称が「OPERA」に決&lt;wbr&gt;定しました(2009.02.02)</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/02/20090202-1.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/02/20090202-1.html</ClickUrl>
+        <Title>Osaka Prefecture University Repository: Αυριον = アウリオン 29号</Title>
+        <Url>http://hdl.handle.net/10466/6368</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6368</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 平成20年度CSI委託事業報告交流会成果報告</Title>
+        <Url>http://hdl.handle.net/10466/6350</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6350</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 機関リポジトリの活用と学術コミュニケーション</Title>
+        <Url>http://hdl.handle.net/10466/6385</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6385</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to local public university libraries;公立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkou.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkou.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>マルチメディア室 PC、Mac端末 | 学術情報センター 施設案内</Title>
+        <Url>http://www.center.osakafu-u.ac.jp/facilities/multimedia/pc/</Url>
+        <ClickUrl>http://www.center.osakafu-u.ac.jp/facilities/multimedia/pc/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術情報センター 情報システム</Title>
+        <Url>http://www.center.osakafu-u.ac.jp/system/index.html</Url>
+        <ClickUrl>http://www.center.osakafu-u.ac.jp/system/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>本学の特徴ある活動 |大阪府立大学</Title>
+        <Url>http://www.osakafu-u.ac.jp/information/activity.html</Url>
+        <ClickUrl>http://www.osakafu-u.ac.jp/information/activity.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術情報センター 施設案内</Title>
+        <Url>http://www.center.osakafu-u.ac.jp/facilities/index.html</Url>
+        <ClickUrl>http://www.center.osakafu-u.ac.jp/facilities/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>大阪府立大学人間社会学部図書室</Title>
@@ -77,19 +237,14 @@
         <ClickUrl>http://www.lib.osakafu-u.ac.jp/gakubu/human/index.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>中尾佐助スライドデータベース完成のお知らせ</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/03/post-40.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/03/post-40.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大阪府立大学学術情報リポジトリOPERA公開のお知らせ</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/03/opera20090331.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/03/opera20090331.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>学外からの利用 WEBメール | 学術情報センター 情報システム</Title>
         <Url>http://www.center.osakafu-u.ac.jp/system/outside-use/webmail/</Url>
         <ClickUrl>http://www.center.osakafu-u.ac.jp/system/outside-use/webmail/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>所蔵コレクション 中尾佐助コレクション | 学術情報センター 図書館</Title>
+        <Url>http://www.center.osakafu-u.ac.jp/library/collection/sasuke-nakao/</Url>
+        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/collection/sasuke-nakao/</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
@@ -98,164 +253,9 @@
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
     </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2007年度 指定図書目録リスト【工学研究科】</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2007/04/2007.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2007/04/2007.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | AN ALTERNATIVE PROOF OF KAKEYA&apos;S THEOREM AND THE ...</Title>
-        <Url>http://jairo.nii.ac.jp/0131/00002024/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0131/00002024/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | On Effective Methods of Introducing Diagonal Braces ...</Title>
-        <Url>http://jairo.nii.ac.jp/0131/00001705/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0131/00001705/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術情報センター 情報システム</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/system/</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/system/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術情報センター 情報セキュリティ</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/security/</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/security/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大阪府立大学授業公開講座「堺・南大阪地域学 l 」について 2009年07月13日</Title>
-        <Url>http://www.osakafu-u.ac.jp/event/001324.html</Url>
-        <ClickUrl>http://www.osakafu-u.ac.jp/event/001324.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>大学機関リポジトリ</Title>
-        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
-        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_num_dn.php</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/de/about_sources_date_dn.php?font_size=84&amp;menu=2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>[機関リポジトリ] - ACADEMIC RESOURCE GUIDE (ARG) - ブログ版</Title>
-        <Url>http://d.hatena.ne.jp/arg/searchdiary?word=*[%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA]</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/searchdiary?word=*[%B5%A1%B4%D8%A5%EA%A5%DD%A5%B8%A5%C8%A5%EA]</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学外からの利用 リモートアクセスサーバ | 学術情報センター 情報システム</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/system/outside-use/remote/</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/system/outside-use/remote/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>調べる・探す 指定図書目録 | 学術情報センター 図書館</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/shitei/shitei2007.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/shitei/shitei2007.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学生選書選定リスト 【平成19年度】</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2008/07/19.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2008/07/19.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>情報教育システム 情報教育システム | 学術情報センター 情報システム</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/system/edu/hp/index.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/system/edu/hp/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2006年度 指定図書目録リスト【生命環境科学研究科】</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2007/04/2006-1.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2007/04/2006-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術情報センター</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2007/04/2007-1.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2007/04/2007-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>2008年度 指定図書目録リスト【工学研究科】</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2008/07/2008-1.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2008/07/2008-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術情報センター</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2008/07/2008-4.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2008/07/2008-4.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術情報センター</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2007/04/2007-3.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2007/04/2007-3.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>講演会「機関リポジトリの活用と学術コミュニケーション」の開催&lt;wbr&gt;について(2009.11.4)</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/11/post-49.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/11/post-49.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>テーマ展示「新入生に薦める100冊の本2009」リスト</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/04/1002009.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/04/1002009.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>「19/20世紀 英国下院議会文書(19th/20th Century ...</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/03/192019th20th-century-house-of-1.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/03/192019th20th-century-house-of-1.html</ClickUrl>
-    </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:50 PST 2010 -->
-<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:50 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:55 PDT 2010 -->
+<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:55 PDT 2010 -->

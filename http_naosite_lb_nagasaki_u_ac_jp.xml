@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="24250"
+    totalResultsAvailable="28090"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -12,9 +12,9 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
     </Result>
     <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
     </Result>
     <Result>
         <Title>タイ王国 - Wikipedia</Title>
@@ -22,14 +22,24 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD</ClickUrl>
     </Result>
     <Result>
-        <Title>長崎大学附属図書館 [Nagasaki University Library]</Title>
-        <Url>http://www.lb.nagasaki-u.ac.jp/</Url>
-        <ClickUrl>http://www.lb.nagasaki-u.ac.jp/</ClickUrl>
+        <Title>はてブニュース</Title>
+        <Url>http://labs.ceek.jp/hbnews/</Url>
+        <ClickUrl>http://labs.ceek.jp/hbnews/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>長崎大学附属図書館 [Nagasaki University Library]</Title>
+        <Url>http://www.lb.nagasaki-u.ac.jp/</Url>
+        <ClickUrl>http://www.lb.nagasaki-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>クジラ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B8%E3%83%A9</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B8%E3%83%A9</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
@@ -42,9 +52,9 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2</ClickUrl>
     </Result>
     <Result>
-        <Title>クジラ - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B8%E3%83%A9</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%B8%E3%83%A9</ClickUrl>
+        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
+        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
+        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
@@ -52,19 +62,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
-        <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
-        <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>civilian watchdog in japan</Title>
-        <Url>http://civilwatchdoginjapan.blogspot.com/</Url>
-        <ClickUrl>http://civilwatchdoginjapan.blogspot.com/</ClickUrl>
+        <Title>NAOSITE: 財政の持続可能性に関する考察-成長率・利子率論争と時系列デー&lt;wbr&gt;タによる検定のサーベイ-</Title>
+        <Url>http://hdl.handle.net/10069/21844</Url>
+        <ClickUrl>http://hdl.handle.net/10069/21844</ClickUrl>
     </Result>
     <Result>
         <Title>トコジラミ - Wikipedia</Title>
@@ -72,39 +72,9 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B3%E3%82%B8%E3%83%A9%E3%83%9F</ClickUrl>
     </Result>
     <Result>
-        <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
-        <Url>http://www.ifremer.fr/avano/archives.htm</Url>
-        <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: 財政の持続可能性に関する考察-成長率・利子率論争と時系列デー&lt;wbr&gt;タによる検定のサーベイ-</Title>
-        <Url>http://hdl.handle.net/10069/21844</Url>
-        <ClickUrl>http://hdl.handle.net/10069/21844</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Portal:歴史学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
-    </Result>
-    <Result>
-        <Title>スダジイ - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%80%E3%82%B8%E3%82%A4</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%80%E3%82%B8%E3%82%A4</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: 情報リテラシー教育を担当する図書館員に求められる専門能力の一&lt;wbr&gt;考察:米国のウエイン州立大学の図書館情報学 ...</Title>
-        <Url>http://hdl.handle.net/10069/16869</Url>
-        <ClickUrl>http://hdl.handle.net/10069/16869</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: アーラム・カレッジの図書館が実施する学習・教育支援に関するケ&lt;wbr&gt;ース・スタディ</Title>
-        <Url>http://hdl.handle.net/10069/16894</Url>
-        <ClickUrl>http://hdl.handle.net/10069/16894</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>Confucianism — Saving the Planet! &quot; Manyul Im&apos;s Chinese ...</Title>
@@ -112,14 +82,114 @@
         <ClickUrl>http://manyulim.wordpress.com/2009/06/26/confucianism-saving-the-planet/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+        <Title>Avano, a marine and aquatic sciences OAI harvester</Title>
+        <Url>http://www.ifremer.fr/avano/archives.htm</Url>
+        <ClickUrl>http://www.ifremer.fr/avano/archives.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>そこにあった姥捨て山: 大石英司の代替空港</Title>
-        <Url>http://eiji.txt-nifty.com/diary/2009/03/post-6696.html</Url>
-        <ClickUrl>http://eiji.txt-nifty.com/diary/2009/03/post-6696.html</ClickUrl>
+        <Title>OaiInstallations - DSpace - DuraSpace Wiki</Title>
+        <Url>http://wiki.dspace.org/confluence/display/DSPACE/OaiInstallations</Url>
+        <ClickUrl>http://wiki.dspace.org/confluence/display/DSPACE/OaiInstallations</ClickUrl>
+    </Result>
+    <Result>
+        <Title>貝毒 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E8%B2%9D%E6%AF%92</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E8%B2%9D%E6%AF%92</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Chromeplated Rat</Title>
+        <Url>http://schutsengel.blog.so-net.ne.jp/</Url>
+        <ClickUrl>http://schutsengel.blog.so-net.ne.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>スダジイ - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%80%E3%82%B8%E3%82%A4</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%80%E3%82%B8%E3%82%A4</ClickUrl>
+    </Result>
+    <Result>
+        <Title>黒猫亭日乗</Title>
+        <Url>http://kuronekotei.way-nifty.com/nichijou/</Url>
+        <ClickUrl>http://kuronekotei.way-nifty.com/nichijou/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAOSITE: 今次景気循環のピークに関する考察― 状態空間モデルを用いた産出ギャップによるアプローチ―</Title>
+        <Url>http://hdl.handle.net/10069/21626</Url>
+        <ClickUrl>http://hdl.handle.net/10069/21626</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - [He]::social ? bookmark</Title>
+        <Url>http://b.hatena.ne.jp/b4-tt/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/b4-tt/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>de JH5ESM</Title>
+        <Url>http://homepage2.nifty.com/preserve_spectrum/index_j.html</Url>
+        <ClickUrl>http://homepage2.nifty.com/preserve_spectrum/index_j.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>pharanの日記</Title>
+        <Url>http://d.hatena.ne.jp/pharan/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/pharan/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>はてなブックマーク - brain parasite オレポータル2010</Title>
+        <Url>http://b.hatena.ne.jp/brainparasite/</Url>
+        <ClickUrl>http://b.hatena.ne.jp/brainparasite/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Portal:歴史学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAOSITE: Geschichtliches Bewusstsein bei Fr. Schiller</Title>
+        <Url>http://hdl.handle.net/10069/9494</Url>
+        <ClickUrl>http://hdl.handle.net/10069/9494</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAOSITE: Interferon regulatory factor 4 differentially ...</Title>
+        <Url>http://hdl.handle.net/10069/20853</Url>
+        <ClickUrl>http://hdl.handle.net/10069/20853</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NAOSITE: Whether Tis Nobler to Normalize : Increasing Inter ...</Title>
+        <Url>http://hdl.handle.net/10069/22122</Url>
+        <ClickUrl>http://hdl.handle.net/10069/22122</ClickUrl>
+    </Result>
+    <Result>
+        <Title>lecture</Title>
+        <Url>http://astro.edu.nagasaki-u.ac.jp/~masa/lecture/</Url>
+        <ClickUrl>http://astro.edu.nagasaki-u.ac.jp/~masa/lecture/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>人間を信じなくてどうするか: 黒猫亭日乗</Title>
+        <Url>http://kuronekotei.way-nifty.com/nichijou/2009/12/post-1800.html</Url>
+        <ClickUrl>http://kuronekotei.way-nifty.com/nichijou/2009/12/post-1800.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>パン4: 黒猫亭日乗</Title>
+        <Url>http://kuronekotei.way-nifty.com/nichijou/2009/12/post-81d7.html</Url>
+        <ClickUrl>http://kuronekotei.way-nifty.com/nichijou/2009/12/post-81d7.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>タグ「ニセ科学」を含む新着エントリー - はてなブックマーク</Title>
+        <Url>http://b.hatena.ne.jp/t/%E3%83%8B%E3%82%BB%E7%A7%91%E5%AD%A6</Url>
+        <ClickUrl>http://b.hatena.ne.jp/t/%E3%83%8B%E3%82%BB%E7%A7%91%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>炒飯を熱く語る〈考察編〉: 黒猫亭日乗</Title>
+        <Url>http://kuronekotei.way-nifty.com/nichijou/2009/08/post-2053.html</Url>
+        <ClickUrl>http://kuronekotei.way-nifty.com/nichijou/2009/08/post-2053.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>パン2: 黒猫亭日乗</Title>
+        <Url>http://kuronekotei.way-nifty.com/nichijou/2009/10/post-66a6.html</Url>
+        <ClickUrl>http://kuronekotei.way-nifty.com/nichijou/2009/10/post-66a6.html</ClickUrl>
     </Result>
     <Result>
         <Title>自己導尿法</Title>
@@ -127,135 +197,65 @@
         <ClickUrl>http://members.jcom.home.ne.jp/wheel-net/dounyo.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: チカイエカとネッタイイエカの産卵と卵の孵化に及ぼす温度の影響</Title>
-        <Url>http://hdl.handle.net/10069/4284</Url>
-        <ClickUrl>http://hdl.handle.net/10069/4284</ClickUrl>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: インデューサ付き遠心ファンの乱流騒音に関する研究</Title>
-        <Url>http://hdl.handle.net/10069/5240</Url>
-        <ClickUrl>http://hdl.handle.net/10069/5240</ClickUrl>
+        <Title>パラコート - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B3%E3%83%BC%E3%83%88</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B3%E3%83%BC%E3%83%88</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: Herbaceous and ericaceous communities in the ...</Title>
-        <Url>http://hdl.handle.net/10069/7364</Url>
-        <ClickUrl>http://hdl.handle.net/10069/7364</ClickUrl>
+        <Title>オタクの地方格差問題 - REVの日記 @はてな</Title>
+        <Url>http://d.hatena.ne.jp/REV/20070620/p1</Url>
+        <ClickUrl>http://d.hatena.ne.jp/REV/20070620/p1</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: 旧ソ連の中等理科教育における教科間結合に関する研究 : 1930年代の中等分科理科教育の成立と教科間の関連性</Title>
-        <Url>http://hdl.handle.net/10069/5865</Url>
-        <ClickUrl>http://hdl.handle.net/10069/5865</ClickUrl>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: ケニアにおける病原性大腸菌感染</Title>
-        <Url>http://hdl.handle.net/10069/4435</Url>
-        <ClickUrl>http://hdl.handle.net/10069/4435</ClickUrl>
+        <Title>Tamil Kama Kathaigal .pdf Ebook Free Download</Title>
+        <Url>http://www.pdf-search-engine.com/tamil-kama-kathaigal-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/tamil-kama-kathaigal-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: 発刊にあたって</Title>
-        <Url>http://hdl.handle.net/10069/5517</Url>
-        <ClickUrl>http://hdl.handle.net/10069/5517</ClickUrl>
+        <Title>NAOSITE: 日本脳炎流行の理論モデル</Title>
+        <Url>http://hdl.handle.net/10069/4111</Url>
+        <ClickUrl>http://hdl.handle.net/10069/4111</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: 有明海エスチャリの砂質干潟におけるスナモグリ類,巻貝&lt;wbr&gt;,二枚貝 : 個体群の爆発的増大と凋落をもたらす共通 ...</Title>
-        <Url>http://hdl.handle.net/10069/5715</Url>
-        <ClickUrl>http://hdl.handle.net/10069/5715</ClickUrl>
+        <Title>NAOSITE: 「環境管理」としての「企業管理」</Title>
+        <Url>http://hdl.handle.net/10069/6842</Url>
+        <ClickUrl>http://hdl.handle.net/10069/6842</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: Absorption characteristics of model compounds from ...</Title>
-        <Url>http://hdl.handle.net/10069/6678</Url>
-        <ClickUrl>http://hdl.handle.net/10069/6678</ClickUrl>
+        <Title>NAOSITE: 第 10 号の刊行によせて</Title>
+        <Url>http://hdl.handle.net/10069/5584</Url>
+        <ClickUrl>http://hdl.handle.net/10069/5584</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: 長崎大学キャンパスの蘇苔類フロラ : フロラ多様性の視点から</Title>
-        <Url>http://hdl.handle.net/10069/7260</Url>
-        <ClickUrl>http://hdl.handle.net/10069/7260</ClickUrl>
+        <Title>NAOSITE: List of plant specimens collected in the Galapagos ...</Title>
+        <Url>http://hdl.handle.net/10069/7359</Url>
+        <ClickUrl>http://hdl.handle.net/10069/7359</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: &amp;lt;研究論文&amp;gt;助詞ハの機能と部分否定</Title>
-        <Url>http://hdl.handle.net/10069/5457</Url>
-        <ClickUrl>http://hdl.handle.net/10069/5457</ClickUrl>
+        <Title>NAOSITE: 対馬のコナラーノグルミ群集について</Title>
+        <Url>http://hdl.handle.net/10069/9464</Url>
+        <ClickUrl>http://hdl.handle.net/10069/9464</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: Stomach-Selective Gene Transfer Following the ...</Title>
-        <Url>http://hdl.handle.net/10069/8394</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8394</ClickUrl>
+        <Title>NAOSITE: Fluid flow and heat transfer to modified power law ...</Title>
+        <Url>http://hdl.handle.net/10069/5153</Url>
+        <ClickUrl>http://hdl.handle.net/10069/5153</ClickUrl>
     </Result>
     <Result>
-        <Title>NAOSITE: Two New Acylated Flavanone Glycosides from the ...</Title>
-        <Url>http://hdl.handle.net/10069/8408</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8408</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Phytogeography and ecology of Scalesia (Compositae ...</Title>
-        <Url>http://hdl.handle.net/10069/6478</Url>
-        <ClickUrl>http://hdl.handle.net/10069/6478</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: 透過性潜堤による平面波浪場の制御に関する研究</Title>
-        <Url>http://hdl.handle.net/10069/5045</Url>
-        <ClickUrl>http://hdl.handle.net/10069/5045</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Alkaloids, Diarylheptanoid and Naphthalene ...</Title>
-        <Url>http://hdl.handle.net/10069/8401</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8401</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: 金融政策と国際労働移動</Title>
-        <Url>http://hdl.handle.net/10069/9798</Url>
-        <ClickUrl>http://hdl.handle.net/10069/9798</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: ネパールの民主化と運命論(1)</Title>
-        <Url>http://hdl.handle.net/10069/6271</Url>
-        <ClickUrl>http://hdl.handle.net/10069/6271</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: 重心動揺に関する傾向分析</Title>
-        <Url>http://hdl.handle.net/10069/6208</Url>
-        <ClickUrl>http://hdl.handle.net/10069/6208</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Stomach- and Site-Selective Delivery of 5 ...</Title>
-        <Url>http://hdl.handle.net/10069/8391</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8391</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Altitudinal change in plant endemism and species ...</Title>
-        <Url>http://hdl.handle.net/10069/6479</Url>
-        <ClickUrl>http://hdl.handle.net/10069/6479</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Further Characterization of Galloyl Pedunculagin as ...</Title>
-        <Url>http://hdl.handle.net/10069/8378</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8378</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Activity-Guided Fractionation of Green Tea Extract ...</Title>
-        <Url>http://hdl.handle.net/10069/8377</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8377</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Antiproliferative Constituents in the Plant 8. Seeds ...</Title>
-        <Url>http://hdl.handle.net/10069/8375</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8375</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Revised Structure of Cercidinin A, a Novel ...</Title>
-        <Url>http://hdl.handle.net/10069/8399</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8399</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Antibacterial Spectrum of Plant Polyphenols and ...</Title>
-        <Url>http://hdl.handle.net/10069/8396</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8396</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NAOSITE: Antimicrobial Activity of 10 Different Plant ...</Title>
-        <Url>http://hdl.handle.net/10069/8386</Url>
-        <ClickUrl>http://hdl.handle.net/10069/8386</ClickUrl>
+        <Title>NAOSITE: 彫刻「秘めたる鼓動」</Title>
+        <Url>http://hdl.handle.net/10069/5767</Url>
+        <ClickUrl>http://hdl.handle.net/10069/5767</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:59 PST 2010 -->
-<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:59 PST 2010 -->
+<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:03 PDT 2010 -->
+<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:03 PDT 2010 -->

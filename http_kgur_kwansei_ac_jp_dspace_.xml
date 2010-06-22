@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="273"
+    totalResultsAvailable="285"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -17,29 +17,14 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: 2004~2007年度 文科省IT人材育成プロジェクト 研究開発実施報告書</Title>
-        <Url>http://hdl.handle.net/10236/467</Url>
-        <ClickUrl>http://hdl.handle.net/10236/467</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: Give a ~の意味構造と生成過程</Title>
-        <Url>http://hdl.handle.net/10236/1645</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1645</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: get 受身文の統語構造と概念構造について</Title>
-        <Url>http://hdl.handle.net/10236/1646</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1646</ClickUrl>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -47,14 +32,124 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: Licensing and R&amp;amp;D Investment of Duopolistic ...</Title>
-        <Url>http://hdl.handle.net/10236/481</Url>
-        <ClickUrl>http://hdl.handle.net/10236/481</ClickUrl>
+        <Title>関西学院大学リポジトリ: STAR母数推定量の小標本特性について</Title>
+        <Url>http://hdl.handle.net/10236/434</Url>
+        <ClickUrl>http://hdl.handle.net/10236/434</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: WTO貿易円滑化交渉と国際ビジネスをめぐる課題</Title>
+        <Url>http://hdl.handle.net/10236/1584</Url>
+        <ClickUrl>http://hdl.handle.net/10236/1584</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: Wavelet Analysis Correlation Spectroscopy</Title>
+        <Url>http://hdl.handle.net/10236/1716</Url>
+        <ClickUrl>http://hdl.handle.net/10236/1716</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: 利益概念と会計主体に関する一考察 : 連結基礎概念を中心に</Title>
+        <Url>http://hdl.handle.net/10236/2776</Url>
+        <ClickUrl>http://hdl.handle.net/10236/2776</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: F.Y. エッジワースとその知的環境 : 生誕からトリニティ・カレッジ・ダブリン時代まで</Title>
+        <Url>http://hdl.handle.net/10236/2728</Url>
+        <ClickUrl>http://hdl.handle.net/10236/2728</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: Knowledge Creation for Enriching Diverse Cultures</Title>
+        <Url>http://hdl.handle.net/10236/1682</Url>
+        <ClickUrl>http://hdl.handle.net/10236/1682</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
     </Result>
     <Result>
         <Title>関西学院大学リポジトリ: 1837 年恐慌の国際的波及 : 合衆国南部州法銀行について</Title>
         <Url>http://hdl.handle.net/10236/237</Url>
         <ClickUrl>http://hdl.handle.net/10236/237</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: Les composantes socioculturelles de la ...</Title>
+        <Url>http://hdl.handle.net/10236/348</Url>
+        <ClickUrl>http://hdl.handle.net/10236/348</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: The Effects of the Great Hanshin-Awaji ...</Title>
+        <Url>http://hdl.handle.net/10236/1705</Url>
+        <ClickUrl>http://hdl.handle.net/10236/1705</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: 6π-アザ電子環状反応を用いた双性イオン型インドールアルカロ&lt;wbr&gt;イドの全合成</Title>
+        <Url>http://hdl.handle.net/10236/3402</Url>
+        <ClickUrl>http://hdl.handle.net/10236/3402</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: J・C・C・ニュートン第3代院長の足跡を訪ねて</Title>
+        <Url>http://hdl.handle.net/10236/2603</Url>
+        <ClickUrl>http://hdl.handle.net/10236/2603</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: Le travail dans le matériau des mots : Lecture ...</Title>
+        <Url>http://hdl.handle.net/10236/1324</Url>
+        <ClickUrl>http://hdl.handle.net/10236/1324</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: 日本におけるエンロールメント・マネジメントの展開 (3) : 京都光華女子大学における個別対応 ...</Title>
+        <Url>http://hdl.handle.net/10236/3508</Url>
+        <ClickUrl>http://hdl.handle.net/10236/3508</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: 商科大学学生構成分析 : ライプチヒ 1898-1920</Title>
+        <Url>http://hdl.handle.net/10236/2020</Url>
+        <ClickUrl>http://hdl.handle.net/10236/2020</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: 「信仰復興運動」とモラヴィア教徒のリティッツ町の発展</Title>
+        <Url>http://hdl.handle.net/10236/3314</Url>
+        <ClickUrl>http://hdl.handle.net/10236/3314</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: セリンを原料としたスフィンゴ脂質の統一的合成法の開発およびタ&lt;wbr&gt;ミフル合成へのアプローチ</Title>
+        <Url>http://hdl.handle.net/10236/3495</Url>
+        <ClickUrl>http://hdl.handle.net/10236/3495</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: 《La touche d&apos;un piano》型または《l&apos;aile de l&apos;avion》型の定 ...</Title>
+        <Url>http://hdl.handle.net/10236/1384</Url>
+        <ClickUrl>http://hdl.handle.net/10236/1384</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: La problématique du 《mariage d&apos;amour》 dans ...</Title>
+        <Url>http://hdl.handle.net/10236/3171</Url>
+        <ClickUrl>http://hdl.handle.net/10236/3171</ClickUrl>
+    </Result>
+    <Result>
+        <Title>関西学院大学リポジトリ: 兵庫県漁具図解から見えてくるもの</Title>
+        <Url>http://hdl.handle.net/10236/3389</Url>
+        <ClickUrl>http://hdl.handle.net/10236/3389</ClickUrl>
+    </Result>
+    <Result>
+        <Title>京都大学附属図書館、京都大学学術情報リポジトリで京都大学学術&lt;wbr&gt;出版会発行の研究書を公開(2008-02-01 ...</Title>
+        <Url>http://d.hatena.ne.jp/arg/20080210/1202609769</Url>
+        <ClickUrl>http://d.hatena.ne.jp/arg/20080210/1202609769</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Kwansei Gakuin University</Title>
+        <Url>http://www.opendoar.org/find.php?search=Kwansei+Gakuin+University&amp;title=Kwansei+Gakuin+University</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=Kwansei+Gakuin+University&amp;title=Kwansei+Gakuin+University</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Kwansei Gakuin University Repository</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Kwansei+Gakuin+University+Repository&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Kwansei+Gakuin+University+Repository&amp;title=SUPPRESS</ClickUrl>
     </Result>
     <Result>
         <Title>関西学院大学リポジトリ: J.S. ミルのフランス滞在 : 空白の一週間 : 再発見された新資料</Title>
@@ -67,89 +162,9 @@
         <ClickUrl>http://hdl.handle.net/10236/278</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: Les composantes socioculturelles de la ...</Title>
-        <Url>http://hdl.handle.net/10236/348</Url>
-        <ClickUrl>http://hdl.handle.net/10236/348</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: 19 世紀初期における合衆国財務省の役割</Title>
-        <Url>http://hdl.handle.net/10236/235</Url>
-        <ClickUrl>http://hdl.handle.net/10236/235</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: 「IASC の将来像」に対する FAF-FASB の反応</Title>
-        <Url>http://hdl.handle.net/10236/295</Url>
-        <ClickUrl>http://hdl.handle.net/10236/295</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: VIEs政策,国際的複占競争,および需要の不確実性</Title>
-        <Url>http://hdl.handle.net/10236/510</Url>
-        <ClickUrl>http://hdl.handle.net/10236/510</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: W. Stanley Jevons (1835-1882) – From a Man of ...</Title>
-        <Url>http://hdl.handle.net/10236/486</Url>
-        <ClickUrl>http://hdl.handle.net/10236/486</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: On Environmental Subsidy/Tax Policy with ...</Title>
-        <Url>http://hdl.handle.net/10236/497</Url>
-        <ClickUrl>http://hdl.handle.net/10236/497</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: The Hamessing of Innovation toward a Sustainable ...</Title>
-        <Url>http://hdl.handle.net/10236/246</Url>
-        <ClickUrl>http://hdl.handle.net/10236/246</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: Benassyモデルによる日本経済のマクロ不均衡計量分析の試&lt;wbr&gt;み</Title>
-        <Url>http://hdl.handle.net/10236/279</Url>
-        <ClickUrl>http://hdl.handle.net/10236/279</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: MA(1)過程の相関係数推定量の小標本特性について</Title>
-        <Url>http://hdl.handle.net/10236/436</Url>
-        <ClickUrl>http://hdl.handle.net/10236/436</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: 1837 年恐慌におけるマーチャント・バンカー : ベアリング商会を中心として</Title>
-        <Url>http://hdl.handle.net/10236/239</Url>
-        <ClickUrl>http://hdl.handle.net/10236/239</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: 16世紀「価格革命」論の検証</Title>
-        <Url>http://hdl.handle.net/10236/370</Url>
-        <ClickUrl>http://hdl.handle.net/10236/370</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: 19世紀イギリスにおける貨幣理論の発展</Title>
-        <Url>http://hdl.handle.net/10236/369</Url>
-        <ClickUrl>http://hdl.handle.net/10236/369</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: W.S. ジェヴォンズの往復書簡 : ジェヴォンズ著作目録・関係文献目録補遺</Title>
-        <Url>http://hdl.handle.net/10236/274</Url>
-        <ClickUrl>http://hdl.handle.net/10236/274</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: Organizational Entry Deterrence Barrier : the ...</Title>
-        <Url>http://hdl.handle.net/10236/480</Url>
-        <ClickUrl>http://hdl.handle.net/10236/480</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: I(d)変数(d&amp;gt;1/2)を含む回帰モデルの統計的推定</Title>
-        <Url>http://hdl.handle.net/10236/423</Url>
-        <ClickUrl>http://hdl.handle.net/10236/423</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: On the Effects of Emission Standards as ...</Title>
-        <Url>http://hdl.handle.net/10236/498</Url>
-        <ClickUrl>http://hdl.handle.net/10236/498</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: W.S.ジェヴォンズとラテン貨幣同盟 : ジェヴォンズとF.ヘンドリックス</Title>
-        <Url>http://hdl.handle.net/10236/270</Url>
-        <ClickUrl>http://hdl.handle.net/10236/270</ClickUrl>
+        <Title>関西学院大学リポジトリ: 大学生の喪失体験</Title>
+        <Url>http://hdl.handle.net/10236/2455</Url>
+        <ClickUrl>http://hdl.handle.net/10236/2455</ClickUrl>
     </Result>
     <Result>
         <Title>関西学院大学リポジトリ: J.ロック『統治論』のアメリカ版(1773)をめぐって</Title>
@@ -157,24 +172,9 @@
         <ClickUrl>http://hdl.handle.net/10236/1627</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: (Reference Review 51-4の研究動向・全分野から, リファレンス・レビュー研究 ...</Title>
-        <Url>http://hdl.handle.net/10236/1535</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1535</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: International Market Rivalry between Labor ...</Title>
-        <Url>http://hdl.handle.net/10236/1684</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1684</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: 鈴木克彦博士ご退職記念号刊行に寄せて</Title>
-        <Url>http://hdl.handle.net/10236/1403</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1403</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: 竹中郁作詞「紀見小学校校歌」試論 : 故辻田豊学兄に捧ぐ</Title>
-        <Url>http://hdl.handle.net/10236/1391</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1391</ClickUrl>
+        <Title>関西学院大学リポジトリ: La monomanie réflective dans quelques contes de ...</Title>
+        <Url>http://hdl.handle.net/10236/3073</Url>
+        <ClickUrl>http://hdl.handle.net/10236/3073</ClickUrl>
     </Result>
     <Result>
         <Title>関西学院大学リポジトリ: Le Scene di Banchetto nelle Catacombe Cristiane ...</Title>
@@ -187,19 +187,9 @@
         <ClickUrl>http://hdl.handle.net/10236/1660</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: A Minimalist Approach to Anaphoric Binding</Title>
-        <Url>http://hdl.handle.net/10236/1255</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1255</ClickUrl>
-    </Result>
-    <Result>
         <Title>関西学院大学リポジトリ: Lexical and Constructional Representations for ...</Title>
         <Url>http://hdl.handle.net/10236/1351</Url>
         <ClickUrl>http://hdl.handle.net/10236/1351</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: 《La touche d&apos;un piano》型または《l&apos;aile de l&apos;avion》型の定 ...</Title>
-        <Url>http://hdl.handle.net/10236/1384</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1384</ClickUrl>
     </Result>
     <Result>
         <Title>関西学院大学リポジトリ: Le Roman de Tristan en proseにおけるamerとtant</Title>
@@ -207,19 +197,9 @@
         <ClickUrl>http://hdl.handle.net/10236/1322</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: Le travail dans le matériau des mots : Lecture ...</Title>
-        <Url>http://hdl.handle.net/10236/1324</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1324</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: Linguistic Ability as a Competitive Advantage ...</Title>
-        <Url>http://hdl.handle.net/10236/1707</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1707</ClickUrl>
-    </Result>
-    <Result>
-        <Title>関西学院大学リポジトリ: The Lexical Derivation of English Middles and ...</Title>
-        <Url>http://hdl.handle.net/10236/1354</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1354</ClickUrl>
+        <Title>関西学院大学リポジトリ: The Lexical Categories of State-Denoting ...</Title>
+        <Url>http://hdl.handle.net/10236/1264</Url>
+        <ClickUrl>http://hdl.handle.net/10236/1264</ClickUrl>
     </Result>
     <Result>
         <Title>関西学院大学リポジトリ: Korea Telecomのビジネス・プロセス・マネジメント</Title>
@@ -227,9 +207,9 @@
         <ClickUrl>http://hdl.handle.net/10236/1520</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: The Lexical Categories of State-Denoting ...</Title>
-        <Url>http://hdl.handle.net/10236/1264</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1264</ClickUrl>
+        <Title>関西学院大学リポジトリ: The Lexical Derivation of English Middles and ...</Title>
+        <Url>http://hdl.handle.net/10236/1354</Url>
+        <ClickUrl>http://hdl.handle.net/10236/1354</ClickUrl>
     </Result>
     <Result>
         <Title>関西学院大学リポジトリ: The Japanese Electronics Industry : Present ...</Title>
@@ -237,25 +217,45 @@
         <ClickUrl>http://hdl.handle.net/10236/1697</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: 1840 年代前半のサンド小説における結婚の問題 : 財産と階級的偏見をめぐって</Title>
-        <Url>http://hdl.handle.net/10236/1219</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1219</ClickUrl>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: Problems of Accounting Standard-Setting in Japan</Title>
-        <Url>http://hdl.handle.net/10236/1657</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1657</ClickUrl>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: The Need of Theoretical Identification of Latent ...</Title>
-        <Url>http://hdl.handle.net/10236/1685</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1685</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>関西学院大学リポジトリ: Asian Lease Markets : Emerging Finance and ...</Title>
-        <Url>http://hdl.handle.net/10236/1699</Url>
-        <ClickUrl>http://hdl.handle.net/10236/1699</ClickUrl>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=66&amp;</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=66&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=73&amp;</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=73&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php?menu=2&amp;submenu=1</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:26 PST 2010 -->
-<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:25 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:46 PDT 2010 -->
+<!-- ws03.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:46 PDT 2010 -->

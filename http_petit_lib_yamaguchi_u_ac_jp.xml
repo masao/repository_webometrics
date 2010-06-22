@@ -3,15 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="7236"
+    totalResultsAvailable="8969"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
-    </Result>
-    <Result>
         <Title>山口大学トップページ</Title>
         <Url>http://www.yamaguchi-u.ac.jp/</Url>
         <ClickUrl>http://www.yamaguchi-u.ac.jp/</ClickUrl>
@@ -27,14 +22,14 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学図書館</Title>
@@ -57,11 +52,6 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
         <Title>山口大学受験生の方へ</Title>
         <Url>http://www.yamaguchi-u.ac.jp/yf_addmission.html</Url>
         <ClickUrl>http://www.yamaguchi-u.ac.jp/yf_addmission.html</ClickUrl>
@@ -72,14 +62,9 @@
         <ClickUrl>http://www.yamaguchi-u.ac.jp/kyoukankoubo.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Title>山口大学キャンパスマップ</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/annai/campusmap/index.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/campusmap/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -87,19 +72,14 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
     </Result>
     <Result>
+        <Title>山口大学山口地区</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/annai/access/yamaguchi.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/access/yamaguchi.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学学部・大学院</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/ya_faculty.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_faculty.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学キャンパスマップ</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/annai/campusmap/index.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/campusmap/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学行事予定</Title>
@@ -107,34 +87,24 @@
         <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/calendar/calendar.cgi</ClickUrl>
     </Result>
     <Result>
+        <Title>山口大学学部・大学院</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/ya_faculty.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_faculty.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories</Title>
+        <Url>http://www.opendoar.org/find.php?rID=1067</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?rID=1067</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Open Access Japan | オープンアクセスジャパン - 日本における機関リポジトリ</Title>
-        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
-        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学山口地区</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/annai/access/yamaguchi.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/access/yamaguchi.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学就職・採用情報</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/ya_job.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_job.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>山口大学図書館・附属施設施設等</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/ya_center.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_center.html</ClickUrl>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学吉田キャンパスへのアクセス(山口宇部空港から&lt;wbr&gt;)</Title>
@@ -142,9 +112,14 @@
         <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/access/yoshida-ap.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
+        <Title>Atsuhiro Nabeshima at Weblo Celebrities</Title>
+        <Url>http://www.weblo.com/celebrity/available/Atsuhiro_Nabeshima/276943/</Url>
+        <ClickUrl>http://www.weblo.com/celebrity/available/Atsuhiro_Nabeshima/276943/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
@@ -152,9 +127,9 @@
         <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
     </Result>
     <Result>
-        <Title>YUNOCA 山口大学学術機関リポジトリ</Title>
-        <Url>http://www.lib.yamaguchi-u.ac.jp/yunoca/</Url>
-        <ClickUrl>http://www.lib.yamaguchi-u.ac.jp/yunoca/</ClickUrl>
+        <Title>山口県大学共同リポジトリ : 維 新</Title>
+        <Url>http://ypir.lib.yamaguchi-u.ac.jp/</Url>
+        <ClickUrl>http://ypir.lib.yamaguchi-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学大学紹介</Title>
@@ -162,9 +137,19 @@
         <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_intro.html</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学教職員</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/yf_staff.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/yf_staff.html</ClickUrl>
+        <Title>山口大学宇部地区</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/annai/access/ube.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/access/ube.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>山口大学TOPICS</Title>
+        <Url>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/topics_event/2009/topic100122.cgi</Url>
+        <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/topics_event/2009/topic100122.cgi</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学研究・産学連携</Title>
@@ -172,14 +157,14 @@
         <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_study.html</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学情報公開</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/ya_public.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_public.html</ClickUrl>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学サイトマップ</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/yt_sitemap.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/yt_sitemap.html</ClickUrl>
+        <Title>山口大学教育理念</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/annai/objectives/index.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/objectives/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
@@ -187,14 +172,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学過去のWeeklyNews 2008</Title>
-        <Url>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2008.cgi</Url>
-        <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2008.cgi</ClickUrl>
+        <Title>山口大学過去のWeeklyNews 2009</Title>
+        <Url>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2009.cgi</Url>
+        <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2009.cgi</ClickUrl>
     </Result>
     <Result>
-        <Title>山口県大学共同リポジトリ : 維 新</Title>
-        <Url>http://ypir.lib.yamaguchi-u.ac.jp/</Url>
-        <ClickUrl>http://ypir.lib.yamaguchi-u.ac.jp/</ClickUrl>
+        <Title>山口大学就職・採用情報</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/ya_job.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_job.html</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学お問い合わせ</Title>
@@ -207,14 +192,19 @@
         <ClickUrl>http://ypir.lib.yamaguchi-u.ac.jp/dspace/</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学事務局</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/ya_office.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_office.html</ClickUrl>
+        <Title>山口大学情報公開</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/ya_public.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_public.html</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学在学生の方へ</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/yf_student.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/yf_student.html</ClickUrl>
+        <Title>山口大学図書館・附属施設施設等</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/ya_center.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_center.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>山口大学サイトマップ</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/yt_sitemap.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/yt_sitemap.html</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学教育・学生生活</Title>
@@ -222,9 +212,14 @@
         <ClickUrl>http://www.yamaguchi-u.ac.jp/ya_student.html</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学宇部地区</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/annai/access/ube.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/access/ube.html</ClickUrl>
+        <Title>山口大学Topics&amp;amp;Event 一覧</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/yt_past_topics_event.html</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/yt_past_topics_event.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>山口大学大学憲章</Title>
+        <Url>http://www.yamaguchi-u.ac.jp/annai/charter/</Url>
+        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/charter/</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学吉田キャンパスへのアクセス(JR新山口駅から&lt;wbr&gt;)</Title>
@@ -232,9 +227,9 @@
         <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/access/yoshida-st.html</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学公的研究費の使用に関する行動規範</Title>
-        <Url>http://www.yamaguchi-u.ac.jp/annai/objectives/koudoukihan.html</Url>
-        <ClickUrl>http://www.yamaguchi-u.ac.jp/annai/objectives/koudoukihan.html</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>山口大学年間行事予定</Title>
@@ -242,20 +237,25 @@
         <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/calendar/event_y.cgi</ClickUrl>
     </Result>
     <Result>
+        <Title>山口大学TOPICS</Title>
+        <Url>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/topics_event/2009/topic090526-2.cgi</Url>
+        <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/topics_event/2009/topic090526-2.cgi</ClickUrl>
+    </Result>
+    <Result>
         <Title>山口大学過去のWeeklyNews 2007</Title>
         <Url>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2007.cgi</Url>
         <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2007.cgi</ClickUrl>
     </Result>
     <Result>
-        <Title>山口大学過去のWeeklyNews 2006</Title>
-        <Url>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2006.cgi</Url>
-        <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2006.cgi</ClickUrl>
+        <Title>山口大学過去のWeeklyNews 2005</Title>
+        <Url>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2005.cgi</Url>
+        <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2005.cgi</ClickUrl>
     </Result>
     <Result>
-        <Title>albuminocholia : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품 ...</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=albuminocholia</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=albuminocholia</ClickUrl>
+        <Title>山口大学過去のWeeklyNews 2008</Title>
+        <Url>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2008.cgi</Url>
+        <ClickUrl>http://ds22.cc.yamaguchi-u.ac.jp/~www-yu/cgi-bin/pastweeklynews/log/past_news2008.cgi</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:13 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:13 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:35 PDT 2010 -->
+<!-- ws11.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:35 PDT 2010 -->

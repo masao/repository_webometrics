@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="960"
+    totalResultsAvailable="871"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,14 +22,14 @@
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
-    </Result>
-    <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
         <Url>http://www.opendoar.org/countrylist.php?cContinent=Asia</Url>
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>Muroran Institute of Technology Library (室蘭工業大学附属図書館)</Title>
@@ -37,159 +37,9 @@
         <ClickUrl>http://mitlib.lib.muroran-it.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
-        <Title>屋内バイクトレーニング時のトライアスロン熟練者の発汗量と体表&lt;wbr&gt;面温度の測定: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/438</Url>
-        <ClickUrl>http://hdl.handle.net/10258/438</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ローカル・マニフェストのリアリティ : 地方政治変革の潮流: Muroran-IT Academic Resources ...</Title>
-        <Url>http://hdl.handle.net/10258/432</Url>
-        <ClickUrl>http://hdl.handle.net/10258/432</ClickUrl>
-    </Result>
-    <Result>
-        <Title>LNGロケットエンジンのメタンコーキング特性に関する基礎研究&lt;wbr&gt;: Muroran-IT Academic Resources ...</Title>
-        <Url>http://hdl.handle.net/10258/424</Url>
-        <ClickUrl>http://hdl.handle.net/10258/424</ClickUrl>
-    </Result>
-    <Result>
-        <Title>小型超音速飛行実験機の空力特性: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/428</Url>
-        <ClickUrl>http://hdl.handle.net/10258/428</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Upper Bounds on Percolation Probabilities for Oriented Bond ...</Title>
-        <Url>http://hdl.handle.net/10258/195</Url>
-        <ClickUrl>http://hdl.handle.net/10258/195</ClickUrl>
-    </Result>
-    <Result>
-        <Title>担持ニッケル触媒によるメタンの分解反応 : グリーン水素製造: Muroran-IT Academic Resources ...</Title>
-        <Url>http://hdl.handle.net/10258/354</Url>
-        <ClickUrl>http://hdl.handle.net/10258/354</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ロケット燃焼室におけるニッケル電鋳特性向上に関する基礎研究&lt;wbr&gt;: Muroran-IT Academic Resources ...</Title>
-        <Url>http://hdl.handle.net/10258/426</Url>
-        <ClickUrl>http://hdl.handle.net/10258/426</ClickUrl>
-    </Result>
-    <Result>
-        <Title>グリーン水素製造 (第2報) 金属酸化物担持ニッケル触媒によるメタン分解反応: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/435</Url>
-        <ClickUrl>http://hdl.handle.net/10258/435</ClickUrl>
-    </Result>
-    <Result>
-        <Title>サブスケール高速走行軌道装置の試作と走行実験: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/429</Url>
-        <ClickUrl>http://hdl.handle.net/10258/429</ClickUrl>
-    </Result>
-    <Result>
-        <Title>北海道内市町村の鳥獣被害への取り組み: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/436</Url>
-        <ClickUrl>http://hdl.handle.net/10258/436</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Blake の A Vision of the Last Judgment について: Muroran-IT ...</Title>
-        <Url>http://hdl.handle.net/10258/433</Url>
-        <ClickUrl>http://hdl.handle.net/10258/433</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Study on Electric Properties of Gadolinium Nitrate Crystals ...</Title>
-        <Url>http://hdl.handle.net/10258/431</Url>
-        <ClickUrl>http://hdl.handle.net/10258/431</ClickUrl>
-    </Result>
-    <Result>
-        <Title>反転ファンターボジェットエンジンの研究: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/423</Url>
-        <ClickUrl>http://hdl.handle.net/10258/423</ClickUrl>
-    </Result>
-    <Result>
-        <Title>熱分解吸熱反応燃料に関する研究: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/427</Url>
-        <ClickUrl>http://hdl.handle.net/10258/427</ClickUrl>
-    </Result>
-    <Result>
-        <Title>北海道稚内市の洪水ハザードマップ作成 および避難に関する考察: Muroran-IT Academic Resources ...</Title>
-        <Url>http://hdl.handle.net/10258/437</Url>
-        <ClickUrl>http://hdl.handle.net/10258/437</ClickUrl>
-    </Result>
-    <Result>
-        <Title>室蘭工業大学「エンジニアリング・デザイン教育ネットワーク」の&lt;wbr&gt;活動報告: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/357</Url>
-        <ClickUrl>http://hdl.handle.net/10258/357</ClickUrl>
-    </Result>
-    <Result>
-        <Title>カルコゲナイドガラス及びファイバーの光透過性とCO2レーザー&lt;wbr&gt;パワー伝送性: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/175</Url>
-        <ClickUrl>http://hdl.handle.net/10258/175</ClickUrl>
-    </Result>
-    <Result>
-        <Title>室蘭工業大学学生の喫煙行動と健康意識: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/355</Url>
-        <ClickUrl>http://hdl.handle.net/10258/355</ClickUrl>
-    </Result>
-    <Result>
-        <Title>A double peak of the coercive force near the compensation ...</Title>
-        <Url>http://hdl.handle.net/10258/420</Url>
-        <ClickUrl>http://hdl.handle.net/10258/420</ClickUrl>
-    </Result>
-    <Result>
-        <Title>LNGロケットエンジンにおけるサルファアタック・コーキングに&lt;wbr&gt;関する基礎研究: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/425</Url>
-        <ClickUrl>http://hdl.handle.net/10258/425</ClickUrl>
-    </Result>
-    <Result>
-        <Title>CORBAを用いた3階層クライアント/サーバ方式によるデータ&lt;wbr&gt;ベースシステムについて: Muroran-IT ...</Title>
-        <Url>http://hdl.handle.net/10258/146</Url>
-        <ClickUrl>http://hdl.handle.net/10258/146</ClickUrl>
-    </Result>
-    <Result>
-        <Title>雷雲の静電気発生の粒子衝突によるイオン生成効果(II&lt;wbr&gt;):3種の雷の共通した電荷発生機構: Muroran-IT ...</Title>
-        <Url>http://hdl.handle.net/10258/418</Url>
-        <ClickUrl>http://hdl.handle.net/10258/418</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ファジィ推論を用いた牽引自動車の後退運転制御: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/172</Url>
-        <ClickUrl>http://hdl.handle.net/10258/172</ClickUrl>
-    </Result>
-    <Result>
-        <Title>室蘭工業大学「認知科学論」におけるライティング教育&lt;wbr&gt;: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/358</Url>
-        <ClickUrl>http://hdl.handle.net/10258/358</ClickUrl>
-    </Result>
-    <Result>
-        <Title>フッサールの数理哲学(1) : 「意味論的完全性」概念の不存在: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/178</Url>
-        <ClickUrl>http://hdl.handle.net/10258/178</ClickUrl>
-    </Result>
-    <Result>
-        <Title>連続時間スライディングモード制御のディジタル実装&lt;wbr&gt;: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/269</Url>
-        <ClickUrl>http://hdl.handle.net/10258/269</ClickUrl>
-    </Result>
-    <Result>
-        <Title>モンゴル語の目的語節の統語論: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/353</Url>
-        <ClickUrl>http://hdl.handle.net/10258/353</ClickUrl>
-    </Result>
-    <Result>
-        <Title>地域で行う自然エネルギー開発プロジェクト : 街中で唄う&quot;雪山賛歌&quot;計画: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/348</Url>
-        <ClickUrl>http://hdl.handle.net/10258/348</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Preparation of highly active AlSBA-15-supported platinum ...</Title>
-        <Url>http://hdl.handle.net/10258/347</Url>
-        <ClickUrl>http://hdl.handle.net/10258/347</ClickUrl>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -197,44 +47,9 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>運輸部門における自動車用エネルギ消費量の削減 : 所得格差と交通社会: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/263</Url>
-        <ClickUrl>http://hdl.handle.net/10258/263</ClickUrl>
-    </Result>
-    <Result>
-        <Title>香り物質の左手型と右手型 : 昆虫フェロモンおよび植物精油成分の合成と性質: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/342</Url>
-        <ClickUrl>http://hdl.handle.net/10258/342</ClickUrl>
-    </Result>
-    <Result>
-        <Title>研究ノート : アボリジニの神話伝承: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/293</Url>
-        <ClickUrl>http://hdl.handle.net/10258/293</ClickUrl>
-    </Result>
-    <Result>
-        <Title>釧路湿原の地下水位分布の推定: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/272</Url>
-        <ClickUrl>http://hdl.handle.net/10258/272</ClickUrl>
-    </Result>
-    <Result>
-        <Title>尖度解析と最尤推定法を組み合せた微小地震のP波入力時刻自動検&lt;wbr&gt;出法: Muroran-IT Academic ...</Title>
-        <Url>http://hdl.handle.net/10258/414</Url>
-        <ClickUrl>http://hdl.handle.net/10258/414</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Department of Civil Engineering and Architecture: Muroran-IT ...</Title>
-        <Url>http://hdl.handle.net/10258/10</Url>
-        <ClickUrl>http://hdl.handle.net/10258/10</ClickUrl>
+        <Title>Dynamical Systems Analysis of Arterial Blood Pressure Signals ...</Title>
+        <Url>http://hdl.handle.net/10258/155</Url>
+        <ClickUrl>http://hdl.handle.net/10258/155</ClickUrl>
     </Result>
     <Result>
         <Title>萱野さんの二つの形見: Muroran-IT Academic Resources Archive</Title>
@@ -242,20 +57,205 @@
         <ClickUrl>http://hdl.handle.net/10258/228</ClickUrl>
     </Result>
     <Result>
-        <Title>Design study of ultrahigh-speed microwave simulator engine ...</Title>
-        <Url>http://hdl.handle.net/10258/219</Url>
-        <ClickUrl>http://hdl.handle.net/10258/219</ClickUrl>
+        <Title>アイヌ語の気象語彙とアイヌの基層文化 : 萱野茂氏からの聞書きを交えて: Muroran-IT Academic ...</Title>
+        <Url>http://hdl.handle.net/10258/291</Url>
+        <ClickUrl>http://hdl.handle.net/10258/291</ClickUrl>
     </Result>
     <Result>
-        <Title>臭いセンサーマイクロチップの開発: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/410</Url>
-        <ClickUrl>http://hdl.handle.net/10258/410</ClickUrl>
+        <Title>グリーン水素製造 (第2報) 金属酸化物担持ニッケル触媒によるメタン分解反応: Muroran-IT Academic ...</Title>
+        <Url>http://hdl.handle.net/10258/435</Url>
+        <ClickUrl>http://hdl.handle.net/10258/435</ClickUrl>
     </Result>
     <Result>
-        <Title>最も有名なハワイ語動詞alohaの用法について: Muroran-IT Academic Resources Archive</Title>
-        <Url>http://hdl.handle.net/10258/237</Url>
-        <ClickUrl>http://hdl.handle.net/10258/237</ClickUrl>
+        <Title>反転ファンターボジェットエンジンの研究: Muroran-IT Academic Resources Archive</Title>
+        <Url>http://hdl.handle.net/10258/423</Url>
+        <ClickUrl>http://hdl.handle.net/10258/423</ClickUrl>
+    </Result>
+    <Result>
+        <Title>地域で行う自然エネルギー開発プロジェクト : 街中で唄う&quot;雪山賛歌&quot;計画: Muroran-IT Academic ...</Title>
+        <Url>http://hdl.handle.net/10258/348</Url>
+        <ClickUrl>http://hdl.handle.net/10258/348</ClickUrl>
+    </Result>
+    <Result>
+        <Title>高張力鋼板のレーザー溶接継手の衝撃引張特性に及ぼす予疲労の影&lt;wbr&gt;響: Muroran-IT Academic ...</Title>
+        <Url>http://hdl.handle.net/10258/295</Url>
+        <ClickUrl>http://hdl.handle.net/10258/295</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>コレクション (室蘭工業大学附属図書館)</Title>
+        <Url>http://mitlib.lib.muroran-it.ac.jp/collection.html</Url>
+        <ClickUrl>http://mitlib.lib.muroran-it.ac.jp/collection.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>リサイクル型超耐水段ボールの衝撃圧縮試験: Muroran-IT Academic Resources Archive</Title>
+        <Url>http://hdl.handle.net/10258/282</Url>
+        <ClickUrl>http://hdl.handle.net/10258/282</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Muroran Institute of Technology Library (室蘭工業大学附属図書館)</Title>
+        <Url>http://svopac.lib.muroran-it.ac.jp/</Url>
+        <ClickUrl>http://svopac.lib.muroran-it.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Browse by Repository Type - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/type/institutional.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/type/institutional.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Open Access Japan | オープンアクセスジャパン: 日本における機関リポジトリ</Title>
+        <Url>http://www.openaccessjapan.com/archives/2006/01/post_87.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/archives/2006/01/post_87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>tail tale: 「宇宙基本計画(案)に対する意見」</Title>
+        <Url>http://tail-tale.blogspot.com/2009/05/blog-post.html</Url>
+        <ClickUrl>http://tail-tale.blogspot.com/2009/05/blog-post.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本における機関リポジトリ - Open Access Japan | オープンアクセスジャパン</Title>
+        <Url>http://www.openaccessjapan.com/2006/01/post-38.html</Url>
+        <ClickUrl>http://www.openaccessjapan.com/2006/01/post-38.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -tensile test-</Title>
+        <Url>http://seonum.com/rank/tensile+test.html</Url>
+        <ClickUrl>http://seonum.com/rank/tensile+test.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Muroran-IT Academic Resources Archive - Registry of Open ...</Title>
+        <Url>http://roar.eprints.org/865/</Url>
+        <ClickUrl>http://roar.eprints.org/865/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=1353</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=1353</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Muroran-IT Academic Resource Archive</Title>
+        <Url>http://www.opendoar.org/find.php?format=full&amp;search=Muroran-IT+Academic+Resource+Archive&amp;title=SUPPRESS</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?format=full&amp;search=Muroran-IT+Academic+Resource+Archive&amp;title=SUPPRESS</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Celestial - Edit Archive Record</Title>
+        <Url>http://celestial.eprints.org/repository?repository=http%3A%2F%2Fir.lib.muroran-it.ac.jp%2Fdspace-oai%2Frequest</Url>
+        <ClickUrl>http://celestial.eprints.org/repository?repository=http%3A%2F%2Fir.lib.muroran-it.ac.jp%2Fdspace-oai%2Frequest</ClickUrl>
+    </Result>
+    <Result>
+        <Title>OpenDOAR - Open Access Repositories: Muroran Institute of ...</Title>
+        <Url>http://www.opendoar.org/find.php?search=Muroran+Institute+of+Technology&amp;title=Muroran+Institute+of+Technology</Url>
+        <ClickUrl>http://www.opendoar.org/find.php?search=Muroran+Institute+of+Technology&amp;title=Muroran+Institute+of+Technology</ClickUrl>
+    </Result>
+    <Result>
+        <Title>紀要・概要 (室蘭工業大学附属図書館)</Title>
+        <Url>http://mitlib.lib.muroran-it.ac.jp/koho.html</Url>
+        <ClickUrl>http://mitlib.lib.muroran-it.ac.jp/koho.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -sus304 s-n曲線-</Title>
+        <Url>http://seonum.com/rank/sus304+s%EF%BC%8Dn%E6%9B%B2%E7%B7%9A.html</Url>
+        <ClickUrl>http://seonum.com/rank/sus304+s%EF%BC%8Dn%E6%9B%B2%E7%B7%9A.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -圧縮試験 ひずみ速度 影響-</Title>
+        <Url>http://seonum.com/rank/%E5%9C%A7%E7%B8%AE%E8%A9%A6%E9%A8%93+%E3%81%B2%E3%81%9A%E3%81%BF%E9%80%9F%E5%BA%A6+%E5%BD%B1%E9%9F%BF.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%9C%A7%E7%B8%AE%E8%A9%A6%E9%A8%93+%E3%81%B2%E3%81%9A%E3%81%BF%E9%80%9F%E5%BA%A6+%E5%BD%B1%E9%9F%BF.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>土木のデータ</Title>
+        <Url>http://homepage2.nifty.com/uyan/sub-index/data.html</Url>
+        <ClickUrl>http://homepage2.nifty.com/uyan/sub-index/data.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Memoirs of the Muroran Institute of Technology No.58 (2009)</Title>
+        <Url>http://mitlib.lib.muroran-it.ac.jp/kiyo/58go_eng.htm</Url>
+        <ClickUrl>http://mitlib.lib.muroran-it.ac.jp/kiyo/58go_eng.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Memoirs of the Muroran Institute of Technology №55(2005)</Title>
+        <Url>http://mitlib.lib.muroran-it.ac.jp/kiyo/57go_eng.htm</Url>
+        <ClickUrl>http://mitlib.lib.muroran-it.ac.jp/kiyo/57go_eng.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=50</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=50</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=66&amp;</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=66&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=73&amp;</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?font_size=73&amp;</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php?menu=2&amp;submenu=1</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
+        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php?menu=2&amp;submenu=1</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php?menu=2&amp;submenu=1</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:09 PST 2010 -->
-<!-- ws06.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:09 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:29 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:29 PDT 2010 -->

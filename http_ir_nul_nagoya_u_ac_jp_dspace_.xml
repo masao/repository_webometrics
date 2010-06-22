@@ -3,28 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="20348"
+    totalResultsAvailable="17991"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>DSpaceInstances - DSpace Wiki</Title>
-        <Url>http://wiki.dspace.org/index.php/DSpaceInstances</Url>
-        <ClickUrl>http://wiki.dspace.org/index.php/DSpaceInstances</ClickUrl>
-    </Result>
-    <Result>
-        <Title>郡山女子大学図書館 - Library of Koriyama Women&apos;s University.</Title>
-        <Url>http://library.koriyama-kgc.ac.jp/</Url>
-        <ClickUrl>http://library.koriyama-kgc.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>確率割り当ての不確定性とE-admissibility : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6836</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6836</ClickUrl>
-    </Result>
-    <Result>
-        <Title>戦争倫理学における功利主義的思考 - 現代功利主義からの議論の検討 - : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6839</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6839</ClickUrl>
+        <Title>海ホタルルシフェリンの構造 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/10975</Url>
+        <ClickUrl>http://hdl.handle.net/2237/10975</ClickUrl>
     </Result>
     <Result>
         <Title>Near Triviality of Conclusive Reasons : NAGOYA Repository</Title>
@@ -32,19 +17,14 @@
         <ClickUrl>http://hdl.handle.net/2237/6848</ClickUrl>
     </Result>
     <Result>
-        <Title>ベイズ主義の社会化はいかにあるべきか - リーバイのモデルの検討を通して - : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6837</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6837</ClickUrl>
+        <Title>Acceleration methods for slowly convergent sequences and ...</Title>
+        <Url>http://hdl.handle.net/2237/11518</Url>
+        <ClickUrl>http://hdl.handle.net/2237/11518</ClickUrl>
     </Result>
     <Result>
-        <Title>オープンアクセスジャーナルの現状 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/10118</Url>
-        <ClickUrl>http://hdl.handle.net/2237/10118</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Construction and Utilization of Bilingual Speech Corpus for ...</Title>
-        <Url>http://hdl.handle.net/2237/93</Url>
-        <ClickUrl>http://hdl.handle.net/2237/93</ClickUrl>
+        <Title>確率割り当ての不確定性とE-admissibility : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6836</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6836</ClickUrl>
     </Result>
     <Result>
         <Title>名古屋大学博物館に寄贈された本荘鈴平医学等資料リスト : NAGOYA Repository</Title>
@@ -52,9 +32,69 @@
         <ClickUrl>http://hdl.handle.net/2237/6340</ClickUrl>
     </Result>
     <Result>
+        <Title>業務トリップチェインにおける経路・出発時刻選択行動の分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8635</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8635</ClickUrl>
+    </Result>
+    <Result>
+        <Title>車検制度が世帯の自動車取り替え更新行動に及ぼす影響の分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8637</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8637</ClickUrl>
+    </Result>
+    <Result>
+        <Title>世帯内での配分を考慮した自動車の車種選択と利用の分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8638</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8638</ClickUrl>
+    </Result>
+    <Result>
         <Title>功利主義系理論と道徳的直観 : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/7405</Url>
         <ClickUrl>http://hdl.handle.net/2237/7405</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ベイズ主義の社会化はいかにあるべきか - リーバイのモデルの検討を通して - : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6837</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6837</ClickUrl>
+    </Result>
+    <Result>
+        <Title>科学哲学から見た「知的設計」説 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/7336</Url>
+        <ClickUrl>http://hdl.handle.net/2237/7336</ClickUrl>
+    </Result>
+    <Result>
+        <Title>戦争倫理学における功利主義的思考 - 現代功利主義からの議論の検討 - : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6839</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6839</ClickUrl>
+    </Result>
+    <Result>
+        <Title>認識論における非個人主義的内在主義 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6835</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6835</ClickUrl>
+    </Result>
+    <Result>
+        <Title>バンジョー/ソウザ『認識的正当化』 現代英米認識論の生々しい論争に触れる : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6845</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6845</ClickUrl>
+    </Result>
+    <Result>
+        <Title>離散時間パネル調査の調査期間、調査間隔、標本数の最適化 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8648</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8648</ClickUrl>
+    </Result>
+    <Result>
+        <Title>再配車を用いない複数ステーション型自動車共同利用システムの挙&lt;wbr&gt;動に関するシミュレーション分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8606</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8606</ClickUrl>
+    </Result>
+    <Result>
+        <Title>複雑な内生抽出法に基づく標本への離散選択モデルの適用 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8636</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8636</ClickUrl>
+    </Result>
+    <Result>
+        <Title>&quot;カーシェアリング&quot;特集にあたって - Editorial - : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8605</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8605</ClickUrl>
     </Result>
     <Result>
         <Title>技術者倫理教育における誇りの涵養 : NAGOYA Repository</Title>
@@ -62,9 +102,14 @@
         <ClickUrl>http://hdl.handle.net/2237/6838</ClickUrl>
     </Result>
     <Result>
-        <Title>明治期動物愛護運動の動機づけはいかなるものであったか -関係者の背景分析を通して- : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/7332</Url>
-        <ClickUrl>http://hdl.handle.net/2237/7332</ClickUrl>
+        <Title>インデックス付き講義収録システムの開発と運用 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/7225</Url>
+        <ClickUrl>http://hdl.handle.net/2237/7225</ClickUrl>
+    </Result>
+    <Result>
+        <Title>非補償型意思決定方略を表現するためのデータマイニング手法の適&lt;wbr&gt;用に関する分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8619</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8619</ClickUrl>
     </Result>
     <Result>
         <Title>広い反照的均衡と多元主義的基礎づけ主義 : NAGOYA Repository</Title>
@@ -72,9 +117,24 @@
         <ClickUrl>http://hdl.handle.net/2237/6834</ClickUrl>
     </Result>
     <Result>
+        <Title>明治期動物愛護運動の動機づけはいかなるものであったか -関係者の背景分析を通して- : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/7332</Url>
+        <ClickUrl>http://hdl.handle.net/2237/7332</ClickUrl>
+    </Result>
+    <Result>
         <Title>薄膜材料のオンチップ引張試験ならびに疲労試験 : NAGOYA Repository</Title>
         <Url>http://hdl.handle.net/2237/6376</Url>
         <ClickUrl>http://hdl.handle.net/2237/6376</ClickUrl>
+    </Result>
+    <Result>
+        <Title>シラーの戯曲『ヴィルヘルム・テル』について - 真の主人公メルヒタール - : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/8440</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8440</ClickUrl>
+    </Result>
+    <Result>
+        <Title>変数係数線型常微分方程式系に対する並列計算解法の研究 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6844</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6844</ClickUrl>
     </Result>
     <Result>
         <Title>Three Stories from the Thai Recension of the Paňňāsa-jātaka ...</Title>
@@ -82,180 +142,120 @@
         <ClickUrl>http://hdl.handle.net/2237/8455</ClickUrl>
     </Result>
     <Result>
-        <Title>エンドユーザーのWeb探索行動 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/92</Url>
-        <ClickUrl>http://hdl.handle.net/2237/92</ClickUrl>
+        <Title>大腸菌定常期特異的遺伝子発現制御機構の解析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/11057</Url>
+        <ClickUrl>http://hdl.handle.net/2237/11057</ClickUrl>
     </Result>
     <Result>
-        <Title>Robust Dependency Parsing of Spontaneous Japanese Speech and ...</Title>
-        <Url>http://hdl.handle.net/2237/94</Url>
-        <ClickUrl>http://hdl.handle.net/2237/94</ClickUrl>
+        <Title>Computational Modeling of Static and Dynamic Earth Pressure ...</Title>
+        <Url>http://hdl.handle.net/2237/11535</Url>
+        <ClickUrl>http://hdl.handle.net/2237/11535</ClickUrl>
     </Result>
     <Result>
-        <Title>Biochemical studies of matured xylem of Cryptomeria japonica ...</Title>
-        <Url>http://hdl.handle.net/2237/8529</Url>
-        <ClickUrl>http://hdl.handle.net/2237/8529</ClickUrl>
+        <Title>駐車場所-駐車時間選択行動への離散-連続選択モデルの適用と駐&lt;wbr&gt;車料金施策分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/10026</Url>
+        <ClickUrl>http://hdl.handle.net/2237/10026</ClickUrl>
     </Result>
     <Result>
-        <Title>&amp;lt;彙報&amp;gt;乳幼児をもつ父親の父性意識に関する研究 : 父と子の絆の形成過程(平成 9 年度発達臨床学専攻修士学位論文概要 ...</Title>
-        <Url>http://hdl.handle.net/2237/2923</Url>
-        <ClickUrl>http://hdl.handle.net/2237/2923</ClickUrl>
+        <Title>超高圧電子顕微鏡用電界放出電子銃開発に関する基礎的研究 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/11165</Url>
+        <ClickUrl>http://hdl.handle.net/2237/11165</ClickUrl>
     </Result>
     <Result>
-        <Title>『契約は他人を害さない』ことの今日的意義(四) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6070</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6070</ClickUrl>
+        <Title>RELAXATION HEURISTICS FOR THE SET COVERING PROBLEM : NAGOYA ...</Title>
+        <Url>http://hdl.handle.net/2237/11724</Url>
+        <ClickUrl>http://hdl.handle.net/2237/11724</ClickUrl>
     </Result>
     <Result>
-        <Title>民間企業における女性管理・監督職のキャリア形成パターンに関す&lt;wbr&gt;る研究 : 面接法に基づく類型化と質問紙データのパターン分類 ...</Title>
-        <Url>http://hdl.handle.net/2237/3647</Url>
-        <ClickUrl>http://hdl.handle.net/2237/3647</ClickUrl>
+        <Title>EN-ROUTE UPDATING METHODOLOGY OF TRAVEL TIME PREDICTION USING ...</Title>
+        <Url>http://hdl.handle.net/2237/10031</Url>
+        <ClickUrl>http://hdl.handle.net/2237/10031</ClickUrl>
     </Result>
     <Result>
-        <Title>NLS シラバスシステム: コース管理プラットホームとその投票サブシステムの利用 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/7281</Url>
-        <ClickUrl>http://hdl.handle.net/2237/7281</ClickUrl>
+        <Title>CONTROLS FOR MONITORING THE DETERIORATION OF STORED BLOOD ...</Title>
+        <Url>http://hdl.handle.net/2237/10549</Url>
+        <ClickUrl>http://hdl.handle.net/2237/10549</ClickUrl>
     </Result>
     <Result>
-        <Title>簡易タッチパネル展示システムの構築について : 名古屋大学博物館&quot;姉妹校博物館展示&quot;での例 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/3240</Url>
-        <ClickUrl>http://hdl.handle.net/2237/3240</ClickUrl>
+        <Title>名古屋大学 紀要情報照会システム</Title>
+        <Url>http://www.nul.nagoya-u.ac.jp/kiyou/</Url>
+        <ClickUrl>http://www.nul.nagoya-u.ac.jp/kiyou/</ClickUrl>
     </Result>
     <Result>
-        <Title>対人関係の否定的側面の生起メカニズム : メタセオリーを用いての展開 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/2899</Url>
-        <ClickUrl>http://hdl.handle.net/2237/2899</ClickUrl>
+        <Title>大学新入生の生活変化及び進学志望動機と適応過程との関連 : 居住形態による比較(平成 12 年度発達臨床学専攻修士学位論文 ...</Title>
+        <Url>http://hdl.handle.net/2237/3116</Url>
+        <ClickUrl>http://hdl.handle.net/2237/3116</ClickUrl>
     </Result>
     <Result>
-        <Title>タイの文化:映画 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/9057</Url>
-        <ClickUrl>http://hdl.handle.net/2237/9057</ClickUrl>
+        <Title>Markedness, Relevance and Acceptability in Translation ...</Title>
+        <Url>http://hdl.handle.net/2237/6249</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6249</ClickUrl>
     </Result>
     <Result>
-        <Title>政治と宗教 政治思想史の基本問題 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/8793</Url>
-        <ClickUrl>http://hdl.handle.net/2237/8793</ClickUrl>
+        <Title>&amp;lt;原著&amp;gt;発達障害幼児の集団療育(その 3) : 集団への入りこみの悪さを主題として : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/3526</Url>
+        <ClickUrl>http://hdl.handle.net/2237/3526</ClickUrl>
     </Result>
     <Result>
-        <Title>シンガポール共和国 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6976</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6976</ClickUrl>
+        <Title>法と経済発展について : 所有権と経済成長に関する諸学説の再検討 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/7491</Url>
+        <ClickUrl>http://hdl.handle.net/2237/7491</ClickUrl>
     </Result>
     <Result>
-        <Title>バイオマス資源について考えよう : 新たな産業の育成という視点から : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6832</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6832</ClickUrl>
+        <Title>隠岐の地誌『増補隠州記』(1688)の分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/5572</Url>
+        <ClickUrl>http://hdl.handle.net/2237/5572</ClickUrl>
     </Result>
     <Result>
-        <Title>ハイデッガーと他者の問題 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/5579</Url>
-        <ClickUrl>http://hdl.handle.net/2237/5579</ClickUrl>
+        <Title>動画像処理を用いた新しいマンマシンインタフェースの研究 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6316</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6316</ClickUrl>
     </Result>
     <Result>
-        <Title>ナノテクノロジーで地球環境問題に取り組む-カーボンナノチュー&lt;wbr&gt;ブを中心に : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/8790</Url>
-        <ClickUrl>http://hdl.handle.net/2237/8790</ClickUrl>
+        <Title>〔III〕入門期の古典指導の試み : 漢文について(国語科)(教科研究) : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/4613</Url>
+        <ClickUrl>http://hdl.handle.net/2237/4613</ClickUrl>
     </Result>
     <Result>
-        <Title>日本人論の系譜 (国際言語文化研究科言語文化学方法論) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/8792</Url>
-        <ClickUrl>http://hdl.handle.net/2237/8792</ClickUrl>
+        <Title>クレペリン検査における新PF値の妥当性に関する研究&lt;wbr&gt;(1) :精神健康度の変化との関連で : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/2948</Url>
+        <ClickUrl>http://hdl.handle.net/2237/2948</ClickUrl>
     </Result>
     <Result>
-        <Title>NGO: Non-governmental Organization : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6975</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6975</ClickUrl>
+        <Title>トルコ農村社会における女性の劣位性とジェンダー分業 : &quot;アユップ&quot;の行為をとおして : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/6271</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6271</ClickUrl>
     </Result>
     <Result>
-        <Title>モンゴル国(雑誌記事・新聞記事・インターネット編&lt;wbr&gt;) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6980</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6980</ClickUrl>
+        <Title>『奈良坂源一郎 蟲魚圖譜』に描かれた昆虫類 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/9328</Url>
+        <ClickUrl>http://hdl.handle.net/2237/9328</ClickUrl>
     </Result>
     <Result>
-        <Title>モンゴル国(図書編) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6979</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6979</ClickUrl>
+        <Title>訳出遅延時間と訳出開始タイミングに着目した同時通訳者の原発話&lt;wbr&gt;追従ストラテジーに関する分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/7927</Url>
+        <ClickUrl>http://hdl.handle.net/2237/7927</ClickUrl>
     </Result>
     <Result>
-        <Title>高校2年生 : 「平和・国際理解・人権Ⅱ」 : 沖縄から見つめ直す自分、世界、そして平和へ (Ⅱ. キャリア形成を軸とした ...</Title>
-        <Url>http://hdl.handle.net/2237/7644</Url>
-        <ClickUrl>http://hdl.handle.net/2237/7644</ClickUrl>
+        <Title>X線分析装置XRF-1800による岩石の定量化学分析 : NAGOYA Repository</Title>
+        <Url>http://hdl.handle.net/2237/7548</Url>
+        <ClickUrl>http://hdl.handle.net/2237/7548</ClickUrl>
     </Result>
     <Result>
-        <Title>小・中学生の親子関係、親からの期待、子どもの目標の関係 - 親子関係がよいと子どもは親の期待に応えようとするのか ...</Title>
-        <Url>http://hdl.handle.net/2237/9458</Url>
-        <ClickUrl>http://hdl.handle.net/2237/9458</ClickUrl>
+        <Title>乳幼児をもつ女性を支える環境について : 母親のソーシャルサポートやサポート源の自己対象としての評価と&lt;wbr&gt;育児満足度との関連 ...</Title>
+        <Url>http://hdl.handle.net/2237/3146</Url>
+        <ClickUrl>http://hdl.handle.net/2237/3146</ClickUrl>
     </Result>
     <Result>
-        <Title>多文化共生社会 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/8795</Url>
-        <ClickUrl>http://hdl.handle.net/2237/8795</ClickUrl>
+        <Title>Macroeconomic Policy Analysis of Slovak Republic with Focus ...</Title>
+        <Url>http://hdl.handle.net/2237/6285</Url>
+        <ClickUrl>http://hdl.handle.net/2237/6285</ClickUrl>
     </Result>
     <Result>
-        <Title>社会的動機づけの発達と学業達成過程 : 社会的責任目標研究に関するレビュー : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/3085</Url>
-        <ClickUrl>http://hdl.handle.net/2237/3085</ClickUrl>
-    </Result>
-    <Result>
-        <Title>The Involvement of 3β-hydroxysterol-Δ^24-reductas&lt;wbr&gt;e, A Post ...</Title>
-        <Url>http://hdl.handle.net/2237/7557</Url>
-        <ClickUrl>http://hdl.handle.net/2237/7557</ClickUrl>
-    </Result>
-    <Result>
-        <Title>不真正連帯債務論の再構成(三) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/5881</Url>
-        <ClickUrl>http://hdl.handle.net/2237/5881</ClickUrl>
-    </Result>
-    <Result>
-        <Title>&amp;lt;調査報告等&amp;gt;高木家文書調査報告(補遺の十) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/3230</Url>
-        <ClickUrl>http://hdl.handle.net/2237/3230</ClickUrl>
-    </Result>
-    <Result>
-        <Title>行政-NPO関係論の展開(一) : パートナーシップ・パラダイムの成立と展開 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/5843</Url>
-        <ClickUrl>http://hdl.handle.net/2237/5843</ClickUrl>
-    </Result>
-    <Result>
-        <Title>世界銀行 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6701</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6701</ClickUrl>
-    </Result>
-    <Result>
-        <Title>危機言語 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6669</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6669</ClickUrl>
-    </Result>
-    <Result>
-        <Title>エコツーリズム、グリーンツーリズム : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6758</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6758</ClickUrl>
-    </Result>
-    <Result>
-        <Title>遺伝子組換え食品を考える : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6860</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6860</ClickUrl>
-    </Result>
-    <Result>
-        <Title>機能性食品を考える : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6940</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6940</ClickUrl>
-    </Result>
-    <Result>
-        <Title>地球の内部構造 : 内核・外核・マントル・地殻・不連続面 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/6801</Url>
-        <ClickUrl>http://hdl.handle.net/2237/6801</ClickUrl>
-    </Result>
-    <Result>
-        <Title>アルツハイマー(健康に関する科学) : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/9043</Url>
-        <ClickUrl>http://hdl.handle.net/2237/9043</ClickUrl>
-    </Result>
-    <Result>
-        <Title>科学哲学から見た「知的設計」説 : NAGOYA Repository</Title>
-        <Url>http://hdl.handle.net/2237/7336</Url>
-        <ClickUrl>http://hdl.handle.net/2237/7336</ClickUrl>
+        <Title>4.1 Drying Test in the Oven at 100℃ (4.Drying Characteristies ...</Title>
+        <Url>http://hdl.handle.net/2237/8684</Url>
+        <ClickUrl>http://hdl.handle.net/2237/8684</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:28 PST 2010 -->
-<!-- ws10.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:51:28 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:49 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:49 PDT 2010 -->

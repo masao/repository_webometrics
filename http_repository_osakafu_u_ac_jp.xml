@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="657"
+    totalResultsAvailable="1138"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,19 +27,114 @@
         <ClickUrl>http://www.center.osakafu-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Prefecture University Repository: 特別養護老人ホームにおけるリスク ...</Title>
-        <Url>http://hdl.handle.net/10466/3503</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3503</ClickUrl>
+        <Title>生命環境科学部/生命環境科学研究科|大阪府立大学</Title>
+        <Url>http://www.bioenv.osakafu-u.ac.jp/</Url>
+        <ClickUrl>http://www.bioenv.osakafu-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Prefecture University Repository: 自治体における子どもの権利に関する条例の制定動向</Title>
-        <Url>http://hdl.handle.net/10466/3510</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3510</ClickUrl>
+        <Title>大阪府立大学|人間社会学部</Title>
+        <Url>http://www.human.osakafu-u.ac.jp/</Url>
+        <ClickUrl>http://www.human.osakafu-u.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>School of Life and Environmental Sciences / Graduate School ...</Title>
+        <Url>http://www.bioenv.osakafu-u.ac.jp/eng/index.html</Url>
+        <ClickUrl>http://www.bioenv.osakafu-u.ac.jp/eng/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Sylvia Anderson of Insider&apos;s Health: Purveyor of Modern ...</Title>
+        <Url>http://freetheanimal.com/2010/01/sylvia-anderson-of-insiders-health-purveyor-of-modern-ignorance-where-mere-idiocy-doesnt-cut-it.html</Url>
+        <ClickUrl>http://freetheanimal.com/2010/01/sylvia-anderson-of-insiders-health-purveyor-of-modern-ignorance-where-mere-idiocy-doesnt-cut-it.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術情報センター 図書館</Title>
-        <Url>http://www.osakafu-u.ac.jp/info/facility/library/index.html</Url>
-        <ClickUrl>http://www.osakafu-u.ac.jp/info/facility/library/index.html</ClickUrl>
+        <Url>http://www.center.osakafu-u.ac.jp/library/</Url>
+        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
+        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: Some Notes on Marxian ...</Title>
+        <Url>http://hdl.handle.net/10466/886</Url>
+        <ClickUrl>http://hdl.handle.net/10466/886</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: THE WARRANTED GROWTH ...</Title>
+        <Url>http://hdl.handle.net/10466/865</Url>
+        <ClickUrl>http://hdl.handle.net/10466/865</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 家畜のセルトリー細胞の形態について(獸医学)</Title>
+        <Url>http://hdl.handle.net/10466/3095</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3095</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 「わたし」を問うという試みの重要性 ...</Title>
+        <Url>http://hdl.handle.net/10466/6430</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6430</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: MHによる切花日持に就て(園藝學)</Title>
+        <Url>http://hdl.handle.net/10466/3121</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3121</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: Neue Trypetiden ...</Title>
+        <Url>http://hdl.handle.net/10466/3098</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3098</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 万葉集仮名書き歌巻論序説</Title>
+        <Url>http://hdl.handle.net/10466/2581</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2581</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: K.W.Kappの社会的費用論をめぐって ...</Title>
+        <Url>http://hdl.handle.net/10466/2283</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2283</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: &amp;lt;論文&amp;gt;対話の正真性と偏向1 : 例としての日本</Title>
+        <Url>http://hdl.handle.net/10466/1770</Url>
+        <ClickUrl>http://hdl.handle.net/10466/1770</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 社会人学生(女性)の充実感 : 入学の経緯 ...</Title>
+        <Url>http://hdl.handle.net/10466/1723</Url>
+        <ClickUrl>http://hdl.handle.net/10466/1723</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: The Imaginary Son in ...</Title>
+        <Url>http://hdl.handle.net/10466/2562</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2562</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: 組織文化と経営成果の関係 : 定量的研究の展開</Title>
+        <Url>http://hdl.handle.net/10466/3373</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3373</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: THE ECONOMIC ...</Title>
+        <Url>http://hdl.handle.net/10466/862</Url>
+        <ClickUrl>http://hdl.handle.net/10466/862</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: Miyazawa Kenji Fahrt ...</Title>
+        <Url>http://hdl.handle.net/10466/2733</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2733</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: The Carrot and The ...</Title>
+        <Url>http://hdl.handle.net/10466/2396</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2396</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Osaka Prefecture University Repository: カオスと組織 : ハンナ・アレント研究(4)</Title>
+        <Url>http://hdl.handle.net/10466/2596</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2596</ClickUrl>
     </Result>
     <Result>
         <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
@@ -52,119 +147,104 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 イベント情報 平成21年度 平成20年度CSI委託事業報告交流会</Title>
-        <Url>http://www.nii.ac.jp/irp/event/2009/debrief/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/event/2009/debrief/</ClickUrl>
+        <Title>Osaka Prefecture University Repository: &amp;lt;Note&amp;gt;A Note on a ...</Title>
+        <Url>http://hdl.handle.net/10466/974</Url>
+        <ClickUrl>http://hdl.handle.net/10466/974</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Prefecture University Repository: セルフヘルプ・グループの参加者による実践に ...</Title>
-        <Url>http://hdl.handle.net/10466/3505</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3505</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 「脳死は一律に人の死」なのか? : 臓器 ...</Title>
+        <Url>http://hdl.handle.net/10466/6441</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6441</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Prefecture University Repository: 社会福祉援助におけるクライエントの「主体性 ...</Title>
-        <Url>http://hdl.handle.net/10466/3507</Url>
-        <ClickUrl>http://hdl.handle.net/10466/3507</ClickUrl>
+        <Title>Osaka Prefecture University Repository: グレオスポリクム・ニムフェー菌(新種)に ...</Title>
+        <Url>http://hdl.handle.net/10466/3118</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3118</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 猫鉤虫Ancylostoma ...</Title>
+        <Url>http://hdl.handle.net/10466/3097</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3097</ClickUrl>
     </Result>
     <Result>
-        <Title>「大阪府立大学学術情報リポジトリ」の愛称が「OPERA」に決&lt;wbr&gt;定しました(2009.02.02)</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/02/20090202-1.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/02/20090202-1.html</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 経営組織の静態と動態 : ボールディングの ...</Title>
+        <Url>http://hdl.handle.net/10466/1605</Url>
+        <ClickUrl>http://hdl.handle.net/10466/1605</ClickUrl>
     </Result>
     <Result>
-        <Title>大阪府立大学人間社会学部図書室</Title>
-        <Url>http://www.lib.osakafu-u.ac.jp/gakubu/human/index.htm</Url>
-        <ClickUrl>http://www.lib.osakafu-u.ac.jp/gakubu/human/index.htm</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 編集後記 : 紀要のための弁明</Title>
+        <Url>http://hdl.handle.net/10466/3429</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3429</ClickUrl>
     </Result>
     <Result>
-        <Title>中尾佐助スライドデータベース完成のお知らせ</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/03/post-40.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/03/post-40.html</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 日本の小翅蛾群(農學)</Title>
+        <Url>http://hdl.handle.net/10466/3116</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3116</ClickUrl>
     </Result>
     <Result>
-        <Title>大阪府立大学学術情報リポジトリOPERA公開のお知らせ</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2009/03/opera20090331.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2009/03/opera20090331.html</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 社会生活と&amp;lt;スタイル&amp;gt; : ライフスタイル ...</Title>
+        <Url>http://hdl.handle.net/10466/1712</Url>
+        <ClickUrl>http://hdl.handle.net/10466/1712</ClickUrl>
     </Result>
     <Result>
-        <Title>Coiso .pdf Ebook Download</Title>
-        <Url>http://www.pdf-search-engine.com/coiso-pdf.html</Url>
-        <ClickUrl>http://www.pdf-search-engine.com/coiso-pdf.html</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 殺めるなかれ、盗むなかれ、貪るなかれ ...</Title>
+        <Url>http://hdl.handle.net/10466/6448</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6448</ClickUrl>
     </Result>
     <Result>
-        <Title>robinson crusoe level 2 - PDF Search engine. Free pdf search ...</Title>
-        <Url>http://pdf.rapid4me.com/?q=robinson+crusoe+level+2&amp;p=9</Url>
-        <ClickUrl>http://pdf.rapid4me.com/?q=robinson+crusoe+level+2&amp;p=9</ClickUrl>
+        <Title>Osaka Prefecture University Repository: A・ボースの搾取理論 (和田貞夫教授還暦記念号)</Title>
+        <Url>http://hdl.handle.net/10466/2207</Url>
+        <ClickUrl>http://hdl.handle.net/10466/2207</ClickUrl>
     </Result>
     <Result>
-        <Title>tasso eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/ref/tasso-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/ref/tasso-pdf.html</ClickUrl>
+        <Title>Osaka Prefecture University Repository: テツポウュリの促成に対する鱗莖冷藏の効果(園藝学&lt;wbr&gt;)</Title>
+        <Url>http://hdl.handle.net/10466/3101</Url>
+        <ClickUrl>http://hdl.handle.net/10466/3101</ClickUrl>
     </Result>
     <Result>
-        <Title>Japanese Health Care according to the Washington Post</Title>
-        <Url>http://ringo.net/forum/index.php?topic=3413.0</Url>
-        <ClickUrl>http://ringo.net/forum/index.php?topic=3413.0</ClickUrl>
-    </Result>
-    <Result>
-        <Title>zoo story eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/zoo-story-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/zoo-story-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>enlargment eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/ref/enlargment-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/ref/enlargment-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学外からの利用 WEBメール | 学術情報センター 情報システム</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/system/outside-use/webmail/</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/system/outside-use/webmail/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=130</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=130</ClickUrl>
+        <Title>Osaka Prefecture University Repository: Αυριον = アウリオン 28号</Title>
+        <Url>http://hdl.handle.net/10466/6376</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6376</ClickUrl>
     </Result>
     <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php</ClickUrl>
+        <Url>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</Url>
+        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_en_num_dn.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_up.php</ClickUrl>
+        <Title>Browse by Country - Registry of Open Access Repositories</Title>
+        <Url>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</Url>
+        <ClickUrl>http://roar.eprints.org/view/geoname/geoname=5F2=5FJP.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_date_dn.php</ClickUrl>
+        <Title>Osaka Prefecture University Repository: Αυριον = アウリオン 29号</Title>
+        <Url>http://hdl.handle.net/10466/6368</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6368</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_up.php</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 平成20年度CSI委託事業報告交流会成果報告</Title>
+        <Url>http://hdl.handle.net/10466/6350</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6350</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_dn.php?menu=2</ClickUrl>
+        <Title>Osaka Prefecture University Repository: 機関リポジトリの活用と学術コミュニケーション</Title>
+        <Url>http://hdl.handle.net/10466/6385</Url>
+        <ClickUrl>http://hdl.handle.net/10466/6385</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_num_up.php?menu=2</ClickUrl>
+        <Title>link to local public university libraries;公立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkou.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkou.html</ClickUrl>
     </Result>
     <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_name_dn.php?menu=2</ClickUrl>
+        <Title>一括検索 -tensile test-</Title>
+        <Url>http://seonum.com/rank/tensile+test.html</Url>
+        <ClickUrl>http://seonum.com/rank/tensile+test.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>マルチメディア室 PC、Mac端末 | 学術情報センター 施設案内</Title>
+        <Url>http://www.center.osakafu-u.ac.jp/facilities/multimedia/pc/</Url>
+        <ClickUrl>http://www.center.osakafu-u.ac.jp/facilities/multimedia/pc/</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
@@ -172,90 +252,10 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>2007年度 指定図書目録リスト【工学研究科】</Title>
-        <Url>http://www.center.osakafu-u.ac.jp/library/2007/04/2007.html</Url>
-        <ClickUrl>http://www.center.osakafu-u.ac.jp/library/2007/04/2007.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Ebooks search results for &quot;albee three tall women&quot;</Title>
-        <Url>http://pdfse.com/albee-three-tall-women</Url>
-        <ClickUrl>http://pdfse.com/albee-three-tall-women</ClickUrl>
-    </Result>
-    <Result>
-        <Title>abomasus : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=abomasus</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=abomasus</ClickUrl>
-    </Result>
-    <Result>
-        <Title>neurocyte : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어, 의학논문, 약품/의약품 검색</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=neurocyte</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=neurocyte</ClickUrl>
-    </Result>
-    <Result>
-        <Title>polestar writing course 解答 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=polestar+writing+course+%E8%A7%A3%E7%AD%94&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=polestar+writing+course+%E8%A7%A3%E7%AD%94&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | AN ALTERNATIVE PROOF OF KAKEYA&apos;S THEOREM AND THE ...</Title>
-        <Url>http://jairo.nii.ac.jp/0131/00002024/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0131/00002024/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>roppo eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/roppo-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/roppo-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>type-curve eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/type-curve-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/type-curve-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>cathedral carver eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/cathedral-carver-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/cathedral-carver-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>carver cathedral eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/carver-cathedral-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/carver-cathedral-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>roppo il contratto eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/roppo-il-contratto-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/roppo-il-contratto-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>civilization kritik eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/civilization-kritik-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/civilization-kritik-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Gtu Sample Papers. Online search for PDF Books - ebooks for ...</Title>
-        <Url>http://www.ebooknetworking.net/ebooks/gtu-sample-papers.html</Url>
-        <ClickUrl>http://www.ebooknetworking.net/ebooks/gtu-sample-papers.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>works of raymond carver eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/works-of-raymond-carver-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/works-of-raymond-carver-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>enterprise economic book eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/enterprise-economic-book-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/enterprise-economic-book-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ramond carvers neighbors eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/ramond-carvers-neighbors-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/ramond-carvers-neighbors-pdf.html</ClickUrl>
+        <Title>Jkum .pdf Ebook Free Download</Title>
+        <Url>http://www.pdf-search-engine.com/jkum-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/jkum-pdf.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:51 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:51 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:56 PDT 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:56 PDT 2010 -->

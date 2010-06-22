@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ResultSet
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:yahoo:srch"
+    xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
+    totalResultsAvailable="10"
+    firstResultPosition="1"
+    totalResultsReturned="10">
+        <Result>
+        <Title>JAIRO | 一葉をどう読むか : 『にごりえ』を軸として</Title>
+        <Url>http://jairo.nii.ac.jp/0145/00001347</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0145/00001347</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 女三宮の世界について : 「若菜」巻における贈答歌場面を中心に</Title>
+        <Url>http://jairo.nii.ac.jp/0145/00000487</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0145/00000487</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中華人民共和国の小学語文</Title>
+        <Url>http://jairo.nii.ac.jp/0145/00001290</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0145/00001290</ClickUrl>
+    </Result>
+    <Result>
+        <Title>BAIKO もしくは Baiko Gakuin University Repository</Title>
+        <Url>http://icecoffee.hobby-site.com/query/BAIKO/</Url>
+        <ClickUrl>http://icecoffee.hobby-site.com/query/BAIKO/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=145</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=145</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 「坊つちゃん」の世界 : 諸家の論にふれつつ</Title>
+        <Url>http://jairo.nii.ac.jp/0145/00001346</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0145/00001346</ClickUrl>
+    </Result>
+    <Result>
+        <Title>梅光学院大学(Webサイト一覧)|全国大学情報サイト&lt;wbr&gt;(動画、ニュース、ブログなど)</Title>
+        <Url>http://daigaku.system.bz/list/%E6%A2%85%E5%85%89%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6/search/</Url>
+        <ClickUrl>http://daigaku.system.bz/list/%E6%A2%85%E5%85%89%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6/search/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 梅光学院大学</Title>
+        <Url>http://search.livedoor.com/search/?c=ld_weather_sl_2&amp;q=%C7%DF%B8%F7%B3%D8%B1%A1%C2%E7%B3%D8&amp;start=60</Url>
+        <ClickUrl>http://search.livedoor.com/search/?c=ld_weather_sl_2&amp;q=%C7%DF%B8%F7%B3%D8%B1%A1%C2%E7%B3%D8&amp;start=60</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 現在時制の問題点 : 歴史的現在について</Title>
+        <Url>http://jairo.nii.ac.jp/0145/00000024</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0145/00000024</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 運命前定論 : 光源氏須磨流謫と明石一族の運命</Title>
+        <Url>http://jairo.nii.ac.jp/0145/00001327</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0145/00001327</ClickUrl>
+    </Result>
+</ResultSet>
+<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:08 PDT 2010 -->
+<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:23:08 PDT 2010 -->

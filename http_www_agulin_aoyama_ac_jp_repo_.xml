@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="26"
+    totalResultsAvailable="235"
     firstResultPosition="1"
-    totalResultsReturned="26">
+    totalResultsReturned="50">
         <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
@@ -17,9 +17,64 @@
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>eLPCO -eラーニング人材育成研究センター-</Title>
+        <Url>http://elpco.a2en.aoyama.ac.jp/</Url>
+        <ClickUrl>http://elpco.a2en.aoyama.ac.jp/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
         <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=131</Url>
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=131</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Global Ethics and Quality of LIfe</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011781/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011781/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>eLPCO -eラーニング人材育成研究センター-</Title>
+        <Url>http://elpco.a2en.aoyama.ac.jp/portal.cgi</Url>
+        <ClickUrl>http://elpco.a2en.aoyama.ac.jp/portal.cgi</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 第6回青山学院「会計サミット」を終えて</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011514</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011514</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 目次</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011494</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011494</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Equilibrium in an exchange economy with countable ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011597</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011597</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ドルトン・プラン批判的受容から見る井上成美の教育論 : 江田島海軍兵学校における「戦後」教育</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011672</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011672</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 小林秀行教授略歴および業績一覧 (青木茂男教授・小林秀行教授退職記念号)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011757</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011757</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Recognition of dissimulated emotion: Comparison ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011678</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011678</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 目次</Title>
@@ -27,39 +82,9 @@
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011507</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Butの「対照」の意味とその動機付け : dialoguality(対話形式)とdialogicity ...</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011452</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011452</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Flight-to-Liquidity and Flight-to-Quality : A Lesson ...</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011455</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011455</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 中国の株式市場</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011470</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011470</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=131</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=131</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Contests with Cross-Shareholdings</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011459/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011459/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 会計操作をもたらす諸問題 : わが国の会計・監査制度を巡る課題を中心に</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011516</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011516</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 日本の紹介 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011520</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011520</ClickUrl>
+        <Title>JAIRO | 精神分析において逆転移を認識すること : 転移関係によって生じる対象について思索すること</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011764</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011764</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 目次</Title>
@@ -67,59 +92,24 @@
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011517</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 保育士の一日 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011521</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011521</ClickUrl>
+        <Title>JAIRO | カナダに学ぶ日本の外国人労働者受け入れに関する考察 (2)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011612</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011612</ClickUrl>
     </Result>
     <Result>
-        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
-        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
-        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | 保育士の一日 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011521/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011521/en</ClickUrl>
+        <Title>JAIRO | 国際政治経済学部の学生に勧める50冊 : 独断と偏見を込めて (支倉壽子教授退任記念号)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011605</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011605</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 日本の紹介 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011520/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011520/en</ClickUrl>
+        <Url>http://jairo.nii.ac.jp/0132/00011520</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011520</ClickUrl>
     </Result>
     <Result>
-        <Title>大阪府立大学 経済学部図書室 WEB or PRINT 法律・判例雑誌編</Title>
-        <Url>http://www.lib.osakafu-u.ac.jp/gakubu/eco/lawjo.html</Url>
-        <ClickUrl>http://www.lib.osakafu-u.ac.jp/gakubu/eco/lawjo.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言</Title>
-        <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
-        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | TF26モバイルラーニング研究部会『モバイルツール利用の英語&lt;wbr&gt;教育III』の刊行にあたって (「モバイル ...</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011498</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011498</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | ワーク・ライフ・バランスの概念とその展開 : ワーク・ライフ・バランス施策を中心として</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011466/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011466/en</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | The Road to Creating Multi-Skill Classrooms Using ...</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011509</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011509</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | Contests with Cross-Shareholdings</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011459</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011459</ClickUrl>
+        <Title>JAIRO | 保育士の一日 (「マルチメディア・テクノロジー利用の英語教育」&lt;wbr&gt;: TF29デジタル・ストーリーテリング研究部会)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011521</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011521</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 目次</Title>
@@ -127,15 +117,145 @@
         <ClickUrl>http://jairo.nii.ac.jp/0132/00011458</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 中国の株式市場</Title>
-        <Url>http://jairo.nii.ac.jp/0132/00011470/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0132/00011470/en</ClickUrl>
+        <Title>JAIRO | TF26モバイルラーニング研究部会『モバイルツール利用の英語&lt;wbr&gt;教育III』の刊行にあたって (「モバイル ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011498</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011498</ClickUrl>
     </Result>
     <Result>
-        <Title>Livetube.cc : 峠 : えりかちゃんヾ(*&apos;`*)ノ</Title>
-        <Url>http://livetube.cc/%E5%B3%A0/%E3%81%88%E3%82%8A%E3%81%8B%E3%81%A1%E3%82%83%E3%82%93%E3%83%BE(*%C2%B4%E2%8A%A5%EF%BD%80*)%E3%83%8E</Url>
-        <ClickUrl>http://livetube.cc/%E5%B3%A0/%E3%81%88%E3%82%8A%E3%81%8B%E3%81%A1%E3%82%83%E3%82%93%E3%83%BE(*%C2%B4%E2%8A%A5%EF%BD%80*)%E3%83%8E</ClickUrl>
+        <Title>JAIRO | 青年期から成人期への移行期の親子関係 : 特に母娘関係に焦点を当てた研究の展望</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011765</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011765</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ドイツ知的財産権法関連判決集 : 3算定方式(2) (神長勲教授・谷原修身教授・重田晴生教授退職記念号&lt;wbr&gt;)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011702</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011702</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ICT化と社会革新</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011551</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011551</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 主観情報を利用したSharpe Ratio基準によるポートフォリオ選択</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011613</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011613</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 表紙</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011741</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011741</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | モンゴルの資源開発に関わる一考察</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011550</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011550</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 動作法を用いた宿泊集団集中訓練(キャンプ)全体をひとつの事例&lt;wbr&gt;として捉えた事例検討 : 第2X回心理 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011679</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011679</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 多角的な情報統合システムの構築と教育支援システムの実現</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011610</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011610</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 青木茂男教授略歴および業績一覧 (青木茂男教授・小林秀行教授退職記念号)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011756</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011756</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 英国短期高等教育の動向</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011742</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011742</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 行政手続法における「申請に対する処分」についての一考察 (神長勲教授・谷原修身教授・重田晴生教授退職記念号&lt;wbr&gt;)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011696</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011696</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Flight-to-Liquidity and Flight-to-Quality : A Lesson ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011455</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011455</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Contests with Cross-Shareholdings</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011459</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011459</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | The Road to Creating Multi-Skill Classrooms Using ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011509</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011509</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 目次</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011473</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011473</ClickUrl>
+    </Result>
+    <Result>
+        <Title>所蔵紀要の全文公開サイト一覧 あ行</Title>
+        <Url>http://www.rku.ac.jp/tosho/possess.html</Url>
+        <ClickUrl>http://www.rku.ac.jp/tosho/possess.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=131</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=131</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ノンノイ信用組合の内部資料(2) (支倉壽子教授退任記念号)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011606/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011606/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | カナダに学ぶ日本の外国人労働者受け入れに関する考察 (1)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011609/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011609/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 送別の辞 (神長勲教授・谷原修身教授・重田晴生教授退職記念号&lt;wbr&gt;)</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011690/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011690/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>大阪府立大学 経済学部図書室 WEB or PRINT 法律・判例雑誌編</Title>
+        <Url>http://www.lib.osakafu-u.ac.jp/gakubu/eco/lawjo.html</Url>
+        <ClickUrl>http://www.lib.osakafu-u.ac.jp/gakubu/eco/lawjo.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中兼和津次教授略歴</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011785</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011785</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Pierre CAHUC et Andre ZYLBERBERG, Les reformes ratees ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011688</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011688</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 中兼和津次教授最終講義 : 「中国, 経済発展, 体制移行」</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011784</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011784</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 姿勢における印象形成の差異について</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011676</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011676</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Recognition of dissimulated emotion: Comparison ...</Title>
+        <Url>http://jairo.nii.ac.jp/0132/00011678/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0132/00011678/en</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:53 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:53 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:57 PDT 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:57 PDT 2010 -->

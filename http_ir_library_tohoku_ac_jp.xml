@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="21189"
+    totalResultsAvailable="14834"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -22,6 +22,11 @@
         <ClickUrl>http://www.aa.alpha-net.ne.jp/mamos/</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
+        <Url>http://www.nii.ac.jp/irp/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学位論文</Title>
         <Url>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</Url>
         <ClickUrl>http://www.gsid.nagoya-u.ac.jp/service/library/guide/dis.html</ClickUrl>
@@ -32,19 +37,9 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
-        <Url>http://www.nii.ac.jp/irp/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
-    </Result>
-    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -52,14 +47,29 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
         <Title>日録メモ風の更新情報 坂本衛|MAMO&apos;s</Title>
         <Url>http://www.aa.alpha-net.ne.jp/mamos/whatsnew.html</Url>
         <ClickUrl>http://www.aa.alpha-net.ne.jp/mamos/whatsnew.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
+        <Title>Inverted Alchemy: An Integral Economy</Title>
+        <Url>http://invertedalchemy.blogspot.com/</Url>
+        <ClickUrl>http://invertedalchemy.blogspot.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>政府・マスゴミ等の洗脳情報に騙されず、本当のことは自分で考え&lt;wbr&gt;よう</Title>
+        <Url>http://inkyo310.blog16.fc2.com/</Url>
+        <ClickUrl>http://inkyo310.blog16.fc2.com/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: 社会過程の社会学-ハーバート・ブルーマーの ...</Title>
+        <Url>http://hdl.handle.net/10097/14389</Url>
+        <ClickUrl>http://hdl.handle.net/10097/14389</ClickUrl>
     </Result>
     <Result>
         <Title>日本思想史研究室</Title>
@@ -67,24 +77,9 @@
         <ClickUrl>http://www.sal.tohoku.ac.jp/shisoshi/</ClickUrl>
     </Result>
     <Result>
-        <Title>Japan International Graduate Program 2009 | Info Beasiswa ...</Title>
-        <Url>http://beasiswaluarnegeri.com/japan_international_graduate_program_2009</Url>
-        <ClickUrl>http://beasiswaluarnegeri.com/japan_international_graduate_program_2009</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/25955</Title>
-        <Url>http://hdl.handle.net/10097/25955</Url>
-        <ClickUrl>http://hdl.handle.net/10097/25955</ClickUrl>
-    </Result>
-    <Result>
-        <Title>東北大学附属図書館農学分館</Title>
-        <Url>http://www.library.tohoku.ac.jp/agr/</Url>
-        <ClickUrl>http://www.library.tohoku.ac.jp/agr/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Portal:歴史学 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
+        <Title>&amp;gt;東北大学 地理学教室</Title>
+        <Url>http://www.dges.tohoku.ac.jp/gg/index-j.html</Url>
+        <ClickUrl>http://www.dges.tohoku.ac.jp/gg/index-j.html</ClickUrl>
     </Result>
     <Result>
         <Title>Japanese music</Title>
@@ -92,19 +87,19 @@
         <ClickUrl>http://narihira.livejournal.com/</ClickUrl>
     </Result>
     <Result>
+        <Title>Papers on the theory of CO2 absorption properties &quot; AGW Observer</Title>
+        <Url>http://agwobserver.wordpress.com/2010/04/03/papers-on-the-theory-of-co2-absorption-properties/</Url>
+        <ClickUrl>http://agwobserver.wordpress.com/2010/04/03/papers-on-the-theory-of-co2-absorption-properties/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: Particle-Scale Dynamics ...</Title>
+        <Url>http://hdl.handle.net/10097/25955</Url>
+        <ClickUrl>http://hdl.handle.net/10097/25955</ClickUrl>
+    </Result>
+    <Result>
         <Title>Homepage of The Tohoku University Engineering Library</Title>
         <Url>http://www.library.tohoku.ac.jp/eng/</Url>
         <ClickUrl>http://www.library.tohoku.ac.jp/eng/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
-        <Title>メタメタの日</Title>
-        <Url>http://ameblo.jp/metameta7/</Url>
-        <ClickUrl>http://ameblo.jp/metameta7/</ClickUrl>
     </Result>
     <Result>
         <Title>ヘンリー・モートン・スタンリー - Wikipedia</Title>
@@ -112,124 +107,24 @@
         <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%88%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AA%E3%83%BC</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
-        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
-        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
+        <Title>東北大学研究者紹介</Title>
+        <Url>http://db.tohoku.ac.jp/whois/</Url>
+        <ClickUrl>http://db.tohoku.ac.jp/whois/</ClickUrl>
     </Result>
     <Result>
-        <Title>Fumiyuki Uematsu - Publications List</Title>
-        <Url>http://publicationslist.org/fumiyuki-uematsu</Url>
-        <ClickUrl>http://publicationslist.org/fumiyuki-uematsu</ClickUrl>
+        <Title>Portal:歴史学 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/Portal:%E6%AD%B4%E5%8F%B2%E5%AD%A6</ClickUrl>
     </Result>
     <Result>
-        <Title>International Graduate Program for Advanced Science (lGPAS ...</Title>
-        <Url>http://pemburubeasiswa.info/international-graduate-program-for-advanced-science-lgpas/</Url>
-        <ClickUrl>http://pemburubeasiswa.info/international-graduate-program-for-advanced-science-lgpas/</ClickUrl>
+        <Title>Japan International Graduate Program 2009 | Info Beasiswa ...</Title>
+        <Url>http://beasiswaluarnegeri.com/japan_international_graduate_program_2009</Url>
+        <ClickUrl>http://beasiswaluarnegeri.com/japan_international_graduate_program_2009</ClickUrl>
     </Result>
     <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/40080</Title>
-        <Url>http://hdl.handle.net/10097/40080</Url>
-        <ClickUrl>http://hdl.handle.net/10097/40080</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35862</Title>
-        <Url>http://hdl.handle.net/10097/35862</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35862</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35861</Title>
-        <Url>http://hdl.handle.net/10097/35861</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35861</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35863</Title>
-        <Url>http://hdl.handle.net/10097/35863</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35863</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35928</Title>
-        <Url>http://hdl.handle.net/10097/35928</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35928</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/30743</Title>
-        <Url>http://hdl.handle.net/10097/30743</Url>
-        <ClickUrl>http://hdl.handle.net/10097/30743</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35927</Title>
-        <Url>http://hdl.handle.net/10097/35927</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35927</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/40103</Title>
-        <Url>http://hdl.handle.net/10097/40103</Url>
-        <ClickUrl>http://hdl.handle.net/10097/40103</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/34659</Title>
-        <Url>http://hdl.handle.net/10097/34659</Url>
-        <ClickUrl>http://hdl.handle.net/10097/34659</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/30694</Title>
-        <Url>http://hdl.handle.net/10097/30694</Url>
-        <ClickUrl>http://hdl.handle.net/10097/30694</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/33506</Title>
-        <Url>http://hdl.handle.net/10097/33506</Url>
-        <ClickUrl>http://hdl.handle.net/10097/33506</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/39877</Title>
-        <Url>http://hdl.handle.net/10097/39877</Url>
-        <ClickUrl>http://hdl.handle.net/10097/39877</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35804</Title>
-        <Url>http://hdl.handle.net/10097/35804</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35804</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/40083</Title>
-        <Url>http://hdl.handle.net/10097/40083</Url>
-        <ClickUrl>http://hdl.handle.net/10097/40083</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35550</Title>
-        <Url>http://hdl.handle.net/10097/35550</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35550</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/34625</Title>
-        <Url>http://hdl.handle.net/10097/34625</Url>
-        <ClickUrl>http://hdl.handle.net/10097/34625</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/30750</Title>
-        <Url>http://hdl.handle.net/10097/30750</Url>
-        <ClickUrl>http://hdl.handle.net/10097/30750</ClickUrl>
-    </Result>
-    <Result>
-        <Title>TOUR(TOhoku University Repository): Item 10097/35041</Title>
-        <Url>http://hdl.handle.net/10097/35041</Url>
-        <ClickUrl>http://hdl.handle.net/10097/35041</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Research and C... | -TOHOKU UNIVERSITY-</Title>
-        <Url>http://www.tohoku.ac.jp/english/researcher/</Url>
-        <ClickUrl>http://www.tohoku.ac.jp/english/researcher/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Information Di... | -TOHOKU UNIVERSITY-</Title>
-        <Url>http://www.tohoku.ac.jp/english/disclosure/</Url>
-        <ClickUrl>http://www.tohoku.ac.jp/english/disclosure/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Helice tridens - Wikipedia, the free encyclopedia</Title>
-        <Url>http://en.wikipedia.org/wiki/Helice_tridens</Url>
-        <ClickUrl>http://en.wikipedia.org/wiki/Helice_tridens</ClickUrl>
+        <Title>Nigerose - Wikipedia, the free encyclopedia</Title>
+        <Url>http://en.wikipedia.org/wiki/Nigerose</Url>
+        <ClickUrl>http://en.wikipedia.org/wiki/Nigerose</ClickUrl>
     </Result>
     <Result>
         <Title>Registered Data Providers</Title>
@@ -237,25 +132,130 @@
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
     </Result>
     <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
+        <Title>レアメタル資源</Title>
+        <Url>http://home.hiroshima-u.ac.jp/er/Rmin_KZ_RM.html</Url>
+        <ClickUrl>http://home.hiroshima-u.ac.jp/er/Rmin_KZ_RM.html</ClickUrl>
     </Result>
     <Result>
-        <Title>Publications, ... | Information Di... | -TOHOKU UNIVERSITY-</Title>
-        <Url>http://www.tohoku.ac.jp/english/disclosure/media/</Url>
-        <ClickUrl>http://www.tohoku.ac.jp/english/disclosure/media/</ClickUrl>
+        <Title>学術機関リポジトリ - Yahoo!カテゴリ</Title>
+        <Url>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</Url>
+        <ClickUrl>http://dir.yahoo.co.jp/Reference/Institutional_Repository/</ClickUrl>
     </Result>
     <Result>
-        <Title>まさおのChangeLogメモ</Title>
-        <Url>http://masao.jpn.org/d/</Url>
-        <ClickUrl>http://masao.jpn.org/d/</ClickUrl>
+        <Title>陳凱劭的BLOG &quot; 彰化永靖北白川宮能久親王御遺蹟碑</Title>
+        <Url>http://blog.kaishao.idv.tw/?p=1415</Url>
+        <ClickUrl>http://blog.kaishao.idv.tw/?p=1415</ClickUrl>
     </Result>
     <Result>
-        <Title>東北大学研究者紹介</Title>
-        <Url>http://db.tohoku.ac.jp/whois/</Url>
-        <ClickUrl>http://db.tohoku.ac.jp/whois/</ClickUrl>
+        <Title>東北大学附属図書館農学分館</Title>
+        <Url>http://www.library.tohoku.ac.jp/agr/</Url>
+        <ClickUrl>http://www.library.tohoku.ac.jp/agr/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: Construction function for ...</Title>
+        <Url>http://hdl.handle.net/10097/35204</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35204</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: Why borrow verbs when you ...</Title>
+        <Url>http://hdl.handle.net/10097/35862</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35862</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: EAT expressions in ...</Title>
+        <Url>http://hdl.handle.net/10097/35861</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35861</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: Observation of Strong Low ...</Title>
+        <Url>http://hdl.handle.net/10097/35804</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35804</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: 音響と音韻からみた膜鳴楽器音のトルコ語口唱歌</Title>
+        <Url>http://hdl.handle.net/10097/35863</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35863</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: Significant stiffness ...</Title>
+        <Url>http://hdl.handle.net/10097/35041</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35041</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: 障害のある子どもの&quot;接近行動&quot;の滞りとその促進に関 ...</Title>
+        <Url>http://hdl.handle.net/10097/35976</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35976</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: &amp;lt;研究&amp;gt;粉鐵のルッペ化に就て</Title>
+        <Url>http://hdl.handle.net/10097/33223</Url>
+        <ClickUrl>http://hdl.handle.net/10097/33223</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/34945</Title>
+        <Url>http://hdl.handle.net/10097/34945</Url>
+        <ClickUrl>http://hdl.handle.net/10097/34945</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/34942</Title>
+        <Url>http://hdl.handle.net/10097/34942</Url>
+        <ClickUrl>http://hdl.handle.net/10097/34942</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: Intercultural issues ...</Title>
+        <Url>http://hdl.handle.net/10097/40198</Url>
+        <ClickUrl>http://hdl.handle.net/10097/40198</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: Pd-In-Fe Shape Memory Alloy</Title>
+        <Url>http://hdl.handle.net/10097/34874</Url>
+        <ClickUrl>http://hdl.handle.net/10097/34874</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35803</Title>
+        <Url>http://hdl.handle.net/10097/35803</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35803</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35560</Title>
+        <Url>http://hdl.handle.net/10097/35560</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35560</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35738</Title>
+        <Url>http://hdl.handle.net/10097/35738</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35738</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR: Tohoku University Repository: First Results from ...</Title>
+        <Url>http://hdl.handle.net/10097/34776</Url>
+        <ClickUrl>http://hdl.handle.net/10097/34776</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35143</Title>
+        <Url>http://hdl.handle.net/10097/35143</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35143</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35739</Title>
+        <Url>http://hdl.handle.net/10097/35739</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35739</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35220</Title>
+        <Url>http://hdl.handle.net/10097/35220</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35220</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/35045</Title>
+        <Url>http://hdl.handle.net/10097/35045</Url>
+        <ClickUrl>http://hdl.handle.net/10097/35045</ClickUrl>
+    </Result>
+    <Result>
+        <Title>TOUR(TOhoku University Repository): Item 10097/34841</Title>
+        <Url>http://hdl.handle.net/10097/34841</Url>
+        <ClickUrl>http://hdl.handle.net/10097/34841</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:55 PST 2010 -->
-<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:54 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:13 PDT 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:25:13 PDT 2010 -->

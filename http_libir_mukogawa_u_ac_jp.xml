@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="15"
+    totalResultsAvailable="39"
     firstResultPosition="1"
-    totalResultsReturned="15">
+    totalResultsReturned="39">
         <Result>
         <Title>武庫川女子大学[Mukogawa Women&apos;s University]</Title>
         <Url>http://www.mukogawa-u.ac.jp/</Url>
@@ -27,6 +27,11 @@
         <ClickUrl>http://www.mukogawa-u.ac.jp/~library/</ClickUrl>
     </Result>
     <Result>
+        <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(西日本 ...</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-2.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-2.html</ClickUrl>
+    </Result>
+    <Result>
         <Title>武庫川女子大学[Mukogawa Women&apos;s University]</Title>
         <Url>http://www.mukogawa-u.ac.jp/~koho/index.html</Url>
         <ClickUrl>http://www.mukogawa-u.ac.jp/~koho/index.html</ClickUrl>
@@ -37,34 +42,9 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=132</ClickUrl>
     </Result>
     <Result>
-        <Title>University Mukogawa Women&apos;s University Website</Title>
-        <Url>http://www.fanoos.com/education/university.asp?id=3585&amp;name=Mukogawa+Women&apos;s+University</Url>
-        <ClickUrl>http://www.fanoos.com/education/university.asp?id=3585&amp;name=Mukogawa+Women&apos;s+University</ClickUrl>
-    </Result>
-    <Result>
-        <Title>武庫川女子大学[Mukogawa Women&apos;s University]</Title>
-        <Url>http://rsb.mukogawa-u.ac.jp/?ushida/</Url>
-        <ClickUrl>http://rsb.mukogawa-u.ac.jp/?ushida/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ようこそ 武庫川女子大学(トップページ) へ(日本全国「・・・に行」案内&amp;lt;観光地など&amp;gt;-http&lt;wbr&gt;://www.gpt.co ...</Title>
-        <Url>http://www.gpt.co.jp/n/n0798471212.htm</Url>
-        <ClickUrl>http://www.gpt.co.jp/n/n0798471212.htm</ClickUrl>
-    </Result>
-    <Result>
-        <Title>IRDBコンテンツ分析システム | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=132</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=132</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言</Title>
-        <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>図書館員もどきのひとり言: 機関リポジトリ</Title>
-        <Url>http://liblog.seesaa.net/category/1414025-1.html</Url>
-        <ClickUrl>http://liblog.seesaa.net/category/1414025-1.html</ClickUrl>
+        <Title>JAIRO | 新規乳酸菌を用いたおから・豆乳発酵食品の成分特性</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000306</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000306</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | 担子菌の発酵能による機能性大豆食品の開発</Title>
@@ -72,15 +52,155 @@
         <ClickUrl>http://jairo.nii.ac.jp/0133/00000352</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 新規乳酸菌を用いたおから・豆乳発酵食品の成分特性</Title>
-        <Url>http://jairo.nii.ac.jp/0133/00000306</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0133/00000306</ClickUrl>
+        <Title>大学機関リポジトリ</Title>
+        <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
+        <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>武庫川女子大学[Mukogawa Women&apos;s University]</Title>
-        <Url>http://www.mukogawa-u.ac.jp/?EIBUN/</Url>
-        <ClickUrl>http://www.mukogawa-u.ac.jp/?EIBUN/</ClickUrl>
+        <Title>武庫川女子大学 のウェブ検索結果 @search:@nifty</Title>
+        <Url>http://search.nifty.com/websearch/search?cflg=%E6%A4%9C%E7%B4%A2&amp;select=2&amp;q=%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6&amp;ck=&amp;ss=nifty_top_tp</Url>
+        <ClickUrl>http://search.nifty.com/websearch/search?cflg=%E6%A4%9C%E7%B4%A2&amp;select=2&amp;q=%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6&amp;ck=&amp;ss=nifty_top_tp</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 :: Yet another Webometrics for ...</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IRDBコンテンツ分析システム | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=132</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai.php?ir_no=132</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川大学 - ガイドミー</Title>
+        <Url>http://guideme.jp/pcm/%C9%F0%B8%CB%C0%EE%C2%E7%B3%D8</Url>
+        <ClickUrl>http://guideme.jp/pcm/%C9%F0%B8%CB%C0%EE%C2%E7%B3%D8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学(Webサイト一覧)|全国大学情報サイト&lt;wbr&gt;(動画、ニュース、ブログなど)</Title>
+        <Url>http://daigaku.system.bz/list/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6/search/</Url>
+        <ClickUrl>http://daigaku.system.bz/list/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6/search/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学 画像 / 気ままに画像検索</Title>
+        <Url>http://dgkiss.jp/imagesearcha.php?p=%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://dgkiss.jp/imagesearcha.php?p=%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>図書館員もどきのひとり言</Title>
+        <Url>http://liblog.seesaa.net/archives/200911-1.html</Url>
+        <ClickUrl>http://liblog.seesaa.net/archives/200911-1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学あるいは武庫川女子大学/学校トップ&lt;wbr&gt;/リクルート進学ネット</Title>
+        <Url>http://kirin.dontexist.com/query/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://kirin.dontexist.com/query/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 若年女性の生活習慣と脂質代謝の関連に関する検討</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000353/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000353/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Crystal Structure of a 6-Hydroxynaphtho[2,1-b]-3H&lt;wbr&gt;-1,4 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000358/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000358/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 百人一首講義録</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000412</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000412</ClickUrl>
+    </Result>
+    <Result>
+        <Title>日本国内の機関リポジトリサイトのWeb認知指標 (2010年1月版)</Title>
+        <Url>http://masao.jpn.org/etc/webometrics_rep_jp_201001.html</Url>
+        <ClickUrl>http://masao.jpn.org/etc/webometrics_rep_jp_201001.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学 - ガイドミー</Title>
+        <Url>http://guideme.jp/pcm/%C9%F0%B8%CB%C0%EE%BD%F7%BB%D2%C2%E7%B3%D8</Url>
+        <ClickUrl>http://guideme.jp/pcm/%C9%F0%B8%CB%C0%EE%BD%F7%BB%D2%C2%E7%B3%D8</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学 -JUNK Search-</Title>
+        <Url>http://www.junk-search.com/tag/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6.html</Url>
+        <ClickUrl>http://www.junk-search.com/tag/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学 もしくは 武庫川女子大学教育学科</Title>
+        <Url>http://icecoffee.hobby-site.com/query/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6</Url>
+        <ClickUrl>http://icecoffee.hobby-site.com/query/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学 - | Twelfth-Town</Title>
+        <Url>http://twelfth-town.podzone.org/rs/ja/JP/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6/</Url>
+        <ClickUrl>http://twelfth-town.podzone.org/rs/ja/JP/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | Crystal Structure of a 6-Hydroxynaphtho[2,1-b]-3H&lt;wbr&gt;-1,4 ...</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000358</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000358</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ストレスがラット腸管免疫に及ぼす影響 -アレルギー遺伝子素因・ Brown Norwayラットにおける検討-</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000367</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000367</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | n-Alkyl-dimethyl-3-chloro&lt;wbr&gt;-2-hydroxypropylammonium ...</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000242</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000242</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 衣服デザインに及ぼす錯視効果に関する研究 : ツェルナー錯視の活用</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000261</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000261</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学 | ウェブ検索 - BKK Search</Title>
+        <Url>http://search.bkk2.net/web/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6.html</Url>
+        <ClickUrl>http://search.bkk2.net/web/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%AD%A6.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 児童養護施設における高機能自閉症スペクトラム障害&lt;wbr&gt;(ASD)のスクリーニングの課題</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000316/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000316/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 体組成と脈波伝播速度からみた思春期女性の生活習慣病危険因子の&lt;wbr&gt;検討</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000344/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000344/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 乾燥オカラに含まれるイソフラボン量の比較</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000271/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000271/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 食玩に関する生活文化学的研究Ⅱ : 生活財としての食玩の表象文化的研究</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000373/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000373/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | ダイフクマメα-アミラーゼインヒビターの糖鎖構造</Title>
+        <Url>http://jairo.nii.ac.jp/0133/00000250/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0133/00000250/en</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子 - 話題商品サーチ</Title>
+        <Url>http://www.lspop.com/lp/%C9%F0%B8%CB%C0%EE%BD%F7%BB%D2/</Url>
+        <ClickUrl>http://www.lspop.com/lp/%C9%F0%B8%CB%C0%EE%BD%F7%BB%D2/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>武庫川女子大学 - 話題商品サーチ</Title>
+        <Url>http://www.lspop.com/lp/%C9%F0%B8%CB%C0%EE%BD%F7%BB%D2%C2%E7%B3%D8/</Url>
+        <ClickUrl>http://www.lspop.com/lp/%C9%F0%B8%CB%C0%EE%BD%F7%BB%D2%C2%E7%B3%D8/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>女子&amp;amp;武庫川大学の情報満載 - リンケージ.com</Title>
+        <Url>http://www.kensaku.xii.jp/search/%E5%A5%B3%E5%AD%90/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A4%A7%E5%AD%A6/</Url>
+        <ClickUrl>http://www.kensaku.xii.jp/search/%E5%A5%B3%E5%AD%90/%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A4%A7%E5%AD%A6/</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:55 PST 2010 -->
-<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:55 PST 2010 -->
+<!-- fe03.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:59 PDT 2010 -->
+<!-- ws01.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:59 PDT 2010 -->

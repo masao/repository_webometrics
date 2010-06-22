@@ -3,18 +3,33 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1630"
+    totalResultsAvailable="2171"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
+    </Result>
+    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>NATROMの日記</Title>
+        <Url>http://d.hatena.ne.jp/NATROM/</Url>
+        <ClickUrl>http://d.hatena.ne.jp/NATROM/</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Current IRs</Title>
         <Url>http://www.nii.ac.jp/irp/en/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Talk:OAIster - LISWiki</Title>
+        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
+        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
         <Title>The Jikei University</Title>
@@ -32,24 +47,19 @@
         <ClickUrl>http://d.hatena.ne.jp/finalvent/20081117/1226930161</ClickUrl>
     </Result>
     <Result>
+        <Title>Who uses Dublin Core? &quot; Metalogger</Title>
+        <Url>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</Url>
+        <ClickUrl>http://metalogger.wordpress.com/2010/06/15/who-uses-dublin-core/</ClickUrl>
+    </Result>
+    <Result>
         <Title>長門で学ぶビタミンB1発見史 - NATROMの日記</Title>
         <Url>http://d.hatena.ne.jp/NATROM/20081221</Url>
         <ClickUrl>http://d.hatena.ne.jp/NATROM/20081221</ClickUrl>
     </Result>
     <Result>
-        <Title>Talk:OAIster - LISWiki</Title>
-        <Url>http://liswiki.org/wiki/Talk:OAIster</Url>
-        <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
-    </Result>
-    <Result>
-        <Title>はてなブックマーク - zundamoon07のブックマーク</Title>
-        <Url>http://b.hatena.ne.jp/zundamoon07/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/zundamoon07/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>双方向型医学系サブジェクトリポジトリ技術基盤の形成</Title>
-        <Url>https://infonavi.sapmed.ac.jp/ir/</Url>
-        <ClickUrl>https://infonavi.sapmed.ac.jp/ir/</ClickUrl>
+        <Title>生化学の歴史 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%AD%A6%E3%81%AE%E6%AD%B4%E5%8F%B2</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%AD%A6%E3%81%AE%E6%AD%B4%E5%8F%B2</ClickUrl>
     </Result>
     <Result>
         <Title>おっと、森鴎外を批判するのはそこまでだ - memorandum</Title>
@@ -57,14 +67,19 @@
         <ClickUrl>http://d.hatena.ne.jp/bn2islander/20081216/1229447950</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>【東京慈恵会医科大学】</Title>
         <Url>http://www.jikei.ac.jp/academic/index.html</Url>
         <ClickUrl>http://www.jikei.ac.jp/academic/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>機械論 - 注目商品ピック</Title>
+        <Url>http://www.at-pop.com/ap/%B5%A1%B3%A3%CF%C0/</Url>
+        <ClickUrl>http://www.at-pop.com/ap/%B5%A1%B3%A3%CF%C0/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>千夜千論 Doctors Blog 医師が発信するブログサイト</Title>
+        <Url>http://blog.m3.com/senya/20100521/1</Url>
+        <ClickUrl>http://blog.m3.com/senya/20100521/1</ClickUrl>
     </Result>
     <Result>
         <Title>高木兼寛は麦飯で脚気を防止する事ができたのか - memorandum</Title>
@@ -72,29 +87,49 @@
         <ClickUrl>http://d.hatena.ne.jp/bn2islander/20081217/1229526856</ClickUrl>
     </Result>
     <Result>
+        <Title>[今日の栄一] - 実業史研究情報センター・ブログ 「情報の扉の、そのまた向こう」</Title>
+        <Url>http://d.hatena.ne.jp/tobira/searchdiary?word=*[%BA%A3%C6%FC%A4%CE%B1%C9%B0%EC]</Url>
+        <ClickUrl>http://d.hatena.ne.jp/tobira/searchdiary?word=*[%BA%A3%C6%FC%A4%CE%B1%C9%B0%EC]</ClickUrl>
+    </Result>
+    <Result>
         <Title>link to private university libraries;私立大学図書館とそのOPACへのリンク&lt;wbr&gt;(東日本 ...</Title>
         <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</Url>
         <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwshi-1.html</ClickUrl>
     </Result>
     <Result>
-        <Title>[Zasshi] Tokyo Jikeikai medical journal. Tokyo Jikeikai Ika ...</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=[Zasshi]+Tokyo+Jikeikai+medical+journal.+Tokyo+Jikeikai+Ika+Daigaku.&amp;Page=2</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=[Zasshi]+Tokyo+Jikeikai+medical+journal.+Tokyo+Jikeikai+Ika+Daigaku.&amp;Page=2</ClickUrl>
+        <Title>3dmx .pdf Ebook Free Download</Title>
+        <Url>http://www.pdf-search-engine.com/3dmx-pdf.html</Url>
+        <ClickUrl>http://www.pdf-search-engine.com/3dmx-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>[Zasshi] Tokyo Jikeikai medical journal. Tokyo Jikeikai Ika ...</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=[Zasshi]+Tokyo+Jikeikai+medical+journal.+Tokyo+Jikeikai+Ika+Daigaku.</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=[Zasshi]+Tokyo+Jikeikai+medical+journal.+Tokyo+Jikeikai+Ika+Daigaku.</ClickUrl>
+        <Title>Jikeikai medical journal. : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=Jikeikai+medical+journal.</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=Jikeikai+medical+journal.</ClickUrl>
     </Result>
     <Result>
-        <Title>2008-11-17 - finalventの日記</Title>
-        <Url>http://d.hatena.ne.jp/finalvent/20081117</Url>
-        <ClickUrl>http://d.hatena.ne.jp/finalvent/20081117</ClickUrl>
+        <Title>short head of coracoradialis muscle : KMLE 의학 검색 엔진 - 의학사전 ...</Title>
+        <Url>http://www.kmle.co.kr/search.php?Search=short+head+of+coracoradialis+muscle</Url>
+        <ClickUrl>http://www.kmle.co.kr/search.php?Search=short+head+of+coracoradialis+muscle</ClickUrl>
     </Result>
     <Result>
-        <Title>生化学の歴史 - Wikipedia</Title>
-        <Url>http://ja.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%AD%A6%E3%81%AE%E6%AD%B4%E5%8F%B2</Url>
-        <ClickUrl>http://ja.wikipedia.org/wiki/%E7%94%9F%E5%8C%96%E5%AD%A6%E3%81%AE%E6%AD%B4%E5%8F%B2</ClickUrl>
+        <Title>臨床部門|東京慈恵会医科大学</Title>
+        <Url>http://www.jikei.ac.jp/academic/rinsho.html</Url>
+        <ClickUrl>http://www.jikei.ac.jp/academic/rinsho.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[医学] - NATROMの日記</Title>
+        <Url>http://d.hatena.ne.jp/NATROM/searchdiary?word=*[%B0%E5%B3%D8]</Url>
+        <ClickUrl>http://d.hatena.ne.jp/NATROM/searchdiary?word=*[%B0%E5%B3%D8]</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ford mas eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/ford-mas-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/ford-mas-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>IMU 1451 eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/IMU-1451-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/IMU-1451-pdf.html</ClickUrl>
     </Result>
     <Result>
         <Title>図書館&amp;gt;データベース・利用ガイド</Title>
@@ -107,54 +142,94 @@
         <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=66</ClickUrl>
     </Result>
     <Result>
-        <Title>Jikeikai medical journal. : KMLE 의학 검색 엔진 - 의학사전, 의학용어, 의학약어 ...</Title>
-        <Url>http://www.kmle.co.kr/search.php?Search=Jikeikai+medical+journal.</Url>
-        <ClickUrl>http://www.kmle.co.kr/search.php?Search=Jikeikai+medical+journal.</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>大瀧佑平 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=%E5%A4%A7%E7%80%A7%E4%BD%91%E5%B9%B3&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E5%A4%A7%E7%80%A7%E4%BD%91%E5%B9%B3&amp;action=search</ClickUrl>
+        <Title>まだらのヘビとおちんちん: マリンパの雑感</Title>
+        <Url>http://marinn.cocolog-nifty.com/mmm/2009/06/post-4207.html</Url>
+        <ClickUrl>http://marinn.cocolog-nifty.com/mmm/2009/06/post-4207.html</ClickUrl>
     </Result>
     <Result>
-        <Title>野秋朗多 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=%E9%87%8E%E7%A7%8B%E6%9C%97%E5%A4%9A&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=%E9%87%8E%E7%A7%8B%E6%9C%97%E5%A4%9A&amp;action=search</ClickUrl>
+        <Title>歩けない.pdf Download</Title>
+        <Url>http://www.pdfxp.com/%E6%AD%A9%E3%81%91%E3%81%AA%E3%81%84-pdf.html</Url>
+        <ClickUrl>http://www.pdfxp.com/%E6%AD%A9%E3%81%91%E3%81%AA%E3%81%84-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>奥芝知郎医師 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E5%A5%A5%E8%8A%9D%E7%9F%A5%E9%83%8E%E5%8C%BB%E5%B8%AB&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E5%A5%A5%E8%8A%9D%E7%9F%A5%E9%83%8E%E5%8C%BB%E5%B8%AB&amp;action=search</ClickUrl>
+        <Title>NII Institutional Repositories Program | Projects | Project ...</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>uvf eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/uvf-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/uvf-pdf.html</ClickUrl>
+        <Title>pdfExplore - download 肺がん リンパ節 転移 .pdf</Title>
+        <Url>http://www.pdfexplore.com/book/%E8%82%BA%E3%81%8C%E3%82%93-%E3%83%AA%E3%83%B3%E3%83%91-%E7%AF%80-%E8%BB%A2%E7%A7%BB-pdf.html</Url>
+        <ClickUrl>http://www.pdfexplore.com/book/%E8%82%BA%E3%81%8C%E3%82%93-%E3%83%AA%E3%83%B3%E3%83%91-%E7%AF%80-%E8%BB%A2%E7%A7%BB-pdf.html</ClickUrl>
     </Result>
     <Result>
-        <Title>紹介「動画でわかる 摂食・嚥下リハビリテーション」 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20081105</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081105</ClickUrl>
+        <Title>[PDF] 直腸 組織学的壁深達度</Title>
+        <Url>http://www.ebook-seek-engine.com/pdf/%E7%9B%B4%E8%85%B8%E3%80%80%E7%B5%84%E7%B9%94%E5%AD%A6%E7%9A%84%E5%A3%81%E6%B7%B1%E9%81%94%E5%BA%A6-pdf-L.html</Url>
+        <ClickUrl>http://www.ebook-seek-engine.com/pdf/%E7%9B%B4%E8%85%B8%E3%80%80%E7%B5%84%E7%B9%94%E5%AD%A6%E7%9A%84%E5%A3%81%E6%B7%B1%E9%81%94%E5%BA%A6-pdf-L.html</ClickUrl>
     </Result>
     <Result>
-        <Title>霞ヶ関の内幕暴露、「さらば財務省!」 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20080809</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080809</ClickUrl>
+        <Title>ductal carcinoma in situ - GanSeek 検索</Title>
+        <Url>http://seek.gankeijiban.com/sch.php?phrase=ductal+carcinoma+in+situ</Url>
+        <ClickUrl>http://seek.gankeijiban.com/sch.php?phrase=ductal+carcinoma+in+situ</ClickUrl>
     </Result>
     <Result>
-        <Title>目標はニーズと評価から導きだされる - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20081225</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081225</ClickUrl>
+        <Title>MMPI - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=MMPI&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=MMPI&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
     </Result>
     <Result>
-        <Title>後期高齢者医療制度、長続きするとは思えず - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20080926</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080926</ClickUrl>
+        <Title>sympt - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=sympt&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=sympt&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
     </Result>
     <Result>
-        <Title>臨床部門|東京慈恵会医科大学</Title>
-        <Url>http://www.jikei.ac.jp/academic/rinsho.html</Url>
-        <ClickUrl>http://www.jikei.ac.jp/academic/rinsho.html</ClickUrl>
+        <Title>ebas - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=ebas&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=ebas&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Umor - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=Umor&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=Umor&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>omet - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=omet&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=omet&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>omat - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=omat&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=omat&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>実業史研究情報センター・ブログ 「情報の扉の、そのまた向こう」</Title>
+        <Url>http://d.hatena.ne.jp/tobira/?of=3</Url>
+        <ClickUrl>http://d.hatena.ne.jp/tobira/?of=3</ClickUrl>
+    </Result>
+    <Result>
+        <Title>脚氣ハ果タシテヴィタミンB缺乏症ナルカ - NATROMの日記</Title>
+        <Url>http://d.hatena.ne.jp/NATROM/20100603</Url>
+        <ClickUrl>http://d.hatena.ne.jp/NATROM/20100603</ClickUrl>
+    </Result>
+    <Result>
+        <Title>2008-11-17 - finalventの日記</Title>
+        <Url>http://d.hatena.ne.jp/finalvent/20081117</Url>
+        <ClickUrl>http://d.hatena.ne.jp/finalvent/20081117</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[NAR-SN-1] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/NAR-SN-1_all_1.html</Url>
+        <ClickUrl>http://gjtb.net/detail/NAR-SN-1_all_1.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>[PPS IR] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/PPS%20IR_all_1.html</Url>
+        <ClickUrl>http://gjtb.net/detail/PPS%20IR_all_1.html</ClickUrl>
     </Result>
     <Result>
         <Title>はてなブックマーク - 埼玉のドルジ@はてなブックマーク - 2008年12月18日</Title>
@@ -162,100 +237,25 @@
         <ClickUrl>http://b.hatena.ne.jp/saitamanodoruji/20081218</ClickUrl>
     </Result>
     <Result>
+        <Title>教育センター|東京慈恵会医科大学</Title>
+        <Url>http://www.jikei.ac.jp/academic/edu_center.html</Url>
+        <ClickUrl>http://www.jikei.ac.jp/academic/edu_center.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 光舌</Title>
+        <Url>http://search.livedoor.com/search/?q=%B8%F7%C0%E5</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=%B8%F7%C0%E5</ClickUrl>
+    </Result>
+    <Result>
         <Title>大学機関リポジトリ</Title>
         <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>はてなブックマーク - fs001493のブックマーク - やる夫</Title>
-        <Url>http://b.hatena.ne.jp/fs001493/%E3%82%84%E3%82%8B%E5%A4%AB/</Url>
-        <ClickUrl>http://b.hatena.ne.jp/fs001493/%E3%82%84%E3%82%8B%E5%A4%AB/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 東 香代子</Title>
-        <Url>http://search.livedoor.com/search/?q=%C5%EC+%B9%E1%C2%E5%BB%D2</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%C5%EC+%B9%E1%C2%E5%BB%D2</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -ok式 浸透桝-</Title>
-        <Url>http://seonum.com/rank/ok%E5%BC%8F+%E6%B5%B8%E9%80%8F%E6%A1%9D.html</Url>
-        <ClickUrl>http://seonum.com/rank/ok%E5%BC%8F+%E6%B5%B8%E9%80%8F%E6%A1%9D.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>一括検索 -クランプ cad ck-</Title>
-        <Url>http://seonum.com/rank/%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97+cad+ck.html</Url>
-        <ClickUrl>http://seonum.com/rank/%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97+cad+ck.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 下流部は 関節機能は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B2%BC%CE%AE%C9%F4%A4%CF+%B4%D8%C0%E1%B5%A1%C7%BD%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B2%BC%CE%AE%C9%F4%A4%CF+%B4%D8%C0%E1%B5%A1%C7%BD%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 間接作用は 直接作用は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B4%D6%C0%DC%BA%EE%CD%D1%A4%CF+%C4%BE%C0%DC%BA%EE%CD%D1%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%B4%D6%C0%DC%BA%EE%CD%D1%A4%CF+%C4%BE%C0%DC%BA%EE%CD%D1%A4%CF</ClickUrl>
-    </Result>
-    <Result>
-        <Title>livedoor ウェブ検索 検索結果 : リウマチ性多発筋痛症(polymyalgia rheumatica; PMR)</Title>
-        <Url>http://search.livedoor.com/search/?q=%A5%EA%A5%A6%A5%DE%A5%C1%C0%AD%C2%BF%C8%AF%B6%DA%C4%CB%BE%C9(polymyalgia+rheumatica%3B+PMR%A1%CB</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=%A5%EA%A5%A6%A5%DE%A5%C1%C0%AD%C2%BF%C8%AF%B6%DA%C4%CB%BE%C9(polymyalgia+rheumatica%3B+PMR%A1%CB</ClickUrl>
-    </Result>
-    <Result>
-        <Title>倫理委員会|東京慈恵会医科大学</Title>
-        <Url>http://www.jikei.ac.jp/academic/rinri/index.html</Url>
-        <ClickUrl>http://www.jikei.ac.jp/academic/rinri/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>激震3診療報酬改定、疾患別リハビリテーション料の導入と算定日&lt;wbr&gt;数上限設定(2006年) - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20080301/1204328439</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080301/1204328439</ClickUrl>
-    </Result>
-    <Result>
-        <Title>通所リハ、リハマネジメント加算の憂鬱 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20090407/1239105232</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20090407/1239105232</ClickUrl>
-    </Result>
-    <Result>
-        <Title>看護必要度の弊害(まとめ) - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20080313/1205411297</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080313/1205411297</ClickUrl>
-    </Result>
-    <Result>
-        <Title>回復期リハビリテーション病棟への移動を拒否する患者 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20081014/1223990373</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081014/1223990373</ClickUrl>
-    </Result>
-    <Result>
-        <Title>社会保障国民会議、医療・介護費用のシミュレーション結果 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20081024/1224846191</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081024/1224846191</ClickUrl>
-    </Result>
-    <Result>
-        <Title>非正規労働者の雇い止めは愛知県で最も深刻 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20090304/1236167739</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20090304/1236167739</ClickUrl>
-    </Result>
-    <Result>
-        <Title>安全設計に問題? オーチス社製エスカレーター事故多発 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20080804/1217849046</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080804/1217849046</ClickUrl>
-    </Result>
-    <Result>
-        <Title>後期高齢者終末期相談支援料だけでなく、制度そのものの廃止が必&lt;wbr&gt;要 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20080516/1210894025</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20080516/1210894025</ClickUrl>
-    </Result>
-    <Result>
-        <Title>朝令暮改 - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20081205/1228465956/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20081205/1228465956/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>株式会社立訪問看護ステーション、不正受給で指定取り消し - リハ医の独白</Title>
-        <Url>http://d.hatena.ne.jp/zundamoon07/20090214/1234613387/</Url>
-        <ClickUrl>http://d.hatena.ne.jp/zundamoon07/20090214/1234613387/</ClickUrl>
+        <Title>[PPS IR] 技術者のための研究情報</Title>
+        <Url>http://gjtb.net/detail/PPS%20IR_investigation_1.html</Url>
+        <ClickUrl>http://gjtb.net/detail/PPS%20IR_investigation_1.html</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe05.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:39 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:39 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:57 PDT 2010 -->
+<!-- ws04.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:57 PDT 2010 -->

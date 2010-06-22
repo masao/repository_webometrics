@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="374"
+    totalResultsAvailable="738"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
@@ -27,19 +27,19 @@
         <ClickUrl>http://lib.med.tottori-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>ソフトエネルギー</Title>
-        <Url>http://greenpost.way-nifty.com/softenergy</Url>
-        <ClickUrl>http://greenpost.way-nifty.com/softenergy</ClickUrl>
+        <Title>満州国の国歌 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%BA%80%E5%B7%9E%E5%9B%BD%E3%81%AE%E5%9B%BD%E6%AD%8C</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%BA%80%E5%B7%9E%E5%9B%BD%E3%81%AE%E5%9B%BD%E6%AD%8C</ClickUrl>
     </Result>
     <Result>
-        <Title>Bbs.lib.inc.php eBooks Top 20 - Printfu PDF Search</Title>
-        <Url>http://printfu.org/bbs.lib.inc.php</Url>
-        <ClickUrl>http://printfu.org/bbs.lib.inc.php</ClickUrl>
+        <Title>ノート:無条件降伏 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E7%84%A1%E6%9D%A1%E4%BB%B6%E9%99%8D%E4%BC%8F</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E7%84%A1%E6%9D%A1%E4%BB%B6%E9%99%8D%E4%BC%8F</ClickUrl>
     </Result>
     <Result>
-        <Title>ソフトエネルギー: 020風力発電</Title>
-        <Url>http://greenpost.way-nifty.com/softenergy/cat2272059/index.html</Url>
-        <ClickUrl>http://greenpost.way-nifty.com/softenergy/cat2272059/index.html</ClickUrl>
+        <Title>MEMO:小型風力発電研究者-風力発電の研究に取り組む 鳥取大大学院工学研究科准教授 原 豊さん / 小型風力発電 ...</Title>
+        <Url>http://greenpost.way-nifty.com/softenergy/2009/12/memo--8b89.html</Url>
+        <ClickUrl>http://greenpost.way-nifty.com/softenergy/2009/12/memo--8b89.html</ClickUrl>
     </Result>
     <Result>
         <Title>研究者情報/鳥取大学公式ホームページ</Title>
@@ -47,29 +47,9 @@
         <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?menuid=1023</ClickUrl>
     </Result>
     <Result>
-        <Title>al hejap | al hejap news | Recentnews.co.uk</Title>
-        <Url>http://www.recentnews.co.uk/al%20hejap/</Url>
-        <ClickUrl>http://www.recentnews.co.uk/al%20hejap/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>鳥取大学医学図書館</Title>
-        <Url>http://lib.med.tottori-u.ac.jp/homepage.html</Url>
-        <ClickUrl>http://lib.med.tottori-u.ac.jp/homepage.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>SHERIDAN STYLE eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/SHERIDAN-STYLE-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/SHERIDAN-STYLE-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>ソフトエネルギー: 100国内</Title>
-        <Url>http://greenpost.way-nifty.com/softenergy/cat2272094/index.html</Url>
-        <ClickUrl>http://greenpost.way-nifty.com/softenergy/cat2272094/index.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=111</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=111</ClickUrl>
+        <Title>link to national university libraries;国立大学図書館とそのOPACへのリンク</Title>
+        <Url>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</Url>
+        <ClickUrl>http://www.slis.keio.ac.jp/~ueda/libwww/libwwwkoku.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
@@ -77,69 +57,9 @@
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>u18 め~る式 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=u18+%E3%82%81%EF%BD%9E%E3%82%8B%E5%BC%8F&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=u18+%E3%82%81%EF%BD%9E%E3%82%8B%E5%BC%8F&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>crown english series I 本文全訳 - results - www.purimblog.net</Title>
-        <Url>http://www.purimblog.net/engsearch.php?title=crown+english+series+I+%E6%9C%AC%E6%96%87%E5%85%A8%E8%A8%B3&amp;action=search</Url>
-        <ClickUrl>http://www.purimblog.net/engsearch.php?title=crown+english+series+I+%E6%9C%AC%E6%96%87%E5%85%A8%E8%A8%B3&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>三晃金属 折版単位重量 - results - www.frestres.com</Title>
-        <Url>http://www.frestres.com/engsearch.php?title=%E4%B8%89%E6%99%83%E9%87%91%E5%B1%9E%E3%80%80%E6%8A%98%E7%89%88%E5%8D%98%E4%BD%8D%E9%87%8D%E9%87%8F&amp;action=search</Url>
-        <ClickUrl>http://www.frestres.com/engsearch.php?title=%E4%B8%89%E6%99%83%E9%87%91%E5%B1%9E%E3%80%80%E6%8A%98%E7%89%88%E5%8D%98%E4%BD%8D%E9%87%8D%E9%87%8F&amp;action=search</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
-        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Gauge RR eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/Gauge-RR-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/Gauge-RR-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>competency based resume eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/competency-based-resume-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/competency-based-resume-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>School Management in Japan eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/School-Management-in-Japan-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/School-Management-in-Japan-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>estimating evapotranspiration eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/estimating-evapotranspiration-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/estimating-evapotranspiration-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>悪魔の血 eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/%E6%82%AA%E9%AD%94%E3%81%AE%E8%A1%80-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/%E6%82%AA%E9%AD%94%E3%81%AE%E8%A1%80-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>フレーゲ eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/%E3%83%95%E3%83%AC%E3%83%BC%E3%82%B2-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/%E3%83%95%E3%83%AC%E3%83%BC%E3%82%B2-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>School Administration Management in Japan eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/School-Administration-Management-in-Japan-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/School-Administration-Management-in-Japan-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Passive and Active Network Analysis and Synthesis eBook Downloads</Title>
-        <Url>http://www.pdfgeni.com/book/Passive-and-Active-Network-Analysis-and-Synthesis-pdf.html</Url>
-        <ClickUrl>http://www.pdfgeni.com/book/Passive-and-Active-Network-Analysis-and-Synthesis-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>企業の方へ/鳥取大学公式ホームページ</Title>
-        <Url>http://www.tottori-u.ac.jp/dd.aspx?menuid=1010</Url>
-        <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?menuid=1010</ClickUrl>
+        <Title>鳥取大学医学図書館</Title>
+        <Url>http://lib.med.tottori-u.ac.jp/homepage.html</Url>
+        <ClickUrl>http://lib.med.tottori-u.ac.jp/homepage.html</ClickUrl>
     </Result>
     <Result>
         <Title>企業の方へ/鳥取大学公式ホームページ</Title>
@@ -147,19 +67,84 @@
         <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110</ClickUrl>
     </Result>
     <Result>
+        <Title>diameter eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/diameter-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/diameter-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>rover MGF eBook Downloads</Title>
+        <Url>http://www.pdfgeni.com/book/rover-MGF-pdf.html</Url>
+        <ClickUrl>http://www.pdfgeni.com/book/rover-MGF-pdf.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=111</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=111</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ソフトエネルギー: 001クリッピング2009</Title>
+        <Url>http://greenpost.way-nifty.com/softenergy/0012009/index.html</Url>
+        <ClickUrl>http://greenpost.way-nifty.com/softenergy/0012009/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Welcome to Tesco.net</Title>
+        <Url>http://www.tesco.net/default.asp?q=related:http://hiromi-mix-takeuchi.com/schedule/english_index.html</Url>
+        <ClickUrl>http://www.tesco.net/default.asp?q=related:http://hiromi-mix-takeuchi.com/schedule/english_index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>荒木有美 プロフィール - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E8%8D%92%E6%9C%A8%E6%9C%89%E7%BE%8E/1215319/</Url>
+        <ClickUrl>http://spysee.jp/%E8%8D%92%E6%9C%A8%E6%9C%89%E7%BE%8E/1215319/</ClickUrl>
+    </Result>
+    <Result>
+        <Title>LvsF - ogli.jp</Title>
+        <Url>http://ogli.jp/search?q=LvsF&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</Url>
+        <ClickUrl>http://ogli.jp/search?q=LvsF&amp;submit=%E7%B7%8F%E5%90%88%E6%A4%9C%E7%B4%A2</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | SR-2型土壌抵抗測定器による土壌剪断抵抗測定法の検討</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000112</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000112</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 数学における発見的論理と数学の学習指導 : G.ポリアとI.ラカトシュに学ぶ</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00001647</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00001647</ClickUrl>
+    </Result>
+    <Result>
         <Title>大学機関リポジトリ</Title>
         <Url>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</Url>
         <ClickUrl>http://www.asahi-net.or.jp/~gb4k-ktr/univrep.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : gear mesh frequency</Title>
-        <Url>http://search.livedoor.com/search/?q=gear+mesh+frequency</Url>
-        <ClickUrl>http://search.livedoor.com/search/?q=gear+mesh+frequency</ClickUrl>
+        <Title>教育開発部門 准教授 武田 元有 Genyuh TAKEDA</Title>
+        <Url>http://www.uec.tottori-u.ac.jp/~takeda/takedagen2.htm</Url>
+        <ClickUrl>http://www.uec.tottori-u.ac.jp/~takeda/takedagen2.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 衆閲会議は 全廃は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BD%B0%B1%DC%B2%F1%B5%C4%A4%CF+%C1%B4%C7%D1%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%BD%B0%B1%DC%B2%F1%B5%C4%A4%CF+%C1%B4%C7%D1%A4%CF</ClickUrl>
+        <Title>livedoor ウェブ検索 検索結果 : impaired glucose tolerance</Title>
+        <Url>http://search.livedoor.com/search/?q=impaired+glucose+tolerance</Url>
+        <ClickUrl>http://search.livedoor.com/search/?q=impaired+glucose+tolerance</ClickUrl>
+    </Result>
+    <Result>
+        <Title>今井らい蔵 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E3%82%89%E3%81%84%E8%94%B5</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E3%82%89%E3%81%84%E8%94%B5</ClickUrl>
+    </Result>
+    <Result>
+        <Title>一括検索 -建材 加工性 ヤング率-</Title>
+        <Url>http://seonum.com/rank/%E5%BB%BA%E6%9D%90+%E5%8A%A0%E5%B7%A5%E6%80%A7+%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87.html</Url>
+        <ClickUrl>http://seonum.com/rank/%E5%BB%BA%E6%9D%90+%E5%8A%A0%E5%B7%A5%E6%80%A7+%E3%83%A4%E3%83%B3%E3%82%B0%E7%8E%87.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>livedoor ウェブ検索 検索結果 : 正偏差は 常温倉庫は</Title>
+        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C0%B5%CA%D0%BA%B9%A4%CF+%BE%EF%B2%B9%C1%D2%B8%CB%A4%CF</Url>
+        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C0%B5%CA%D0%BA%B9%A4%CF+%BE%EF%B2%B9%C1%D2%B8%CB%A4%CF</ClickUrl>
     </Result>
     <Result>
         <Title>livedoor ウェブ検索 検索結果 : 国語科教育法 [武山 隆昭]</Title>
@@ -167,19 +152,29 @@
         <ClickUrl>http://search.livedoor.com/search/?q=%B9%F1%B8%EC%B2%CA%B6%B5%B0%E9%CB%A1++[%C9%F0%BB%B3+%CE%B4%BE%BC]</ClickUrl>
     </Result>
     <Result>
-        <Title>livedoor ウェブ検索 検索結果 : 電気分解は 就業状態別は</Title>
-        <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C5%C5%B5%A4%CA%AC%B2%F2%A4%CF+%BD%A2%B6%C8%BE%F5%C2%D6%CA%CC%A4%CF</Url>
-        <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C5%C5%B5%A4%CA%AC%B2%F2%A4%CF+%BD%A2%B6%C8%BE%F5%C2%D6%CA%CC%A4%CF</ClickUrl>
-    </Result>
-    <Result>
         <Title>livedoor ウェブ検索 検索結果 : 比較的寛容は 組織的迫害は</Title>
         <Url>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%E6%B3%D3%C5%AA%B4%B2%CD%C6%A4%CF+%C1%C8%BF%A5%C5%AA%C7%F7%B3%B2%A4%CF</Url>
         <ClickUrl>http://search.livedoor.com/search/?&amp;lr=lang_ja&amp;num=50&amp;q=%C8%E6%B3%D3%C5%AA%B4%B2%CD%C6%A4%CF+%C1%C8%BF%A5%C5%AA%C7%F7%B3%B2%A4%CF</ClickUrl>
     </Result>
     <Result>
-        <Title>鳥取大学附属図書館 - Tottori University Library</Title>
-        <Url>http://160.15.28.108/</Url>
-        <ClickUrl>http://160.15.28.108/</ClickUrl>
+        <Title>akemi yanagihara - 夢人</Title>
+        <Url>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</Url>
+        <ClickUrl>http://www.pson-wd.com/psn/AKEMI/akemi+yanagihara.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>akemi yanagihara - 夢人</Title>
+        <Url>http://www.pson-wd.com/psn/AKEMI/akemi%20yanagihara.html</Url>
+        <ClickUrl>http://www.pson-wd.com/psn/AKEMI/akemi%20yanagihara.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ソフトエネルギー: 住まい・インテリア</Title>
+        <Url>http://greenpost.way-nifty.com/softenergy/cat2119776/index.html</Url>
+        <ClickUrl>http://greenpost.way-nifty.com/softenergy/cat2119776/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>ソフトエネルギー: 021小型風力発電機</Title>
+        <Url>http://greenpost.way-nifty.com/softenergy/021/index.html</Url>
+        <ClickUrl>http://greenpost.way-nifty.com/softenergy/021/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>鳥取大学附属図書館ホームページ(電子図書館)</Title>
@@ -192,9 +187,19 @@
         <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?itemid=3005</ClickUrl>
     </Result>
     <Result>
-        <Title>荒木有美 プロフィール - あのひと検索 SPYSEE [スパイシー]</Title>
-        <Url>http://spysee.jp/%E8%8D%92%E6%9C%A8%E6%9C%89%E7%BE%8E/1215319/</Url>
-        <ClickUrl>http://spysee.jp/%E8%8D%92%E6%9C%A8%E6%9C%89%E7%BE%8E/1215319/</ClickUrl>
+        <Title>企業の方へ/鳥取大学公式ホームページ</Title>
+        <Url>http://www.tottori-u.ac.jp/dd.aspx?menuid=1010</Url>
+        <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?menuid=1010</ClickUrl>
+    </Result>
+    <Result>
+        <Title>データベース利用案内</Title>
+        <Url>http://www.lib.tottori-u.ac.jp/databaselist201001.htm</Url>
+        <ClickUrl>http://www.lib.tottori-u.ac.jp/databaselist201001.htm</ClickUrl>
+    </Result>
+    <Result>
+        <Title>森井俊廣 プロフィール - あのひと検索 SPYSEE [スパイシー]</Title>
+        <Url>http://spysee.jp/%E6%A3%AE%E4%BA%95%E4%BF%8A%E5%BB%A3/1282610/</Url>
+        <ClickUrl>http://spysee.jp/%E6%A3%AE%E4%BA%95%E4%BF%8A%E5%BB%A3/1282610/</ClickUrl>
     </Result>
     <Result>
         <Title>企業の方へ/鳥取大学公式ホームページ</Title>
@@ -203,59 +208,54 @@
     </Result>
     <Result>
         <Title>企業の方へ/鳥取大学公式ホームページ</Title>
-        <Url>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110&amp;pfromid=15</Url>
-        <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110&amp;pfromid=15</ClickUrl>
-    </Result>
-    <Result>
-        <Title>企業の方へ/鳥取大学公式ホームページ</Title>
         <Url>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110&amp;pfromid=30</Url>
         <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110&amp;pfromid=30</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 大正期における自由主義体育思想の研究(Ⅰ)</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001550</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001550</ClickUrl>
+        <Title>企業の方へ/鳥取大学公式ホームページ</Title>
+        <Url>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110&amp;pfromid=15</Url>
+        <ClickUrl>http://www.tottori-u.ac.jp/dd.aspx?moduleid=1110&amp;pfromid=15</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 部落問題と差別意識との関連について</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001718</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001718</ClickUrl>
+        <Title>the o.c 打ち切 みんなで作る検索エンジン Kynny (キニー) BETA</Title>
+        <Url>http://www.kynny.com/q.php?q=the+o.c+%E6%89%93%E3%81%A1%E5%88%87</Url>
+        <ClickUrl>http://www.kynny.com/q.php?q=the+o.c+%E6%89%93%E3%81%A1%E5%88%87</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | がんの疫学的研究 : 胃集団検診の評価(第2報)</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001816</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001816</ClickUrl>
+        <Title>JAIRO | On homotopy of a finite spectrum at the prime 3</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002237</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002237</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 新規人工染色体ベクターを用いたDNA-PKcs遺伝子発現制御&lt;wbr&gt;系の構築</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001815</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001815</ClickUrl>
+        <Title>JAIRO | 森林管理における林分保有期間の最適決定に関するシステム論的考&lt;wbr&gt;察</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000712</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000712</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 1 Summaries of Doctor Theses</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00000946</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00000946</ClickUrl>
+        <Title>JAIRO | 教員免許更新講習への要望に関する調査報告 : 鳥取県における質問紙調査をもとに</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002342</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002342</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | ケヤキの利用材積と材質について</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001356</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001356</ClickUrl>
+        <Title>JAIRO | On the E₂-term of the Novikov spectral sequence for a ...</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002253</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002253</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 入眠状態およびレム睡眠時眼球運動の自動計測</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001808</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001808</ClickUrl>
+        <Title>JAIRO | 留学生と児童が共に学ぶ異文化理解教育の実践 : 小学校における留学生の「正統的周辺参加」</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002334</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002334</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Fluorescent Chromosome Banding in the Genus Epimedium</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001019</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001019</ClickUrl>
+        <Title>JAIRO | 若者たちの文化・労働と鳥取の現状</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00002341</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00002341</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | クヌギ採種林における種子生産</Title>
-        <Url>http://jairo.nii.ac.jp/0112/00001387</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0112/00001387</ClickUrl>
+        <Title>JAIRO | Genomic Organization of the Human Arpp Gene</Title>
+        <Url>http://jairo.nii.ac.jp/0112/00000837</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0112/00000837</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:33 PST 2010 -->
-<!-- ws07.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:33 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:40 PDT 2010 -->
+<!-- ws14.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:40 PDT 2010 -->

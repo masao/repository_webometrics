@@ -4,11 +4,11 @@
 設置種別	国立大学
 機関規模	C
 
-機関リポジトリ名称（日）	福井大学学術機関リポジトリ（UFR）
+機関リポジトリ名称（日）	福井大学学術機関リポジトリ
 機関リポジトリ名称（英）	University of Fukui Repository
 機関リポジトリトップページ画像	http://irdb.nii.ac.jp/analysis/file/image/capture/38.gif
-機関リポジトリへのリンク（日）	http://repo.flib.fukui-u.ac.jp/dspace/
-機関リポジトリへのリンク（英）	http://repo.flib.fukui-u.ac.jp/dspace/
+機関リポジトリへのリンク（日）	http://repo.flib.u-fukui.ac.jp/dspace/
+機関リポジトリへのリンク（英）	http://repo.flib.u-fukui.ac.jp/dspace/
 機関リポジトリロゴマーク	http://irdb.nii.ac.jp/analysis/file/image/logo/38.gif
 郵便番号	910-8507
 住所	福井市文京3-9-1
@@ -19,6 +19,10 @@
 備考（英）	This IR cooperates with CiNii
 
 	Journal Article（学術雑誌論文）	Thesis or Dissertation（学位論文）	Departmental Bulletin Paper（紀要論文）	Conference Paper（会議発表論文）	Presentation（会議発表用資料）	Book（図書）	Technical Report（テクニカルレポート）	Research Paper（研究報告書）	Article（一般雑誌記事）	Preprint（プレプリント）	Learning Material（教材）	Data or Dataset（データ・データベース）	Software（ソフトウェア）	Others（その他）	合計
+2010/05	764	45	687	0	0	0	0	37	1	0	0	0	0	3	1537
+2010/04	764	36	687	0	0	0	0	37	1	0	0	0	0	3	1528
+2010/03	764	36	687	0	0	0	0	37	1	0	0	0	0	3	1528
+2010/02	759	36	687	0	0	0	0	37	1	0	0	0	0	3	1523
 2010/01	726	36	668	0	0	0	0	37	1	0	0	0	0	3	1471
 2009/12	693	36	655	0	0	0	0	37	1	0	0	0	0	3	1425
 2009/11	623	36	646	0	0	0	0	37	1	0	0	0	0	3	1346

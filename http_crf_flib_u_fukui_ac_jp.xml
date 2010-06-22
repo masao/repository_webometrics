@@ -3,13 +3,18 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1218"
+    totalResultsAvailable="1711"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
         <Title>Registered Data Providers</Title>
         <Url>http://www.openarchives.org/Register/BrowseSites</Url>
         <ClickUrl>http://www.openarchives.org/Register/BrowseSites</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Planet Cataloging</Title>
+        <Url>http://planetcataloging.org/</Url>
+        <ClickUrl>http://planetcataloging.org/</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Registered Archives</Title>
@@ -22,14 +27,14 @@
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
+        <Title>折り紙 - Wikipedia</Title>
+        <Url>http://ja.wikipedia.org/wiki/%E6%8A%98%E3%82%8A%E7%B4%99</Url>
+        <ClickUrl>http://ja.wikipedia.org/wiki/%E6%8A%98%E3%82%8A%E7%B4%99</ClickUrl>
+    </Result>
+    <Result>
         <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
         <Url>http://base.ub.uni-bielefeld.de/about_sources_english.html</Url>
         <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources_english.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>NII Institutional Repositories Program | Current IRs</Title>
-        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>OpenDOAR - Open Access Countries and Organisations - Asia</Title>
@@ -37,194 +42,9 @@
         <ClickUrl>http://www.opendoar.org/countrylist.php?cContinent=Asia</ClickUrl>
     </Result>
     <Result>
-        <Title>福井大学附属図書館 | ホーム</Title>
-        <Url>http://karin30.flib.fukui-u.ac.jp/</Url>
-        <ClickUrl>http://karin30.flib.fukui-u.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Repository List</Title>
-        <Url>http://www.dspace.org/whos-using-dspace/Repository-List.html</Url>
-        <ClickUrl>http://www.dspace.org/whos-using-dspace/Repository-List.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/repositories_report_1_1.html</Url>
-        <ClickUrl>http://celestial.eprints.org/repositories_report_1_1.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoId</ClickUrl>
-    </Result>
-    <Result>
-        <Title>OpenDOAR - Open Access Repositories: Japan</Title>
-        <Url>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</Url>
-        <ClickUrl>http://www.opendoar.org/find.php?cID=108&amp;title=Japan</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 御家中指物</Title>
-        <Url>http://hdl.handle.net/10461/2750</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2750</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 西欧諸国の世界侵略の心理的背景について</Title>
-        <Url>http://hdl.handle.net/10461/2838</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2838</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Registered Data Providers</Title>
-        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</Url>
-        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=repoName</ClickUrl>
-    </Result>
-    <Result>
-        <Title>The Catcher And The Rye .pdf Ebook Download</Title>
-        <Url>http://www.pdf-search-engine.com/the-catcher-and-the-rye-pdf.html</Url>
-        <ClickUrl>http://www.pdf-search-engine.com/the-catcher-and-the-rye-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>福井大学附属図書館</Title>
-        <Url>http://karin30.flib.fukui-u.ac.jp/Welcome.html</Url>
-        <ClickUrl>http://karin30.flib.fukui-u.ac.jp/Welcome.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Suchmaschine BASE - Bielefeld Academic Search Engine | Die ...</Title>
-        <Url>http://base.ub.uni-bielefeld.de/about_sources.html</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/about_sources.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Catcher In The .pdf Ebook Download</Title>
-        <Url>http://pdf-search-engine.com/catcher-in-the-pdf.html</Url>
-        <ClickUrl>http://pdf-search-engine.com/catcher-in-the-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Jacques Le Goff .pdf Ebook Download</Title>
-        <Url>http://www.pdf-search-engine.com/jacques-le-goff-pdf.html</Url>
-        <ClickUrl>http://www.pdf-search-engine.com/jacques-le-goff-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>The Catcher In The Rye .pdf Ebook Download</Title>
-        <Url>http://www.pdf-search-engine.com/the-catcher-in-the-rye-pdf.html</Url>
-        <ClickUrl>http://www.pdf-search-engine.com/the-catcher-in-the-rye-pdf.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Browse Japan (ROAR)</Title>
-        <Url>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</Url>
-        <ClickUrl>http://roar.eprints.org/?country=jp&amp;version=&amp;type=&amp;order=name&amp;submit=Filter</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 斜板式ピストンポンプ・モータにおける ...</Title>
-        <Url>http://hdl.handle.net/10461/4699</Url>
-        <ClickUrl>http://hdl.handle.net/10461/4699</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): D02 福井県立大学</Title>
-        <Url>http://hdl.handle.net/10461/2457</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2457</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): R01 福井県文書館</Title>
-        <Url>http://hdl.handle.net/10461/2743</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2743</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): [北之庄城郭図]</Title>
-        <Url>http://hdl.handle.net/10461/2728</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2728</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): Postfix のログ解析ツール導入</Title>
-        <Url>http://hdl.handle.net/10461/4622</Url>
-        <ClickUrl>http://hdl.handle.net/10461/4622</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): P01 福井県立図書館</Title>
-        <Url>http://hdl.handle.net/10461/2464</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2464</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 1個の演算増幅器を用いた接地形高次 ...</Title>
-        <Url>http://hdl.handle.net/10461/4423</Url>
-        <ClickUrl>http://hdl.handle.net/10461/4423</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 1次カルマン・フィルタの過渡特性に関する ...</Title>
-        <Url>http://hdl.handle.net/10461/3597</Url>
-        <ClickUrl>http://hdl.handle.net/10461/3597</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 1996年長野県小谷村土石流災害時の融雪 ...</Title>
-        <Url>http://hdl.handle.net/10461/3647</Url>
-        <ClickUrl>http://hdl.handle.net/10461/3647</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 武生町鳥瞰図</Title>
-        <Url>http://hdl.handle.net/10461/2735</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2735</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): K01 福井工業高等専門学校</Title>
-        <Url>http://hdl.handle.net/10461/2463</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2463</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 小浜町絵図</Title>
-        <Url>http://hdl.handle.net/10461/2734</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2734</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 越前国絵図</Title>
-        <Url>http://hdl.handle.net/10461/2729</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2729</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 御天守絵図</Title>
-        <Url>http://hdl.handle.net/10461/2739</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2739</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 13.5MHz高周波のアーク状放電 ...</Title>
-        <Url>http://hdl.handle.net/10461/4263</Url>
-        <ClickUrl>http://hdl.handle.net/10461/4263</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 越前国絵図</Title>
-        <Url>http://hdl.handle.net/10461/2740</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2740</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): Ⅲ-Ⅴ族窒化物半導体の内殻励起による可視 ...</Title>
-        <Url>http://hdl.handle.net/10461/2059</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2059</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 福井県管内全図</Title>
-        <Url>http://hdl.handle.net/10461/2738</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2738</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 数学教育における教科書論考</Title>
-        <Url>http://hdl.handle.net/10461/4464</Url>
-        <ClickUrl>http://hdl.handle.net/10461/4464</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Community Repository of Fukui (CRFukui): 火事以前御本丸御指図</Title>
-        <Url>http://hdl.handle.net/10461/2737</Url>
-        <ClickUrl>http://hdl.handle.net/10461/2737</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Wiki論文 - Wikiに関する論文リスト(暫定版)</Title>
-        <Url>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</Url>
-        <ClickUrl>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</ClickUrl>
-    </Result>
-    <Result>
-        <Title>BASE - Bielefeld Academic Search Engine | Content Sources</Title>
-        <Url>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</Url>
-        <ClickUrl>http://base.ub.uni-bielefeld.de/en/about_sources_land_dn.php</ClickUrl>
+        <Title>NII Institutional Repositories Program | Current IRs</Title>
+        <Url>http://www.nii.ac.jp/irp/en/list/</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/list/</ClickUrl>
     </Result>
     <Result>
         <Title>Talk:OAIster - LISWiki</Title>
@@ -232,30 +52,210 @@
         <ClickUrl>http://liswiki.org/wiki/Talk:OAIster</ClickUrl>
     </Result>
     <Result>
-        <Title>福井大学附属図書館、福井県地域共同リポジトリを公開&lt;wbr&gt;(2009-03-27) - ACADEMIC RESOURCE ...</Title>
-        <Url>http://d.hatena.ne.jp/arg/20090411/1239425456</Url>
-        <ClickUrl>http://d.hatena.ne.jp/arg/20090411/1239425456</ClickUrl>
+        <Title>福井大学附属図書館 | ホーム</Title>
+        <Url>http://www.flib.fukui-u.ac.jp/</Url>
+        <ClickUrl>http://www.flib.fukui-u.ac.jp/</ClickUrl>
     </Result>
     <Result>
-        <Title>福井県立図書館、「「福井県地域共同リポジトリ」への参加につい&lt;wbr&gt;て」を発表 | カレントアウェアネス・ポータル</Title>
-        <Url>http://current.ndl.go.jp/node/12742</Url>
-        <ClickUrl>http://current.ndl.go.jp/node/12742</ClickUrl>
-    </Result>
-    <Result>
-        <Title>福井工業高等専門学校図書館</Title>
-        <Url>http://www.fukui-nct.ac.jp/~tosyo/libindex.html</Url>
-        <ClickUrl>http://www.fukui-nct.ac.jp/~tosyo/libindex.html</ClickUrl>
+        <Title>Wiki論文 - Wikiに関する論文リスト(暫定版)</Title>
+        <Url>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</Url>
+        <ClickUrl>http://www.hyuki.com/yukiwiki/wiki.cgi?Wiki%CF%C0%CA%B8</ClickUrl>
     </Result>
     <Result>
         <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/,</Url>
-        <ClickUrl>http://celestial.eprints.org/,</ClickUrl>
+        <Url>http://celestial.eprints.org/status</Url>
+        <ClickUrl>http://celestial.eprints.org/status</ClickUrl>
     </Result>
     <Result>
-        <Title>Celestial - Registered Archives</Title>
-        <Url>http://celestial.eprints.org/Error</Url>
-        <ClickUrl>http://celestial.eprints.org/Error</ClickUrl>
+        <Title>Registered Data Providers</Title>
+        <Url>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</Url>
+        <ClickUrl>http://www.openarchives.org/Register/BrowseSites?sortBy=baseURL</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 組織の異なる炭素鋼での水素の分析</Title>
+        <Url>http://hdl.handle.net/10461/5255</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5255</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 適正輸血 -移植検査部門研修会「適正輸血 ...</Title>
+        <Url>http://hdl.handle.net/10461/4795</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4795</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 介護保険改正と福井県リハビリテーション ...</Title>
+        <Url>http://hdl.handle.net/10461/4797</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4797</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 外来分離後の病院・クリニック形態における ...</Title>
+        <Url>http://hdl.handle.net/10461/4794</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4794</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 生涯スポーツ実施高齢者の運動機能について ...</Title>
+        <Url>http://hdl.handle.net/10461/2982</Url>
+        <ClickUrl>http://hdl.handle.net/10461/2982</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Pb_&amp;lt;1-X&amp;gt;La_XTiO_3 ...</Title>
+        <Url>http://hdl.handle.net/10461/3152</Url>
+        <ClickUrl>http://hdl.handle.net/10461/3152</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 高硬度鋼の超長寿命域における一定および2 ...</Title>
+        <Url>http://hdl.handle.net/10461/5245</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5245</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): P/Tペトリネットの状態方程式の非負整数 ...</Title>
+        <Url>http://hdl.handle.net/10461/5250</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5250</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 失語症状の診かたと治療方針の立て方・認知 ...</Title>
+        <Url>http://hdl.handle.net/10461/4796</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4796</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 高温超電導ケーブルの真空断熱特性に関する ...</Title>
+        <Url>http://hdl.handle.net/10461/5249</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5249</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Oscillating ...</Title>
+        <Url>http://hdl.handle.net/10461/3572</Url>
+        <ClickUrl>http://hdl.handle.net/10461/3572</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 固体高分子形燃料電池の電流分布測定</Title>
+        <Url>http://hdl.handle.net/10461/5252</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5252</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): エネルギ解放率破壊規準による長さの異なる ...</Title>
+        <Url>http://hdl.handle.net/10461/4848</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4848</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): グループでの語りを通した実習事後指導に ...</Title>
+        <Url>http://hdl.handle.net/10461/4877</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4877</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 幼稚園教育現場でのパソコン利用と課題 ...</Title>
+        <Url>http://hdl.handle.net/10461/4888</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4888</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Measurement and ...</Title>
+        <Url>http://hdl.handle.net/10461/3275</Url>
+        <ClickUrl>http://hdl.handle.net/10461/3275</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 光造形用金属ガラス粉末の結晶化挙動</Title>
+        <Url>http://hdl.handle.net/10461/5244</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5244</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 短パルスUVレーザによる単結晶材料の加工</Title>
+        <Url>http://hdl.handle.net/10461/5247</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5247</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 1個の演算増幅器を用いた接地形高次 ...</Title>
+        <Url>http://hdl.handle.net/10461/4423</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4423</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): E-Journals Using ...</Title>
+        <Url>http://hdl.handle.net/10461/4889</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4889</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 単語の語構成について-人を表す名詞を中心に-</Title>
+        <Url>http://hdl.handle.net/10461/5200</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5200</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 「敦賀屋」調査報告(第2次)</Title>
+        <Url>http://hdl.handle.net/10461/4995</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4995</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 貝殻粉砕物の混入が酸性発生土の安定処理 ...</Title>
+        <Url>http://hdl.handle.net/10461/4851</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4851</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 被災時における総務課での行動 -行動 ...</Title>
+        <Url>http://hdl.handle.net/10461/4791</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4791</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 福井県美浜町松原遺跡の土製模造品ー古墳 ...</Title>
+        <Url>http://hdl.handle.net/10461/4994</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4994</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): A STUDY OF ...</Title>
+        <Url>http://hdl.handle.net/10461/4078</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4078</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 主き裂先端近傍に平行干渉き裂が存在する ...</Title>
+        <Url>http://hdl.handle.net/10461/4847</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4847</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): Partial Purification ...</Title>
+        <Url>http://hdl.handle.net/10461/3806</Url>
+        <ClickUrl>http://hdl.handle.net/10461/3806</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 1963~64年におけるG県S製糸業の ...</Title>
+        <Url>http://hdl.handle.net/10461/3496</Url>
+        <ClickUrl>http://hdl.handle.net/10461/3496</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 高周波電界中のプラズマ電子の運動方程式 ...</Title>
+        <Url>http://hdl.handle.net/10461/5251</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5251</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 総合病院におけるクレーム対応 第1報 ...</Title>
+        <Url>http://hdl.handle.net/10461/4792</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4792</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 磁気通信方式での理論的伝搬特性</Title>
+        <Url>http://hdl.handle.net/10461/5248</Url>
+        <ClickUrl>http://hdl.handle.net/10461/5248</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): タイの精霊信仰におけるリアリティの源泉 ...</Title>
+        <Url>http://hdl.handle.net/10461/4932</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4932</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): PBG構造フェライトマイクロストリップ線路</Title>
+        <Url>http://hdl.handle.net/10461/3296</Url>
+        <ClickUrl>http://hdl.handle.net/10461/3296</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 2 気筒機関におけるピストン・クランク ...</Title>
+        <Url>http://hdl.handle.net/10461/4323</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4323</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): &quot;Love and Work&quot;in J ...</Title>
+        <Url>http://hdl.handle.net/10461/4884</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4884</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Community Repository of Fukui (CRFukui): 模擬社会ゲームSIMSOC ...</Title>
+        <Url>http://hdl.handle.net/10461/4887</Url>
+        <ClickUrl>http://hdl.handle.net/10461/4887</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:19 PST 2010 -->
-<!-- ws05.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:50:18 PST 2010 -->
+<!-- fe04.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:26 PDT 2010 -->
+<!-- ws12.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:22:26 PDT 2010 -->

@@ -3,21 +3,16 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns="urn:yahoo:srch"
     xsi:schemaLocation="urn:yahoo:srch http://api.search.yahoo.com/SiteExplorerService/V1/InlinkDataResponse.xsd"
-    totalResultsAvailable="1588"
+    totalResultsAvailable="1175"
     firstResultPosition="1"
     totalResultsReturned="50">
         <Result>
-        <Title>国立大学法人・大阪教育大学</Title>
-        <Url>http://www.osaka-kyoiku.ac.jp/</Url>
-        <ClickUrl>http://www.osaka-kyoiku.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
         <Title>学術機関リポジトリ構築連携支援事業 機関リポジトリ一覧</Title>
         <Url>http://www.nii.ac.jp/irp/list/</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/list/</ClickUrl>
     </Result>
     <Result>
-        <Title>Osaka Kyoiku Univ. Library Home Page</Title>
+        <Title>大阪教育大学附属図書館</Title>
         <Url>http://www.lib.osaka-kyoiku.ac.jp/</Url>
         <ClickUrl>http://www.lib.osaka-kyoiku.ac.jp/</ClickUrl>
     </Result>
@@ -32,11 +27,6 @@
         <ClickUrl>http://web.cc.osaka-kyoiku.ac.jp/~shakai/seiyosi/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>Home: 教育系サブジェクトリポジトリポータル</Title>
         <Url>http://ir.u-gakugei.ac.jp/edu-rp/</Url>
         <ClickUrl>http://ir.u-gakugei.ac.jp/edu-rp/</ClickUrl>
@@ -47,14 +37,24 @@
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=ja_JA</ClickUrl>
     </Result>
     <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成20年度委託事業 | 平成20年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2008/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2008/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教育・研究|国立大学法人 大阪教育大学</Title>
+        <Url>http://osaka-kyoiku.ac.jp/faculty/index.html</Url>
+        <ClickUrl>http://osaka-kyoiku.ac.jp/faculty/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>Data Provider</Title>
+        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
+        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2008</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2008/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2007/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>教育系サブジェクトリポジトリについて</Title>
@@ -62,29 +62,29 @@
         <ClickUrl>https://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
     </Result>
     <Result>
-        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
-        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
-        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
-    </Result>
-    <Result>
         <Title>教育系サブジェクトリポジトリについて</Title>
         <Url>http://library.u-gakugei.ac.jp/edu-rp/</Url>
         <ClickUrl>http://library.u-gakugei.ac.jp/edu-rp/</ClickUrl>
     </Result>
     <Result>
-        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
-        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=48</Url>
-        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=48</ClickUrl>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成18年度委託事業 | 平成18年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/info/2006/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/info/2006/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>企業の方へ|国立大学法人 大阪教育大学</Title>
+        <Url>http://osaka-kyoiku.ac.jp/forcompany/index.html</Url>
+        <ClickUrl>http://osaka-kyoiku.ac.jp/forcompany/index.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>教育関係の方へ|国立大学法人 大阪教育大学</Title>
+        <Url>http://osaka-kyoiku.ac.jp/foreducator/index.html</Url>
+        <ClickUrl>http://osaka-kyoiku.ac.jp/foreducator/index.html</ClickUrl>
     </Result>
     <Result>
         <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成21年度委託事業 | 平成21年度委託機関リスト</Title>
         <Url>http://www.nii.ac.jp/irp/rfp/2009/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/rfp/2009/partners.html</ClickUrl>
-    </Result>
-    <Result>
-        <Title>Data Provider</Title>
-        <Url>http://foreign.dibrary.net/dataProvider.do?lang=en_US</Url>
-        <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=en_US</ClickUrl>
     </Result>
     <Result>
         <Title>Data Provider</Title>
@@ -107,14 +107,29 @@
         <ClickUrl>http://foreign.dibrary.net/dataProvider.do?lang=es_ES</ClickUrl>
     </Result>
     <Result>
+        <Title>NII Institutional Repositories DataBase Contents Analysis | IR</Title>
+        <Url>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=48</Url>
+        <ClickUrl>http://irdb.nii.ac.jp/analysis/shousai_e.php?ir_no=48</ClickUrl>
+    </Result>
+    <Result>
+        <Title>学術機関リポジトリ構築連携支援事業 委託事業 平成19年度委託事業 | 平成19年度委託機関リスト</Title>
+        <Url>http://www.nii.ac.jp/irp/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/rfp/2007/partners.html</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 浪華旧地図</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00003245/en</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00003245/en</ClickUrl>
+    </Result>
+    <Result>
         <Title>NII Institutional Repositories Program | Projects | Project 2009</Title>
         <Url>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</Url>
         <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2009/partners.html</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 現代教育が開発すべき人間能力</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00009557/en</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00009557/en</ClickUrl>
+        <Title>NII Institutional Repositories Program | Projects | Project ...</Title>
+        <Url>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</Url>
+        <ClickUrl>http://www.nii.ac.jp/irp/en/rfp/2007/partners.html</ClickUrl>
     </Result>
     <Result>
         <Title>JAIRO | Optical absorption in a thin nickel wire</Title>
@@ -122,140 +137,125 @@
         <ClickUrl>http://jairo.nii.ac.jp/0049/00002062</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | High beam current storage at low energy for compact ...</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00003549</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00003549</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国立大学法人・大阪教育大学</Title>
-        <Url>http://okumedia.cc.osaka-kyoiku.ac.jp/?tomodak/grapes/</Url>
-        <ClickUrl>http://okumedia.cc.osaka-kyoiku.ac.jp/?tomodak/grapes/</ClickUrl>
-    </Result>
-    <Result>
-        <Title>JAIRO | スポーツ現象を表象する言語の適応に関する研究―新聞にみられる&lt;wbr&gt;&quot;隠喩&quot;としてのスポーツシンボルへの事例的試み―</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006644</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006644</ClickUrl>
-    </Result>
-    <Result>
-        <Title>国立大学法人・大阪教育大学</Title>
-        <Url>https://www.osaka-kyoiku.ac.jp/</Url>
-        <ClickUrl>https://www.osaka-kyoiku.ac.jp/</ClickUrl>
-    </Result>
-    <Result>
         <Title>JAIRO | 打球動作の基礎的研究―テニスフォアハンドストロークのinit&lt;wbr&gt;iate movementに関する筋電図的研究―</Title>
         <Url>http://jairo.nii.ac.jp/0049/00006658</Url>
         <ClickUrl>http://jairo.nii.ac.jp/0049/00006658</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 南北朝の鼓吹曲</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00004957</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00004957</ClickUrl>
+        <Title>JAIRO | フラックス法によるP II-Li₂ZnSiO₄の結晶成長</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00002608</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00002608</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | ある教師の自己形成史ノート : 岩井好子氏の教師生活40年</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00007896</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00007896</ClickUrl>
+        <Title>JAIRO | High beam current storage at low energy for compact ...</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00003549</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00003549</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 動きの表現遊びにおける音楽について</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00002222</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00002222</ClickUrl>
+        <Title>JAIRO | ヴァイマール共和制期におけるナチ党の労働者政策〔II〕 -「国家社会主義企業細胞組織NSBO」から「ドイツ ...</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00009158</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00009158</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | SRリソグラフィを用いて製作した複合圧電材料の内部共振</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00003540</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00003540</ClickUrl>
+        <Title>JAIRO | スタンダールの『恋愛論』(DE L&apos;AMOUR)をめぐって(その一)―スタンダールと『恋愛論&lt;wbr&gt;』の関係について(上)</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00006134</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00006134</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 日・韓両国における道徳教育の比較研究</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006726</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006726</ClickUrl>
+        <Title>JAIRO | 一遍の夢―弘安十一年正月廿一日夜の御夢を中心に―</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00002616</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00002616</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 日本で見つけたアメリカ : 戦前日米交流史</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00007224</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00007224</ClickUrl>
+        <Title>『歴史研究』(大阪教育大学歴史学研究室発行)目次</Title>
+        <Url>http://www.osaka-kyoiku.ac.jp/~shakai/seiyosi/rekisikenkyu.htm</Url>
+        <ClickUrl>http://www.osaka-kyoiku.ac.jp/~shakai/seiyosi/rekisikenkyu.htm</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 木材組織学用CAIコースウェアの開発(第一報)―CAIコース&lt;wbr&gt;ウェア構築用シェル―</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006924</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006924</ClickUrl>
+        <Title>JAIRO | 養護施設入所児童の心理的特徴 : P-F Study &amp;amp; Baum Test</Title>
+        <Url>http://ju.nii.ac.jp/0049/00004615</Url>
+        <ClickUrl>http://ju.nii.ac.jp/0049/00004615</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 授業分析研究における教師行動のカテゴリー化に関する一考察&lt;wbr&gt;(その1)</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00007931</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00007931</ClickUrl>
+        <Title>JAIRO | 新聞社説にみる戦後日本の障害者問題 : 朝日新聞社説の分析を中心として</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00004719</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00004719</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 読む力をつけるための読解の作業化</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00009972</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00009972</ClickUrl>
+        <Title>JAIRO | 熊野説話とその精神病理(第II報)</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00007124</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00007124</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 日本図書館学会の動向</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00007753</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00007753</ClickUrl>
+        <Title>JAIRO | 宮原誠一、勝田守一に関する研究ノート(遺稿)</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00004362</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00004362</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 大阪府内の市町村における中核的生涯学習施設に関する調査報告&lt;wbr&gt;-職員の能力開発の視点から-</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00007219</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00007219</ClickUrl>
+        <Title>JAIRO | 上古貴人男女風俗</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00003181</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00003181</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 2006年度 修士論文題目一覧</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006096</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006096</ClickUrl>
+        <Title>JAIRO | 残留塩素に関する研究</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00006550</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00006550</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | コールバーグ道徳教育論における「正義」について</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006621</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006621</ClickUrl>
+        <Title>JAIRO | アメリカの大学教授職における衰退の徴候と背景</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00007869</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00007869</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 日本人の描画意識とその探求 : 「元秀」印 洛中洛外図扇面を中心として</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00005814</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00005814</ClickUrl>
+        <Title>JAIRO | 競技者におけるテーピングソックスの効果の検証</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00007187</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00007187</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | An Astrophysical Torus in a Disk Potential</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00002105</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00002105</ClickUrl>
+        <Title>JAIRO | アメリカ短篇小説の構造</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00019111</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00019111</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 新しい評価Q&amp;amp;A</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00002939</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00002939</ClickUrl>
+        <Title>JAIRO | 教育哲学会の動向</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00007894</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00007894</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | デザイン・工芸教育の実践的研究(第1報)―パズルの制作を通し&lt;wbr&gt;て―</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006935</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006935</ClickUrl>
+        <Title>JAIRO | 地域文化の神話と力 -文学・フォークロア・エコロジー-</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00017767</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00017767</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 現代社会における大学の機能に関する一考察</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00007218</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00007218</ClickUrl>
+        <Title>JAIRO | 快適な病衣に関する研究(その2)-吸水性・透湿性・乾燥性の評&lt;wbr&gt;価-</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00007069</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00007069</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 教養・生涯学習・図書館</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00007223</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00007223</ClickUrl>
+        <Title>JAIRO | [目次]</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00010152</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00010152</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 「屈折率」-詩のはじまりと惑い-</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00006097</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00006097</ClickUrl>
+        <Title>JAIRO | 編集後記</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00008155</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00008155</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | Reduction mechanism of surface oxide in aluminum ...</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00003550</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00003550</ClickUrl>
+        <Title>JAIRO | 中学校国語科におけるメディアリテラシー教育の試み : 多様な広告教材を生かして</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00008255</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00008255</ClickUrl>
     </Result>
     <Result>
-        <Title>JAIRO | 生徒にとって魅力ある授業への試み</Title>
-        <Url>http://jairo.nii.ac.jp/0049/00005902</Url>
-        <ClickUrl>http://jairo.nii.ac.jp/0049/00005902</ClickUrl>
+        <Title>JAIRO | 堺 大絵図</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00003235</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00003235</ClickUrl>
+    </Result>
+    <Result>
+        <Title>JAIRO | 日本におけるホームスクールの可能性と課題 : オルターナティブスクールの立場から</Title>
+        <Url>http://jairo.nii.ac.jp/0049/00008165</Url>
+        <ClickUrl>http://jairo.nii.ac.jp/0049/00008165</ClickUrl>
     </Result>
 </ResultSet>
-<!-- fe01.sitex.search.sk1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:04 PST 2010 -->
-<!-- ws08.ydn.gq1.yahoo.com uncompressed/chunked Fri Feb  5 20:52:04 PST 2010 -->
+<!-- fe02.sitex.search.sk1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:24 PDT 2010 -->
+<!-- ws15.ydn.gq1.yahoo.com uncompressed/chunked Tue Jun 22 00:24:24 PDT 2010 -->
