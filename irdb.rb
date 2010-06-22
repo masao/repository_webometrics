@@ -69,7 +69,7 @@ if $0 == __FILE__
    data = []
    names = []
    ARGV.each do |f|
-      #STDERR.puts f
+      STDERR.puts f
       io = open( f )
       lines = io.readlines.map{|e| e.chomp.split( /\t/ ) }
       name1 = lines.assoc( "機関名称（日）".tosjis )
@@ -82,7 +82,7 @@ if $0 == __FILE__
       name = name[1]
       url = lines.assoc("機関リポジトリへのリンク（日）".tosjis)
       if url.nil?
-         STDERR.puts "name not found: skipping #{ f }"
+         STDERR.puts "url not found: skipping #{ f }"
          next
       end
       url = url[1]
