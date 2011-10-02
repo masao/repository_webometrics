@@ -9,11 +9,11 @@ if ARGV.size != 2
 end
 
 old = []
-open( ARGV[0] ).readlines.map do |l, i|
+open( ARGV[0] ).readlines.each do |l|
    old << l.chomp.split( /\|\|/ )
 end
 new = []
-open( ARGV[1] ).readlines.each_with_index do |l, i|
+open( ARGV[1] ).readlines.each do |l|
    new << l.chomp.split( /\|\|/ )
 end
 
@@ -24,14 +24,16 @@ common_set = old.map{|e| e[2] } & new.map{|e| e[2] }
 puts "Common sets: #{ common_set.size }"
 [ old, new ].each do |set|
    set.each do |k|
+      p k
       if not common_set.include? k[2]
          set.delete k
-         p "#{k} deleted"
+         p "#{k.join(",")} deleted"
       end
    end
    case_hash = {}
    set.each_with_index do |k,i|
-      case_hash[ i+1 ] = k[3].to_f
+      # case_hash[ i+1 ] = k[3].to_f
+      case_hash[ i+1 ] = k[2]
    end
    cases << case_hash
 end
